@@ -5,15 +5,15 @@ export default function Header() {
     <header className="border-b border-border bg-surface">
       <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3 group">
-          <div className="w-8 h-8 bg-accent rounded-md flex items-center justify-center font-mono font-bold text-background text-sm">
-            IA
+          <div className="w-9 h-9 bg-accent rounded-md flex items-center justify-center font-mono font-bold text-background text-lg">
+            5
           </div>
           <div>
-            <h1 className="font-mono font-bold text-text-primary text-lg leading-tight group-hover:text-accent transition-colors">
-              IA al Día
+            <h1 className="font-mono font-bold text-text-primary text-xl leading-tight group-hover:text-accent transition-colors">
+              5IA
             </h1>
             <p className="text-text-secondary text-xs">
-              ~/noticias/inteligencia-artificial
+              Las 5 noticias de IA que importan hoy
             </p>
           </div>
         </Link>

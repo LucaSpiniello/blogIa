@@ -1,6 +1,7 @@
 import { getAllDays } from "@/lib/news";
 import NewsCard from "@/components/NewsCard";
-import Link from "next/link";
+import SubscribeForm from "@/components/SubscribeForm";
+import ExpandableNews from "@/components/ExpandableNews";
 
 export default function Home() {
   const days = getAllDays();
@@ -9,67 +10,69 @@ export default function Home() {
   return (
     <div>
       <section className="mb-10">
-        <div className="flex items-center gap-2 mb-2">
-          <span className="text-accent-green font-mono text-sm">$</span>
-          <h1 className="font-mono font-bold text-2xl text-text-primary">
-            tail -f noticias_ia.log
-          </h1>
+        <div className="flex items-center gap-3 mb-2">
+          <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center font-mono font-bold text-background text-xl">
+            5
+          </div>
+          <div>
+            <h1 className="font-mono font-bold text-2xl text-text-primary">
+              5IA
+            </h1>
+            <p className="text-text-secondary text-sm">
+              Las 5 noticias de IA que importan hoy
+            </p>
+          </div>
         </div>
-        <p className="text-text-secondary text-sm ml-5">
-          Las noticias más revolucionarias del mundo de la IA, actualizadas
-          varias veces al día.
-        </p>
       </section>
 
       {!today || today.items.length === 0 ? (
         <div className="border border-border rounded-lg bg-surface p-8 text-center">
           <p className="font-mono text-text-secondary">
             <span className="text-accent-green">$</span> No hay noticias
-            todavía. El pipeline se ejecuta varias veces al día.
+            todavia. El pipeline se ejecuta 2 veces al dia.
           </p>
         </div>
       ) : (
         <>
-          {days.map((day) => (
-            <section key={day.date} className="mb-12">
-              <div className="flex items-center gap-3 mb-5">
-                <div className="terminal-header rounded-lg py-2 px-4">
-                  <div className="terminal-dot terminal-dot-red" />
-                  <div className="terminal-dot terminal-dot-yellow" />
-                  <div className="terminal-dot terminal-dot-green" />
-                  <span className="text-text-primary text-sm font-mono font-semibold ml-2">
-                    {day.date}
-                  </span>
-                  <span className="text-text-secondary text-xs font-mono ml-3">
-                    {day.items.length} noticias
-                  </span>
+          {days.map((day) => {
+            const top5 = day.items.slice(0, 5);
+            const rest = day.items.slice(5);
+
+            return (
+              <section key={day.date} className="mb-12">
+                <div className="flex items-center gap-3 mb-5">
+                  <div className="terminal-header rounded-lg py-2 px-4">
+                    <div className="terminal-dot terminal-dot-red" />
+                    <div className="terminal-dot terminal-dot-yellow" />
+                    <div className="terminal-dot terminal-dot-green" />
+                    <span className="text-text-primary text-sm font-mono font-semibold ml-2">
+                      {day.date}
+                    </span>
+                    <span className="text-text-secondary text-xs font-mono ml-3">
+                      {day.items.length} noticias
+                    </span>
+                  </div>
                 </div>
-                <Link
-                  href={`/dia/${day.date}`}
-                  className="text-accent text-xs font-mono hover:underline ml-auto"
-                >
-                  ver todas →
-                </Link>
-              </div>
 
-              <div className="grid gap-4">
-                {day.items.slice(0, 10).map((item) => (
-                  <NewsCard key={item._id} item={item} />
-                ))}
-              </div>
+                {/* Top 5 - always visible */}
+                <div className="grid gap-4 mb-4">
+                  {top5.map((item) => (
+                    <NewsCard key={item._id} item={item} featured />
+                  ))}
+                </div>
 
-              {day.items.length > 10 && (
-                <Link
-                  href={`/dia/${day.date}`}
-                  className="block mt-4 text-center text-accent font-mono text-sm hover:underline"
-                >
-                  + {day.items.length - 10} noticias más →
-                </Link>
-              )}
-            </section>
-          ))}
+                {/* Rest - expandable */}
+                {rest.length > 0 && <ExpandableNews items={rest} />}
+              </section>
+            );
+          })}
         </>
       )}
+
+      {/* Subscribe section */}
+      <section className="mt-8 mb-4">
+        <SubscribeForm />
+      </section>
     </div>
   );
 }

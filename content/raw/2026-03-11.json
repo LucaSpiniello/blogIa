@@ -3,21 +3,48 @@
   "items": [
     {
       "source": "OpenAI",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "link": "https://openai.com/index/rakuten",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "published": "2026-03-11T13:00:00",
+      "_id": "0ed7a8a167fee1d4",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Designing AI agents to resist prompt injection",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "published": "2026-03-11T11:30:00",
+      "_id": "3dec299964e674ad",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "published": "2026-03-11T11:00:00",
+      "_id": "01572b4c34e91a63",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "published": "2026-03-11T11:00:00",
+      "_id": "6c85667bb456be97",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "OpenAI",
       "title": "Improving instruction hierarchy in frontier LLMs",
       "link": "https://openai.com/index/instruction-hierarchy-challenge",
       "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
       "published": "2026-03-10T11:00:00",
       "_id": "18b7ee4fe5e46ca1",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "New ways to learn math and science in ChatGPT",
-      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-      "published": "2026-03-10T10:00:00",
-      "_id": "101605e3044aa24d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Google AI",
@@ -26,7 +53,7 @@
       "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
       "published": "2026-03-10T13:00:00",
       "_id": "0096402a637e356a",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hugging Face",
@@ -35,7 +62,7 @@
       "summary": "",
       "published": "2026-03-11T15:50:15",
       "_id": "da752efa7c5f01ac",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "NVIDIA AI",
@@ -44,7 +71,7 @@
       "summary": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale.  Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
       "published": "2026-03-11T16:00:21",
       "_id": "6a79992e5d99dc4c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "NVIDIA AI",
@@ -53,7 +80,7 @@
       "summary": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 20.",
       "published": "2026-03-11T15:00:08",
       "_id": "4967d4ff446ee16e",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "NVIDIA AI",
@@ -62,7 +89,7 @@
       "summary": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a foundation, a basement dig in a dense neighborhood. The cab is roughly the size of a phone booth. The operator sits […]",
       "published": "2026-03-10T16:43:40",
       "_id": "a110883d31b05dcc",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "NVIDIA AI",
@@ -71,7 +98,7 @@
       "summary": "Game development teams are working across larger worlds, more complex pipelines and more distributed teams than ever. At the same time, many studios still rely on fixed, desk-bound GPU hardware for critical production work. At the Game Developers Conference (GDC) this week in San Francisco, NVIDIA is showcasing a new approach to bring together disparate […]",
       "published": "2026-03-10T15:30:07",
       "_id": "6d8b5a1d1e80efae",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "NVIDIA AI",
@@ -80,7 +107,7 @@
       "summary": "Game developers and artists are building cinematic worlds and iconic characters — raising the bar for immersive experiences on NVIDIA RTX AI PCs.  At the Game Developers Conference (GDC) in San Francisco this week, NVIDIA announced a suite of updates that streamline AI video generation for concept development and storyboarding on RTX GPUs and the […]",
       "published": "2026-03-10T15:30:05",
       "_id": "07a4ea00831454ec",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Anthropic",
@@ -89,7 +116,7 @@
       "summary": "Announcements Policy Where things stand with the Department of War Mar 5, 2026 A statement from Dario Amodei Yesterday (March 4) Anthropic received a letter from the Department of War confirming that we have been designated as a supply chain risk to America’s national security. As we wrote on Friday , we do not believe this action is legally sound, and we see no choice but to challenge it in court. The language used by the Department of War in the letter (even supposing it was legally sound) matches our statement on Friday that the vast majority of our customers are unaffected by a supply chain risk designation. With respect to our customers, it plainly applies only to the use of Claude by customers as a direct part of contracts with the Department of War, not all use of Claude by customers who have such contracts. The Department’s letter has a narrow scope, and this is because the relevant statute ( 10 USC 3252 ) is narrow, too. It exists to protect the government rather than to punish a supplier; in fact, the law requires the Secretary of War to use the least restrictive means necessary to accomplish the goal of protecting the supply chain. Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts. I would like to reiterate that we had been having productive conversations with the Department of War over the last several days, both about ways we could serve the Department that adhere to our two narrow exceptions, and ways for us to ensure a smooth transition if that is not possible. As we wrote on Thursday , we are very proud of the work we have done together with the Department, supporting frontline warfighters with applications such as intelligence analysis, modeling and simulation, operational planning, cyber operations, and more. As we stated last Friday , we do not believe, and have never believe",
       "published": "",
       "_id": "d3ae286e89daf459",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Anthropic",
@@ -98,7 +125,7 @@
       "summary": "Announcements Policy Statement on the comments from Secretary of War Pete Hegseth Feb 27, 2026 Earlier today, Secretary of War Pete Hegseth shared on X that he is directing the Department of War to designate Anthropic a supply chain risk. This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons. We have not yet received direct communication from the Department of War or the White House on the status of our negotiations. We have tried in good faith to reach an agreement with the Department of War, making clear that we support all lawful uses of AI for national security aside from the two narrow exceptions above. To the best of our knowledge, these exceptions have not affected a single government mission to date. We held to our exceptions for two reasons. First, we do not believe that today’s frontier AI models are reliable enough to be used in fully autonomous weapons. Allowing current models to be used in this way would endanger America’s warfighters and civilians. Second, we believe that mass domestic surveillance of Americans constitutes a violation of fundamental rights. Designating Anthropic as a supply chain risk would be an unprecedented action—one historically reserved for US adversaries, never before publicly applied to an American company. We are deeply saddened by these developments. As the first frontier AI company to deploy models in the US government’s classified networks, Anthropic has supported American warfighters since June 2024 and has every intention of continuing to do so. We believe this designation would both be legally unsound and set a dangerous precedent for any American company that negotiates with the government. No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons. We will challenge any ",
       "published": "",
       "_id": "ca2bdfcccfa09e4d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Anthropic",
@@ -107,7 +134,7 @@
       "summary": "Announcements Policy Statement from Dario Amodei on our discussions with the Department of War Feb 26, 2026 I believe deeply in the existential importance of using AI to defend the United States and other democracies, and to defeat our autocratic adversaries. Anthropic has therefore worked proactively to deploy our models to the Department of War and the intelligence community. We were the first frontier AI company to deploy our models in the US government’s classified networks, the first to deploy them at the National Laboratories , and the first to provide custom models for national security customers. Claude is extensively deployed across the Department of War and other national security agencies for mission-critical applications, such as intelligence analysis, modeling and simulation, operational planning, cyber operations, and more. Anthropic has also acted to defend America’s lead in AI, even when it is against the company’s short-term interest. We chose to forgo several hundred million dollars in revenue to cut off the use of Claude by firms linked to the Chinese Communist Party (some of whom have been designated by the Department of War as Chinese Military Companies), shut down CCP-sponsored cyberattacks that attempted to abuse Claude, and have advocated for strong export controls on chips to ensure a democratic advantage. Anthropic understands that the Department of War, not private companies, makes military decisions. We have never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner. However, in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values. Some uses are also simply outside the bounds of what today’s technology can safely and reliably do. Two such use cases have never been included in our contracts with the Department of War, and we believe they should not be included now: Mass domestic surveillance. We support the use of AI for lawful foreign inte",
       "published": "",
       "_id": "1dfaa948d064af05",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Anthropic",
@@ -116,7 +143,7 @@
       "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
       "published": "",
       "_id": "c4a45eed67ee9087",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Anthropic",
@@ -125,7 +152,34 @@
       "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
       "published": "",
       "_id": "091b61caa9d6ad3b",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "link": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+      "published": "2026-03-11T21:40:49",
+      "_id": "80ac38594bf59556",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Replit snags $9B valuation 6 months after hitting $3B",
+      "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "published": "2026-03-11T18:52:52",
+      "_id": "e462cf2653685c5f",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "published": "2026-03-11T16:43:59",
+      "_id": "494d61cc529d6611",
+      "_scraped_at": "18:58"
     },
     {
       "source": "TechCrunch",
@@ -134,43 +188,34 @@
       "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
       "published": "2026-03-11T16:12:02",
       "_id": "d523cb92325d2eea",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "TechCrunch",
-      "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
-      "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
+      "title": "Meta’s Moltbook deal points to a future built around AI agents",
+      "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
       "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
       "published": "2026-03-11T15:11:31",
-      "_id": "173735a5b2264247",
-      "_scraped_at": "13:27"
+      "_id": "df91d937e42bc616",
+      "_scraped_at": "18:58"
     },
     {
-      "source": "TechCrunch",
-      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
-      "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
-      "published": "2026-03-11T14:48:30",
-      "_id": "9bcc2be775713b1d",
-      "_scraped_at": "13:27"
+      "source": "The Verge",
+      "title": "Grammarly says it will stop using AI to clone experts without permission",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control […]",
+      "published": "2026-03-11T18:45:50",
+      "_id": "29d6a152f83682cc",
+      "_scraped_at": "18:58"
     },
     {
-      "source": "TechCrunch",
-      "title": "Canopii looks to succeed where past indoor farms have not",
-      "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
-      "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
-      "published": "2026-03-11T14:00:00",
-      "_id": "3f49f548a0679bb3",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google brings Gemini in Chrome to India",
-      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-      "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
-      "published": "2026-03-11T02:30:00",
-      "_id": "71df12fc57b4d76e",
-      "_scraped_at": "13:27"
+      "source": "The Verge",
+      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much […]",
+      "published": "2026-03-11T16:50:45",
+      "_id": "e3ccec42129c66fb",
+      "_scraped_at": "18:58"
     },
     {
       "source": "The Verge",
@@ -179,7 +224,7 @@
       "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After […]",
       "published": "2026-03-11T15:02:02",
       "_id": "e09e3370d51d8371",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "The Verge",
@@ -188,7 +233,7 @@
       "summary": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot […]",
       "published": "2026-03-11T14:00:00",
       "_id": "d137cb2ebebb12f0",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "The Verge",
@@ -197,25 +242,7 @@
       "summary": "Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet? Sign up here today! I'm not exposing myself to all these carcinogens […]",
       "published": "2026-03-11T13:28:32",
       "_id": "5594bcd37dd8999f",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "The Verge",
-      "title": "Chatbots encouraged &#8216;teens&#8217; to plan shootings in study",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
-      "summary": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient. Popular chatbots missed warning signs in scenarios involving teenagers discussing violent acts, in some cases even offering encouragement instead of intervening. The findings come from a joint investigation by CNN and the nonprofit Center for […]",
-      "published": "2026-03-11T13:18:45",
-      "_id": "a471a98bd3d3539c",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, […]",
-      "published": "2026-03-11T09:45:00",
-      "_id": "7bafa27db360688c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "MIT Tech Review",
@@ -224,7 +251,7 @@
       "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
       "published": "2026-03-11T12:46:21",
       "_id": "e1a88b064ee03baf",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "MIT Tech Review",
@@ -233,7 +260,7 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world  Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the…",
       "published": "2026-03-11T12:38:00",
       "_id": "f0c10a6e172ba563",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "MIT Tech Review",
@@ -242,7 +269,7 @@
       "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
       "published": "2026-03-10T13:47:26",
       "_id": "1dcbaa891214e6ba",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "MIT Tech Review",
@@ -251,7 +278,7 @@
       "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
       "published": "2026-03-10T13:00:00",
       "_id": "1323adf7de07001c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "MIT Tech Review",
@@ -260,7 +287,25 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater  Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
       "published": "2026-03-10T12:55:32",
       "_id": "79e9bb8cbe622d5a",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Wired",
+      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+      "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+      "published": "2026-03-11T20:45:03",
+      "_id": "1a8176857be77210",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+      "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "published": "2026-03-11T18:00:00",
+      "_id": "da282df7acd8501c",
+      "_scraped_at": "18:58"
     },
     {
       "source": "Wired",
@@ -269,7 +314,7 @@
       "summary": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
       "published": "2026-03-11T14:23:05",
       "_id": "ad4f45f68e63f402",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Wired",
@@ -278,7 +323,7 @@
       "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
       "published": "2026-03-11T13:00:00",
       "_id": "f808335d8d384c04",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Wired",
@@ -287,52 +332,7 @@
       "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
       "published": "2026-03-11T12:00:00",
       "_id": "967f046eaa29e7b5",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Wired",
-      "title": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
-      "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
-      "summary": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-      "published": "2026-03-11T11:00:00",
-      "_id": "a4497f91444d2f56",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Wired",
-      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
-      "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
-      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
-      "published": "2026-03-11T10:00:00",
-      "_id": "244779074464df77",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "The Information",
-      "title": "Uber to Offer Zoox Self-Driving Taxi to Riders",
-      "link": "https://www.theinformation.com/briefings/uber-offer-zoox-self-driving-taxi-riders",
-      "summary": "Uber announced it would offer the Zoox robotaxi to customers starting this year. This is the first time the Amazon-owned self-driving car company has partnered with an outside ride-hailing app.Zoox will be available on the Uber app starting this summer in Las Vegas, and next year will be ...",
-      "published": "2026-03-11T15:34:46",
-      "_id": "8cb58c9fad91c26d",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "The Information",
-      "title": "What the Iran War Means for the Funding of AI",
-      "link": "https://www.theinformation.com/articles/iran-war-means-funding-ai",
-      "summary": "For much more on AI finance, please join me and my colleague Cory Weinberg at the New York Stock Exchange on Monday, April 27, for The Information’s Financing the AI Revolution forum. Hear from top executives and investors on how the rapid buildout of AI is reshaping tech, finance, and capital markets. Learn morehere.It’s hard to overstate how lucky AI developers were that their brilliant technical breakthroughs occurred when the financial system was perfectly positioned to fund their ambitious build-out.Interest rates were relatively low and declining, energy was cheap and the world, including the tech giants, was awash in cash. Some of those factors were shifting before the Iran war, and last week they changed dramatically.In the second week of the war, the economic headlines have been all about oil and gasoline prices. Neither commodity has a direct link to the AI build-out—oil is rarely used to produce electricity, and gasoline costs are rounding errors for data center developers.The second-order effects, though, are significant. Higher oil prices can mean higher inflation, which typically means higher interest rates. Neither one is good for the debt-heavy AI build-out, which would face higher costs and higher interest payments.Higher inflation also dashes hopes that the Federal Reserve Bank will further cut interest rates this year. Investors had expected cuts later this year in the expectation that inflation would ease and the jobs market would weaken further. Now the risk is that inflation will pick up. The labor market has already gotten worse—the U.S. shed nearly 100,000 jobs in February.A prolonged war would slow the economy. The big fear on Wall Street right now is stagflation, where the economy weakens but inflation stays high, limiting the Fed’s ability to cut rates.None of that is good for a huge infrastructure build-out. If the war drags on, the already large U.S. government deficit will increase further, potentially driving interest rates higher.The ",
-      "published": "2026-03-11T15:00:03",
-      "_id": "f811b814b56f0f4a",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "The Information",
-      "title": "Quince Confirms New Funding Valuing Company Over $10 Billion",
-      "link": "https://www.theinformation.com/briefings/quince-confirms-new-funding-valuing-company-10-billion",
-      "summary": "Online retailer Quinceannounceda new $500 million funding round Wednesday, more than doubling the company’s previous valuation to more than $10 billion, including the investment. The announcement confirms areportby The Information last week that the company was in talks with investors.The ...",
-      "published": "2026-03-11T14:32:37",
-      "_id": "3d15a9c9fa939fa5",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -341,7 +341,7 @@
       "summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🚀 What Is This? Born from a Reddit thread and months of iteration, The Agency is a growing collection of meticulously crafted AI agent personalities. Each agent is: 🎯 Specialized : Deep expertise in their domain (not generic prompt templates) 🧠 Personality-Driven : Unique voice, communication style, and approach 📋 Deliverable-Focused : Real code, processes, and measurable outcomes ✅ Production-Ready : Battle-tested workflows and success metrics Think of it as : Assembling your dream team, except they're AI specialists who never sleep, never complain, and always deliver. ⚡ Quick Start Option 1: Use with Claude Code (Recommended) # Copy agents to your Claude Code directory cp -r agency-agents/ * ~ /.claude/agents/ # Now activate any agent in your Claude Code sessions: # \"Hey Claude, activate Frontend Developer mode and help me build a React component\" Option 2: Use as Reference Each agent file contains: Identity & personality traits Core mission & workflows Technical deliverables with code examples Success metrics & communication style Browse the agents below and copy/adapt the ones you need! Option 3: Use with Other Tools (Cursor, Aider, Windsurf, Gemini CLI, OpenCode) # Step 1 -- generate integration files for all supported tools ./scripts/convert.sh # Step 2 -- install interactively (auto-detects what you have installed) ./scripts/install.sh # Or target a specific tool directly ./scripts/install.sh --tool cursor\n./scripts/install.sh --tool copilot\n./scripts/install.sh --tool aider\n./scripts/install.sh --tool windsurf See the Multi-Tool Integrations section below for full details. 🎨 The Agency Roster 💻 Engineering Division Building the future, one commit at a time. Agent Specialty When",
       "published": "",
       "_id": "0b6244279772ea4c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -350,7 +350,7 @@
       "summary": "简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ 项目概述 MiroFish 是一款基于多智能体技术的新一代 AI 预测引擎。通过提取现实世界的种子信息（如突发新闻、政策草案、金融信号），自动构建出高保真的平行数字世界。在此空间内，成千上万个具备独立人格、长期记忆与行为逻辑的智能体进行自由交互与社会演化。你可透过「上帝视角」动态注入变量，精准推演未来走向—— 让未来在数字沙盘中预演，助决策在百战模拟后胜出 。 你只需：上传种子材料（数据分析报告或者有趣的小说故事），并用自然语言描述预测需求 MiroFish 将返回：一份详尽的预测报告，以及一个可深度交互的高保真数字世界 我们的愿景 MiroFish 致力于打造映射现实的群体智能镜像，通过捕捉个体互动引发的群体涌现，突破传统预测的局限： 于宏观 ：我们是决策者的预演实验室，让政策与公关在零风险中试错 于微观 ：我们是个人用户的创意沙盘，无论是推演小说结局还是探索脑洞，皆可有趣、好玩、触手可及 从严肃预测到趣味仿真，我们让每一个如果都能看见结果，让预测万物成为可能。 🌐 在线体验 欢迎访问在线 Demo 演示环境，体验我们为你准备的一次关于热点舆情事件的推演预测： mirofish-live-demo 📸 系统截图 🎬 演示视频 1. 武汉大学舆情推演预测 + MiroFish项目讲解 点击图片查看使用微舆BettaFish生成的《武大舆情报告》进行预测的完整演示视频 2. 《红楼梦》失传结局推演预测 点击图片查看基于《红楼梦》前80回数十万字，MiroFish深度预测失传结局 金融方向推演预测 、 时政要闻推演预测 等示例陆续更新中... 🔄 工作流程 图谱构建 ：现实种子提取 & 个体与群体记忆注入 & GraphRAG构建 环境搭建 ：实体关系抽取 & 人设生成 & 环境配置Agent注入仿真参数 开始模拟 ：双平台并行模拟 & 自动解析预测需求 & 动态更新时序记忆 报告生成 ：ReportAgent拥有丰富的工具集与模拟后环境进行深度交互 深度互动 ：与模拟世界中的任意一位进行对话 & 与ReportAgent进行对话 🚀 快速开始 一、源码部署（推荐） 前置要求 工具 版本要求 说明 安装检查 Node.js 18+ 前端运行环境，包含 npm node -v Python ≥3.11, ≤3.12 后端运行环境 python --version uv 最新版 Python 包管理器 uv --version 1. 配置环境变量 # 复制示例配置文件 cp .env.example .env # 编辑 .env 文件，填入必要的 API 密钥 必需的环境变量： # LLM API配置（支持 OpenAI SDK 格式的任意 LLM API） # 推荐使用阿里百炼平台qwen-plus模型：https://bailian.console.aliyun.com/ # 注意消耗较大，可先进行小于40轮的模拟尝试 LLM_API_KEY = your_api_key LLM_BASE_URL = https://dashscope.aliyuncs.com/compatible-mode/v1 LLM_MODEL_NAME = qwen-plus # Zep Cloud 配置 # 每月免费额度即可支撑简单使用：https://app.getzep.com/ ZEP_API_KEY = your_zep_api_key 2. 安装依赖 # 一键安装所有依赖（根目录 + 前端 + 后端） npm run setup:all 或者分步安装： # 安装 Node 依赖（根目录 + 前端） npm run setup # 安装 Python 依赖（后端，自动创建虚拟环境） npm run setup:backend 3. 启动服务 # 同时启动前后端（在项目根目录执行） npm run dev 服务地址： 前端： http://localhost:3000 后端 API： http://localhost:5001 单独启动： npm run backend # 仅启动后端 npm run frontend # 仅启动前端 二、Docker 部署 # 1. 配置环境变量（同源码部署） cp .env.example .env # 2. 拉取镜像并启动 docker compose up -d 默认会读取根目录下的 .env ，并映射端口 3000（前端）/5001（后端） 在 docker-compose.yml 中已通过注释提供",
       "published": "",
       "_id": "d1c18d7845472286",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -359,7 +359,7 @@
       "summary": "Promptfoo: LLM evals & red teaming promptfoo is a CLI and library for evaluating and red-teaming LLM apps. Stop the trial-and-error approach - start shipping secure, reliable AI apps. Website · Getting Started · Red Teaming · Documentation · Discord Quick Start npm install -g promptfoo\npromptfoo init --example getting-started Also available via brew install promptfoo and pip install promptfoo . You can also use npx promptfoo@latest to run any command without installing. Most LLM providers require an API key. Set yours as an environment variable: export OPENAI_API_KEY=sk-abc123 Once you're in the example directory, run an eval and view results: cd getting-started\npromptfoo eval promptfoo view See Getting Started (evals) or Red Teaming (vulnerability scanning) for more. What can you do with Promptfoo? Test your prompts and models with automated evaluations Secure your LLM apps with red teaming and vulnerability scanning Compare models side-by-side (OpenAI, Anthropic, Azure, Bedrock, Ollama, and more ) Automate checks in CI/CD Review pull requests for LLM-related security and compliance issues with code scanning Share results with your team Here's what it looks like in action: It works on the command line too: It also can generate security vulnerability reports : Why Promptfoo? Developer-first : Fast, with features like live reload and caching Private : LLM evals run 100% locally - your prompts never leave your machine Flexible : Works with any LLM API or programming language Battle-tested : Powers LLM apps serving 10M+ users in production Data-driven : Make decisions based on metrics, not gut feel Open source : MIT licensed, with an active community Learn More Getting Started Full Documentation Red Teaming Guide CLI Usage Node.js Package Supported Models Code Scanning Guide Contributing We welcome contributions! Check out our contributing guide to get started. Join our Discord community for help and discussion.",
       "published": "",
       "_id": "baf9cbcdf7e11126",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -368,7 +368,7 @@
       "summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Note: Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup. Claude Code Official Marketplace Superpowers is available via the official Claude plugin marketplace Install the plugin from Claude marketplace: /plugin install superpowers@claude-plugins-official Claude Code (via Plugin Marketplace) In Claude Code, register the marketplace fi",
       "published": "",
       "_id": "8c6014a36ca90e3f",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -377,7 +377,7 @@
       "summary": "Fish Speech English | 简体中文 | Portuguese | 日本語 | 한국어 | العربية Important License Notice This codebase and its associated model weights are released under FISH AUDIO RESEARCH LICENSE . Please refer to LICENSE for more details. We will take action against any violation of the license. Warning Legal Disclaimer We do not hold any responsibility for any illegal usage of the codebase. Please refer to your local laws about DMCA and other related laws. Quick Start For Human Here are the official documents for Fish Audio S2, follow the instructions to get started easily. Installation Command Line Inference WebUI Inference Server Inference Docker Setup Important For SGLang server, please read SGLang-Omni README . For LLM Agent Install and configure Fish-Audio S2 by following the instructions here: https://speech.fish.audio/install/ Fish Audio S2 Best text-to-speech system among both open source and closed source Fish Audio S2 is the latest model developed by Fish Audio . Trained on over 10 million hours of audio across approximately 50 languages, S2 combines reinforcement learning alignment with a Dual-Autoregressive architecture to generate speech that sounds natural, realistic, and emotionally rich. S2 supports fine-grained inline control of prosody and emotion using natural-language tags like [laugh] , [whispers] , and [super happy] , as well as native multi-speaker and multi-turn generation. Visit the Fish Audio website for live playground. Read the blog post and tecnical report for more details. Model Variants Model Size Availability Description S2-Pro 4B parameters HuggingFace Full-featured flagship model with maximum quality and stability More details of the model can be found in the technical report . Benchmark Results Benchmark Fish Audio S2 Seed-TTS Eval — WER (Chinese) 0.54% (best overall) Seed-TTS Eval — WER (English) 0.99% (best overall) Audio Turing Test (with instruction) 0.515 posterior mean EmergentTTS-Eval — Win Rate 81.88% (highest overall) Fish Instruction ",
       "published": "",
       "_id": "705a8935de626e7d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -386,16 +386,16 @@
       "summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for educational purposes only and is not intended for real trading or investment. This system employs several agents working together: Aswath Damodaran Agent - The Dean of Valuation, focuses on story, numbers, and disciplined valuation Ben Graham Agent - The godfather of value investing, only buys hidden gems with a margin of safety Bill Ackman Agent - An activist investor, takes bold positions and pushes for change Cathie Wood Agent - The queen of growth investing, believes in the power of innovation and disruption Charlie Munger Agent - Warren Buffett's partner, only buys wonderful businesses at fair prices Michael Burry Agent - The Big Short contrarian who hunts for deep value Mohnish Pabrai Agent - The Dhandho investor, who looks for doubles at low risk Peter Lynch Agent - Practical investor who seeks \"ten-baggers\" in everyday businesses Phil Fisher Agent - Meticulous growth investor who uses deep \"scuttlebutt\" research Rakesh Jhunjhunwala Agent - The Big Bull of India Stanley Druckenmiller Agent - Macro legend who hunts for asymmetric opportunities with growth potential Warren Buffett Agent - The oracle of Omaha, seeks wonderful companies at a fair price Valuation Agent - Calculates the intrinsic value of a stock and generates trading signals Sentiment Agent - Analyzes market sentiment and generates trading signals Fundamentals Agent - Analyzes fundamental data and generates trading signals Technicals Agent - Analyzes technical indicators and generates trading signals Risk Manager - Calculates risk metrics and sets position limits Portfolio Manager - Makes final trading decisions and generates orders Note: the system does not actually make any trades. Disclaimer This project is for educational and research purposes only . Not intended for real trading or investment No investment advice or guaran",
       "published": "",
       "_id": "93b2cfb4f88278ad",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
       "title": "alibaba /page-agent",
       "link": "https://github.com/alibaba/page-agent",
-      "summary": "Page Agent The GUI Agent Living in Your Webpage. Control web interfaces with natural language. 🌐 English | 中文 👉 🚀 Demo | 📖 Documentation | 📢 Join HN Discussion page-agent-demo-0227.mp4 ✨ Features 🎯 Easy integration No need for browser extension / python / headless browser . Just in-page javascript. Everything happens in your web page. The best tool for your agent to control web pages. 📖 Text-based DOM manipulation No screenshots. No OCR or multi-modal LLMs needed. No special permissions required. 🧠 Bring your own LLMs 🎨 Pretty UI with human-in-the-loop 🐙 Optional chrome extension for multi-page tasks. 💡 Use Cases SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite needed. Smart Form Filling — Turn 20-click workflows into one sentence. Perfect for ERP, CRM, and admin systems. Accessibility — Make any web app accessible through natural language. Voice commands, screen readers, zero barrier. Multi-page Agent — Extend your agent's reach across browser tabs with the optional chrome extension . 🚀 Quick Start One-line integration Fastest way to try PageAgent with our free Demo LLM: < script src =\" {URL} \" crossorigin =\" true \" > </ script > Mirrors URL Global https://cdn.jsdelivr.net/npm/page-agent@1.5.5/dist/iife/page-agent.demo.js China https://registry.npmmirror.com/page-agent/1.5.5/files/dist/iife/page-agent.demo.js ⚠️ For technical evaluation only. This demo CDN uses our free testing LLM API . By using it, you agree to its terms . NPM Installation npm install page-agent import { PageAgent } from 'page-agent' const agent = new PageAgent ( { model : 'qwen3.5-plus' , baseURL : 'https://dashscope.aliyuncs.com/compatible-mode/v1' , apiKey : 'YOUR_API_KEY' , language : 'en-US' , } ) await agent . execute ( 'Click the login button' ) For more programmatic usage, see 📖 Documentations . 🤝 Contributing We welcome contributions from the community! Follow our instructions in CONTRIBUTING.md for environment setup and local development. Please ",
+      "summary": "Page Agent The GUI Agent Living in Your Webpage. Control web interfaces with natural language. 🌐 English | 中文 👉 🚀 Demo | 📖 Documentation | 📢 Join HN Discussion page-agent-demo-0227.mp4 ✨ Features 🎯 Easy integration No need for browser extension / python / headless browser . Just in-page javascript. Everything happens in your web page. 📖 Text-based DOM manipulation No screenshots. No multi-modal LLMs or special permissions needed. 🧠 Bring your own LLMs 🎨 Pretty UI with human-in-the-loop 🐙 Optional chrome extension for multi-page tasks. 💡 Use Cases SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite. Smart Form Filling — Turn 20-click workflows into one sentence. Perfect for ERP, CRM, and admin systems. Accessibility — Make any web app accessible through natural language. Voice commands, screen readers, zero barrier. Multi-page Agent — Extend your own agent's reach across browser tabs with the optional chrome extension . 🚀 Quick Start One-line integration Fastest way to try PageAgent with our free Demo LLM: < script src =\" {URL} \" crossorigin =\" true \" > </ script > ⚠️ For technical evaluation only. This demo CDN uses our free testing LLM API . By using it, you agree to its terms . Mirrors URL Global https://cdn.jsdelivr.net/npm/page-agent@1.5.6/dist/iife/page-agent.demo.js China https://registry.npmmirror.com/page-agent/1.5.6/files/dist/iife/page-agent.demo.js NPM Installation npm install page-agent import { PageAgent } from 'page-agent' const agent = new PageAgent ( { model : 'qwen3.5-plus' , baseURL : 'https://dashscope.aliyuncs.com/compatible-mode/v1' , apiKey : 'YOUR_API_KEY' , language : 'en-US' , } ) await agent . execute ( 'Click the login button' ) For more programmatic usage, see 📖 Documentations . 🤝 Contributing We welcome contributions from the community! Follow our instructions in CONTRIBUTING.md for setup and guidelines. Please read Code of Conduct before contributing. 👏 Acknowledgments This project builds upon the e",
       "published": "",
       "_id": "d1946b21c02e5fa5",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -404,7 +404,7 @@
       "summary": "Hermes Agent ⚕ The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter (200+ models), z.ai/GLM , Kimi/Moonshot , MiniMax , OpenAI, or your own endpoint. Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Six terminal backends — local, Docker, SSH, Daytona, Singularity, and Modal. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Research-ready Ba",
       "published": "",
       "_id": "ec2b8bd43eefd65f",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "GitHub",
@@ -413,25 +413,61 @@
       "summary": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It provides reliable and scalable conversational AI infrastructure for individuals, developers, and teams. Whether you're building a personal AI companion, intelligent customer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 💯 Free & Open Source. ✨ AI LLM Conversations, Multimodal, Agent, MCP, Skills, Knowledge Base, Persona Settings, Auto Context Compression. 🤖 Supports integration with Dify, Alibaba Cloud Bailian, Coze, and other agent platforms. 🌐 Multi-Platform: QQ, WeChat Work, Feishu, DingTalk, WeChat Official Accounts, Telegram, Slack, and more . 📦 Plugin Extensions with 1000+ plugins available for one-click installation. 🛡️ Agent Sandbox for isolated, safe execution of code, shell calls, and session-level resource reuse. 💻 WebUI Support. 🌈 Web ChatUI Support with built-in agent sandbox and web search. 🌐 Internationalization (i18n) Support. 💙 Role-playing & Emotional Companionship ✨ Proactive Agent 🚀 General Agentic Capabilities 🧩 1000+ Community Plugins Quick Start One-Click Deployment For users who want to quickly experience AstrBot, are familiar with command-line usage, and can install a uv environment on their own, we recommend the uv one-click deployment method ⚡️: uv tool install astrbot\nastrbot init # Only execute this command for the first time to initialize the environment astrbot Requires uv to be installed. Note For macOS user: due to macOS security checks, the first run of the astrbot command may take longer (about 10-20s). Update astrbot : uv tool upgrade astrbot Docker Deployment For users familiar with containers and looking for a more stable, production-ready deployment method, we recommend deploying As",
       "published": "",
       "_id": "78a5846a75cc0fbb",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
-      "title": "AI Agent Hacks McKinsey",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "summary": "Article URL:https://news.ycombinator.com/newsguidelines.html#generatedComments URL:https://news.ycombinator.com/item?id=47340079Points: 1563# Comments: 634",
+      "published": "2026-03-11T19:29:29",
+      "_id": "675bb5456b82c4da",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Elevated errors on login with Claude Code",
+      "link": "https://status.claude.com/incidents/jm3b4jjy2jrt",
+      "summary": "Article URL:https://status.claude.com/incidents/jm3b4jjy2jrtComments URL:https://news.ycombinator.com/item?id=47336889Points: 55# Comments: 53",
+      "published": "2026-03-11T15:28:18",
+      "_id": "852c77bacb6655f3",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Open-source browser for AI agents",
+      "link": "https://github.com/theredsix/agent-browser-protocol",
+      "summary": "Hi HN, I forked chromium and built agent-browser-protocol (ABP) after noticing that most browser-agent failures aren’t really about the model misunderstanding the page. Instead, the problem is that the model is reasoning from a stale state.ABP is designed to keep the acting agent synchronized with the browser at every step. After each action (click, type, etc), it freezes JavaScript execution and rendering, then captures the resulting state. It also compiles the notable events that occurred during that action loop, such as navigation, file pickers, permission prompts, alerts, and downloads, and sends that along with a screenshot of the frozen page state back to the agent.The result is that browser interaction starts to feel more like a multimodal chat loop. The agent takes an action, gets back a fresh visual state and a structured summary of what happened, then decides what to do next from there. That fits much better with how LLMs already work.A few common browser-use failures ABP helps eliminate:\n* A modal appears after the last Playwright screenshot and blocks the input the agent was about to use\n* Dynamic filters cause the page to reflow between steps\n* An autocomplete dropdown opens and covers the element the agent intended to click\n* alert() / confirm() interrupts the flow\n* Downloads are triggered, but the agent has no reliable way to know when they’ve completedAs proof, ABP with opus 4.6 as the driver scores 90.5% on the Online Mind2Web benchmark. I think modern LLMs already understand websites, they just need a better tool to interact with them. Happy to answer questions about the architecture, forking chrome or anything else in the comments below.Try it out: `claude mcp add browser -- npx -y agent-browser-protocol --mcp` (Codex/OpenCode instructions in the docs)Demo video:https://www.loom.com/share/387f6349196f417d8b4b16a5452c3369Comments URL:https://news.ycombinator.com/item?id=47336171Points: 82# Comments: 24",
+      "published": "2026-03-11T14:39:30",
+      "_id": "cea09b9378935c98",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Is Claude down again?",
+      "link": "https://news.ycombinator.com/item?id=47336163",
+      "summary": "I've started getting some 401 errors on a subscription again and oauth seems to be struggling to restore the session.  Is it just me?Comments URL:https://news.ycombinator.com/item?id=47336163Points: 81# Comments: 69",
+      "published": "2026-03-11T14:39:21",
+      "_id": "65ef87003052601e",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How we hacked McKinsey's AI platform",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "summary": "Article URL:https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platformComments URL:https://news.ycombinator.com/item?id=47333627Points: 159# Comments: 55",
+      "summary": "Article URL:https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platformComments URL:https://news.ycombinator.com/item?id=47333627Points: 352# Comments: 140",
       "published": "2026-03-11T09:59:03",
       "_id": "bb627605646fc49b",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
-      "title": "Google to Provide Pentagon with AI Agents",
+      "title": "Google to provide Pentagon with AI agents",
       "link": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work",
-      "summary": "Article URL:https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-workComments URL:https://news.ycombinator.com/item?id=47333433Points: 64# Comments: 60",
+      "summary": "Article URL:https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-workComments URL:https://news.ycombinator.com/item?id=47333433Points: 70# Comments: 71",
       "published": "2026-03-11T09:30:22",
       "_id": "10bae45ec54925ea",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
@@ -440,16 +476,16 @@
       "summary": "Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon. LLMs, speech-to-text, text-to-speech – MetalRT beats llama.cpp, Apple's MLX, Ollama, and sherpa-onnx on every modality we tested. Custom Metal shaders, no framework overhead.Also, we've open-sourced RCLI, the fastest end-to-end voice AI pipeline on Apple Silicon. Mic to spoken response, entirely on-device. No cloud, no API keys.To get started:brew tap RunanywhereAI/rcli https://github.com/RunanywhereAI/RCLI.git\n  brew install rcli\n  rcli setup   # downloads ~1 GB of models\n  rcli         # interactive mode with push-to-talkOr:curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh | bashThe numbers (M4 Max, 64 GB, reproducible via `rcli bench`):LLM decode – 1.67x faster than llama.cpp, 1.19x faster than Apple MLX (same model files):\n- Qwen3-0.6B: 658 tok/s (vs mlx-lm 552, llama.cpp 295)\n- Qwen3-4B: 186 tok/s (vs mlx-lm 170, llama.cpp 87)\n- LFM2.5-1.2B: 570 tok/s (vs mlx-lm 509, llama.cpp 372)\n- Time-to-first-token: 6.6 msSTT – 70 seconds of audio transcribed in *101 ms*. That's 714x real-time. 4.6x faster than mlx-whisper.TTS – 178 ms synthesis. 2.8x faster than mlx-audio and sherpa-onnx.We built this because demoing on-device AI is easy but shipping it is brutal. Voice is the hardest test: you're chaining STT, LLM, and TTS sequentially, and if any stage is slow, the user feels it. Most teams fall back to cloud APIs not because local models are bad, but because local inference infrastructure is.The thing that's hard to solve is latency compounding. In a voice pipeline, you're stacking three models in sequence. If each adds 200ms, you're at 600ms before the user hears a word, and that feels broken. You can't optimize one stage and call it done. Every stage needs to be fast, on one device, with no network round-trip to hide behind.We went straight to Metal. Custom GPU compute shaders, all memory pre-allocated at init (zero allocations during inference",
       "published": "2026-03-10T17:14:52",
       "_id": "3d3ea81a8dfecbfa",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
       "title": "I built a programming language using Claude Code",
       "link": "https://ankursethi.com/blog/programming-language-claude-code/",
-      "summary": "Article URL:https://ankursethi.com/blog/programming-language-claude-code/Comments URL:https://news.ycombinator.com/item?id=47325595Points: 126# Comments: 178",
+      "summary": "Article URL:https://ankursethi.com/blog/programming-language-claude-code/Comments URL:https://news.ycombinator.com/item?id=47325595Points: 128# Comments: 181",
       "published": "2026-03-10T16:37:29",
       "_id": "9430b10f8840f33b",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
@@ -458,52 +494,16 @@
       "summary": "Article URL:https://twitter.com/lukolejnik/status/2031257644724342957Comments URL:https://news.ycombinator.com/item?id=47324211Points: 289# Comments: 10",
       "published": "2026-03-10T15:01:35",
       "_id": "1bba41c841cd9190",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Hacker News",
       "title": "Debian decides not to decide on AI-generated contributions",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "summary": "Article URL:https://lwn.net/SubscriberLink/1061544/125f911834966dd0/Comments URL:https://news.ycombinator.com/item?id=47324087Points: 361# Comments: 271",
+      "summary": "Article URL:https://lwn.net/SubscriberLink/1061544/125f911834966dd0/Comments URL:https://news.ycombinator.com/item?id=47324087Points: 367# Comments: 276",
       "published": "2026-03-10T14:53:13",
       "_id": "c6fd17e985609508",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Hacker News",
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "summary": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f77...(https://archive.ph/wXvF3)https://twitter.com/lukolejnik/status/2031257644724342957(https://xcancel.com/lukolejnik/status/2031257644724342957)Comments URL:https://news.ycombinator.com/item?id=47323017Points: 614# Comments: 454",
-      "published": "2026-03-10T13:31:17",
-      "_id": "ae386d1a0c37ff93",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "link": "https://dnhkng.github.io/posts/rys/",
-      "summary": "I found that duplicating a specific block of 7 middle layers in Qwen2-72B, without modifying any weights, improved performance across all Open LLM Leaderboard benchmarks and took #1. As of 2026, the top 4 models on that leaderboard are still descendants.The weird finding: single-layer duplication does nothing. Too few layers, nothing. Too many, it gets worse. Only circuit-sized blocks of ~7 layers work. This suggests pretraining carves out discrete functional circuits in the layer stack that only work when preserved whole.The whole thing was developed on 2x RTX 4090s in my basement. I'm now running current models (GLM-4.7, Qwen3.5, MiniMax M2.5) on a dual GH200 rig (see my other post). Code and new models coming soon.Happy to answer questions.Comments URL:https://news.ycombinator.com/item?id=47322887Points: 411# Comments: 107",
-      "published": "2026-03-10T13:18:55",
-      "_id": "3b49528b47a7fa87",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Hacker News",
-      "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-      "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
-      "summary": "Article URL:https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panelComments URL:https://news.ycombinator.com/item?id=47322033Points: 92# Comments: 33",
-      "published": "2026-03-10T11:58:36",
-      "_id": "40817de680f3c8e3",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-      "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-      "summary": "https://archive.md/5eZWqComments URL:https://news.ycombinator.com/item?id=47321533Points: 413# Comments: 2",
-      "published": "2026-03-10T10:50:30",
-      "_id": "d93ef9b37e4ff0f3",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/MachineLearning",
@@ -512,7 +512,16 @@
       "summary": "I got a paper to review at ICML, this is in the category of no LLM assistant allowed for writing or reviewing it, yet the paper is fully AI written. It reads like a twitter hype-train type of thread, really annoying. I wonder whether I can somehow flag this to the AC? Is that reason alone for rejection? Or should I assume that a human did the research, and then had LLMs write 100% of the paper?submitted by/u/pagggga[link][comments]",
       "published": "2026-03-11T12:19:28",
       "_id": "ca7e8c3f7bb22ef8",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[P] Structured Prompting for Extremely Low-Resource Languages: 80% → 5% Vocabulary Contamination, No Fine-Tuning",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1rqxr78/p_structured_prompting_for_extremely_lowresource/",
+      "summary": "Most low-resource language research assumes you can fine-tune. But what happens when a language has ~2M speakers, no official script standardization, near-zero web presence, and you're working with a frozen model?We ran into this withTulu, a Dravidian language from coastal Karnataka, India. The core failure mode is consistent across models, i.e, a prompt in Tulu, get Kannada back. The models aren't hallucinating randomly, instead they're collapsing to the nearest high-probability neighbor in the training distribution. Vocabulary contamination in baseline outputs was sitting at ~80%.Our approach: a 5-layer structured promptRather than treating this as a retrieval or fine-tuning problem, we decomposed the prompt into explicit layers:Phonological grounding: Tulu's retroflex consonants and vowel length distinctions injected directlyMorphological rules: agglutinative verb structure, case markers, with contrastive Kannada examplesNegative constraints: explicitly suppressing high-frequency Kannada lexical bleed (e.g.,ಇದೆ→ಉಂಡು)Romanization standardization: since Tulu has no dominant script, we needed a consistent transliteration anchorSelf-play synthetic examples: quality-controlled in-context demonstrations generated via iterative model critiqueResults (validated by native speakers):Vocabulary contamination:80% → 5%Grammatical accuracy:85%Tested across GPT-4o, Gemini 2.0 Flash, Llama 3.1 70BWhat's interesting (and unresolved):The negative constraint layer did more work than we expected, which is, more than the grammar documentation alone. This raises a question we don't fully answer: is the model actually \"learning\" Tulu grammar from the prompt, or is it primarily doing constrained Kannada generation with lexical substitution? Native speaker evals suggest real grammar is being respected, but we can't rule out the latter cleanly.Also worth noting: the self-play loop was surprisingly sensitive to the critique prompt. Small changes in the evaluator instruction shifted output ",
+      "published": "2026-03-11T16:00:49",
+      "_id": "5746a80313afc85c",
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/MachineLearning",
@@ -521,16 +530,7 @@
       "summary": "A few years ago, I found that duplicating a specific block of 7 middle layers in Qwen2-72B, without modifying any weights, improved performance across all Open LLM Leaderboard benchmarks and took #1 place. As of 2026, the top 4 models on that leaderboard are still descendants.The weird finding: single-layer duplication does nothing. Too few layers, nothing. Too many, it gets worse. Only circuit-sized blocks of ~7 layers work. This suggests pre-training carves out discrete functional circuits in the layer stack that only work when preserved whole.The whole thing was developed on 2x RTX 4090s in my basement; you don't need massive compute to make real progress!I'm now running current models (GLM-4.7, Qwen3.5, MiniMax M2.5) on this dual GH200 rig (see my other posts). Code and new models coming soon, including special RYS versions of Qwen3.5 27B and 35A3BHappy to answer questions.I don't write papers any more, so here is afull technical write-up in Blog format for your enjoyment.I'm the same guy who builtGLaDOS, and scored a crazyNvidia GH200 system here on Reddit.submitted by/u/Reddactor[link][comments]",
       "published": "2026-03-10T19:17:59",
       "_id": "c7bd1ea4327f022e",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Reddit r/MachineLearning",
-      "title": "[P] Structured Prompting for Extremely Low-Resource Languages: 80% → 5% Vocabulary Contamination, No Fine-Tuning",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1rqxr78/p_structured_prompting_for_extremely_lowresource/",
-      "summary": "Most low-resource language research assumes you can fine-tune. But what happens when a language has ~2M speakers, no official script standardization, near-zero web presence, and you're working with a frozen model?We ran into this withTulu, a Dravidian language from coastal Karnataka, India. The core failure mode is consistent across models, i.e, a prompt in Tulu, get Kannada back. The models aren't hallucinating randomly, instead they're collapsing to the nearest high-probability neighbor in the training distribution. Vocabulary contamination in baseline outputs was sitting at ~80%.Our approach: a 5-layer structured promptRather than treating this as a retrieval or fine-tuning problem, we decomposed the prompt into explicit layers:Phonological grounding: Tulu's retroflex consonants and vowel length distinctions injected directlyMorphological rules: agglutinative verb structure, case markers, with contrastive Kannada examplesNegative constraints: explicitly suppressing high-frequency Kannada lexical bleed (e.g.,ಇದೆ→ಉಂಡು)Romanization standardization: since Tulu has no dominant script, we needed a consistent transliteration anchorSelf-play synthetic examples: quality-controlled in-context demonstrations generated via iterative model critiqueResults (validated by native speakers):Vocabulary contamination:80% → 5%Grammatical accuracy:85%Tested across GPT-4o, Gemini 2.0 Flash, Llama 3.1 70BWhat's interesting (and unresolved):The negative constraint layer did more work than we expected, which is, more than the grammar documentation alone. This raises a question we don't fully answer: is the model actually \"learning\" Tulu grammar from the prompt, or is it primarily doing constrained Kannada generation with lexical substitution? Native speaker evals suggest real grammar is being respected, but we can't rule out the latter cleanly.Also worth noting: the self-play loop was surprisingly sensitive to the critique prompt. Small changes in the evaluator instruction shifted output ",
-      "published": "2026-03-11T16:00:49",
-      "_id": "5746a80313afc85c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/LocalLLaMA",
@@ -539,25 +539,16 @@
       "summary": "The M5 Max 128GB 14\" has just arrived. I've been looking forward to putting this through its paces. Testing begins now. Results will be posted as comments below — no video, no lengthy writeup, just the raw numbers. Clean and simple.Apologies for the delay. I initially ran the tests using BatchGenerator, but the speeds weren't quite what I expected. I ended up setting up a fresh Python virtual environment and re-running everything with pure mlx_lm using stream_generate, which is what pushed the update back.I know many of you have been waiting - I'm sorry for keeping you! I take it as a sign of just how much excitement there is around the M5 Max.(I was genuinely hyped for this one myself.) Personally, I'm really happy with the results. What do you all think?Models TestedQwen3.5-122B-A10B-4bitQwen3-Coder-Next-8bitQwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-6bitgpt-oss-120b-MXFP4-Q8As for Qwen3.5-35B-A3B-4bit — I don't actually have that one downloaded, so unfortunately I wasn't able to include it. Sorry about that!Results were originally posted as comments, and have since been compiled here in the main post for easier accessQwen3.5-122B-A10B-4bit (mlx) cryingneko@MacBook-Pro mlx-lm % mlx_lm.generate --model /Volumes/SSD/Models/Qwen3.5-122B-A10B-4bit --prompt \"$(cat /tmp/prompt_4096.txt)\" --max-tokens 128 ========== Prompt: 4106 tokens, 881.466 tokens-per-sec Generation: 128 tokens, 65.853 tokens-per-sec Peak memory: 71.910 GB (mlx) cryingneko@MacBook-Pro mlx-lm % mlx_lm.generate --model /Volumes/SSD/Models/Qwen3.5-122B-A10B-4bit --prompt \"$(cat /tmp/prompt_16384.txt)\" --max-tokens 128 ========== Prompt: 16394 tokens, 1239.734 tokens-per-sec Generation: 128 tokens, 60.639 tokens-per-sec Peak memory: 73.803 GB (mlx) cryingneko@MacBook-Pro mlx-lm % mlx_lm.generate --model /Volumes/SSD/Models/Qwen3.5-122B-A10B-4bit --prompt \"$(cat /tmp/prompt_32768.txt)\" --max-tokens 128 ========== Prompt: 32778 tokens, 1067.824 tokens-per-sec Generation: 128 tokens, 54.923 tokens-per-sec Pe",
       "published": "2026-03-11T08:04:08",
       "_id": "f80b1581827a3290",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/LocalLLaMA",
-      "title": "it is coming.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rqtr2q/it_is_coming/",
-      "summary": "From 青龍聖者 on 𝕏:https://x.com/bdsqlsz/status/2031719179624362060submitted by/u/Nunki08[link][comments]",
-      "published": "2026-03-11T13:28:06",
-      "_id": "53746edbc548a04f",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Reddit r/LocalLLaMA",
-      "title": "New benchmark just dropped.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/",
-      "summary": "Write the complete Three.js code for a scene featuring Michael Jackson, Pepe the Frog, Donald Trump, and Elon Musk performing the \"Thriller\" choreography, aiming for maximum visual perfection, detailed animation, lighting, high-quality rendering, and an overall cinematic.submitted by/u/ConfidentDinner6648[link][comments]",
-      "published": "2026-03-11T05:35:32",
-      "_id": "1f09738a9cc7cb49",
-      "_scraped_at": "13:27"
+      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/",
+      "summary": "submitted by/u/dan945[link][comments]",
+      "published": "2026-03-11T19:51:15",
+      "_id": "1244514ee1a996b1",
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/LocalLLaMA",
@@ -566,7 +557,16 @@
       "summary": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/?nvid=nv-int-csfg-844859120B MoE, 12B active.submitted by/u/deeceeo[link][comments]",
       "published": "2026-03-11T16:12:40",
       "_id": "afa2ddaf888f87ea",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "llama.cpp on $500 MacBook Neo: Prompt: 7.8 t/s / Generation: 3.9 t/s on Qwen3.5 9B Q3_K_M",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rr197e/llamacpp_on_500_macbook_neo_prompt_78_ts/",
+      "summary": "Just compiled llama.cpp on MacBook Neo with 8 Gb RAM and 9b Qwen 3.5 and it works (slowly, but anyway)Config used:Build - llama.cpp version: 8294 (76ea1c1c4) Machine - Model: MacBook Neo (Mac17,5) - Chip: Apple A18 Pro - CPU: 6 cores (2 performance + 4 efficiency) - GPU: Apple A18 Pro, 5 cores, Metal supported - Memory: 8 GB unified Model - Hugging Face repo: unsloth/Qwen3.5-9B-GGUF - GGUF file: models/Qwen3.5-9B-Q3_K_M.gguf - File size on disk: 4.4 GB Launch hyperparams ./build/bin/llama-cli \\ -m models/Qwen3.5-9B-Q3_K_M.gguf \\ --device MTL0 \\ -ngl all \\ -c 4096 \\ -b 128 \\ -ub 64 \\ -ctk q4_0 \\ -ctv q4_0 \\ --reasoning on \\ -t 4 \\ -tb 6 \\ -cnvsubmitted by/u/Shir_man[link][comments]",
+      "published": "2026-03-11T18:03:18",
+      "_id": "08b0b7d9c62acb51",
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/artificial",
@@ -575,16 +575,7 @@
       "summary": "submitted by/u/sksarkpoes3[link][comments]",
       "published": "2026-03-11T14:38:38",
       "_id": "fc75c8653584b83f",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
-      "link": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/",
-      "summary": "submitted by/u/Ok-Elevator5091[link][comments]",
-      "published": "2026-03-11T06:27:41",
-      "_id": "baf0d5b18cacfd00",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/artificial",
@@ -593,7 +584,25 @@
       "summary": "submitted by/u/jferments[link][comments]",
       "published": "2026-03-11T13:39:18",
       "_id": "6bbffe67b568cde6",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.",
+      "link": "https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/",
+      "summary": "submitted by/u/esporx[link][comments]",
+      "published": "2026-03-11T18:15:50",
+      "_id": "b082a917e14a2c7c",
+      "_scraped_at": "18:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AMD Ryzen AI NPUs are finally useful under Linux for running LLMs",
+      "link": "https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/",
+      "summary": "submitted by/u/Fcking_Chuck[link][comments]",
+      "published": "2026-03-11T18:08:46",
+      "_id": "336671e1e5743dc5",
+      "_scraped_at": "18:58"
     },
     {
       "source": "Reddit r/artificial",
@@ -602,16 +611,7 @@
       "summary": "submitted by/u/Fair_Economist_5369[link][comments]",
       "published": "2026-03-10T21:14:59",
       "_id": "e3b8d223e4c37a1f",
-      "_scraped_at": "13:27"
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before",
-      "link": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/",
-      "summary": "submitted by/u/vinodpandey7[link][comments]",
-      "published": "2026-03-11T02:56:04",
-      "_id": "dfee67c2ee8aaa0c",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv AI",
@@ -620,7 +620,7 @@
       "summary": "arXiv:2603.08835v1 Announce Type: new \nAbstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Yet existing benchmarks are model-centric: they fix the agentic setup and do not compare other system components. We argue that implementation decisions substantially impact performance, including choices such as topology, orchestration logic, and error handling. MASEval addresses this evaluation gap with a framework-agnostic library that treats the entire system as the unit of analysis. Through a systematic system-level comparison across 3 benchmarks, 3 models, and 3 frameworks, we find that framework choice matters as much as model choice. MASEval allows researchers to explore all components of agentic systems, opening new avenues for principled system design, and practitioners to identify the best implementation for their use case.\n  MASEval is available under the MIT licence https://github.com/parameterlab/MASEval.",
       "published": "2026-03-11T04:00:00",
       "_id": "6488b7f27840e527",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv AI",
@@ -629,7 +629,7 @@
       "summary": "arXiv:2603.08852v1 Announce Type: new \nAbstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not expose model-level properties as first-class primitives, ignoring properties fundamental to effective delegation: model identity, reasoning profile, quality calibration, and cost characteristics. We present the LLM Delegate Protocol (LDP), an AI-native communication protocol introducing five mechanisms: (1) rich delegate identity cards with quality hints and reasoning profiles; (2) progressive payload modes with negotiation and fallback; (3) governed sessions with persistent context; (4) structured provenance tracking confidence and verification status; (5) trust domains enforcing security boundaries at the protocol level. We implement LDP as a plugin for the JamJet agent runtime and evaluate against A2A and random baselines using local Ollama models and LLM-as-judge evaluation. Identity-aware routing achieves ~12x lower latency on easy tasks through delegate specialization, though it does not improve aggregate quality in our small delegate pool; semantic frame payloads reduce token count by 37% (p=0.031) with no observed quality loss; governed sessions eliminate 39% token overhead at 10 rounds; and noisy provenance degrades synthesis quality below the no-provenance baseline, arguing that confidence metadata is harmful without verification. Simulated analyses show architectural advantages in attack detection (96% vs. 6%) and failure recovery (100% vs. 35% completion). This paper contributes a protocol design, reference implementation, and initial evidence that AI-native protocol primitives enable more efficient and governable delegation.",
       "published": "2026-03-11T04:00:00",
       "_id": "9349413bdef61c9d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv AI",
@@ -638,7 +638,7 @@
       "summary": "arXiv:2603.08877v1 Announce Type: new \nAbstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose explicit budgets on tool calls and completion tokens. We present a controlled measurement study of how search depth, retrieval strategy, and completion budget affect accuracy and cost under fixed constraints. Using Budget-Constrained Agentic Search (BCAS), a model-agnostic evaluation harness that surfaces remaining budget and gates tool use, we run comparisons across six LLMs and three question-answering benchmarks. Across models and datasets, accuracy improves with additional searches up to a small cap, hybrid lexical and dense retrieval with lightweight re-ranking produces the largest average gains in our ablation grid, and larger completion budgets are most helpful on HotpotQA-style synthesis. These results provide practical guidance for configuring budgeted agentic retrieval pipelines and are accompanied by reproducible prompts and evaluation settings.",
       "published": "2026-03-11T04:00:00",
       "_id": "14201293591d2712",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv AI",
@@ -647,7 +647,7 @@
       "summary": "arXiv:2603.08933v1 Announce Type: new \nAbstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, unstructured data and a lack of dynamic, geospatial predictive tools. Our system, Guardian, provides an end-to-end decision-support system for missing-child investigation and early search planning. It converts heterogeneous, unstructured case documents into a schema-aligned spatiotemporal representation, enriches cases with geocoding and transportation context, and provides probabilistic search products spanning 0-72 hours. In this paper, we present an overview of Guardian as well as a detailed description of a three-layer predictive component of the system. The first layer is a Markov chain, a sparse, interpretable model with transitions incorporating road accessibility costs, seclusion preferences, and corridor bias with separate day/night parameterizations. The Markov chain's output prediction distributions are then transformed into operationally useful search plans by the second layer's reinforcement learning. Finally, the third layer's LLM performs post hoc validation of layer 2 search plans prior to their release. Using a synthetic but realistic case study, we report quantitative outputs across 24/48/72-hour horizons and analyze sensitivity, failure modes, and tradeoffs. Results show that the proposed predictive system with the three-layer architecture produces interpretable priors for zone optimization and human review.",
       "published": "2026-03-11T04:00:00",
       "_id": "6b3a54ccca1dfe4d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv AI",
@@ -656,7 +656,7 @@
       "summary": "arXiv:2603.08938v1 Announce Type: new \nAbstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer interaction. Systems such as OpenClaw demonstrate that Large Language Model (LLM)-based agents can autonomously operate local computing environments, orchestrate workflows, and integrate external tools. However, within the current paradigm, these agents remain conventional applications running on legacy operating systems originally designed for Graphical User Interfaces (GUIs) or Command Line Interfaces (CLIs). This architectural mismatch leads to fragmented interaction models, poorly structured permission management (often described as \"Shadow AI\"), and severe context fragmentation. This paper proposes a new paradigm: a Personal Agent Operating System (AgentOS). In AgentOS, traditional GUI desktops are replaced by a Natural User Interface (NUI) centered on a unified natural language or voice portal. The system core becomes an Agent Kernel that interprets user intent, decomposes tasks, and coordinates multiple agents, while traditional applications evolve into modular Skills-as-Modules enabling users to compose software through natural language rules. We argue that realizing AgentOS fundamentally becomes a Knowledge Discovery and Data Mining (KDD) problem. The Agent Kernel must operate as a real-time engine for intent mining and knowledge discovery. Viewed through this lens, the operating system becomes a continuous data mining pipeline involving sequential pattern mining for workflow automation, recommender systems for skill retrieval, and dynamically evolving personal knowledge graphs. These challenges define a new research agenda for the KDD community in building the next generation of intelligent computing systems.",
       "published": "2026-03-11T04:00:00",
       "_id": "b376b6f4b5aed34d",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv LLM",
@@ -665,7 +665,7 @@
       "summary": "arXiv:2603.08869v1 Announce Type: new \nAbstract: Do the features learned by Sparse Autoencoders (SAEs) represent abstract meaning, or are they tied to how text is written? We investigate this question using Serbian digraphia as a controlled testbed: Serbian is written interchangeably in Latin and Cyrillic scripts with a near-perfect character mapping between them, enabling us to vary orthography while holding meaning exactly constant. Crucially, these scripts are tokenized completely differently, sharing no tokens whatsoever. Analyzing SAE feature activations across the Gemma model family (270M-27B parameters), we find that identical sentences in different Serbian scripts activate highly overlapping features, far exceeding random baselines. Strikingly, changing script causes less representational divergence than paraphrasing within the same script, suggesting SAE features prioritize meaning over orthographic form. Cross-script cross-paraphrase comparisons provide evidence against memorization, as these combinations rarely co-occur in training data yet still exhibit substantial feature overlap. This script invariance strengthens with model scale. Taken together, our findings suggest that SAE features can capture semantics at a level of abstraction above surface tokenization, and we propose Serbian digraphia as a general evaluation paradigm for probing the abstractness of learned representations.",
       "published": "2026-03-11T04:00:00",
       "_id": "ca5ffef9f5128025",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv LLM",
@@ -674,7 +674,7 @@
       "summary": "arXiv:2603.08879v1 Announce Type: new \nAbstract: Accessing sensitive patient data for machine learning is challenging due to privacy concerns. Datasets with annotations of personally identifiable information are crucial for developing and testing anonymization systems to enable safe data sharing that complies with privacy regulations. Since accessing real patient data is a bottleneck, synthetic data offers an efficient solution for data scarcity, bypassing privacy regulations that apply to real data. Moreover, neural machine translation can help to create high-quality data for low-resource languages by translating validated real or synthetic data from a high-resource language. In this work, we create a multilingual anonymization benchmark in ten languages, using a machine translation methodology that preserves the original annotations and renders names of cities and people in a culturally and contextually appropriate form in each target language. Our evaluation study with medical professionals confirms the quality of the translations, both in general and with respect to the translation and adaptation of personal information. Our benchmark with over 2,500 annotations of personal information can be used in many applications, including training annotators, validating annotations across institutions without legal complications, and helping improve the performance of automatic personal information detection. We make our benchmark and annotation guidelines available for further research.",
       "published": "2026-03-11T04:00:00",
       "_id": "c9de95857fa19aca",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv LLM",
@@ -683,7 +683,7 @@
       "summary": "arXiv:2603.08899v1 Announce Type: new \nAbstract: Speculative decoding has emerged as a powerful approach to accelerate large language model (LLM) inference by employing lightweight draft models to propose candidate tokens that are subsequently verified by the target model. The effectiveness of this paradigm critically depends on the quality of the draft model. While recent advances such as the EAGLE series achieve state-of-the-art speedup, existing draft models remain limited by error accumulation: they condition only on the current prefix, causing their predictions to drift from the target model over steps. In this work, we propose \\textbf{ConFu} (Contemplate the Future), a novel speculative decoding framework that enables draft models to anticipate the future direction of generation. ConFu introduces (i) contemplate tokens and soft prompts that allow the draft model to leverage future-oriented signals from the target model at negligible cost, (ii) a dynamic contemplate token mechanism with MoE to enable context-aware future prediction, and (iii) a training framework with anchor token sampling and future prediction replication that learns robust future prediction. Experiments demonstrate that ConFu improves token acceptance rates and generation speed over EAGLE-3 by 8--11% across various downstream tasks with Llama-3 3B and 8B models. We believe our work is the first to bridge speculative decoding with continuous reasoning tokens, offering a new direction for accelerating LLM inference.",
       "published": "2026-03-11T04:00:00",
       "_id": "4e3ab3d091d038f1",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv LLM",
@@ -692,7 +692,7 @@
       "summary": "arXiv:2603.08910v1 Announce Type: new \nAbstract: We introduce SciTaRC, an expert-authored benchmark of questions about tabular data in scientific papers requiring both deep language reasoning and complex computation. We show that current state-of-the-art AI models fail on at least 23% of these questions, a gap that remains significant even for highly capable open-weight models like Llama-3.3-70B-Instruct, which fails on 65.5% of the tasks. Our analysis reveals a universal \"execution bottleneck\": both code and language models struggle to faithfully execute plans, even when provided with correct strategies. Specifically, code-based methods prove brittle on raw scientific tables, while natural language reasoning primarily fails due to initial comprehension issues and calculation errors.",
       "published": "2026-03-11T04:00:00",
       "_id": "7a011c77e7f99d02",
-      "_scraped_at": "13:27"
+      "_scraped_at": "18:58"
     },
     {
       "source": "arXiv LLM",
@@ -701,119 +701,89 @@
       "summary": "arXiv:2603.08989v1 Announce Type: new \nAbstract: Thematic analysis (TA) is widely used in health research to extract patterns from patient interviews, yet manual TA faces challenges in scalability and reproducibility. LLM-based automation can help, but existing approaches produce codebooks with limited generalizability and lack analytic auditability. We present an automated TA framework combining iterative codebook refinement with full provenance tracking. Evaluated on five corpora spanning clinical interviews, social media, and public transcripts, the framework achieves the highest composite quality score on four of five datasets compared to six baselines. Iterative refinement yields statistically significant improvements on four datasets with large effect sizes, driven by gains in code reusability and distributional consistency while preserving descriptive quality. On two clinical corpora (pediatric cardiology), generated themes align with expert-annotated themes.",
       "published": "2026-03-11T04:00:00",
       "_id": "e0d384c42831f330",
-      "_scraped_at": "13:06"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-      "published": "2026-03-11T16:12:02",
-      "_id": "d523cb92325d2eea",
-      "_scraped_at": "16:18"
-    },
-    {
-      "source": "Reddit r/MachineLearning",
-      "title": "[P] Structured Prompting for Extremely Low-Resource Languages: 80% → 5% Vocabulary Contamination, No Fine-Tuning",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1rqxr78/p_structured_prompting_for_extremely_lowresource/",
-      "summary": "Most low-resource language research assumes you can fine-tune. But what happens when a language has ~2M speakers, no official script standardization, near-zero web presence, and you're working with a frozen model?We ran into this withTulu, a Dravidian language from coastal Karnataka, India. The core failure mode is consistent across models, i.e, a prompt in Tulu, get Kannada back. The models aren't hallucinating randomly, instead they're collapsing to the nearest high-probability neighbor in the training distribution. Vocabulary contamination in baseline outputs was sitting at ~80%.Our approach: a 5-layer structured promptRather than treating this as a retrieval or fine-tuning problem, we decomposed the prompt into explicit layers:Phonological grounding: Tulu's retroflex consonants and vowel length distinctions injected directlyMorphological rules: agglutinative verb structure, case markers, with contrastive Kannada examplesNegative constraints: explicitly suppressing high-frequency Kannada lexical bleed (e.g.,ಇದೆ→ಉಂಡು)Romanization standardization: since Tulu has no dominant script, we needed a consistent transliteration anchorSelf-play synthetic examples: quality-controlled in-context demonstrations generated via iterative model critiqueResults (validated by native speakers):Vocabulary contamination:80% → 5%Grammatical accuracy:85%Tested across GPT-4o, Gemini 2.0 Flash, Llama 3.1 70BWhat's interesting (and unresolved):The negative constraint layer did more work than we expected, which is, more than the grammar documentation alone. This raises a question we don't fully answer: is the model actually \"learning\" Tulu grammar from the prompt, or is it primarily doing constrained Kannada generation with lexical substitution? Native speaker evals suggest real grammar is being respected, but we can't rule out the latter cleanly.Also worth noting: the self-play loop was surprisingly sensitive to the critique prompt. Small changes in the evaluator instruction shifted output ",
-      "published": "2026-03-11T16:00:49",
-      "_id": "5746a80313afc85c",
-      "_scraped_at": "16:18"
-    },
-    {
-      "source": "Reddit r/LocalLLaMA",
-      "title": "Nemotron 3 Super Released",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rqy3cx/nemotron_3_super_released/",
-      "summary": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/?nvid=nv-int-csfg-844859120B MoE, 12B active.submitted by/u/deeceeo[link][comments]",
-      "published": "2026-03-11T16:12:40",
-      "_id": "afa2ddaf888f87ea",
-      "_scraped_at": "16:30"
+      "_scraped_at": "18:58"
     }
   ],
   "seen_ids": [
-    "ae386d1a0c37ff93",
-    "bb627605646fc49b",
-    "5594bcd37dd8999f",
-    "afa2ddaf888f87ea",
-    "d1946b21c02e5fa5",
-    "9349413bdef61c9d",
-    "40817de680f3c8e3",
-    "c6fd17e985609508",
-    "705a8935de626e7d",
-    "f80b1581827a3290",
-    "df4c1c085b843c2f",
-    "3f49f548a0679bb3",
-    "71df12fc57b4d76e",
-    "c9de95857fa19aca",
-    "e1a88b064ee03baf",
-    "7a011c77e7f99d02",
-    "1bba41c841cd9190",
-    "c7bd1ea4327f022e",
-    "25505e303fd77079",
-    "1dcbaa891214e6ba",
-    "244779074464df77",
-    "e0d384c42831f330",
-    "6bbffe67b568cde6",
-    "967f046eaa29e7b5",
-    "d1c18d7845472286",
-    "d3ae286e89daf459",
-    "baf9cbcdf7e11126",
-    "1f09738a9cc7cb49",
-    "173735a5b2264247",
-    "f808335d8d384c04",
-    "14201293591d2712",
-    "79e9bb8cbe622d5a",
-    "6488b7f27840e527",
-    "0096402a637e356a",
-    "101605e3044aa24d",
-    "ca5ffef9f5128025",
-    "5746a80313afc85c",
-    "a4497f91444d2f56",
-    "b8544e21ac38f5f4",
-    "8c6014a36ca90e3f",
-    "53746edbc548a04f",
-    "ad4f45f68e63f402",
-    "3d3ea81a8dfecbfa",
-    "d523cb92325d2eea",
-    "da752efa7c5f01ac",
-    "4e3ab3d091d038f1",
-    "0b6244279772ea4c",
-    "4967d4ff446ee16e",
-    "e09e3370d51d8371",
-    "07a4ea00831454ec",
-    "f0ebd8807b22d67b",
-    "1dfaa948d064af05",
-    "091b61caa9d6ad3b",
-    "d137cb2ebebb12f0",
-    "f0c10a6e172ba563",
-    "baf0d5b18cacfd00",
-    "78a5846a75cc0fbb",
-    "ec2b8bd43eefd65f",
-    "0755487d2da48188",
-    "3b49528b47a7fa87",
-    "6d8b5a1d1e80efae",
-    "9bcc2be775713b1d",
-    "67fb9e887f9e2230",
-    "d93ef9b37e4ff0f3",
-    "b376b6f4b5aed34d",
-    "ca7e8c3f7bb22ef8",
-    "a471a98bd3d3539c",
-    "fc75c8653584b83f",
-    "6a79992e5d99dc4c",
-    "c4a45eed67ee9087",
-    "7bafa27db360688c",
-    "6b3a54ccca1dfe4d",
     "93b2cfb4f88278ad",
-    "e3b8d223e4c37a1f",
-    "ca2bdfcccfa09e4d",
-    "18b7ee4fe5e46ca1",
-    "10bae45ec54925ea",
+    "da752efa7c5f01ac",
+    "df91d937e42bc616",
     "9430b10f8840f33b",
+    "6c85667bb456be97",
+    "80ac38594bf59556",
+    "d137cb2ebebb12f0",
+    "e462cf2653685c5f",
+    "5594bcd37dd8999f",
+    "bb627605646fc49b",
     "1323adf7de07001c",
-    "dfee67c2ee8aaa0c",
-    "a110883d31b05dcc"
+    "6b3a54ccca1dfe4d",
+    "0096402a637e356a",
+    "8c6014a36ca90e3f",
+    "ad4f45f68e63f402",
+    "4e3ab3d091d038f1",
+    "f0c10a6e172ba563",
+    "a110883d31b05dcc",
+    "e3b8d223e4c37a1f",
+    "10bae45ec54925ea",
+    "4967d4ff446ee16e",
+    "7a011c77e7f99d02",
+    "6bbffe67b568cde6",
+    "65ef87003052601e",
+    "07a4ea00831454ec",
+    "1dcbaa891214e6ba",
+    "852c77bacb6655f3",
+    "f80b1581827a3290",
+    "b376b6f4b5aed34d",
+    "01572b4c34e91a63",
+    "091b61caa9d6ad3b",
+    "ca5ffef9f5128025",
+    "e0d384c42831f330",
+    "e1a88b064ee03baf",
+    "967f046eaa29e7b5",
+    "705a8935de626e7d",
+    "9349413bdef61c9d",
+    "3dec299964e674ad",
+    "1a8176857be77210",
+    "3d3ea81a8dfecbfa",
+    "d1c18d7845472286",
+    "6d8b5a1d1e80efae",
+    "da282df7acd8501c",
+    "e09e3370d51d8371",
+    "5746a80313afc85c",
+    "1244514ee1a996b1",
+    "336671e1e5743dc5",
+    "d3ae286e89daf459",
+    "e3ccec42129c66fb",
+    "baf9cbcdf7e11126",
+    "14201293591d2712",
+    "6488b7f27840e527",
+    "0b6244279772ea4c",
+    "fc75c8653584b83f",
+    "b082a917e14a2c7c",
+    "ca7e8c3f7bb22ef8",
+    "f808335d8d384c04",
+    "79e9bb8cbe622d5a",
+    "78a5846a75cc0fbb",
+    "afa2ddaf888f87ea",
+    "c7bd1ea4327f022e",
+    "0ed7a8a167fee1d4",
+    "1bba41c841cd9190",
+    "29d6a152f83682cc",
+    "675bb5456b82c4da",
+    "cea09b9378935c98",
+    "1dfaa948d064af05",
+    "6a79992e5d99dc4c",
+    "d523cb92325d2eea",
+    "08b0b7d9c62acb51",
+    "ec2b8bd43eefd65f",
+    "c6fd17e985609508",
+    "c9de95857fa19aca",
+    "18b7ee4fe5e46ca1",
+    "c4a45eed67ee9087",
+    "494d61cc529d6611",
+    "d1946b21c02e5fa5",
+    "ca2bdfcccfa09e4d"
   ],
-  "last_run": "16:30",
-  "run_count": 3
+  "last_run": "18:58",
+  "run_count": 1
 }

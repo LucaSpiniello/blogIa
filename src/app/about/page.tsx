@@ -1,66 +1,73 @@
+import SubscribeForm from "@/components/SubscribeForm";
+
 export default function AboutPage() {
   return (
     <div className="max-w-2xl">
-      <div className="flex items-center gap-2 mb-6">
-        <span className="text-accent-green font-mono text-sm">$</span>
+      <div className="flex items-center gap-3 mb-6">
+        <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center font-mono font-bold text-background text-xl">
+          5
+        </div>
         <h1 className="font-mono font-bold text-2xl text-text-primary">
-          cat about.md
+          Sobre 5IA
         </h1>
       </div>
 
-      <div className="border border-border rounded-lg bg-surface p-6 space-y-4">
-        <h2 className="font-mono font-semibold text-lg text-accent">
-          ## Sobre IA al Día
-        </h2>
+      <div className="border border-border rounded-lg bg-surface p-6 space-y-4 mb-8">
         <p className="text-text-secondary">
-          <strong className="text-text-primary">IA al Día</strong> es un blog
-          automatizado que recopila y sintetiza diariamente las noticias más
-          relevantes del mundo de la inteligencia artificial.
+          <strong className="text-text-primary">5IA</strong> es un blog
+          automatizado que selecciona, filtra y rankea diariamente las noticias
+          mas importantes del mundo de la inteligencia artificial.
         </p>
 
         <h3 className="font-mono font-semibold text-accent-purple">
-          ### Fuentes
+          Como funciona
         </h3>
-        <p className="text-text-secondary">
-          Monitoreamos los blogs y canales oficiales de los principales actores
-          de la IA:
-        </p>
-        <ul className="text-text-secondary space-y-1 list-none">
+        <ol className="text-text-secondary space-y-2 list-none">
+          <li className="font-mono text-sm">
+            <span className="text-accent mr-2">1.</span>
+            Scraping de +20 fuentes (RSS + HTML) dos veces al dia
+          </li>
+          <li className="font-mono text-sm">
+            <span className="text-accent mr-2">2.</span>
+            Claude AI filtra las mas relevantes y descarta ruido
+          </li>
+          <li className="font-mono text-sm">
+            <span className="text-accent mr-2">3.</span>
+            Genera titulo en espanol, bajada y ranking de importancia
+          </li>
+          <li className="font-mono text-sm">
+            <span className="text-accent mr-2">4.</span>
+            Las top 5 se destacan, el resto queda accesible
+          </li>
+        </ol>
+
+        <h3 className="font-mono font-semibold text-accent-purple">Fuentes</h3>
+        <div className="grid grid-cols-2 gap-1">
           {[
-            "Anthropic (Claude)",
-            "OpenAI (ChatGPT, GPT)",
-            "Google DeepMind / Gemini",
+            "Anthropic",
+            "OpenAI",
+            "Google AI",
+            "Meta AI",
+            "NVIDIA AI",
             "Hugging Face",
-            "TechCrunch AI",
-            "The Verge AI",
-            "Ars Technica AI",
+            "TechCrunch",
+            "The Verge",
+            "MIT Tech Review",
+            "Wired",
+            "Hacker News",
+            "Reddit ML",
+            "arXiv AI",
             "GitHub Trending",
-            "ProductHunt AI",
           ].map((source) => (
-            <li key={source} className="font-mono text-sm">
-              <span className="text-accent-green mr-2">-</span>
+            <span key={source} className="font-mono text-xs text-text-secondary">
+              <span className="text-accent-green mr-1">-</span>
               {source}
-            </li>
+            </span>
           ))}
-        </ul>
-
-        <h3 className="font-mono font-semibold text-accent-purple">
-          ### Cómo funciona
-        </h3>
-        <p className="text-text-secondary">
-          Un pipeline automatizado se ejecuta diariamente: primero recopila
-          noticias de múltiples fuentes vía RSS y web scraping, luego usa Claude
-          AI para sintetizar un artículo en español que agrupa y contextualiza
-          las novedades más importantes del día.
-        </p>
-
-        <div className="border-t border-border pt-4 mt-4">
-          <p className="text-text-secondary text-sm font-mono">
-            <span className="text-accent-green">$</span> echo &quot;Built with
-            Next.js + Python + Claude AI&quot;
-          </p>
         </div>
       </div>
+
+      <SubscribeForm />
     </div>
   );
 }

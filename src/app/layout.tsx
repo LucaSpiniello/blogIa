@@ -4,9 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "IA al Día | Noticias diarias de Inteligencia Artificial",
+  title: "5IA | Las 5 noticias de IA que importan hoy",
   description:
-    "Las noticias más revolucionarias del mundo de la IA, sintetizadas diariamente. Cobertura de Anthropic, OpenAI, Google, y más.",
+    "Las noticias más importantes del mundo de la IA, filtradas y rankeadas diariamente por inteligencia artificial.",
 };
 
 export default function RootLayout({

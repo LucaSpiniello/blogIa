@@ -10,6 +10,8 @@ export interface NewsItem {
   title_es: string;
   bajada: string;
   categoria: string;
+  importancia: number;
+  rank: number;
   link: string;
   published: string;
   _scraped_at: string;
@@ -34,6 +36,8 @@ export function getAllDays(): DayNews[] {
     const fullPath = path.join(newsDirectory, file);
     const content = fs.readFileSync(fullPath, "utf8");
     const items: NewsItem[] = JSON.parse(content);
+    // Ensure sorted by rank
+    items.sort((a, b) => (a.rank || 99) - (b.rank || 99));
     return { date: dateStr, items };
   });
 }
@@ -42,7 +46,9 @@ export function getNewsByDate(dateStr: string): NewsItem[] {
   const fullPath = path.join(newsDirectory, `${dateStr}.json`);
   if (!fs.existsSync(fullPath)) return [];
   const content = fs.readFileSync(fullPath, "utf8");
-  return JSON.parse(content);
+  const items: NewsItem[] = JSON.parse(content);
+  items.sort((a, b) => (a.rank || 99) - (b.rank || 99));
+  return items;
 }
 
 export function getAllDates(): string[] {
