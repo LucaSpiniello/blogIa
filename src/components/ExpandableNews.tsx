@@ -3,9 +3,11 @@
 import { useState } from "react";
 import { NewsItem } from "@/lib/news";
 import NewsCard from "./NewsCard";
+import { useLang } from "./LanguageProvider";
 
 export default function ExpandableNews({ items }: { items: NewsItem[] }) {
   const [expanded, setExpanded] = useState(false);
+  const { t } = useLang();
 
   return (
     <div>
@@ -14,13 +16,13 @@ export default function ExpandableNews({ items }: { items: NewsItem[] }) {
           onClick={() => setExpanded(true)}
           className="w-full border border-border border-dashed rounded-lg py-4 text-center font-mono text-sm text-accent hover:bg-surface hover:border-accent/50 transition-all cursor-pointer"
         >
-          + Ver {items.length} noticias mas
+          {t.expandButton(items.length)}
         </button>
       ) : (
         <div className="grid gap-4">
           <div className="border-t border-border pt-4 mb-2">
             <span className="text-text-secondary text-xs font-mono uppercase tracking-wider">
-              // mas noticias
+              {t.moreNews}
             </span>
           </div>
           {items.map((item) => (
@@ -30,7 +32,7 @@ export default function ExpandableNews({ items }: { items: NewsItem[] }) {
             onClick={() => setExpanded(false)}
             className="text-accent text-xs font-mono hover:underline text-center py-2"
           >
-            ← Colapsar
+            {t.collapse}
           </button>
         </div>
       )}

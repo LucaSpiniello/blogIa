@@ -9,6 +9,7 @@ export interface NewsItem {
   title: string;
   title_es: string;
   bajada: string;
+  bajada_en?: string;
   categoria: string;
   importancia: number;
   rank: number;

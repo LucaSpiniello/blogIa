@@ -1,7 +1,10 @@
+"use client";
+
 import { NewsItem } from "@/lib/news";
 import SourceBadge from "./SourceBadge";
 import CategoryTag from "./CategoryTag";
 import ImportanceBadge from "./ImportanceBadge";
+import { useLang } from "./LanguageProvider";
 
 export default function NewsCard({
   item,
@@ -10,6 +13,11 @@ export default function NewsCard({
   item: NewsItem;
   featured?: boolean;
 }) {
+  const { lang, t } = useLang();
+
+  const title = lang === "en" ? (item.title || item.title_es) : item.title_es;
+  const summary = lang === "en" ? (item.bajada_en || item.bajada) : item.bajada;
+
   return (
     <article
       className={`border rounded-lg bg-surface transition-all group ${
@@ -44,7 +52,7 @@ export default function NewsCard({
             {featured && (
               <span className="text-accent mr-2">#{item.rank}</span>
             )}
-            {item.title_es}
+            {title}
           </h3>
         </a>
 
@@ -53,7 +61,7 @@ export default function NewsCard({
             featured ? "text-sm" : "text-sm"
           }`}
         >
-          {item.bajada}
+          {summary}
         </p>
 
         <div className="flex items-center justify-between">
@@ -70,7 +78,7 @@ export default function NewsCard({
             rel="noopener noreferrer"
             className="text-accent text-xs font-mono hover:underline shrink-0"
           >
-            leer mas →
+            {t.readMore}
           </a>
         </div>
       </div>

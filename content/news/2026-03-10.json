@@ -9,7 +9,8 @@
     "_scraped_at": "18:42",
     "title_es": "OpenAI mejora la jerarquía de instrucciones en modelos frontera",
     "bajada": "OpenAI presentó IH-Challenge, un método de entrenamiento que enseña a los LLMs a priorizar instrucciones confiables y resistir ataques de prompt injection. Esta innovación fortalece la seguridad y controlabilidad de los modelos de IA en producción.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "OpenAI presented IH-Challenge, a training method that teaches LLMs to prioritize reliable instructions and resist prompt injection attacks. This innovation strengthens the security and controllability of AI models in production."
   },
   {
     "source": "OpenAI",
@@ -21,7 +22,8 @@
     "_scraped_at": "18:42",
     "title_es": "ChatGPT añade explicaciones visuales interactivas para matemáticas",
     "bajada": "ChatGPT incorpora nuevas herramientas de aprendizaje interactivo con visualizaciones para explorar fórmulas y conceptos en tiempo real. Esta funcionalidad facilita la enseñanza de matemáticas y ciencias a estudiantes de manera más intuitiva.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "ChatGPT incorporates new interactive learning tools with visualizations to explore formulas and concepts in real time. This functionality facilitates teaching mathematics and sciences to students in a more intuitive way."
   },
   {
     "source": "OpenAI",
@@ -33,7 +35,8 @@
     "_scraped_at": "18:42",
     "title_es": "OpenAI adquiere Promptfoo para fortalecer seguridad en IA",
     "bajada": "OpenAI compró Promptfoo, una plataforma de seguridad que ayuda a empresas a identificar vulnerabilidades en sistemas de IA durante el desarrollo. Esta adquisición marca el compromiso de OpenAI con herramientas de testing más robustas.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "OpenAI acquired Promptfoo, a security platform that helps companies identify vulnerabilities in AI systems during development. This acquisition marks OpenAI's commitment to more robust testing tools."
   },
   {
     "source": "Google AI",
@@ -45,7 +48,8 @@
     "_scraped_at": "18:42",
     "title_es": "Gemini en Google Sheets alcanza rendimiento de vanguardia",
     "bajada": "Google lanzó nuevas funciones beta de Gemini en Sheets que permiten crear, organizar y editar hojas de cálculo complejas mediante descripciones en lenguaje natural. Esto democratiza el análisis de datos avanzado para usuarios sin experiencia técnica.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Google launched new Gemini beta features in Sheets that allow creating, organizing, and editing complex spreadsheets through natural language descriptions. This democratizes advanced data analysis for users without technical experience."
   },
   {
     "source": "Hugging Face",
@@ -57,7 +61,8 @@
     "_scraped_at": "18:42",
     "title_es": "NVIDIA construye datos abiertos para entrenar IA",
     "bajada": "NVIDIA comparte su estrategia para crear datasets abiertos que aceleren el desarrollo de modelos de IA. Esta iniciativa busca democratizar el acceso a datos de calidad para investigadores y desarrolladores.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "NVIDIA shares its strategy for creating open datasets that accelerate AI model development. This initiative seeks to democratize access to quality data for researchers and developers."
   },
   {
     "source": "Hugging Face",
@@ -69,7 +74,8 @@
     "_scraped_at": "18:42",
     "title_es": "Hugging Face lanza Storage Buckets en su plataforma",
     "bajada": "Hugging Face presentó Storage Buckets, una nueva funcionalidad para almacenar y gestionar archivos directamente en el Hub. Esta herramienta simplifica el workflow de compartir y versionar datasets para proyectos de IA.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Hugging Face introduced Storage Buckets, a new feature for storing and managing files directly on the Hub. This tool simplifies the workflow for sharing and versioning datasets for AI projects."
   },
   {
     "source": "Hugging Face",
@@ -81,7 +87,8 @@
     "_scraped_at": "18:42",
     "title_es": "Análisis de 16 librerías open-source de Reinforcement Learning",
     "bajada": "Hugging Face publicó un estudio comparativo sobre cómo 16 librerías de RL manejan el entrenamiento asincrónico. Este análisis ayuda a developers a elegir las mejores herramientas para sus proyectos de aprendizaje por refuerzo.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Hugging Face published a comparative study on how 16 RL libraries handle asynchronous training. This analysis helps developers choose the best tools for their reinforcement learning projects."
   },
   {
     "source": "Hugging Face",
@@ -93,7 +100,8 @@
     "_scraped_at": "18:42",
     "title_es": "Granite 4.0 1B: modelo de voz compacto y multilingüe",
     "bajada": "IBM y Hugging Face presentaron Granite 4.0 1B Speech, un modelo de speech ligero optimizado para dispositivos edge. Su tamaño compacto lo hace ideal para aplicaciones móviles y dispositivos con recursos limitados.",
-    "categoria": "modelos"
+    "categoria": "modelos",
+    "bajada_en": "IBM and Hugging Face presented Granite 4.0 1B Speech, a lightweight speech model optimized for edge devices. Its compact size makes it ideal for mobile applications and resource-constrained devices."
   },
   {
     "source": "Hugging Face",
@@ -105,7 +113,8 @@
     "_scraped_at": "18:42",
     "title_es": "Entrenar modelos con millones de tokens: Ulysses Sequence Parallelism",
     "bajada": "Se presentó Ulysses Sequence Parallelism, una técnica para entrenar LLMs con contextos de millones de tokens eficientemente. Este avance abre posibilidades para modelos con memoria extendida y mejor comprensión de documentos largos.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Ulysses Sequence Parallelism was introduced, a technique for efficiently training LLMs with contexts of millions of tokens. This breakthrough opens possibilities for models with extended memory and better understanding of long documents."
   },
   {
     "source": "NVIDIA AI",
@@ -117,7 +126,8 @@
     "_scraped_at": "18:42",
     "title_es": "NVIDIA Jetson lleva IA open-source al edge computing",
     "bajada": "NVIDIA anunció cómo su plataforma Jetson ejecuta modelos open-source en dispositivos edge, democratizando el acceso a IA para aplicaciones industriales y embebidas. Esto permite desplegar soluciones de IA sin depender de servidores en la nube.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "NVIDIA announced how its Jetson platform runs open-source models on edge devices, democratizing access to AI for industrial and embedded applications. This enables deploying AI solutions without relying on cloud servers."
   },
   {
     "source": "NVIDIA AI",
@@ -129,7 +139,8 @@
     "_scraped_at": "18:42",
     "title_es": "NVIDIA virtualiza desarrollo de juegos con RTX PRO Server",
     "bajada": "NVIDIA presentó RTX PRO Server para virtualizar flujos de trabajo de desarrollo de videojuegos complejos. Esta solución permite que equipos distribuidos colaboren en grandes proyectos con hardware GPU centralizado.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "NVIDIA presented RTX PRO Server to virtualize complex video game development workflows. This solution allows distributed teams to collaborate on large projects with centralized GPU hardware."
   },
   {
     "source": "NVIDIA AI",
@@ -141,7 +152,8 @@
     "_scraped_at": "18:42",
     "title_es": "NVIDIA y ComfyUI optimizan generación de video IA local",
     "bajada": "NVIDIA y ComfyUI anunciaron herramientas que agilizan la generación de video IA en RTX GPUs locales para game developers. Estas mejoras permiten crear contenido cinemático sin depender de APIs en la nube.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "NVIDIA and ComfyUI announced tools that streamline AI video generation on local RTX GPUs for game developers. These improvements enable creating cinematic content without relying on cloud APIs."
   },
   {
     "source": "NVIDIA AI",
@@ -153,7 +165,8 @@
     "_scraped_at": "18:42",
     "title_es": "NVIDIA se asocia con Thinking Machines Lab a escala gigavatio",
     "bajada": "NVIDIA y Thinking Machines Lab anunciaron una asociación multianual para desplegar al menos un gigavatio de sistemas NVIDIA Vera Rubin dedicados al entrenamiento de modelos frontera. Esta inversión marca una apuesta masiva en infraestructura de IA.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "NVIDIA and Thinking Machines Lab announced a multi-year partnership to deploy at least one gigawatt of NVIDIA Vera Rubin systems dedicated to training frontier models. This investment marks a massive bet on AI infrastructure."
   },
   {
     "source": "NVIDIA AI",
@@ -165,7 +178,8 @@
     "_scraped_at": "18:42",
     "title_es": "IA es infraestructura esencial: el modelo de 5 capas de NVIDIA",
     "bajada": "NVIDIA presenta una visión de la IA como infraestructura fundamental similar a la electricidad e internet, organizada en 5 capas. Este framework ayuda a entender cómo la IA se integra en la sociedad más allá de aplicaciones puntuales.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "NVIDIA presents a vision of AI as fundamental infrastructure similar to electricity and the internet, organized in 5 layers. This framework helps understand how AI integrates into society beyond specific applications."
   },
   {
     "source": "Anthropic",
@@ -177,7 +191,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic desafía designación de riesgo del Departamento de Defensa",
     "bajada": "Anthropic anunció que impugnará en corte la designación como riesgo de cadena de suministro del Departamento de Defensa estadounidense. La compañía argumenta que la medida es legalmente infundada y afecta únicamente contratos directos con defensa.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "Anthropic announced it will challenge in court the U.S. Department of Defense's designation as a supply chain risk. The company argues that the measure is legally unfounded and affects only direct defense contracts."
   },
   {
     "source": "Anthropic",
@@ -189,7 +204,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic rechaza exigencias del Pentágono sobre vigilancia y armas autónomas",
     "bajada": "El Departamento de Defensa designó a Anthropic como riesgo de cadena de suministro tras negociaciones fallidas sobre dos usos específicos de Claude. La empresa se mantiene firme en su posición de no permitir vigilancia masiva doméstica ni armas completamente autónomas, argumentando que los modelos actuales no son suficientemente confiables para esto.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "The Department of Defense designated Anthropic as a supply chain risk following failed negotiations over two specific uses of Claude. The company stands firm in its position of not allowing domestic mass surveillance or fully autonomous weapons, arguing that current models are not sufficiently reliable for this."
   },
   {
     "source": "Anthropic",
@@ -201,7 +217,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic defiende su posición en desacuerdo con el Pentágono",
     "bajada": "El CEO Dario Amodei explica los esfuerzos de la empresa para apoyar la seguridad nacional mientras mantiene restricciones éticas clave. Anthropic ha rechazado cientos de millones en ingresos al cortar acceso a Claude para empresas vinculadas al Partido Comunista Chino.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "CEO Dario Amodei explains the company's efforts to support national security while maintaining key ethical restrictions. Anthropic has rejected hundreds of millions in revenue by cutting access to Claude for companies linked to the Chinese Communist Party."
   },
   {
     "source": "Anthropic",
@@ -213,7 +230,8 @@
     "_scraped_at": "18:42",
     "title_es": "Claude Sonnet 4.6: nuevo modelo con rendimiento de nivel Opus",
     "bajada": "Anthropic lanza Sonnet 4.6 con mejoras significativas en programación, uso de computadora y razonamiento de largo contexto, ahora con ventana de 1M tokens en beta. El modelo mantiene el mismo precio que Sonnet 4.5 y developers reportan preferirlo incluso sobre Opus 4.5 para tareas del mundo real.",
-    "categoria": "modelos"
+    "categoria": "modelos",
+    "bajada_en": "Anthropic launches Sonnet 4.6 with significant improvements in programming, computer use, and long-context reasoning, now with a 1M token window in beta. The model maintains the same price as Sonnet 4.5 and developers report preferring it even over Opus 4.5 for real-world tasks."
   },
   {
     "source": "Anthropic",
@@ -225,7 +243,8 @@
     "_scraped_at": "18:42",
     "title_es": "Claude permanecerá libre de publicidad para mantener la confianza",
     "bajada": "Anthropic decidió mantener Claude sin anuncios para que sea un asistente genuinamente útil sin conflictos de interés con anunciantes. La empresa cree que las conversaciones de IA requieren un enfoque diferente al de redes sociales o buscadores, donde la transparencia es crucial.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Anthropic decided to keep Claude ad-free so it can be a genuinely useful assistant without conflicts of interest with advertisers. The company believes that AI conversations require a different approach than social media or search engines, where transparency is crucial."
   },
   {
     "source": "TechCrunch",
@@ -237,7 +256,8 @@
     "_scraped_at": "18:42",
     "title_es": "Amazon lanza su asistente de IA para salud en web y app",
     "bajada": "El nuevo asistente de Amazon responde preguntas de salud, explica registros médicos, gestiona renovaciones de recetas y agenda citas. Esta herramienta integra IA en servicios de salud para mejorar la experiencia del usuario.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Amazon's new health assistant answers health questions, explains medical records, manages prescription renewals, and schedules appointments. This tool integrates AI into health services to improve user experience."
   },
   {
     "source": "TechCrunch",
@@ -249,7 +269,8 @@
     "_scraped_at": "18:42",
     "title_es": "Las apps impulsadas por IA luchan por retener usuarios a largo plazo",
     "bajada": "Un nuevo reporte de RevenueCat muestra que aunque la IA impulsa monetización temprana, mantener el valor para usuarios sigue siendo el desafío principal. Los desarrolladores deben enfocarse en crear valor duradero más allá del \"efecto novedad\".",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "A new RevenueCat report shows that while AI drives early monetization, maintaining value for users remains the main challenge. Developers must focus on creating lasting value beyond the \"novelty effect.\""
   },
   {
     "source": "TechCrunch",
@@ -261,7 +282,8 @@
     "_scraped_at": "18:42",
     "title_es": "ChatGPT ahora crea visuales interactivos para enseñar ciencia y matemáticas",
     "bajada": "En lugar de explicaciones estáticas, usuarios pueden ahora interactuar directamente con visuales dinámicos para entender conceptos complejos. Esta funcionalidad mejora el aprendizaje haciendo la educación más interactiva y accesible.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Instead of static explanations, users can now directly interact with dynamic visuals to understand complex concepts. This functionality improves learning by making education more interactive and accessible."
   },
   {
     "source": "TechCrunch",
@@ -273,7 +295,8 @@
     "_scraped_at": "18:42",
     "title_es": "AgentMail recauda $6M para crear servicio de email para agentes IA",
     "bajada": "AgentMail ofrece una plataforma API que permite dar a agentes IA sus propias bandejas de entrada de email con soporte para conversaciones bidireccionales, análisis y búsqueda. Esta herramienta abre nuevas posibilidades para agentes autónomos.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "AgentMail offers an API platform that allows giving AI agents their own email inboxes with support for bidirectional conversations, analysis and search. This tool opens new possibilities for autonomous agents."
   },
   {
     "source": "TechCrunch",
@@ -285,7 +308,8 @@
     "_scraped_at": "18:42",
     "title_es": "Thinking Machines Lab asegura gigavatio de poder de cómputo con Nvidia",
     "bajada": "El acuerdo multianual incluye al menos un gigavatio de capacidad de cómputo e inversión estratégica de Nvidia. Este deal marca un paso significativo para ampliar la infraestructura de entrenamiento de IA.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "The multi-year agreement includes at least one gigawatt of computing capacity and strategic investment from Nvidia. This deal marks a significant step in expanding AI training infrastructure."
   },
   {
     "source": "The Verge",
@@ -297,7 +321,8 @@
     "_scraped_at": "18:42",
     "title_es": "Juez ordena a Perplexity detener agentes que compran en Amazon",
     "bajada": "Un juez federal bloqueó los agentes IA de Perplexity de realizar compras en Amazon en nombre de usuarios sin autorización explícita. La decisión resalta preocupaciones sobre acceso no autorizado a cuentas de usuario por parte de bots.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "A federal judge blocked Perplexity's AI agents from making purchases on Amazon on behalf of users without explicit authorization. The decision highlights concerns about unauthorized access to user accounts by bots."
   },
   {
     "source": "The Verge",
@@ -309,7 +334,8 @@
     "_scraped_at": "18:42",
     "title_es": "Grammarly usa identidades de autores sin permiso a menos que se excluyan",
     "bajada": "Grammarly utilizó nombres reales de periodistas reconocidos como editores de IA sin consentimiento previo, requiriendo exclusión activa. Este incidente plantea preocupaciones sobre privacidad y consentimiento en la IA generativa.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "Grammarly used real names of recognized journalists as AI editors without prior consent, requiring active opt-out. This incident raises concerns about privacy and consent in generative AI."
   },
   {
     "source": "The Verge",
@@ -321,7 +347,8 @@
     "_scraped_at": "18:42",
     "title_es": "Meta adquiere Moltbook, red social tipo Reddit para agentes IA",
     "bajada": "Meta incorpora Moltbook, plataforma donde agentes IA pueden crear y comentar posts, a su laboratorio de superinteligencia. La adquisición refleja el enfoque de Meta en crear ecosistemas para agentes autónomos.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Meta incorporates Moltbook, a platform where AI agents can create and comment on posts, into its superintelligence lab. The acquisition reflects Meta's focus on creating ecosystems for autonomous agents."
   },
   {
     "source": "The Verge",
@@ -333,7 +360,8 @@
     "_scraped_at": "18:42",
     "title_es": "Las complejidades legales de Ticketmaster en contexto antimonopolio",
     "bajada": "El caso antimonopolio del gobierno contra Live Nation-Ticketmaster explora problemas estructurales en la industria musical. La cobertura analiza cómo las decisiones regulatorias podrían transformar el mercado de entradas.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "The government's antitrust case against Live Nation-Ticketmaster explores structural problems in the music industry. Coverage analyzes how regulatory decisions could transform the ticketing market."
   },
   {
     "source": "The Verge",
@@ -345,7 +373,8 @@
     "_scraped_at": "18:42",
     "title_es": "YouTube expande detección de deepfakes a políticos y periodistas",
     "bajada": "Funcionarios públicos y periodistas ahora pueden monitorear deepfakes generados por IA de sí mismos en YouTube. La herramienta de detección de similitud se expande desde creadores de contenido a figuras públicas.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Public officials and journalists can now monitor AI-generated deepfakes of themselves on YouTube. The similarity detection tool expands from content creators to public figures."
   },
   {
     "source": "MIT Tech Review",
@@ -357,7 +386,8 @@
     "_scraped_at": "18:42",
     "title_es": "Pokémon Go ayuda a robots de reparto a navegar con precisión",
     "bajada": "Niantic utiliza tecnología de Pokémon Go para dar a robots de entrega una visión precisa del mundo real. La solución AR mejora la navegación y entrega eficiente de paquetes en ciudades.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Niantic uses Pokémon Go technology to give delivery robots precise vision of the real world. The AR solution improves navigation and efficient package delivery in cities."
   },
   {
     "source": "MIT Tech Review",
@@ -369,7 +399,8 @@
     "_scraped_at": "18:42",
     "title_es": "La inteligencia energética impulsa el crecimiento sostenible en centros de datos",
     "bajada": "Loudoun County, Virginia, se ha convertido en el epicentro mundial de centros de datos, con una concentración sin precedentes impulsada por la demanda de IA. El artículo analiza cómo optimizar la energía en estas infraestructuras es crítico para sostener el crecimiento de sistemas de IA a escala global.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Loudoun County, Virginia, has become the global epicenter of data centers, with unprecedented concentration driven by AI demand. The article analyzes how optimizing energy in these infrastructures is critical to sustain the growth of AI systems at a global scale."
   },
   {
     "source": "MIT Tech Review",
@@ -381,7 +412,8 @@
     "_scraped_at": "18:42",
     "title_es": "El rol de la IA en el conflicto de Irán y disputas legales con Anthropic",
     "bajada": "Modelos como Claude se utilizan en decisiones militares estadounidenses mientras crece la controversia sobre el uso de IA en conflictos. Esto plantea interrogantes éticas sobre la militarización de la IA y sus implicaciones geopolíticas.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "Models like Claude are used in U.S. military decisions while controversy grows over AI use in conflicts. This raises ethical questions about AI militarization and its geopolitical implications."
   },
   {
     "source": "MIT Tech Review",
@@ -393,7 +425,8 @@
     "_scraped_at": "18:42",
     "title_es": "Cómo la IA convierte el conflicto de Irán en un espectáculo digital",
     "bajada": "Dashboards de inteligencia en línea permiten seguir el conflicto de Irán en tiempo real, alimentando la difusión viral de contenido sobre la guerra. La democratización del análisis de conflictos mediante IA plantea riesgos de desinformación y falta de contexto.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Online intelligence dashboards allow real-time tracking of the Iran conflict, fueling viral spread of war content. The democratization of conflict analysis through AI raises risks of misinformation and lack of context."
   },
   {
     "source": "MIT Tech Review",
@@ -405,7 +438,8 @@
     "_scraped_at": "18:42",
     "title_es": "Usabilidad y seguridad en dispositivos de activos digitales",
     "bajada": "La seguridad en dispositivos de activos digitales requiere un balance entre protección y usabilidad, similar al enfoque iterativo usado en el iPod. El artículo examina cómo diseñar sistemas que sean seguros sin comprometer la experiencia del usuario.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Security in digital asset devices requires a balance between protection and usability, similar to the iterative approach used in the iPod. The article examines how to design systems that are secure without compromising user experience."
   },
   {
     "source": "Wired",
@@ -417,7 +451,8 @@
     "_scraped_at": "18:42",
     "title_es": "Contenido falso de IA sobre la guerra de Irán inunda X",
     "bajada": "Grok, el asistente de IA de X, falla en verificar videos del conflicto de Irán e incluso genera imágenes sintéticas sobre la guerra. Esto evidencia vulnerabilidades críticas en sistemas de verificación de hechos basados en IA.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Grok, the AI assistant from X, fails to verify Iran conflict videos and even generates synthetic images about the war. This reveals critical vulnerabilities in AI-based fact-checking systems."
   },
   {
     "source": "Wired",
@@ -429,7 +464,8 @@
     "_scraped_at": "18:42",
     "title_es": "La herramienta 'Help Me Create' de Google en Docs: potencia corporativa",
     "bajada": "Google integra Gemini en Docs, Drive, Sheets y Slides para generar contenido usando datos de correos y web. La herramienta demuestra capacidad en redacción empresarial, aunque con tendencia hacia lenguaje corporativo estándar.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Google integrates Gemini into Docs, Drive, Sheets, and Slides to generate content using data from emails and the web. The tool demonstrates capability in business writing, though with a tendency toward standard corporate language."
   },
   {
     "source": "Wired",
@@ -441,7 +477,8 @@
     "_scraped_at": "18:42",
     "title_es": "Yann LeCun recauda USD 1.000M para IA que entienda el mundo físico",
     "bajada": "El ex científico jefe de IA de Meta lanzó AMI, una startup que apunta a crear inteligencia artificial que domine la comprensión del mundo físico. Este enfoque desafía la narrativa actual de que el lenguaje es el camino hacia IA de nivel humano.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Meta's former AI chief scientist launched AMI, a startup aimed at creating artificial intelligence that masters understanding of the physical world. This approach challenges the current narrative that language is the path to human-level AI."
   },
   {
     "source": "Wired",
@@ -453,7 +490,8 @@
     "_scraped_at": "18:42",
     "title_es": "Nvidia lanzará plataforma open-source de agentes de IA",
     "bajada": "Nvidia prepara una nueva plataforma de código abierto para agentes de IA, similar a OpenClaw, que será presentada en su conferencia anual. El movimiento refuerza el posicionamiento de Nvidia como infraestructura fundamental para el ecosistema de IA.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "Nvidia is preparing a new open-source platform for AI agents, similar to OpenClaw, which will be unveiled at its annual conference. The move reinforces Nvidia's positioning as foundational infrastructure for the AI ecosystem."
   },
   {
     "source": "Wired",
@@ -465,7 +503,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic advierte que designación de riesgo de suministro podría costarle miles de millones",
     "bajada": "La administración Trump clasificó a Anthropic como riesgo de cadena de suministro, causando que empresas pausaran negociaciones. Anthropic reclama que esto podría derivar en pérdidas de ingresos significativas y cuestiona la validez de la designación.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "The Trump administration classified Anthropic as a supply chain risk, causing companies to pause negotiations. Anthropic claims this could result in significant revenue losses and questions the validity of the designation."
   },
   {
     "source": "The Information",
@@ -477,7 +516,8 @@
     "_scraped_at": "18:42",
     "title_es": "Oracle proyecta mayores ingresos en el corto plazo; acciones suben 8%",
     "bajada": "Oracle aumentó su proyección de ingresos anuales a USD 90 mil millones, un incremento del 8%, durante su reporte trimestral. El crecimiento refleja la fuerte demanda empresarial por soluciones de IA y computación en la nube.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Oracle raised its annual revenue projection to USD 90 billion, an 8% increase, during its quarterly report. The growth reflects strong enterprise demand for AI and cloud computing solutions."
   },
   {
     "source": "The Information",
@@ -489,7 +529,8 @@
     "_scraped_at": "18:42",
     "title_es": "Salesforce emitirá hasta USD 25.000M en bonos para recompra de acciones",
     "bajada": "Salesforce planea vender entre USD 20 y 25 mil millones en bonos para financiar su programa de recompra de USD 50 mil millones. La operación refleja la confianza en ingresos futuros impulsados por demanda de IA empresarial.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Salesforce plans to sell between USD 20 and 25 billion in bonds to finance its USD 50 billion buyback program. The operation reflects confidence in future revenues driven by enterprise AI demand."
   },
   {
     "source": "The Information",
@@ -501,7 +542,8 @@
     "_scraped_at": "18:42",
     "title_es": "Google proporciona Agent Builder al Pentágono para trabajos no clasificados",
     "bajada": "Google entregó su herramienta Gemini 'Agent Designer' al Departamento de Defensa para la plataforma GenAI.mil. Los agentes automatizan tareas administrativas y demuestran cómo las grandes tech se posicionan en el sector de defensa digital.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Google delivered its Gemini 'Agent Designer' tool to the Department of Defense for the GenAI.mil platform. The agents automate administrative tasks and demonstrate how major tech companies are positioning themselves in the digital defense sector."
   },
   {
     "source": "GitHub",
@@ -513,7 +555,8 @@
     "_scraped_at": "18:42",
     "title_es": "Agency: colección open-source de agentes de IA especializados",
     "bajada": "Un proyecto en GitHub ofrece una biblioteca de agentes de IA con personalidades únicas y expertise específico, diseñados para tareas reales. Los agentes, listos para producción, pueden usarse con Claude Code o como referencia para construir sistemas similares.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "A GitHub project offers a library of AI agents with unique personalities and specific expertise, designed for real tasks. The agents, ready for production, can be used with Claude Code or as reference for building similar systems."
   },
   {
     "source": "GitHub",
@@ -525,7 +568,8 @@
     "_scraped_at": "18:42",
     "title_es": "MiroFish: motor de inteligencia colectiva para predicciones",
     "bajada": "MiroFish es un motor de predicción basado en multi-agentes que simula mundos digitales con miles de entidades inteligentes para modelar futuros escenarios. Permite predecir eventos financieros, políticos y sociales inyectando variables en simulaciones de alta fidelidad.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "MiroFish is a multi-agent prediction engine that simulates digital worlds with thousands of intelligent entities to model future scenarios. It allows predicting financial, political, and social events by injecting variables into high-fidelity simulations."
   },
   {
     "source": "GitHub",
@@ -537,7 +581,8 @@
     "_scraped_at": "18:42",
     "title_es": "Hermes Agent: agente automejorable de Nous Research con bucle de aprendizaje",
     "bajada": "Hermes es un agente de IA con capacidad de auto-mejora que aprende de la experiencia, crea skills autónomamente y funciona en cualquier infraestructura. Soporta múltiples modelos LLM y plataformas (Telegram, Discord, CLI), con historial persistente entre sesiones.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "Hermes is an AI agent with self-improvement capability that learns from experience, creates skills autonomously, and works on any infrastructure. It supports multiple LLM models and platforms (Telegram, Discord, CLI), with persistent history between sessions."
   },
   {
     "source": "GitHub",
@@ -549,7 +594,8 @@
     "_scraped_at": "18:42",
     "title_es": "Promptfoo: Herramienta de testing y red teaming para apps LLM",
     "bajada": "Promptfoo es una CLI y librería de código abierto para evaluar y hacer red teaming de aplicaciones con LLMs. Permite automatizar pruebas de seguridad, comparar modelos y integrar evaluaciones en CI/CD sin trial-and-error.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Promptfoo is an open-source CLI and library for evaluating and red teaming LLM applications. It enables automating security tests, comparing models, and integrating evaluations in CI/CD without trial-and-error."
   },
   {
     "source": "GitHub",
@@ -561,7 +607,8 @@
     "_scraped_at": "18:42",
     "title_es": "Google Cloud lanza recursos para Gemini 3.1 Pro en Vertex AI",
     "bajada": "Google publicó notebooks y demos del nuevo modelo Gemini 3.1 Pro con guías para usar IA generativa en Google Cloud. Incluye ejemplos de búsqueda, RAG, generación de imágenes y casos de uso empresariales.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "Google published notebooks and demos of the new Gemini 3.1 Pro model with guides for using generative AI on Google Cloud. Includes examples of search, RAG, image generation, and enterprise use cases."
   },
   {
     "source": "GitHub",
@@ -573,7 +620,8 @@
     "_scraped_at": "18:42",
     "title_es": "AI Hedge Fund: Proof of concept de fondo de inversión con agentes IA",
     "bajada": "Un proyecto educativo que explora el uso de múltiples agentes de IA con estrategias de inversores legendarios para tomar decisiones de trading. No está destinado a operaciones reales.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "An educational project that explores the use of multiple AI agents with legendary investors' strategies to make trading decisions. Not intended for actual trading operations."
   },
   {
     "source": "GitHub",
@@ -585,7 +633,8 @@
     "_scraped_at": "18:42",
     "title_es": "Nanochat: Entrenar LLMs estilo GPT-2 por $48 con código minimal",
     "bajada": "Harness experimental de Andrej Karpathy para entrenar LLMs en una sola GPU. Cubre tokenización, preentrenamiento, fine-tuning e inferencia con una interfaz de chat, reduciendo drásticamente costos de entrenamiento.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "Andrej Karpathy's experimental harness for training LLMs on a single GPU. Covers tokenization, pretraining, fine-tuning, and inference with a chat interface, drastically reducing training costs."
   },
   {
     "source": "GitHub",
@@ -597,7 +646,8 @@
     "_scraped_at": "18:42",
     "title_es": "Superpowers: Workflow completo para agentes de código con IA",
     "bajada": "Superpowers proporciona un flujo de trabajo para agentes de código basado en skills reutilizables. Guía al agente desde especificación hasta implementación con revisiones automáticas y desarrollo impulsado por TDD.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Superpowers provides a workflow for code-based agents built on reusable skills. Guides the agent from specification to implementation with automatic reviews and TDD-driven development."
   },
   {
     "source": "GitHub",
@@ -609,7 +659,8 @@
     "_scraped_at": "18:42",
     "title_es": "Page Agent: Controlar interfaces web con lenguaje natural",
     "bajada": "Herramienta que permite a agentes de IA controlar páginas web usando lenguaje natural sin necesidad de extensiones o screenshots. Ideal para copilots en SaaS, automatización de formularios y accesibilidad.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Tool that allows AI agents to control web pages using natural language without needing extensions or screenshots. Ideal for SaaS copilots, form automation, and accessibility."
   },
   {
     "source": "GitHub",
@@ -621,7 +672,8 @@
     "_scraped_at": "18:42",
     "title_es": "IPED: Software de código abierto para análisis forense digital",
     "bajada": "Herramienta de la Policía Federal Brasileña para procesar y analizar evidencia digital. Soporta múltiples formatos de imagen, procesamiento en lote y análisis de casos con millones de elementos.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "Tool from the Brazilian Federal Police for processing and analyzing digital evidence. Supports multiple image formats, batch processing, and case analysis with millions of elements."
   },
   {
     "source": "Hacker News",
@@ -633,7 +685,8 @@
     "_scraped_at": "18:42",
     "title_es": "RunAnywhere: Inferencia rápida de IA en Apple Silicon",
     "bajada": "Motor de inferencia optimizado para Silicon de Apple que supera a llama.cpp y MLX de Apple. Incluye RCLI, pipeline de voz end-to-end más rápido: transcripción de 70 segundos en 101ms sin cloud.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "Optimized inference engine for Apple Silicon that outperforms llama.cpp and Apple's MLX. Includes RCLI, fastest end-to-end voice pipeline: 70-second transcription in 101ms without cloud."
   },
   {
     "source": "Hacker News",
@@ -645,7 +698,8 @@
     "_scraped_at": "18:42",
     "title_es": "Desarrollador crea lenguaje de programación con Claude Code",
     "bajada": "Un ingeniero implementó un lenguaje de programación completo utilizando Claude Code, demostrando capacidades avanzadas de agentes de IA para desarrollo de herramientas complejas.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "An engineer implemented a complete programming language using Claude Code, demonstrating advanced capabilities of AI agents for complex tool development."
   },
   {
     "source": "Hacker News",
@@ -657,7 +711,8 @@
     "_scraped_at": "18:42",
     "title_es": "Amazon convoca reunión obligatoria sobre fallos de sistemas por IA",
     "bajada": "Amazon realizará una reunión con empleados sobre cómo la IA está provocando fallos en sus sistemas internos, señalando riesgos operacionales de la integración precipitada de agentes de IA.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "Amazon will hold a meeting with employees about how AI is causing failures in its internal systems, highlighting operational risks from hasty AI agent integration."
   },
   {
     "source": "Hacker News",
@@ -669,7 +724,8 @@
     "_scraped_at": "18:42",
     "title_es": "Debian decide no tomar postura sobre contribuciones generadas por IA",
     "bajada": "El proyecto Debian no establecerá una política oficial que permita o prohíba contribuciones de código generado por IA, dejando la decisión a criterio de los mantenedores.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "The Debian project will not establish an official policy allowing or prohibiting AI-generated code contributions, leaving the decision to maintainers' discretion."
   },
   {
     "source": "Hacker News",
@@ -681,7 +737,8 @@
     "_scraped_at": "18:42",
     "title_es": "Amazon requiere aprobación senior para cambios asistidos por IA",
     "bajada": "Tras incidentes por apagones causados por IA, Amazon obligará a ingenieros senior a autorizar cambios en sistemas críticos asistidos por IA, reforzando controles de calidad.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "After incidents caused by AI-related outages, Amazon will require senior engineers to authorize changes in critical AI-assisted systems, strengthening quality controls."
   },
   {
     "source": "Hacker News",
@@ -693,7 +750,8 @@
     "_scraped_at": "18:42",
     "title_es": "Ingeniero alcanza primer lugar en Leaderboard HuggingFace con dos GPUs",
     "bajada": "Un desarrollador consiguió el top del HuggingFace Open LLM Leaderboard entrenando modelos con hardware limitado, demostrando optimizaciones eficientes de recursos.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A developer achieved the top of the HuggingFace Open LLM Leaderboard by training models with limited hardware, demonstrating efficient resource optimizations."
   },
   {
     "source": "Hacker News",
@@ -705,7 +763,8 @@
     "_scraped_at": "18:42",
     "title_es": "PgAdmin 4.9.13 integra panel asistente de IA para SQL",
     "bajada": "La última versión de PgAdmin incluye un asistente de IA que ayuda a escribir y optimizar queries SQL, mejorando la productividad en administración de bases de datos.",
-    "categoria": "producto"
+    "categoria": "producto",
+    "bajada_en": "The latest version of PgAdmin includes an AI assistant that helps write and optimize SQL queries, improving productivity in database administration."
   },
   {
     "source": "Hacker News",
@@ -717,7 +776,8 @@
     "_scraped_at": "18:42",
     "title_es": "Startup de Yann LeCun recauda $1B en mayor ronda seed de Europa",
     "bajada": "La startup de IA del reconocido investigador Yann LeCun consiguió financiación récord en Europa, consolidando inversión europea en tecnología de inteligencia artificial avanzada.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "The AI startup of renowned researcher Yann LeCun secured record funding in Europe, consolidating European investment in advanced artificial intelligence technology."
   },
   {
     "source": "Hacker News",
@@ -729,7 +789,8 @@
     "_scraped_at": "18:42",
     "title_es": "Redox OS adopta política de rechazo a LLMs en contribuciones",
     "bajada": "El proyecto Redox OS implementó una política estricta que prohíbe código generado por LLMs y requiere certificados de origen para todas las contribuciones. Esta medida busca garantizar la calidad y transparencia del código en sistemas operativos críticos.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "The Redox OS project implemented a strict policy that prohibits LLM-generated code and requires certificates of origin for all contributions. This measure seeks to ensure code quality and transparency in critical operating systems."
   },
   {
     "source": "Reddit r/MachineLearning",
@@ -741,7 +802,8 @@
     "_scraped_at": "18:42",
     "title_es": "Ingeniero logra #1 en Open LLM con duplicación de capas en GPU",
     "bajada": "Un investigador descubrió que duplicar bloques específicos de 7 capas en Qwen2-72B mejora significativamente el rendimiento sin modificar pesos. El hallazgo sugiere que el pretraining crea circuitos funcionales discretos que solo funcionan cuando se preservan completos.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A researcher discovered that duplicating specific blocks of 7 layers in Qwen2-72B significantly improves performance without modifying weights. The finding suggests that pretraining creates discrete functional circuits that only work when preserved intact."
   },
   {
     "source": "Reddit r/MachineLearning",
@@ -753,7 +815,8 @@
     "_scraped_at": "18:42",
     "title_es": "Meta-Reviews ARR enero 2026: discusión de revisiones",
     "bajada": "Hilo de discusión comunitaria para compartir revisiones y puntuaciones meta de investigaciones en IA. Espacio de colaboración donde investigadores debaten resultados y retroalimentación de pares.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Community discussion thread for sharing reviews and meta-scores of AI research. Collaboration space where researchers debate results and peer feedback."
   },
   {
     "source": "Reddit r/MachineLearning",
@@ -765,7 +828,8 @@
     "_scraped_at": "18:42",
     "title_es": "APIs falsas rompen reproducibilidad en 187 papers académicos",
     "bajada": "Un paper audita servicios terceros que falsamente proporcionan acceso a GPT-5/Gemini, encontrando divergencias de rendimiento hasta 47% e identidades no verificadas. El descubrimiento revela una crisis de reproducibilidad donde investigadores podrían estar usando datos de modelos falsos sin saberlo.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A paper audits third-party services that falsely provide access to GPT-5/Gemini, finding performance divergences up to 47% and unverified identities. The discovery reveals a reproducibility crisis where researchers could be using fake model data unknowingly."
   },
   {
     "source": "Reddit r/LocalLLaMA",
@@ -777,7 +841,8 @@
     "_scraped_at": "18:42",
     "title_es": "This guy 🤡",
     "bajada": "At least T3 Code is open-source/MIT licensed.submitted by/u/xenydactyl[link][comments]",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "At least T3 Code is open-source/MIT licensed. submitted by /u/xenydactyl [link] [comments]"
   },
   {
     "source": "Reddit r/LocalLLaMA",
@@ -789,7 +854,8 @@
     "_scraped_at": "18:42",
     "title_es": "Comunidad local LLM: desde curiosidad hasta obsesión productiva",
     "bajada": "Un usuario reflexiona sobre su viaje desde usar IA para estudiar hasta optimizar modelos locales con GPUs usadas. Refleja cómo la comunidad de LLMs locales evoluciona de herramienta a pasión de investigación.",
-    "categoria": "herramientas"
+    "categoria": "herramientas",
+    "bajada_en": "A user reflects on their journey from using AI to study to optimizing local models with used GPUs. It shows how the local LLMs community evolves from tool to research passion."
   },
   {
     "source": "Reddit r/LocalLLaMA",
@@ -801,7 +867,8 @@
     "_scraped_at": "18:42",
     "title_es": "Qwen3.5-35B versión desensurizada en GGUF disponible",
     "bajada": "Se lanzó Qwen3.5-35B-A3B Uncensored con eliminación completa de rechazos sin pérdida de capacidades. Incluye múltiples cuantizaciones, soporte de visión y contexto de 262K tokens para inferencia local.",
-    "categoria": "modelos"
+    "categoria": "modelos",
+    "bajada_en": "Qwen3.5-35B-A3B Uncensored was launched with complete removal of refusals without loss of capabilities. It includes multiple quantizations, vision support, and 262K token context for local inference."
   },
   {
     "source": "Reddit r/LocalLLaMA",
@@ -813,7 +880,8 @@
     "_scraped_at": "18:42",
     "title_es": "Ingeniero replica #1 en Open LLM con arquitectura de capas duplicadas",
     "bajada": "Un desarrollador logró posición #1 en el leaderboard duplicando bloques de 7 capas en Qwen2-72B, con código desarrollado en 2x RTX 4090. Los 4 top modelos actuales son descendientes de este descubrimiento arquitectónico.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A developer achieved #1 position on the leaderboard by duplicating 7 layer blocks in Qwen2-72B, with code developed on 2x RTX 4090. The current top 4 models are descendants of this architectural discovery."
   },
   {
     "source": "Reddit r/artificial",
@@ -825,7 +893,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic demanda administración Trump por designación de 'riesgo'",
     "bajada": "Anthropic inició acciones legales contra la administración Trump para revertir una designación de riesgo en la cadena de suministro. El caso refleja tensiones regulatorias emergentes en la industria de IA.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "Anthropic initiated legal action against the Trump administration to reverse a supply chain risk designation. The case reflects emerging regulatory tensions in the AI industry."
   },
   {
     "source": "Reddit r/artificial",
@@ -837,7 +906,8 @@
     "_scraped_at": "18:42",
     "title_es": "¿Estamos en la era de los módems de la IA?",
     "bajada": "Un análisis compara el momento actual de LLMs con la era temprana de internet: tecnología primitiva pero transformadora. El desafío real no es mejorar modelos sino integrar conocimiento en sistemas y organizaciones reales.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "An analysis compares the current moment of LLMs to the early internet era: primitive but transformative technology. The real challenge is not improving models but integrating knowledge into real systems and organizations."
   },
   {
     "source": "Reddit r/artificial",
@@ -849,7 +919,8 @@
     "_scraped_at": "18:42",
     "title_es": "Amazon bloquea agente de shopping IA de Perplexity por orden judicial",
     "bajada": "Un tribunal otorgó a Amazon una orden para bloquear el agente de compra IA de Perplexity. La decisión marca un precedente en disputas sobre acceso a datos y competencia en mercados de IA.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "A court granted Amazon an order to block Perplexity's AI purchasing agent. The decision sets a precedent in disputes over data access and competition in AI markets."
   },
   {
     "source": "Reddit r/artificial",
@@ -861,7 +932,8 @@
     "_scraped_at": "18:42",
     "title_es": "Anthropic demanda Pentágono por lista negra de IA",
     "bajada": "Anthropic cuestiona judicialmente la inclusión de su empresa en una lista negra de proveedores de defensa. El caso refleja crecientes fricciones entre reguladores y empresas de IA sobre seguridad nacional.",
-    "categoria": "regulacion"
+    "categoria": "regulacion",
+    "bajada_en": "Anthropic challenges in court the inclusion of its company on a blacklist of defense suppliers. The case reflects growing friction between regulators and AI companies over national security."
   },
   {
     "source": "Reddit r/artificial",
@@ -873,7 +945,8 @@
     "_scraped_at": "18:42",
     "title_es": "¿Están VCs preparados para que IA disrumpa su propio sector?",
     "bajada": "Una pregunta que cuestiona si inversores que apuestan a disrupción de IA en cada industria están preparados para disrupciones en capital venture. Examina la aplicación reflexiva de la tecnología en su propio modelo de negocio.",
-    "categoria": "negocio"
+    "categoria": "negocio",
+    "bajada_en": "A question that challenges whether investors betting on AI disruption in every industry are prepared for disruptions in venture capital. It examines the reflexive application of technology in its own business model."
   },
   {
     "source": "arXiv AI",
@@ -885,7 +958,8 @@
     "_scraped_at": "18:42",
     "title_es": "Agentes IA autónomos para cobertura de opciones financieras",
     "bajada": "Investigadores presentan marcos de reinforcement learning (RLOP y QLBS) para gestión autónoma de riesgos en derivados. Los modelos reducen frecuencia de pérdidas y mejoran medidas de riesgo de cola en operaciones con opciones SPY y XOP.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Researchers present reinforcement learning frameworks (RLOP and QLBS) for autonomous risk management in derivatives. The models reduce the frequency of losses and improve tail risk measures in trading operations with SPY and XOP options."
   },
   {
     "source": "arXiv AI",
@@ -897,7 +971,8 @@
     "_scraped_at": "18:42",
     "title_es": "Benchmark open-source para investigación RL en StarCraft II",
     "bajada": "Se presenta Two-Bridge Map Suite, un benchmark intermedio para investigación de reinforcement learning en RTS. Aísla habilidades tácticas sin costo computacional completo, democratizando acceso a investigación moderna en entornos complejos.",
-    "categoria": "open-source"
+    "categoria": "open-source",
+    "bajada_en": "The Two-Bridge Map Suite is presented, an intermediate benchmark for reinforcement learning research in RTS. It isolates tactical skills without full computational cost, democratizing access to modern research in complex environments."
   },
   {
     "source": "arXiv AI",
@@ -909,7 +984,8 @@
     "_scraped_at": "18:42",
     "title_es": "MultiGen: Mundos multijugador editables con motores de difusión",
     "bajada": "Investigadores presentan un sistema que permite crear y editar mundos de videojuegos interactivos en tiempo real con soporte para múltiples jugadores. Usa memoria explícita y persistente para que los usuarios controlen el entorno mientras mantiene coherencia entre perspectivas de jugadores.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Researchers present a system that allows creating and editing interactive video game worlds in real time with support for multiple players. It uses explicit and persistent memory so users can control the environment while maintaining coherence across player perspectives."
   },
   {
     "source": "arXiv AI",
@@ -921,7 +997,8 @@
     "_scraped_at": "18:42",
     "title_es": "Best-of-Tails: Alineamiento adaptativo en tiempo de inferencia para LLMs",
     "bajada": "Un nuevo método equilibra optimismo y pesimismo al seleccionar respuestas de modelos de lenguaje usando modelos de recompensa imperfectos. Adapta la estrategia según la distribución de recompensas por prompt, mejorando tanto calidad como seguridad.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A new method balances optimism and pessimism when selecting responses from language models using imperfect reward models. It adapts the strategy based on the reward distribution per prompt, improving both quality and safety."
   },
   {
     "source": "arXiv AI",
@@ -933,7 +1010,8 @@
     "_scraped_at": "18:42",
     "title_es": "AceMAD: Debate multiagente que supera votación mayoritaria",
     "bajada": "Proponen un framework que mejora el razonamiento en LLMs mediante debate entre agentes, resolviendo el problema de convergencia hacia errores colectivos. Usa energía cognitiva asimétrica para que los agentes correctos influyan más en la conclusión final.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "They propose a framework that improves reasoning in LLMs through debate between agents, solving the problem of convergence toward collective errors. It uses asymmetric cognitive effort so correct agents have more influence on the final conclusion."
   },
   {
     "source": "arXiv LLM",
@@ -945,7 +1023,8 @@
     "_scraped_at": "18:42",
     "title_es": "ARC-AGI-2: Transformers que razonan abstracto con pocas muestras",
     "bajada": "Sistema basado en transformers que resuelve el benchmark ARC combinando codificación eficiente, aumentación simétrica y adaptación en tiempo de prueba. Logra razonamiento multi-perspectiva para generalizar más allá del reconocimiento de patrones.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A transformer-based system that solves the ARC benchmark by combining efficient encoding, symmetric augmentation, and test-time adaptation. It achieves multi-perspective reasoning to generalize beyond pattern recognition."
   },
   {
     "source": "arXiv LLM",
@@ -957,7 +1036,8 @@
     "_scraped_at": "18:42",
     "title_es": "Gramáticas PCFGs explican fenómenos mecanísticos en modelos de lenguaje",
     "bajada": "Estudio que usa gramáticas context-free probabilísticas para generar datos sintéticos que revelan cómo emergen comportamientos clave en transformers. Demuestra que estructuras jerárquicas en datos explican induction heads y otros fenómenos mecanísticos.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "A study using probabilistic context-free grammars to generate synthetic data that reveals how key behaviors emerge in transformers. It demonstrates that hierarchical structures in data explain induction heads and other mechanistic phenomena."
   },
   {
     "source": "arXiv LLM",
@@ -969,7 +1049,8 @@
     "_scraped_at": "18:42",
     "title_es": "HEF: Generación de código con recuperación eficiente sin inflación latencia",
     "bajada": "Método que comprime repositorios en vectores jerárquicos offline, transformando miles de tokens recuperados en pocos pseudo-tokens online. Logra calidad comparable a baselines mientras reduce latencia 13-26 veces en single GPU.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Method that compresses repositories into hierarchical offline vectors, transforming thousands of retrieved tokens into few pseudo-tokens online. Achieves quality comparable to baselines while reducing latency 13-26 times on single GPU."
   },
   {
     "source": "arXiv LLM",
@@ -981,7 +1062,8 @@
     "_scraped_at": "18:42",
     "title_es": "Jueces LLM son poco confiables para evaluar seguridad ante adversarios",
     "bajada": "Auditoría revela que evaluadores LLM fallan en medir robustez frente a jailbreaks, degradándose a precisión aleatoria. Muchos ataques parecen efectivos solo por explotar deficiencias del juez, no por genuina capacidad adversarial.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "Audit reveals that LLM evaluators fail to measure robustness against jailbreaks, degrading to random accuracy. Many attacks appear effective only by exploiting judge deficiencies, not through genuine adversarial capability."
   },
   {
     "source": "arXiv LLM",
@@ -993,6 +1075,7 @@
     "_scraped_at": "18:42",
     "title_es": "PerContrast: Personalización de LLMs a nivel de token",
     "bajada": "Proponen estimar qué tokens contribuyen a personalización usando intervención causal, luego entrenar con pérdida adaptativa que enfatiza esos tokens. Mejora respuestas personalizadas sin comprometer desempeño en tareas base.",
-    "categoria": "research"
+    "categoria": "research",
+    "bajada_en": "They propose estimating which tokens contribute to personalization using causal intervention, then training with adaptive loss that emphasizes those tokens. Improves personalized responses without compromising performance on base tasks."
   }
 ]

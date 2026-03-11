@@ -2,11 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import LanguageProvider from "@/components/LanguageProvider";
 
 export const metadata: Metadata = {
-  title: "5IA | Las 5 noticias de IA que importan hoy",
+  title: "5IA | AI News That Matter",
   description:
-    "Las noticias más importantes del mundo de la IA, filtradas y rankeadas diariamente por inteligencia artificial.",
+    "The most important AI news, filtered and ranked daily by artificial intelligence.",
 };
 
 export default function RootLayout({
@@ -15,13 +16,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es">
+    <html lang="en">
       <body className="min-h-screen flex flex-col">
-        <Header />
-        <main className="flex-1 max-w-4xl mx-auto w-full px-4 py-8">
-          {children}
-        </main>
-        <Footer />
+        <LanguageProvider>
+          <Header />
+          <main className="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+            {children}
+          </main>
+          <Footer />
+        </LanguageProvider>
       </body>
     </html>
   );

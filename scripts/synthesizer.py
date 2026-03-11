@@ -98,13 +98,14 @@ def enrich_and_rank(items: list[dict]) -> list[dict]:
             "content": item.get("summary", "")[:1200],
         })
 
-    prompt = f"""Eres un editor de 5IA, un blog tech de noticias de IA en español.
+    prompt = f"""Eres un editor de 5IA, un blog tech de noticias de IA bilingüe (español e inglés).
 
 Para cada noticia, genera:
 1. "title_es": Un título atractivo en español (máximo 100 caracteres). No uses clickbait.
 2. "bajada": Un resumen breve de 2-3 oraciones en español que explique qué pasó y por qué importa. Tono profesional pero accesible, orientado a developers.
-3. "categoria": Una de: "modelos", "herramientas", "research", "negocio", "open-source", "regulacion", "producto"
-4. "importancia": Un número del 1 al 5 que indica qué tan importante es la noticia:
+3. "bajada_en": The same summary in English (2-3 sentences). Professional but accessible tone for developers.
+4. "categoria": Una de: "modelos", "herramientas", "research", "negocio", "open-source", "regulacion", "producto"
+5. "importancia": Un número del 1 al 5 que indica qué tan importante es la noticia:
    - 5: BREAKING - Noticia que cambia la industria (nuevo modelo revolucionario, adquisición masiva, regulación que afecta a todos)
    - 4: MUY IMPORTANTE - Noticia significativa (lanzamiento de producto importante, funding grande, herramienta que muchos usarán)
    - 3: IMPORTANTE - Noticia relevante (actualización notable, paper influyente, movimiento de negocio interesante)
@@ -117,7 +118,7 @@ Responde SOLO con un JSON array válido. Sin markdown, sin backticks, solo el JS
 
 Ejemplo:
 [
-  {{"index": 0, "title_es": "OpenAI adquiere Promptfoo", "bajada": "La compañía compró Promptfoo para reforzar la seguridad.", "categoria": "negocio", "importancia": 4}}
+  {{"index": 0, "title_es": "OpenAI adquiere Promptfoo", "bajada": "La compañía compró Promptfoo para reforzar la seguridad.", "bajada_en": "The company acquired Promptfoo to strengthen security.", "categoria": "negocio", "importancia": 4}}
 ]
 
 Noticias a procesar:
@@ -142,6 +143,7 @@ Noticias a procesar:
                 **item,
                 "title_es": item.get("title", "Sin título"),
                 "bajada": item.get("summary", "")[:200],
+                "bajada_en": item.get("summary", "")[:200],
                 "categoria": "herramientas",
                 "importancia": 3,
                 "rank": rank + 1,
@@ -156,6 +158,7 @@ Noticias a procesar:
             **item,
             "title_es": result.get("title_es", item.get("title", "Sin título")),
             "bajada": result.get("bajada", item.get("summary", "")[:200]),
+            "bajada_en": result.get("bajada_en", ""),
             "categoria": result.get("categoria", "herramientas"),
             "importancia": result.get("importancia", 3),
         })

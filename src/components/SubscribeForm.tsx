@@ -1,11 +1,13 @@
 "use client";
 
 import { useState } from "react";
+import { useLang } from "./LanguageProvider";
 
 export default function SubscribeForm() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [message, setMessage] = useState("");
+  const { t } = useLang();
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -22,15 +24,15 @@ export default function SubscribeForm() {
 
       if (res.ok) {
         setStatus("success");
-        setMessage(data.message || "Suscrito exitosamente");
+        setMessage(data.message || t.subscribeSuccess);
         setEmail("");
       } else {
         setStatus("error");
-        setMessage(data.error || "Error al suscribirse");
+        setMessage(data.error || t.subscribeError);
       }
     } catch {
       setStatus("error");
-      setMessage("Error de conexion");
+      setMessage(t.connectionError);
     }
 
     setTimeout(() => setStatus("idle"), 4000);
@@ -43,11 +45,11 @@ export default function SubscribeForm() {
           5
         </div>
         <h3 className="font-mono font-semibold text-text-primary">
-          Suscribite a 5IA
+          {t.subscribeTitle}
         </h3>
       </div>
       <p className="text-text-secondary text-sm mb-4">
-        Recibe las 5 noticias de IA mas importantes del dia en tu inbox.
+        {t.subscribeDesc}
       </p>
 
       <form onSubmit={handleSubmit} className="flex gap-2">
@@ -55,7 +57,7 @@ export default function SubscribeForm() {
           type="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          placeholder="tu@email.com"
+          placeholder={t.subscribePlaceholder}
           required
           className="flex-1 bg-background border border-border rounded-md px-3 py-2 text-sm font-mono text-text-primary placeholder:text-text-secondary/50 focus:outline-none focus:border-accent transition-colors"
         />
@@ -64,7 +66,7 @@ export default function SubscribeForm() {
           disabled={status === "loading"}
           className="bg-accent hover:bg-accent/80 text-background font-mono font-semibold text-sm px-4 py-2 rounded-md transition-colors disabled:opacity-50"
         >
-          {status === "loading" ? "..." : "Suscribirse"}
+          {status === "loading" ? "..." : t.subscribeButton}
         </button>
       </form>
 
