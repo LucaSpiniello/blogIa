@@ -18,7 +18,7 @@ export default function Header() {
             </div>
             <div>
               <h1 className="font-mono font-bold text-text-primary text-xl leading-tight group-hover:text-accent transition-colors">
-                5IA
+                5AI
               </h1>
               <p className="text-text-secondary text-xs">
                 {t.tagline}

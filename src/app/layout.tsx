@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import LanguageProvider from "@/components/LanguageProvider";
 
 export const metadata: Metadata = {
-  title: "5IA | AI News That Matter",
+  title: "5AI | AI News That Matter",
   description:
     "The most important AI news, filtered and ranked daily by artificial intelligence.",
 };

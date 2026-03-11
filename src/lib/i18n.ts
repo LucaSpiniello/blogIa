@@ -8,7 +8,7 @@ export const translations = {
     navAbout: "/about",
 
     // Home
-    heading: "5IA",
+    heading: "5AI",
     emptyState: "No news yet. The pipeline runs 2 times per day.",
     newsCount: (n: number) => `${n} news`,
 
@@ -30,7 +30,7 @@ export const translations = {
     collapse: "← Collapse",
 
     // SubscribeForm
-    subscribeTitle: "Subscribe to 5IA",
+    subscribeTitle: "Subscribe to 5AI",
     subscribeDesc: "Get the 5 most important AI news of the day in your inbox.",
     subscribePlaceholder: "you@email.com",
     subscribeButton: "Subscribe",
@@ -39,13 +39,13 @@ export const translations = {
     connectionError: "Connection error",
 
     // Footer
-    footerTagline: "5IA — Made with AI, for curious humans",
+    footerTagline: "5AI — Made with AI, for curious humans",
     footerCredit: "Content curated and synthesized with Claude AI",
 
     // About
-    aboutTitle: "About 5IA",
+    aboutTitle: "About 5AI",
     aboutDesc:
-      "5IA is an automated blog that daily selects, filters and ranks the most important news from the world of artificial intelligence.",
+      "5AI is an automated blog that daily selects, filters and ranks the most important news from the world of artificial intelligence.",
     howItWorks: "How it works",
     steps: [
       "Scraping from 20+ sources (RSS + HTML) twice a day",
@@ -60,7 +60,7 @@ export const translations = {
     navHome: "/inicio",
     navAbout: "/about",
 
-    heading: "5IA",
+    heading: "5AI",
     emptyState:
       "No hay noticias todavia. El pipeline se ejecuta 2 veces al dia.",
     newsCount: (n: number) => `${n} noticias`,
@@ -79,7 +79,7 @@ export const translations = {
     moreNews: "// mas noticias",
     collapse: "← Colapsar",
 
-    subscribeTitle: "Suscribite a 5IA",
+    subscribeTitle: "Suscribite a 5AI",
     subscribeDesc:
       "Recibe las 5 noticias de IA mas importantes del dia en tu inbox.",
     subscribePlaceholder: "tu@email.com",
@@ -88,12 +88,12 @@ export const translations = {
     subscribeError: "Error al suscribirse",
     connectionError: "Error de conexion",
 
-    footerTagline: "5IA — Hecho con IA, para humanos curiosos",
+    footerTagline: "5AI — Hecho con IA, para humanos curiosos",
     footerCredit: "Contenido curado y sintetizado con Claude AI",
 
-    aboutTitle: "Sobre 5IA",
+    aboutTitle: "Sobre 5AI",
     aboutDesc:
-      "5IA es un blog automatizado que selecciona, filtra y rankea diariamente las noticias mas importantes del mundo de la inteligencia artificial.",
+      "5AI es un blog automatizado que selecciona, filtra y rankea diariamente las noticias mas importantes del mundo de la inteligencia artificial.",
     howItWorks: "Como funciona",
     steps: [
       "Scraping de +20 fuentes (RSS + HTML) dos veces al dia",

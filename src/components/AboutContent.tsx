@@ -19,7 +19,7 @@ export default function AboutContent() {
 
       <div className="border border-border rounded-lg bg-surface p-6 space-y-4 mb-8">
         <p className="text-text-secondary">
-          <strong className="text-text-primary">5IA</strong> {t.aboutDesc}
+          <strong className="text-text-primary">5AI</strong> {t.aboutDesc}
         </p>
 
         <h3 className="font-mono font-semibold text-accent-purple">

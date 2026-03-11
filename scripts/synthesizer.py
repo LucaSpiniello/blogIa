@@ -98,7 +98,7 @@ def enrich_and_rank(items: list[dict]) -> list[dict]:
             "content": item.get("summary", "")[:1200],
         })
 
-    prompt = f"""Eres un editor de 5IA, un blog tech de noticias de IA bilingüe (español e inglés).
+    prompt = f"""Eres un editor de 5AI, un blog tech de noticias de IA bilingüe (español e inglés).
 
 Para cada noticia, genera:
 1. "title_es": Un título atractivo en español (máximo 100 caracteres). No uses clickbait.
