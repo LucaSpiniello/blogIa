@@ -7,6 +7,9 @@ on:
     - cron: "0 22 * * *"  # 7 PM Argentina — noche
   workflow_dispatch: # Trigger manual desde GitHub
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
