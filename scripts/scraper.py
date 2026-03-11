@@ -1,15 +1,20 @@
-"""Scrapes AI news from multiple sources (RSS + HTML)."""
+"""Scrapes AI news from multiple sources (RSS + HTML). Only today's news."""
 
+import re
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from config import MAX_ARTICLE_CHARS
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; IAalDia/1.0; +https://github.com/LucaSpiniello/blogIa)"
 }
 REQUEST_TIMEOUT = 15
+
+# Only accept news from the last 24 hours
+CUTOFF = datetime.now() - timedelta(hours=36)
+TODAY_STR = date.today().isoformat()  # "2026-03-11"
 
 
 def scrape_source(source: dict) -> list[dict]:
@@ -28,21 +33,28 @@ def scrape_source(source: dict) -> list[dict]:
 
 
 def scrape_rss(source: dict) -> list[dict]:
-    """Parse an RSS feed and return recent items."""
+    """Parse an RSS feed and return only recent items (last 36h)."""
     feed = feedparser.parse(source["url"])
     items = []
-    cutoff = datetime.now() - timedelta(days=2)
 
     for entry in feed.entries[: source["max_items"]]:
-        published = ""
-        if hasattr(entry, "published_parsed") and entry.published_parsed:
-            pub_date = datetime(*entry.published_parsed[:6])
-            if pub_date < cutoff:
-                continue
-            published = pub_date.isoformat()
+        # Try to get publication date
+        pub_date = None
+        for date_field in ("published_parsed", "updated_parsed"):
+            parsed = getattr(entry, date_field, None)
+            if parsed:
+                pub_date = datetime(*parsed[:6])
+                break
+
+        # STRICT: skip items without a date or older than cutoff
+        if not pub_date:
+            continue
+        if pub_date < CUTOFF:
+            continue
+
+        published = pub_date.isoformat()
 
         summary = entry.get("summary", entry.get("description", ""))
-        # Clean HTML from summary
         if summary:
             soup = BeautifulSoup(summary, "html.parser")
             summary = soup.get_text(strip=True)[:MAX_ARTICLE_CHARS]
@@ -62,7 +74,7 @@ def scrape_rss(source: dict) -> list[dict]:
 
 
 def scrape_html(source: dict) -> list[dict]:
-    """Scrape an HTML page for article links."""
+    """Scrape an HTML page for article links. Tries to detect date from URL/page."""
     resp = requests.get(source["url"], headers=HEADERS, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -77,7 +89,10 @@ def scrape_html(source: dict) -> list[dict]:
         if href.startswith("/"):
             href = source["base_url"] + href
 
-        # Get title
+        # Try to detect date from URL (common pattern: /2026/03/11/ or /2026-03-11)
+        if not _url_is_recent(href):
+            continue
+
         title_el = (
             link_el.select_one(source["title_selector"])
             if source.get("title_selector")
@@ -89,8 +104,11 @@ def scrape_html(source: dict) -> list[dict]:
         if not title.strip():
             continue
 
-        # Try to fetch article content
-        summary = fetch_article_content(href)
+        summary, detected_date = fetch_article_with_date(href)
+
+        # If we detected a date from the page and it's old, skip
+        if detected_date and detected_date < CUTOFF:
+            continue
 
         items.append(
             {
@@ -98,7 +116,7 @@ def scrape_html(source: dict) -> list[dict]:
                 "title": title.strip(),
                 "link": href,
                 "summary": summary,
-                "published": "",
+                "published": detected_date.isoformat() if detected_date else "",
             }
         )
 
@@ -106,14 +124,63 @@ def scrape_html(source: dict) -> list[dict]:
     return items
 
 
-def fetch_article_content(url: str) -> str:
-    """Fetch an article page and extract main text content."""
+def _url_is_recent(url: str) -> bool:
+    """Check if URL contains a date pattern and if so, whether it's recent."""
+    # Match patterns like /2026/03/11 or /2026-03-11
+    date_pattern = re.search(r"(\d{4})[/-](\d{2})[/-](\d{2})", url)
+    if date_pattern:
+        try:
+            url_date = datetime(
+                int(date_pattern.group(1)),
+                int(date_pattern.group(2)),
+                int(date_pattern.group(3)),
+            )
+            return url_date >= CUTOFF
+        except ValueError:
+            pass
+    # No date in URL — allow through (GitHub, Anthropic, etc. don't have dates in URLs)
+    return True
+
+
+def fetch_article_with_date(url: str) -> tuple[str, datetime | None]:
+    """Fetch article content and try to extract publication date."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Try common article containers
+        # Try to detect date from meta tags
+        detected_date = None
+        for meta_name in (
+            "article:published_time",
+            "datePublished",
+            "publication_date",
+            "og:article:published_time",
+        ):
+            meta = soup.find("meta", {"property": meta_name}) or soup.find(
+                "meta", {"name": meta_name}
+            )
+            if meta and meta.get("content"):
+                try:
+                    detected_date = datetime.fromisoformat(
+                        meta["content"].replace("Z", "+00:00").split("+")[0]
+                    )
+                    break
+                except ValueError:
+                    pass
+
+        # Also check <time> tags
+        if not detected_date:
+            time_tag = soup.find("time", {"datetime": True})
+            if time_tag:
+                try:
+                    detected_date = datetime.fromisoformat(
+                        time_tag["datetime"].replace("Z", "+00:00").split("+")[0]
+                    )
+                except ValueError:
+                    pass
+
+        # Extract content
         article = (
             soup.find("article")
             or soup.find("main")
@@ -122,13 +189,12 @@ def fetch_article_content(url: str) -> str:
         )
 
         if article:
-            # Remove scripts, styles, navs
             for tag in article.find_all(["script", "style", "nav", "footer"]):
                 tag.decompose()
             text = article.get_text(separator=" ", strip=True)
         else:
             text = soup.get_text(separator=" ", strip=True)
 
-        return text[:MAX_ARTICLE_CHARS]
+        return text[:MAX_ARTICLE_CHARS], detected_date
     except Exception:
-        return ""
+        return "", None

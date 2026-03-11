@@ -22,18 +22,25 @@ def filter_relevant(items: list[dict]) -> list[dict]:
     client = anthropic.Anthropic()
 
     # Build compact summaries for scoring
+    from datetime import date
+    today = date.today().isoformat()
+
     compact = []
     for i, item in enumerate(items):
         compact.append({
             "i": i,
             "source": item.get("source", ""),
             "title": item.get("title", "")[:150],
+            "published": item.get("published", ""),
             "snippet": item.get("summary", "")[:300],
         })
 
     prompt = f"""Eres un editor jefe de un blog de noticias de IA para developers.
+Hoy es {today}.
 
 De las siguientes {len(compact)} noticias, selecciona las {MAX_NEWS_PER_RUN} más relevantes e importantes.
+
+REGLA CRÍTICA: Solo incluir noticias de HOY o de ayer. Si una noticia tiene fecha ("published") y es de hace más de 2 días, DESCÁRTALA sin importar qué tan relevante sea. Si no tiene fecha, evalúala por su contenido pero con sospecha.
 
 Criterios de selección (en orden de prioridad):
 1. Lanzamientos de nuevos modelos, APIs o productos de IA
@@ -44,11 +51,14 @@ Criterios de selección (en orden de prioridad):
 6. Noticias que afectan directamente a developers
 
 Descarta:
+- CUALQUIER noticia que no sea reciente (últimas 48h)
 - Noticias repetidas o muy similares entre sí (quedarse con la mejor fuente)
 - Posts genéricos de blog sin novedad real
 - Repos de GitHub que no están relacionados con IA
 - Papers muy nicho o incrementales
 - Noticias viejas reempaquetadas
+
+Si hay menos de {MAX_NEWS_PER_RUN} noticias recientes y relevantes, devuelve solo las que califiquen (puede ser menos de {MAX_NEWS_PER_RUN}).
 
 Responde SOLO con un JSON array de los índices seleccionados, ordenados por relevancia (más importante primero).
 Ejemplo: [3, 15, 7, 22, 1, ...]
