@@ -178,5 +178,29 @@
     "title_es": "MASEval: evaluación de sistemas multi-agente más allá de modelos",
     "bajada": "Investigadores presentaron MASEval, un framework que evalúa sistemas agénticos completos en lugar de solo modelos, considerando topología, orquestación y manejo de errores. El estudio encontró que la elección de framework importa tanto como la elección del modelo.",
     "categoria": "research"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+    "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+    "published": "2026-03-11T16:12:02",
+    "_id": "d523cb92325d2eea",
+    "_scraped_at": "16:18",
+    "title_es": "Mind Robotics recauda $500M para robots IA en industria",
+    "bajada": "El startup creado por el fundador de Rivian levantó financiación Serie A para desarrollar robots impulsados por IA enfocados en aplicaciones industriales. La compañía entrenará sus modelos con datos de las fábricas de Rivian, combinando experiencia en manufactura con capacidades de IA avanzada.",
+    "categoria": "negocio"
+  },
+  {
+    "source": "Reddit r/MachineLearning",
+    "title": "[P] Structured Prompting for Extremely Low-Resource Languages: 80% → 5% Vocabulary Contamination, No Fine-Tuning",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rqxr78/p_structured_prompting_for_extremely_lowresource/",
+    "summary": "Most low-resource language research assumes you can fine-tune. But what happens when a language has ~2M speakers, no official script standardization, near-zero web presence, and you're working with a frozen model?We ran into this withTulu, a Dravidian language from coastal Karnataka, India. The core failure mode is consistent across models, i.e, a prompt in Tulu, get Kannada back. The models aren't hallucinating randomly, instead they're collapsing to the nearest high-probability neighbor in the training distribution. Vocabulary contamination in baseline outputs was sitting at ~80%.Our approach: a 5-layer structured promptRather than treating this as a retrieval or fine-tuning problem, we decomposed the prompt into explicit layers:Phonological grounding: Tulu's retroflex consonants and vowel length distinctions injected directlyMorphological rules: agglutinative verb structure, case markers, with contrastive Kannada examplesNegative constraints: explicitly suppressing high-frequency Kannada lexical bleed (e.g.,ಇದೆ→ಉಂಡು)Romanization standardization: since Tulu has no dominant script, we needed a consistent transliteration anchorSelf-play synthetic examples: quality-controlled in-context demonstrations generated via iterative model critiqueResults (validated by native speakers):Vocabulary contamination:80% → 5%Grammatical accuracy:85%Tested across GPT-4o, Gemini 2.0 Flash, Llama 3.1 70BWhat's interesting (and unresolved):The negative constraint layer did more work than we expected, which is, more than the grammar documentation alone. This raises a question we don't fully answer: is the model actually \"learning\" Tulu grammar from the prompt, or is it primarily doing constrained Kannada generation with lexical substitution? Native speaker evals suggest real grammar is being respected, but we can't rule out the latter cleanly.Also worth noting: the self-play loop was surprisingly sensitive to the critique prompt. Small changes in the evaluator instruction shifted output ",
+    "published": "2026-03-11T16:00:49",
+    "_id": "5746a80313afc85c",
+    "_scraped_at": "16:18",
+    "title_es": "Prompting estructurado reduce contaminación de vocabulario en lenguas indígenas",
+    "bajada": "Investigadores desarrollaron una técnica de prompting multicapa que reduce de 80% a 5% la contaminación de vocabulario al usar modelos de IA con lenguas de bajo recurso como el Tulu. El método descompone instrucciones en capas lingüísticas explícitas sin necesidad de fine-tuning, abriendo posibilidades para idiomas marginalizados.",
+    "categoria": "research"
   }
 ]
