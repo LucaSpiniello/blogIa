@@ -202,5 +202,17 @@
     "title_es": "Prompting estructurado reduce contaminación de vocabulario en lenguas indígenas",
     "bajada": "Investigadores desarrollaron una técnica de prompting multicapa que reduce de 80% a 5% la contaminación de vocabulario al usar modelos de IA con lenguas de bajo recurso como el Tulu. El método descompone instrucciones en capas lingüísticas explícitas sin necesidad de fine-tuning, abriendo posibilidades para idiomas marginalizados.",
     "categoria": "research"
+  },
+  {
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Nemotron 3 Super Released",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rqy3cx/nemotron_3_super_released/",
+    "summary": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/?nvid=nv-int-csfg-844859120B MoE, 12B active.submitted by/u/deeceeo[link][comments]",
+    "published": "2026-03-11T16:12:40",
+    "_id": "afa2ddaf888f87ea",
+    "_scraped_at": "16:30",
+    "title_es": "NVIDIA lanza Nemotron 3 Super, modelo open-source híbrido",
+    "bajada": "NVIDIA liberó Nemotron 3 Super, un modelo de 12B parámetros activos que combina arquitectura Mamba-Transformer con Mixture of Experts (MoE). Diseñado para razonamiento en agentes, ofrece una opción open-source eficiente para developers que buscan modelos locales de alto rendimiento.",
+    "categoria": "modelos"
   }
 ]
