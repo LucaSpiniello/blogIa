@@ -208,5 +208,33 @@
     "categoria": "negocio",
     "importancia": 1,
     "rank": 15
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+    "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+    "published": "2026-03-11T22:00:05",
+    "_id": "2545e8b44df95bd4",
+    "_scraped_at": "22:16",
+    "title_es": "Netflix habría pagado $600M por startup de IA de Ben Affleck",
+    "bajada": "Netflix estaría negociando la adquisición de una startup de IA vinculada a Ben Affleck por aproximadamente $600 millones, lo que la posicionaría entre las mayores compras en la historia del servicio de streaming. La operación reflejaría el apetito de las plataformas de contenido por integrar tecnología de IA en sus operaciones.",
+    "categoria": "negocio",
+    "importancia": 4,
+    "rank": 1
+  },
+  {
+    "source": "Reddit r/MachineLearning",
+    "title": "[D] Can we stop glazing big labs and universities?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rr7vup/d_can_we_stop_glazing_big_labs_and_universities/",
+    "summary": "I routinely see posts describing a paper with 15+ authors, the middlemost one being a student intern at Google, described in posts as \"Google invents revolutionary new architecture...\" Same goes for papers where some subset of the authors are at Stanford or MIT, even non-leads.Large research orgs aren't monoliths. There are good and weak researchers everywhere, even Stanford. Believe it or not, a postdoc at a non-elite university might indeed be a stronger and more influential researcher than a first-year graduate student at Stanford.It's a good idea to judge research on its own merit. Arguably one of the stronger aspects of the ML research culture is that advances can come from anyone, whereas in fields like biology most researchers and institutions are completely shut out from publishing in Nature, etc.Typically the first author did the majority of the work, and the last author supervised. Just because author N//2 did an internship somewhere elite doesn't mean that their org \"owns\" the discovery.We all understand the benefits and strength of the large research orgs, but it's important to assign credit fairly. Otherwise, we end up in some sort of feedback loop where every crummy paper from a large orgs get undue attention, and we miss out on major advances from less well-connected teams. This is roughly the corner that biology backed itself into, and I'd hate to see this happen in ML research.submitted by/u/kdfn[link][comments]",
+    "published": "2026-03-11T21:59:18",
+    "_id": "68bbafd8e4f8a65e",
+    "_scraped_at": "22:16",
+    "title_es": "La comunidad ML critica el sesgo hacia grandes laboratorios en investigación",
+    "bajada": "Un debate en Reddit cuestiona cómo se atribuye crédito en papers de IA, señalando que la afiliación a universidades élite o grandes laboratorios (Google, Stanford, MIT) no garantiza calidad ni liderazgo real del trabajo. La discusión plantea la importancia de evaluar investigación por mérito propio, especialmente en una comunidad que históricamente ha valorado contribuciones de cualquier procedencia.",
+    "categoria": "research",
+    "importancia": 2,
+    "rank": 2
   }
 ]
