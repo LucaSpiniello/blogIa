@@ -17,6 +17,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
@@ -34,4 +38,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/news/ content/raw/
-          git diff --cached --quiet || (git commit -m "Update AI news for $(date +%Y-%m-%d) [run $(date +%H:%M)]" && git push)
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update AI news for $(date +%Y-%m-%d) [run $(date +%H:%M)]"
+          git push
+
+      - name: Deploy to Vercel
+        run: |
+          npm i -g vercel
+          vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+          vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+          vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
