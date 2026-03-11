@@ -2,10 +2,9 @@ name: Daily AI News Pipeline
 
 on:
   schedule:
-    # 3 corridas diarias (UTC) — ajustar según tu zona horaria
-    - cron: "0 7 * * *"   # 7 AM UTC  — mañana
-    - cron: "0 13 * * *"  # 1 PM UTC  — mediodía
-    - cron: "0 20 * * *"  # 8 PM UTC  — noche
+    # 2 corridas diarias (UTC) — Argentina es UTC-3
+    - cron: "0 12 * * *"  # 9 AM Argentina — mañana
+    - cron: "0 22 * * *"  # 7 PM Argentina — noche
   workflow_dispatch: # Trigger manual desde GitHub
 
 jobs:
@@ -22,7 +21,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Pull latest (may have previous run today)
-        run: git pull --rebase origin main || true
+        run: git pull --rebase origin master || true
 
       - name: Run scraping + synthesis pipeline
         env:
@@ -30,9 +29,9 @@ jobs:
         working-directory: scripts
         run: python run_pipeline.py
 
-      - name: Commit and push updated post
+      - name: Commit and push updated news
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/posts/ content/raw/
+          git add content/news/ content/raw/
           git diff --cached --quiet || (git commit -m "Update AI news for $(date +%Y-%m-%d) [run $(date +%H:%M)]" && git push)
