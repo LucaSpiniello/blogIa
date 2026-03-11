@@ -7,8 +7,9 @@ Supports running N times per day — each run adds new items without duplicates.
 
 import json
 import os
+import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from hashlib import sha256
 from pathlib import Path
 
@@ -24,11 +25,39 @@ CONTENT_DIR = Path(__file__).parent.parent / "content"
 RAW_DIR = CONTENT_DIR / "raw"
 NEWS_DIR = CONTENT_DIR / "news"
 
+# Máximo de días a retener
+MAX_DAYS_RETAINED = 3
+
 
 def item_id(item: dict) -> str:
     """Generate a unique ID for a news item based on link or title."""
     key = item.get("link") or item.get("title", "")
     return sha256(key.encode()).hexdigest()[:16]
+
+
+def cleanup_old_files():
+    """Delete news and raw JSON files older than MAX_DAYS_RETAINED days."""
+    cutoff = date.today() - timedelta(days=MAX_DAYS_RETAINED)
+    deleted = 0
+
+    for directory in (NEWS_DIR, RAW_DIR):
+        if not directory.exists():
+            continue
+        for f in directory.glob("*.json"):
+            # Extract date from filename (e.g., 2026-03-10.json)
+            match = re.match(r"(\d{4}-\d{2}-\d{2})\.json$", f.name)
+            if not match:
+                continue
+            try:
+                file_date = date.fromisoformat(match.group(1))
+                if file_date < cutoff:
+                    f.unlink()
+                    deleted += 1
+                    print(f"  Borrado: {f}")
+            except ValueError:
+                continue
+
+    return deleted
 
 
 def load_existing_raw(today: str) -> dict:
@@ -128,6 +157,15 @@ def main():
 
     sources = list(set(item.get("source", "") for item in all_news))
     print(f"[OK] Fuentes: {', '.join(sorted(sources))}")
+
+    # Step 4: Cleanup old files
+    print("\n[4/4] Limpiando archivos antiguos...\n")
+    deleted = cleanup_old_files()
+    if deleted:
+        print(f"[OK] {deleted} archivos antiguos eliminados (>{MAX_DAYS_RETAINED} días)")
+    else:
+        print("[OK] Nada que limpiar")
+
     print(f"\n{'='*50}")
     print(f"  Pipeline completado!")
     print(f"{'='*50}\n")
