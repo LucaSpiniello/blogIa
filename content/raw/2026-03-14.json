@@ -1,0 +1,499 @@
+{
+  "date": "2026-03-14",
+  "items": [
+    {
+      "source": "Hugging Face",
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "summary": "",
+      "published": "2026-03-13T20:00:00",
+      "_id": "06ab8c1f735ced1f",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Where things stand with the Department of WarAnnouncementsMar 5, 2026A statement from Dario Amodei.",
+      "link": "https://www.anthropic.com/news/where-stand-department-war",
+      "summary": "Announcements Policy Where things stand with the Department of War Mar 5, 2026 A statement from Dario Amodei Yesterday (March 4) Anthropic received a letter from the Department of War confirming that we have been designated as a supply chain risk to America’s national security. As we wrote on Friday , we do not believe this action is legally sound, and we see no choice but to challenge it in court. The language used by the Department of War in the letter (even supposing it was legally sound) matches our statement on Friday that the vast majority of our customers are unaffected by a supply chain risk designation. With respect to our customers, it plainly applies only to the use of Claude by customers as a direct part of contracts with the Department of War, not all use of Claude by customers who have such contracts. The Department’s letter has a narrow scope, and this is because the relevant statute ( 10 USC 3252 ) is narrow, too. It exists to protect the government rather than to punish a supplier; in fact, the law requires the Secretary of War to use the least restrictive means necessary to accomplish the goal of protecting the supply chain. Even for Department of War contractors, the supply chain risk designation doesn’t (and can’t) limit uses of Claude or business relationships with Anthropic if those are unrelated to their specific Department of War contracts. I would like to reiterate that we had been having productive conversations with the Department of War over the last several days, both about ways we could serve the Department that adhere to our two narrow exceptions, and ways for us to ensure a smooth transition if that is not possible. As we wrote on Thursday , we are very proud of the work we have done together with the Department, supporting frontline warfighters with applications such as intelligence analysis, modeling and simulation, operational planning, cyber operations, and more. As we stated last Friday , we do not believe, and have never believe",
+      "published": "",
+      "_id": "d3ae286e89daf459",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 27, 2026Statement on the comments from Secretary of War Pete HegsethAnthropic's response to the Secretary of War and advice to customers.",
+      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "summary": "Announcements Policy Statement on the comments from Secretary of War Pete Hegseth Feb 27, 2026 Earlier today, Secretary of War Pete Hegseth shared on X that he is directing the Department of War to designate Anthropic a supply chain risk. This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons. We have not yet received direct communication from the Department of War or the White House on the status of our negotiations. We have tried in good faith to reach an agreement with the Department of War, making clear that we support all lawful uses of AI for national security aside from the two narrow exceptions above. To the best of our knowledge, these exceptions have not affected a single government mission to date. We held to our exceptions for two reasons. First, we do not believe that today’s frontier AI models are reliable enough to be used in fully autonomous weapons. Allowing current models to be used in this way would endanger America’s warfighters and civilians. Second, we believe that mass domestic surveillance of Americans constitutes a violation of fundamental rights. Designating Anthropic as a supply chain risk would be an unprecedented action—one historically reserved for US adversaries, never before publicly applied to an American company. We are deeply saddened by these developments. As the first frontier AI company to deploy models in the US government’s classified networks, Anthropic has supported American warfighters since June 2024 and has every intention of continuing to do so. We believe this designation would both be legally unsound and set a dangerous precedent for any American company that negotiates with the government. No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons. We will challenge any ",
+      "published": "",
+      "_id": "ca2bdfcccfa09e4d",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 26, 2026Statement from Dario Amodei on our discussions with the Department of WarA statement from our CEO on national security uses of AI.",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "summary": "Announcements Policy Statement from Dario Amodei on our discussions with the Department of War Feb 26, 2026 I believe deeply in the existential importance of using AI to defend the United States and other democracies, and to defeat our autocratic adversaries. Anthropic has therefore worked proactively to deploy our models to the Department of War and the intelligence community. We were the first frontier AI company to deploy our models in the US government’s classified networks, the first to deploy them at the National Laboratories , and the first to provide custom models for national security customers. Claude is extensively deployed across the Department of War and other national security agencies for mission-critical applications, such as intelligence analysis, modeling and simulation, operational planning, cyber operations, and more. Anthropic has also acted to defend America’s lead in AI, even when it is against the company’s short-term interest. We chose to forgo several hundred million dollars in revenue to cut off the use of Claude by firms linked to the Chinese Communist Party (some of whom have been designated by the Department of War as Chinese Military Companies), shut down CCP-sponsored cyberattacks that attempted to abuse Claude, and have advocated for strong export controls on chips to ensure a democratic advantage. Anthropic understands that the Department of War, not private companies, makes military decisions. We have never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner. However, in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values. Some uses are also simply outside the bounds of what today’s technology can safely and reliably do. Two such use cases have never been included in our contracts with the Department of War, and we believe they should not be included now: Mass domestic surveillance. We support the use of AI for lawful foreign inte",
+      "published": "",
+      "_id": "1dfaa948d064af05",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "published": "2026-03-14T00:12:22",
+      "_id": "d999f83a0a234d89",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "published": "2026-03-14T00:01:02",
+      "_id": "c3ff21e4bcf21379",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "published": "2026-03-13T21:37:01",
+      "_id": "8ebaae0adb25a5a2",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "published": "2026-03-13T19:47:58",
+      "_id": "8486a2020e80bf10",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The biggest AI stories of the year (so far)",
+      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "published": "2026-03-13T19:38:11",
+      "_id": "0d96d5f2d7984b75",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that […]",
+      "published": "2026-03-13T20:51:48",
+      "_id": "ec11b3d1ae6eb92b",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "published": "2026-03-13T20:18:08",
+      "_id": "9fc7e22e83700730",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Why physical AI is becoming manufacturing’s next advantage",
+      "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
+      "published": "2026-03-13T15:16:55",
+      "_id": "7d7bf852971182ec",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+      "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions  The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
+      "published": "2026-03-13T12:16:56",
+      "_id": "f937b11623200a9e",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Future AI chips could be built on glass",
+      "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and…",
+      "published": "2026-03-13T09:00:00",
+      "_id": "b3d360f5656fe614",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Wired",
+      "title": "Google's AI Search Results Love to Refer You Back to Google",
+      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+      "published": "2026-03-13T12:31:55",
+      "_id": "1814069a4a486497",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Wired",
+      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+      "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+      "published": "2026-03-13T12:00:00",
+      "_id": "fe145490b1fb966d",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Wired",
+      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
+      "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
+      "published": "2026-03-13T11:00:00",
+      "_id": "f6e3cb6a652debf6",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Wired",
+      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "published": "2026-03-13T10:00:00",
+      "_id": "98ba758974d47195",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "volcengine /OpenViking",
+      "link": "https://github.com/volcengine/OpenViking",
+      "summary": "OpenViking: The Context Database for AI Agents English / 中文 Website · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X Overview Challenges in Agent Development In the AI era, data is abundant, but high-quality context is hard to come by. When building AI Agents, developers often face these challenges: Fragmented Context : Memories are in code, resources are in vector databases, and skills are scattered, making them difficult to manage uniformly. Surging Context Demand : An Agent's long-running tasks produce context at every execution. Simple truncation or compression leads to information loss. Poor Retrieval Effectiveness : Traditional RAG uses flat storage, lacking a global view and making it difficult to understand the full context of information. Unobservable Context : The implicit retrieval chain of traditional RAG is like a black box, making it hard to debug when errors occur. Limited Memory Iteration : Current memory is just a record of user interactions, lacking Agent-related task memory. The OpenViking Solution OpenViking is an open-source Context Database designed specifically for AI Agents. We aim to define a minimalist context interaction paradigm for Agents, allowing developers to completely say goodbye to the hassle of context management. OpenViking abandons the fragmented vector storage model of traditional RAG and innovatively adopts a \"file system paradigm\" to unify the structured organization of memories, resources, and skills needed by Agents. With OpenViking, developers can build an Agent's brain just like managing local files: Filesystem Management Paradigm → Solves Fragmentation : Unified context management of memories, resources, and skills based on a filesystem paradigm. Tiered Context Loading → Reduces Token Consumption : L0/L1/L2 three-tier structure, loaded on demand, significantly saving costs. Directory Recursive Retrieval → Improves Retrieval Effect : Supports native filesystem retrieval methods, combining ",
+      "published": "",
+      "_id": "876fe6c1edb8596c",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. Structure /plugins - Internal plugins developed and maintained by Anthropic /external_plugins - Third-party plugins from partners and the community Installation Plugins can be installed directly from this marketplace via Claude Code's plugin system. To install, run /plugin install {plugin-name}@claude-plugin-directory or browse for the plugin in /plugin > Discover Contributing Internal Plugins Internal plugins are developed by Anthropic team members. See /plugins/example-plugin for a reference implementation. External Plugins Third-party partners can submit plugins for inclusion in the marketplace. External plugins must meet quality and security standards for approval. To submit a new plugin, use the plugin directory submission form . Plugin Structure Each plugin follows a standard structure: plugin-name/\n├── .claude-plugin/\n│   └── plugin.json      # Plugin metadata (required)\n├── .mcp.json            # MCP server configuration (optional)\n├── commands/            # Slash commands (optional)\n├── agents/              # Agent definitions (optional)\n├── skills/              # Skill definitions (optional)\n└── README.md            # Documentation License Please see each linked plugin for the relevant LICENSE file. Documentation For more information on developing Claude Code plugins, see the official documentation .",
+      "published": "",
+      "_id": "02eab667df448997",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "dimensionalOS /dimos",
+      "link": "https://github.com/dimensionalOS/dimos",
+      "summary": "The Agentive Operating System for Physical Space Hardware • Installation • Agent CLI & MCP • Blueprints • Development ⚠️ Pre-Release Beta ⚠️ Intro Dimensional is the modern operating system for generalist robotics. We are setting the next-generation SDK standard, integrating with the majority of robot manufacturers. With a simple install and no ROS required, build physical applications entirely in python that run on any humanoid, quadruped, or drone. Dimensional is agent native -- \"vibecode\" your robots in natural language and build (local & hosted) multi-agent systems that work seamlessly with your hardware. Agents run as native modules — subscribing to any embedded stream, from perception (lidar, camera) and spatial memory down to control loops and motor drivers. Navigation and Mapping SLAM, dynamic obstacle avoidance, route planning, and autonomous exploration — via both DimOS native and ROS Watch video Perception Detectors, 3d projections, VLMs, Audio processing Agentive Control, MCP \"hey Robot, go find the kitchen\" Watch video Spatial Memory Spatio-temporal RAG, Dynamic memory, Object localization and permanence Watch video Hardware Quadruped Humanoid Arm Drone Misc 🟩 Unitree Go2 pro/air 🟥 Unitree B1 🟨 Unitree G1 🟨 Xarm 🟨 AgileX Piper 🟧 MAVLink 🟧 DJI Mavic 🟥 Force Torque Sensor 🟩 stable 🟨 beta 🟧 alpha 🟥 experimental Important 🤖 Direct your favorite Agent (OpenClaw, Claude Code, etc.) to AGENTS.md and our CLI and MCP interfaces to start building powerful Dimensional applications. Installation Interactive Install curl -fsSL https://raw.githubusercontent.com/dimensionalOS/dimos/main/scripts/install.sh | bash See scripts/install.sh --help for non-interactive and advanced options. Manual System Install To set up your system dependencies, follow one of these guides: 🟩 Ubuntu 22.04 / 24.04 🟩 NixOS / General Linux 🟧 macOS Full system requirements, tested configs, and dependency tiers: docs/requirements.md Python Install Quickstart uv venv --python \" 3.12 \" source .venv",
+      "published": "",
+      "_id": "bdef1ca220680813",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "p-e-w /heretic",
+      "link": "https://github.com/p-e-w/heretic",
+      "summary": "Heretic: Fully automatic censorship removal for language models Heretic is a tool that removes censorship (aka \"safety alignment\") from\ntransformer-based language models without expensive post-training.\nIt combines an advanced implementation of directional ablation, also known\nas \"abliteration\" ( Arditi et al. 2024 ,\nLai 2025 ( 1 , 2 )),\nwith a TPE-based parameter optimizer powered by Optuna . This approach enables Heretic to work completely automatically. Heretic\nfinds high-quality abliteration parameters by co-minimizing the number of\nrefusals and the KL divergence from the original model. This results in a\ndecensored model that retains as much of the original model's intelligence\nas possible. Using Heretic does not require an understanding of transformer\ninternals. In fact, anyone who knows how to run a command-line program\ncan use Heretic to decensor language models. Running unsupervised with the default configuration, Heretic can produce\ndecensored models that rival the quality of abliterations created manually\nby human experts: Model Refusals for \"harmful\" prompts KL divergence from original model for \"harmless\" prompts google/gemma-3-12b-it (original) 97/100 0 (by definition) mlabonne/gemma-3-12b-it-abliterated-v2 3/100 1.04 huihui-ai/gemma-3-12b-it-abliterated 3/100 0.45 p-e-w/gemma-3-12b-it-heretic (ours) 3/100 0.16 The Heretic version, generated without any human effort, achieves the same\nlevel of refusal suppression as other abliterations, but at a much lower\nKL divergence, indicating less damage to the original model's capabilities. (You can reproduce those numbers using Heretic's built-in evaluation functionality,\ne.g. heretic --model google/gemma-3-12b-it --evaluate-model p-e-w/gemma-3-12b-it-heretic .\nNote that the exact values might be platform- and hardware-dependent.\nThe table above was compiled using PyTorch 2.8 on an RTX 5090.) Of course, mathematical metrics and automated benchmarks never tell the whole\nstory, and are no substitute for human eva",
+      "published": "",
+      "_id": "3db40af345d5afa2",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "langflow-ai /openrag",
+      "link": "https://github.com/langflow-ai/openrag",
+      "summary": "OpenRAG Intelligent Agent-powered document search OpenRAG is a comprehensive Retrieval-Augmented Generation platform that enables intelligent document search and AI-powered conversations. Users can upload, process, and query documents through a chat interface backed by large language models and semantic search capabilities. The system utilizes Langflow for document ingestion, retrieval workflows, and intelligent nudges, providing a seamless RAG experience. Check out the documentation or get started with the quickstart . Built with FastAPI and Next.js .\nPowered by OpenSearch , Langflow , and Docling . ✨ Highlight Features Pre-packaged & ready to run - All core tools are hooked up and ready to go, just install and run Agentic RAG workflows - Advanced orchestration with re-ranking and multi-agent coordination Document ingestion - Handles messy, real-world data with intelligent parsing Drag-and-drop workflow builder - Visual interface powered by Langflow for rapid iteration Modular enterprise add-ons - Extend functionality when you need it Enterprise search at any scale - Powered by OpenSearch for production-grade performance 🔄 How OpenRAG Works OpenRAG follows a streamlined workflow to transform your documents into intelligent, searchable knowledge: 🚀 Install OpenRAG To get started with OpenRAG, see the installation guides in the OpenRAG documentation: Quickstart Install the OpenRAG Python package Deploy self-managed services with Docker or Podman ✨ Quick Start Workflow 1. Launch OpenRAG ↓ 2. Add Knowledge ↓ 3. Start Chatting 📦 SDKs Integrate OpenRAG into your applications with our official SDKs: Python SDK pip install openrag-sdk Quick Example: import asyncio from openrag_sdk import OpenRAGClient async def main (): async with OpenRAGClient () as client : response = await client . chat . create ( message = \"What is RAG?\" ) print ( response . response ) if __name__ == \"__main__\" : asyncio . run ( main ()) 📖 Full Python SDK Documentation TypeScript/JavaScript SDK npm ins",
+      "published": "",
+      "_id": "e511d6537c8554f6",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "lightpanda-io /browser",
+      "link": "https://github.com/lightpanda-io/browser",
+      "summary": "Lightpanda Browser lightpanda.io Lightpanda is the open-source browser made for headless usage: Javascript execution Support of Web APIs (partial, WIP) Compatible with Playwright 1 , Puppeteer, chromedp through CDP Fast web automation for AI agents, LLM training, scraping and testing: Ultra-low memory footprint (9x less than Chrome) Exceptionally fast execution (11x faster than Chrome) Instant startup Puppeteer requesting 100 pages from a local website on a AWS EC2 m5.large instance.\nSee benchmark details . Quick start Install Install from the nightly builds You can download the last binary from the nightly\nbuilds for\nLinux x86_64 and MacOS aarch64. For Linux curl -L -o lightpanda https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-x86_64-linux && \\ chmod a+x ./lightpanda For MacOS curl -L -o lightpanda https://github.com/lightpanda-io/browser/releases/download/nightly/lightpanda-aarch64-macos && \\ chmod a+x ./lightpanda For Windows + WSL2 The Lightpanda browser is compatible to run on windows inside WSL. Follow the Linux instruction for installation from a WSL terminal.\nIt is recommended to install clients like Puppeteer on the Windows host. Install from Docker Lightpanda provides official Docker\nimages for both Linux amd64 and\narm64 architectures.\nThe following command fetches the Docker image and starts a new container exposing Lightpanda's CDP server on port 9222 . docker run -d --name lightpanda -p 9222:9222 lightpanda/browser:nightly Dump a URL ./lightpanda fetch --obey_robots --log_format pretty  --log_level info https://demo-browser.lightpanda.io/campfire-commerce/ INFO  telemetry : telemetry status . . . . . . . . . . . . .  [+0ms] disabled = false INFO  page : navigate . . . . . . . . . . . . . . . . . . . . [+6ms] url = https://demo-browser.lightpanda.io/campfire-commerce/ method = GET reason = address_bar body = false req_id = 1 INFO  browser : executing script . . . . . . . . . . . . . .  [+118ms] src = https://demo-browser.lig",
+      "published": "",
+      "_id": "3fbb0d0462685f17",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "msitarzewski /agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🚀 What Is This? Born from a Reddit thread and months of iteration, The Agency is a growing collection of meticulously crafted AI agent personalities. Each agent is: 🎯 Specialized : Deep expertise in their domain (not generic prompt templates) 🧠 Personality-Driven : Unique voice, communication style, and approach 📋 Deliverable-Focused : Real code, processes, and measurable outcomes ✅ Production-Ready : Battle-tested workflows and success metrics Think of it as : Assembling your dream team, except they're AI specialists who never sleep, never complain, and always deliver. ⚡ Quick Start Option 1: Use with Claude Code (Recommended) # Copy agents to your Claude Code directory cp -r agency-agents/ * ~ /.claude/agents/ # Now activate any agent in your Claude Code sessions: # \"Hey Claude, activate Frontend Developer mode and help me build a React component\" Option 2: Use as Reference Each agent file contains: Identity & personality traits Core mission & workflows Technical deliverables with code examples Success metrics & communication style Browse the agents below and copy/adapt the ones you need! Option 3: Use with Other Tools (Cursor, Aider, Windsurf, Gemini CLI, OpenCode) # Step 1 -- generate integration files for all supported tools ./scripts/convert.sh # Step 2 -- install interactively (auto-detects what you have installed) ./scripts/install.sh # Or target a specific tool directly ./scripts/install.sh --tool cursor\n./scripts/install.sh --tool copilot\n./scripts/install.sh --tool aider\n./scripts/install.sh --tool windsurf See the Multi-Tool Integrations section below for full details. 🎨 The Agency Roster 💻 Engineering Division Building the future, one commit at a time. Agent Specialty When",
+      "published": "",
+      "_id": "0b6244279772ea4c",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "fishaudio /fish-speech",
+      "link": "https://github.com/fishaudio/fish-speech",
+      "summary": "Fish Speech English | 简体中文 | Portuguese | 日本語 | 한국어 | العربية Important License Notice This codebase and its associated model weights are released under FISH AUDIO RESEARCH LICENSE . Please refer to LICENSE for more details. We will take action against any violation of the license. Warning Legal Disclaimer We do not hold any responsibility for any illegal usage of the codebase. Please refer to your local laws about DMCA and other related laws. Quick Start For Human Here are the official documents for Fish Audio S2, follow the instructions to get started easily. Installation Command Line Inference WebUI Inference Server Inference Docker Setup Important For SGLang server, please read SGLang-Omni README . For LLM Agent Install and configure Fish-Audio S2 by following the instructions here: https://speech.fish.audio/install/ Fish Audio S2 Best text-to-speech system among both open source and closed source Fish Audio S2 is the latest model developed by Fish Audio . Trained on over 10 million hours of audio across approximately 50 languages, S2 combines reinforcement learning alignment with a Dual-Autoregressive architecture to generate speech that sounds natural, realistic, and emotionally rich. S2 supports fine-grained inline control of prosody and emotion using natural-language tags like [laugh] , [whispers] , and [super happy] , as well as native multi-speaker and multi-turn generation. Visit the Fish Audio website for live playground. Read the blog post and technical report for more details. Model Variants Model Size Availability Description S2-Pro 4B parameters HuggingFace Full-featured flagship model with maximum quality and stability More details of the model can be found in the technical report . Benchmark Results Benchmark Fish Audio S2 Seed-TTS Eval — WER (Chinese) 0.54% (best overall) Seed-TTS Eval — WER (English) 0.99% (best overall) Audio Turing Test (with instruction) 0.515 posterior mean EmergentTTS-Eval — Win Rate 81.88% (highest overall) Fish Instruction",
+      "published": "",
+      "_id": "705a8935de626e7d",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "InsForge /InsForge",
+      "link": "https://github.com/InsForge/InsForge",
+      "summary": "The backend built for agentic development. InsForge InsForge is a backend development platform built for AI coding agents and AI code editors. It exposes backend primitives like databases, auth, storage, and functions through a semantic layer that agents can understand, reason about, and operate end to end. InsForge-readme.mp4 How it works InsForge acts as a semantic layer between AI coding agents and backend primitives. It performs backend context engineering so agents can understand, operate, and inspect backend systems. Fetch backend context : Agents can fetch documentation and available operations for the backend primitives they use. Configure primitives : Agents can configure backend primitives directly. Inspect backend state : Backend state and logs are exposed through structured schemas. graph TB\n\n    subgraph TOP[\" \"]\n        AG[AI Coding Agents]\n    end\n\n    subgraph MID[\" \"]\n        SL[InsForge Semantic Layer]\n    end\n\n    AG --> SL\n\n    SL --> AUTH[Authentication]\n    SL --> DB[Database]\n    SL --> ST[Storage]\n    SL --> EF[Edge Functions]\n    SL --> MG[Model Gateway]\n    SL --> DEP[Deployment]\n\n    classDef bar fill:#0b0f14,stroke:#30363d,stroke-width:1px,color:#ffffff\n    classDef card fill:#161b22,stroke:#30363d,stroke-width:1px,color:#ffffff\n\n    class AG,SL bar\n    class AUTH,DB,ST,EF,MG,DEP card\n\n    style TOP fill:transparent,stroke:transparent\n    style MID fill:transparent,stroke:transparent\n\n    linkStyle default stroke:#30363d,stroke-width:1px Loading Core Products: Authentication : User management, authentication, and sessions Database : Postgres relational database Storage : S3 compatible file storage Model Gateway : OpenAI compatible API across multiple LLM providers Edge Functions : Serverless code running on the edge Site Deployment : Site build and deployment ⭐️ Star the Repository If you find InsForge useful or interesting, a GitHub Star ⭐️ would be greatly appreciated. Quickstart Cloud-hosted: insforge.dev Self-hosted: Docker Compose Pr",
+      "published": "",
+      "_id": "2703601b0a860f40",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Note: Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup. Claude Code Official Marketplace Superpowers is available via the official Claude plugin marketplace Install the plugin from Claude marketplace: /plugin install superpowers@claude-plugins-official Claude Code (via Plugin Marketplace) In Claude Code, register the marketplace fi",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code conducts A/B tests on core features",
+      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+      "summary": "Article URL:https://backnotprop.com/blog/do-not-ab-test-my-workflow/Comments URL:https://news.ycombinator.com/item?id=47375682Points: 94# Comments: 78",
+      "published": "2026-03-14T11:46:29",
+      "_id": "8c110f04b1c01953",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta planning layoffs as AI costs mount",
+      "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/",
+      "summary": "Article URL:https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/Comments URL:https://news.ycombinator.com/item?id=47372249Points: 62# Comments: 9",
+      "published": "2026-03-14T01:13:36",
+      "_id": "0f6847ac2a555587",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+      "link": "https://github.com/Compresr-ai/Context-Gateway",
+      "summary": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.Demo:https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s.Motivation: Agents are terrible at managing context. A single file read or grep can dump thousands of tokens into the window, most of it noise. This isn't just expensive — it actively degrades quality. Long-context benchmarks consistently show steep accuracy drops as context grows (OpenAI's GPT-5.4 eval goes from 97.2% at 32k to 36.6% at 1Mhttps://openai.com/index/introducing-gpt-5-4/).Our solution uses small language models (SLMs): we look at model internals and train classifiers to detect which parts of the context carry the most signal. When a tool returns output, we compress it conditioned on the intent of the tool call—so if the agent called grep looking for error handling patterns, the SLM keeps the relevant matches and strips the rest.If the model later needs something we removed, it calls expand() to fetch the original output. We also do background compaction at 85% window capacity and lazy-load tool descriptions so the model only sees tools relevant to the current step.The proxy also gives you spending caps, a dashboard for tracking running and past sessions, and Slack pings when an agent is sitting there waiting on you.Repo is here:https://github.com/Compresr-ai/Context-Gateway. You can try it with:curl -fsSL https://compresr.ai/api/install | shHappy to go deep on any of it: the compression model, how the lazy tool loading works, or anything else about the gateway. Try it out and let us know how you like it!Comments URL:https://news.ycombinator.com/item?id=47367526Points: 84# Comments: 49",
+      "published": "2026-03-13T17:58:22",
+      "_id": "4c49a6a48725ca97",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "John Carmack about open source and anti-AI activists",
+      "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171Comments URL:https://news.ycombinator.com/item?id=47367463Points: 329# Comments: 429",
+      "published": "2026-03-13T17:51:34",
+      "_id": "d3ba1da8c44f3e1f",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+      "summary": "https://archive.ph/rP4cb(text at bottom)https://x.com/elonmusk/status/2032201568335044978,https://xcancel.com/elonmusk/status/2032201568335044978https://economictimes.indiatimes.com/tech/artificial-intelli...https://futurism.com/artificial-intelligence/elon-musk-screw...Comments URL:https://news.ycombinator.com/item?id=47366666Points: 454# Comments: 689",
+      "published": "2026-03-13T16:40:42",
+      "_id": "fb2c5750360552a9",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+      "link": "https://www.getspine.ai/",
+      "summary": "Hey HN! We're Ashwin and Akshay from Spine AI (https://www.getspine.ai). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes, and more. Here's a video of it in action:https://www.youtube.com/watch?v=R_2-ggpZz0Q.We've been friends for over 13 years. We took our first ML course together at NTU, in a part of campus called North Spine, which is where the name comes from. We went through YC in S23 and have spent about 3 years building Spine across many product iterations.The core idea: chat is the wrong interface for complex AI work. It's a linear thread, and real projects aren't linear. Sure, you can ask a chatbot to reference the financial model from earlier in the thread, or run research and market sizing together, but you're trusting the model to juggle that context implicitly. There's no way to see how it's connecting the pieces, no way to correct one step without rerunning everything, and no way to branch off and explore two strategies side by side. ChatGPT was a demo that blew up, and chat stuck around as the default interface, not because it's the right abstraction. We thought humans and agents needed a real workspace where the structure of the work is explicit and user-controllable, not hidden inside a context window.So we built an infinite visual canvas where you think in blocks instead of threads. Each block is our abstraction on top of AI models. There are dedicated block types for LLM calls, image generation, web browsing, apps, slides, spreadsheets, and more. Think of them as Lego bricks for AI workflows: each one does something specific, but they can be snapped together and composed in many different ways. You can connect any block to any other block, and that connection guarantees the passing of context regardless of block type. The whole system is model-agnostic, so in a single workflow you can go from",
+      "published": "2026-03-13T13:22:40",
+      "_id": "74a0d1b68f38cb4d",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can I run AI locally?",
+      "link": "https://www.canirun.ai/",
+      "summary": "Article URL:https://www.canirun.ai/Comments URL:https://news.ycombinator.com/item?id=47363754Points: 1259# Comments: 311",
+      "published": "2026-03-13T12:46:10",
+      "_id": "6f9fd34b23ec6e6f",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
+      "summary": "COCONUT (Hao et al., 2024) claims models can reason in latent space by recycling hidden states instead of writing chain-of-thought tokens. it gets ~97% on ProsQA vs ~77% for CoT. nobody controlled for the obvious alternative... maybe the multistage curriculum training is doing all the work? the recycled hidden states are along for the ride.i built the control to test this all out. trained four models on ProsQA (GPT-2 124M, rented lambda H100):M1 - CoT baseline (no curriculum)M2 - COCONUT (meta's architecture, recycled hidden states)M3 - same curriculum, but thought tokens are a fixed learned embedding. no recycled contentM4 - fixed embeddings and multi-pass processing (factorial control isolating recycled content vs sequential processing)if recycled hidden states carry reasoning information, M3 should perform significantly worse than M2.from what i tested, it didn't. M2: 97.0%. M3: 96.6%. McNemar p = 0.845. the curriculum gets you there without recycling.it got worse for COCONUT on OOD. on 7-hop chains (trained on 3-6), M4 beats M2 by 10.9pp (p < 0.001). recycled content actively hurts chain-length extrapolation. meanwhile, sequential processing drives DAG generalization. M4 beats M3 by 7.9pp. the factorial decomposition cleanly separates these two effects.the kicker... M2 is more confident than M4 on OOD tasks where M4 is more accurate. recycled content doesn't help. it creates overconfidence on out-of-range inputs.additional converging evidence (corruption analysis, linear probing, cross-model transplantation) plus all raw data in the repos below.limitations: single seed, GPT-2 scale, ProsQA only. i just don't have the money to keep going at this point.I've been running this on rented GPU time and would like to continue if the community finds this direction useful. looking for feedback:confounds I'm missing?highest-value next step — multi-seed, scale up, different tasks?paper (pdf) ->https://github.com/bmarti44/research-pipeline/blob/main/papers/coconut_curriculum",
+      "published": "2026-03-14T00:19:27",
+      "_id": "976934faed5c8e71",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] Has interpretability research been applied to model training?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
+      "summary": "A recent X post by Goodfire (https://x.com/i/status/2032157754077691980) shows that attention probes can be used to reduce token costs by enabling early CoT exits. This seems to be an interesting use case of attention probes and I am wondering if these techniques have been applied to the models themselves during either pre-training or post-training with SFT/RL?submitted by/u/InfinityZeroFive[link][comments]",
+      "published": "2026-03-14T03:30:40",
+      "_id": "7547cfbe95ada797",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
+      "summary": "We filed a report against our meta-reviewer March 12, 9:00 AM AoE (well before the March 12 11:59 PM AoE deadline). Since then, we've received no response from the meta reviewer.With the ACL commitment deadline approaching in 24 hours, we're unsure how to proceed. A few questions:How long does ARR typically take to respond to such reports?Is a response even guaranteed?Is it wise to commit to ACL 2026 anyway without receiving any resolution to our report or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?Has anyone dealt with a similar situation? Any advice would be appreciated!submitted by/u/getsugaboy[link][comments]",
+      "published": "2026-03-14T11:40:04",
+      "_id": "b77f2ed3527c1199",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "I feel personally attacked",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rsunqq/i_feel_personally_attacked/",
+      "summary": "submitted by/u/HeadAcanthisitta7390[link][comments]",
+      "published": "2026-03-13T17:59:57",
+      "_id": "be98f9e8a580f207",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Local manga translator with LLMs built in",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/",
+      "summary": "I have been working on this project for almost one year, and it has achieved good results in translating manga pages.In general, it combines a YOLO model for text detection, a custom OCR model, a LaMa model for inpainting, a bunch of LLMs for translation, and a custom text rendering engine for blending text into the image.It's open source and written in Rust; it's a standalone application with CUDA bundled, with zero setup required.https://github.com/mayocream/koharusubmitted by/u/mayocream39[link][comments]",
+      "published": "2026-03-14T09:36:00",
+      "_id": "1635eba16d72e279",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Nemotron-3-Super-120b Uncensored",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rt9nfx/nemotron3super120b_uncensored/",
+      "summary": "My last post was a lie - Nemotron-3-Super-120b was unlike anything so far. My haste led me to believe that my last attempt was actually ablated - and while it didnt refuse seemed to converse fine, it’s code was garbage. This was due to the fact that I hadn’t taken into consideration it’s mix of LatentMoE and Mamba attention. I have spent the past 24 hrs remaking this model taking many things into account.Native MLX doesn’t support LatentMoE at the moment - you will have to make your own .py or use MLX Studio.I had to cheat with this model. I always say I don’t do any custom chat templates or fine tuning or cheap crap like that, only real refusal vector removal, but for this first time, I had no other choice. One of the results of what I did ended with the model often not producing closin think tags properly.Due to its unique attention, there is no “applying at fp16 and quantizing down”. All of this has to be done at it’s quantization level. The q6 and q8 are coming by tomorrow at latest.I have gone out of my way to also do this:HarmBench: 97%HumanEval: 94%Please feel free to try it out yourselves. I really apologize to the few ~80 people or so who ended up wasting their time downloading the previous model.IVE INCLUDED THE CUSTOM PY AND THE CHAT TEMPLATE IN THE FILES SO U GUYS CAN MLX. MLX Studio will have native support for this by later tonight.edit: q6 is out but humaneval score is 90%, will tweak and update for it to be better.https://huggingface.co/dealignai/Nemotron-3-Super-120B-A12B-4bit-MLX-CRACK-Uncensoredhttps://preview.redd.it/qkll37vlqyog1.png?width=2436&format=png&auto=webp&s=0fa31373ffc5328e46ed0aa28400d3b446bc8970submitted by/u/HealthyCommunicat[link][comments]",
+      "published": "2026-03-14T04:13:18",
+      "_id": "38848396a4b1876f",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Thanks to the Intel team for OpenVINO backend in llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rte9m7/thanks_to_the_intel_team_for_openvino_backend_in/",
+      "summary": "https://preview.redd.it/ruc616lz2zog1.png?width=1396&format=png&auto=webp&s=32575a08771ad51b66006e820df489ee83890156Thanks to Zijun Yu, Ravi Panchumarthy, Su Yang, Mustafa Cavus, Arshath, Xuejun Zhai, Yamini Nimmagadda, and Wang Yang, you've done such a great job!And thanks to reviewers Sigbjørn Skjæret, Georgi Gerganov, and Daniel Bevenius for their strict supervision!And please don't be offended if I missed anyone, you're all amazing!!!submitted by/u/Turbulent-Attorney65[link][comments]",
+      "published": "2026-03-14T08:40:16",
+      "_id": "4f6bcd34be7c6cd4",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
+      "link": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/",
+      "summary": "Nvidia Corp.(NASDAQ:NVDA) is drawing attention after reports thatTikTokparentByteDanceis planning a major overseas deployment of the company'snewest AI chips, highlighting how Chinese tech firms are expanding computing capacity outside China amid export restrictions.ByteDance is reportedly preparing a large AI hardware buildout in Malaysia through a cloud partner, The Wall Street Journalreportedon Friday.submitted by/u/WinOdd7962[link][comments]",
+      "published": "2026-03-13T12:40:44",
+      "_id": "6915699bb6e4a814",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast",
+      "link": "https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/",
+      "summary": "Robert Lange, founding researcher at Sakana AI, joins Tim to discussShinka Evolve— a framework that combines LLMs with evolutionary algorithms to do open-ended program search. The core claim: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves.In this episode: -Why AlphaEvolve gets stuck:it needs a human to hand it the right problem. Shinka Evolve tries to invent new problems automatically, drawing on ideas from POET, PowerPlay, and MAP-Elites quality-diversity search.The architecture of Shinka Evolve:an archive of programs organized as islands, LLMs used as mutation operators, and a UCB bandit that adaptively selects between frontier models (GPT-5, Sonnet 4.5, Gemini) mid-run. The credit-assignment problem across models turns out to be genuinely hard.Concrete results:state-of-the-art circle packing with dramatically fewer evaluations, second place in an AtCoder competitive programming challenge, evolved load-balancing loss functions for mixture-of-experts models, and agent scaffolds for AIME math benchmarks.Are these systems actually thinking outside the box, or are they parasitic on their starting conditions?:When LLMs run autonomously, \"nothing interesting happens.\" Robert pushes back with the stepping-stone argument — evolution doesn't need to extrapolate, just recombine usefully.The AI Scientist question:can automated research pipelines produce real science, or just workshop-level slop that passes surface-level review? Robert is honest that the current version is more co-pilot than autonomous researcher.Where this lands in 5-20 years:Robert's prediction that scientific research will be fundamentally transformed, and Tim's thought experiment about alien mathematical artifacts that no human could have conceived.Link to the Full Episode:https://www.youtube.com/watch?v=EInEmGaMRLcSpotifyApple Podcastssubmitted by/u/44th--Hokage[link][comments]",
+      "published": "2026-03-14T12:42:34",
+      "_id": "890bc90d455b8a25",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "JL-Engine-Local a dynamic agent assembly engine",
+      "link": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/",
+      "summary": "JL‑Engine‑Local is a dynamic agent‑assembly engine that builds and runs AI agents entirely in RAM, wiring up their tools and behavior on the fly. Sorry in advance for the vid quality i dont like making them. JL Engine isn’t another chat UI or preset pack — it’s a full agent runtime that builds itself as it runs. You can point it at any backend you want, local or cloud, and it doesn’t blink; Google, OpenAI, your own inference server, whatever you’ve got, it just plugs in and goes. The engine loads personas, merges layers, manages behavior states, and even discovers and registers its own tools without you wiring anything manually. It’s local‑first because I wanted privacy and control, but it’s not locked to local at all — it’s backend‑agnostic by design. The whole point is that the agent stays consistent no matter what model is behind it, because the runtime handles the complexity instead of dumping it on the user. If you want something that actually feels like an agent system instead of a wrapper, this is what I built. not self Promoting just posting to share get ideas maybe some help that would be great.https://github.com/jaden688/JL_Engine-local.gitsubmitted by/u/Upbeat_Reporter8244[link][comments]",
+      "published": "2026-03-14T00:27:32",
+      "_id": "c313ea43bd98b905",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "What's the REAL future of AI?",
+      "link": "https://www.reddit.com/r/artificial/comments/1rth5b2/whats_the_real_future_of_ai/",
+      "summary": "Guys im kinda confused with AI right now. In the beginning of the whole thing with every update you could actually notice some improvements or actually new features. Now when there is a new update for let's say Gemini or ChatGPT there is literally nothing different. It still has the same flaws and problems. Also im kinda trying to figure out what is really a realistic picture of our future with AI. Since there are very extreme opinions on the topic in the Internet from \"AGI will be here in 2030 and we can not imagine what's coming\" to \"LLMs are a dead end road bigger models aren't producing better work anymore we basically have nothing and there is no real AI\". I really would love to hear some realistic balanced opinions on this topic without the hype just some raw opinions on it. Its also okay if the answer would be we just can't tell. I mean there are things like Titans/MIRAS from Google Deepmind that could solve some problems like the small context windows and synthetic data could also be a thing but is there even a possibility that an LLM will develop into something bigger like an actual AI or is it clear to say it will improve but there are fundamental borders that it will never stop and all they will do from there on is to make it more efficient and it will stay in that state as an helpful companion at work. Would love to hear your opinions also sorry for the bad English its not my mother tongue.submitted by/u/JustRaphiGaming[link][comments]",
+      "published": "2026-03-14T11:35:36",
+      "_id": "96825095dff84c42",
+      "_scraped_at": "12:58"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
+      "link": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/",
+      "summary": "The standoff between Anthropic and the Pentagon has forced the tech industry to once again grapple with the question of how its products are used for war – and what lines it will not cross. Amid Silicon Valley’s rightward shift under Donald Trump and the signing of lucrative defense contracts, big tech’s answer is looking very different than it did even less than a decade ago.submitted by/u/PixeledPathogen[link][comments]",
+      "published": "2026-03-13T15:09:48",
+      "_id": "3c210d772b4ad253",
+      "_scraped_at": "12:58"
+    }
+  ],
+  "seen_ids": [
+    "8c110f04b1c01953",
+    "9fc7e22e83700730",
+    "3c210d772b4ad253",
+    "c3ff21e4bcf21379",
+    "bdef1ca220680813",
+    "02eab667df448997",
+    "1dfaa948d064af05",
+    "0f6847ac2a555587",
+    "d3ba1da8c44f3e1f",
+    "b3d360f5656fe614",
+    "8c6014a36ca90e3f",
+    "8ebaae0adb25a5a2",
+    "976934faed5c8e71",
+    "4f6bcd34be7c6cd4",
+    "7547cfbe95ada797",
+    "ca2bdfcccfa09e4d",
+    "c4a45eed67ee9087",
+    "6915699bb6e4a814",
+    "0b6244279772ea4c",
+    "96825095dff84c42",
+    "2703601b0a860f40",
+    "e511d6537c8554f6",
+    "38848396a4b1876f",
+    "890bc90d455b8a25",
+    "4c49a6a48725ca97",
+    "06ab8c1f735ced1f",
+    "ec11b3d1ae6eb92b",
+    "be98f9e8a580f207",
+    "091b61caa9d6ad3b",
+    "8486a2020e80bf10",
+    "98ba758974d47195",
+    "fe145490b1fb966d",
+    "d999f83a0a234d89",
+    "0d96d5f2d7984b75",
+    "3fbb0d0462685f17",
+    "b77f2ed3527c1199",
+    "876fe6c1edb8596c",
+    "7d7bf852971182ec",
+    "f937b11623200a9e",
+    "1635eba16d72e279",
+    "c313ea43bd98b905",
+    "74a0d1b68f38cb4d",
+    "1814069a4a486497",
+    "d3ae286e89daf459",
+    "f6e3cb6a652debf6",
+    "3db40af345d5afa2",
+    "705a8935de626e7d",
+    "fb2c5750360552a9",
+    "6f9fd34b23ec6e6f"
+  ],
+  "last_run": "12:58",
+  "run_count": 1
+}
