@@ -51,7 +51,7 @@ export default function CategoryTag({ name }: { name: string }) {
   const config = CATEGORY_CONFIG[name] || DEFAULT;
   return (
     <span
-      className={`inline-flex items-center px-2 py-0.5 rounded text-xs font-mono border ${config.color}`}
+      className={`inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-mono uppercase tracking-[0.14em] border ${config.color}`}
     >
       {config[lang]}
     </span>

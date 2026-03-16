@@ -24,7 +24,9 @@ export default function SubscribeForm() {
 
       if (res.ok) {
         setStatus("success");
-        setMessage(data.message || t.subscribeSuccess);
+        setMessage(
+          data.alreadySubscribed ? t.subscribeAlready : t.subscribeSuccess
+        );
         setEmail("");
       } else {
         setStatus("error");
@@ -50,6 +52,9 @@ export default function SubscribeForm() {
       </div>
       <p className="text-text-secondary text-sm mb-4">
         {t.subscribeDesc}
+      </p>
+      <p className="mb-4 rounded-xl border border-white/10 bg-background/70 px-3 py-2 text-[11px] font-mono uppercase tracking-[0.16em] text-text-secondary">
+        {t.subscribeWarning}
       </p>
 
       <form onSubmit={handleSubmit} className="flex gap-2">

@@ -37,7 +37,7 @@ export default function SourceBadge({ name }: { name: string }) {
   const colorClass = SOURCE_COLORS[name] || DEFAULT_COLOR;
   return (
     <span
-      className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-mono border ${colorClass}`}
+      className={`inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-mono uppercase tracking-[0.14em] border ${colorClass}`}
     >
       {name}
     </span>

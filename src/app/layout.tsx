@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col">
         <LanguageProvider>
           <Header />
-          <main className="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+          <main className="flex-1 max-w-7xl mx-auto w-full px-4 py-8 md:px-6 md:py-10">
             {children}
           </main>
           <Footer />

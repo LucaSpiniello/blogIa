@@ -33,7 +33,10 @@ export async function POST(request: NextRequest) {
     const data = loadSubscribers();
 
     if (data.emails.includes(email.toLowerCase())) {
-      return NextResponse.json({ message: "Ya estas suscrito" }, { status: 200 });
+      return NextResponse.json(
+        { ok: true, alreadySubscribed: true, count: data.emails.length },
+        { status: 200 }
+      );
     }
 
     data.emails.push(email.toLowerCase());
@@ -41,7 +44,8 @@ export async function POST(request: NextRequest) {
     saveSubscribers(data);
 
     return NextResponse.json({
-      message: "Suscrito exitosamente",
+      ok: true,
+      alreadySubscribed: false,
       count: data.emails.length,
     });
   } catch {

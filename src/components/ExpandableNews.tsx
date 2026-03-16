@@ -20,17 +20,23 @@ export default function ExpandableNews({ items }: { items: NewsItem[] }) {
         </button>
       ) : (
         <div className="grid gap-4">
-          <div className="border-t border-border pt-4 mb-2">
+          <div className="border-t border-border pt-4 mb-2 flex items-center justify-between gap-4">
             <span className="text-text-secondary text-xs font-mono uppercase tracking-wider">
               {t.moreNews}
             </span>
+            <button
+              onClick={() => setExpanded(false)}
+              className="text-accent text-xs font-mono uppercase tracking-[0.18em] hover:underline"
+            >
+              {t.collapse}
+            </button>
           </div>
           {items.map((item) => (
             <NewsCard key={item._id} item={item} />
           ))}
           <button
             onClick={() => setExpanded(false)}
-            className="text-accent text-xs font-mono hover:underline text-center py-2"
+            className="text-accent text-xs font-mono uppercase tracking-[0.18em] hover:underline text-center py-2"
           >
             {t.collapse}
           </button>

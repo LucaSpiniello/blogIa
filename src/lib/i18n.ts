@@ -11,6 +11,9 @@ export const translations = {
     heading: "5AI",
     emptyState: "No news yet. The pipeline runs 2 times per day.",
     newsCount: (n: number) => `${n} news`,
+    topFive: "Top 5",
+    heroDeck:
+      "The signal first. The five stories driving the AI cycle today, ranked to be scanned in seconds.",
 
     // NewsCard
     readMore: "read more →",
@@ -30,11 +33,14 @@ export const translations = {
     collapse: "← Collapse",
 
     // SubscribeForm
-    subscribeTitle: "Subscribe to 5AI",
-    subscribeDesc: "Get the 5 most important AI news of the day in your inbox.",
+    subscribeTitle: "Be first on 5AI",
+    subscribeDesc:
+      "5AI email delivery is not live yet. Leave your email to join the waitlist and be among the first to receive the daily brief when it launches.",
+    subscribeWarning: "Waitlist only. This does not send emails yet.",
     subscribePlaceholder: "you@email.com",
-    subscribeButton: "Subscribe",
-    subscribeSuccess: "Subscribed successfully",
+    subscribeButton: "Join waitlist",
+    subscribeSuccess: "You're on the waitlist.",
+    subscribeAlready: "You're already on the waitlist.",
     subscribeError: "Error subscribing",
     connectionError: "Connection error",
 
@@ -64,6 +70,9 @@ export const translations = {
     emptyState:
       "No hay noticias todavia. El pipeline se ejecuta 2 veces al dia.",
     newsCount: (n: number) => `${n} noticias`,
+    topFive: "Top 5",
+    heroDeck:
+      "Primero la señal. Las cinco historias que están moviendo el ciclo de IA hoy, ordenadas para escanearlas en segundos.",
 
     readMore: "leer mas →",
 
@@ -79,12 +88,15 @@ export const translations = {
     moreNews: "// mas noticias",
     collapse: "← Colapsar",
 
-    subscribeTitle: "Suscribite a 5AI",
+    subscribeTitle: "Postulate a 5AI",
     subscribeDesc:
-      "Recibe las 5 noticias de IA mas importantes del dia en tu inbox.",
+      "El envio por email de 5AI todavia no esta habilitado. Deja tu email para entrar a la lista de espera y ser de los primeros en recibir el resumen diario cuando se active.",
+    subscribeWarning:
+      "Solo lista de espera. Esto todavia no envia emails.",
     subscribePlaceholder: "tu@email.com",
-    subscribeButton: "Suscribirse",
-    subscribeSuccess: "Suscrito exitosamente",
+    subscribeButton: "Postularme",
+    subscribeSuccess: "Quedaste en la lista de espera.",
+    subscribeAlready: "Ya estas en la lista de espera.",
     subscribeError: "Error al suscribirse",
     connectionError: "Error de conexion",
 
