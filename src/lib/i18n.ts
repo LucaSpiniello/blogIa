@@ -46,7 +46,7 @@ export const translations = {
 
     // Footer
     footerTagline: "5AI — Made with AI, for curious humans",
-    footerCredit: "Content curated and synthesized with Claude AI",
+    footerCredit: "Made by two Chilean geeks with a one-shot prompt",
 
     // About
     aboutTitle: "About 5AI",
@@ -101,7 +101,7 @@ export const translations = {
     connectionError: "Error de conexion",
 
     footerTagline: "5AI — Hecho con IA, para humanos curiosos",
-    footerCredit: "Contenido curado y sintetizado con Claude AI",
+    footerCredit: "Hecho por dos geeks chilenos con un solo prompt",
 
     aboutTitle: "Sobre 5AI",
     aboutDesc:
