@@ -54,3 +54,36 @@ jobs:
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+  send_digest:
+    needs: publish
+    if: github.event_name == 'schedule' && github.event.schedule == '0 22 * * *'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait 30 minutes after the second fetch completes
+        run: sleep 1800
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Pull latest published content
+        run: git pull --rebase origin master || true
+
+      - name: Send digest via Brevo
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+          BREVO_SENDER_EMAIL: ${{ secrets.BREVO_SENDER_EMAIL }}
+          BREVO_SENDER_NAME: ${{ secrets.BREVO_SENDER_NAME }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+          BREVO_EMAIL_LANG: ${{ secrets.BREVO_EMAIL_LANG }}
+          BREVO_SANDBOX: ${{ secrets.BREVO_SANDBOX }}
+        run: python scripts/brevo_digest.py

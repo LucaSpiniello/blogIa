@@ -6,13 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "email:preview": "python3 scripts/brevo_digest.py --preview-only",
+    "email:send": "python3 scripts/brevo_digest.py"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.1",
+    "@vercel/analytics": "^2.0.1",
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
     "next": "^16.1.6",

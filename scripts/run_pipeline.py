@@ -20,6 +20,15 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 from config import SOURCES
 from scraper import scrape_source
 from synthesizer import synthesize_news
+from brevo_digest import (
+    render_digest_html,
+    render_digest_text,
+    send_batches,
+    active_recipient_emails,
+    fetch_all_contacts,
+    subject_for,
+    write_preview,
+)
 
 CONTENT_DIR = Path(__file__).parent.parent / "content"
 RAW_DIR = CONTENT_DIR / "raw"
@@ -158,8 +167,41 @@ def main():
     sources = list(set(item.get("source", "") for item in all_news))
     print(f"[OK] Fuentes: {', '.join(sorted(sources))}")
 
-    # Step 4: Cleanup old files
-    print("\n[4/4] Limpiando archivos antiguos...\n")
+    if os.environ.get("BREVO_AUTO_SEND") == "1":
+        print("\n[4/5] Enviando digest por Brevo...\n")
+        api_key = os.environ.get("BREVO_API_KEY")
+        list_id = os.environ.get("BREVO_LIST_ID")
+        sender_email = os.environ.get("BREVO_SENDER_EMAIL")
+        sender_name = os.environ.get("BREVO_SENDER_NAME", "5AI")
+        site_url = os.environ.get("SITE_URL", "http://localhost:3000")
+        lang = os.environ.get("BREVO_EMAIL_LANG", "en").lower()
+
+        if not api_key or not list_id or not sender_email:
+            print("[WARN] BREVO_AUTO_SEND=1 pero faltan variables de entorno de Brevo. Se omite el envio.")
+        else:
+            html_content = render_digest_html(today, all_news, site_url, lang)
+            text_content = render_digest_text(today, all_news, site_url, lang)
+            preview_path = write_preview(today, html_content)
+            print(f"[OK] Preview generado: {preview_path}")
+            contacts = fetch_all_contacts(api_key, int(list_id))
+            recipients = active_recipient_emails(contacts, int(list_id))
+            if recipients:
+                sent = send_batches(
+                    api_key=api_key,
+                    recipients=recipients,
+                    subject=subject_for(today, lang),
+                    html_content=html_content,
+                    text_content=text_content,
+                    sender_email=sender_email,
+                    sender_name=sender_name,
+                    sandbox=os.environ.get("BREVO_SANDBOX", "0") == "1",
+                )
+                print(f"[OK] Digest enviado a {sent} destinatarios")
+            else:
+                print("[SKIP] No hay destinatarios activos en la lista de Brevo.")
+
+    # Step 5: Cleanup old files
+    print("\n[5/5] Limpiando archivos antiguos...\n")
     deleted = cleanup_old_files()
     if deleted:
         print(f"[OK] {deleted} archivos antiguos eliminados (>{MAX_DAYS_RETAINED} días)")

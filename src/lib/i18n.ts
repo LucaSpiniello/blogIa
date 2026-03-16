@@ -35,11 +35,11 @@ export const translations = {
     // SubscribeForm
     subscribeTitle: "Be first on 5AI",
     subscribeDesc:
-      "Subscriptions are temporarily disabled while we finish the email system.",
+      "Leave your email to get the daily 5AI brief as soon as delivery is enabled.",
     subscribeWarning:
-      "Subscriptions are paused. Waitlist signup is not available yet.",
+      "Waitlist only for now. You will be among the first to receive the news when email delivery goes live.",
     subscribePlaceholder: "you@email.com",
-    subscribeButton: "Coming soon",
+    subscribeButton: "Join waitlist",
     subscribeSuccess: "You're on the waitlist.",
     subscribeAlready: "You're already on the waitlist.",
     subscribeError: "Error subscribing",
@@ -91,11 +91,11 @@ export const translations = {
 
     subscribeTitle: "Postulate a 5AI",
     subscribeDesc:
-      "Las suscripciones estan desactivadas por ahora mientras terminamos el sistema de email.",
+      "Deja tu email para recibir el brief diario de 5AI apenas activemos el envio.",
     subscribeWarning:
-      "Las suscripciones estan pausadas. La postulacion a la lista de espera todavia no esta disponible.",
+      "Por ahora es una lista de espera. Vas a estar entre los primeros en recibir las noticias cuando activemos el email.",
     subscribePlaceholder: "tu@email.com",
-    subscribeButton: "Proximamente",
+    subscribeButton: "Entrar a la lista",
     subscribeSuccess: "Quedaste en la lista de espera.",
     subscribeAlready: "Ya estas en la lista de espera.",
     subscribeError: "Error al suscribirse",

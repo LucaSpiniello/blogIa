@@ -1,35 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
-
-const SUBSCRIBERS_FILE = path.join(process.cwd(), "content/subscribers.json");
-
-function loadSubscribers(): { emails: string[]; updated: string } {
-  if (fs.existsSync(SUBSCRIBERS_FILE)) {
-    return JSON.parse(fs.readFileSync(SUBSCRIBERS_FILE, "utf8"));
-  }
-  return { emails: [], updated: "" };
-}
-
-function saveSubscribers(data: { emails: string[]; updated: string }) {
-  const dir = path.dirname(SUBSCRIBERS_FILE);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(SUBSCRIBERS_FILE, JSON.stringify(data, null, 2), "utf8");
-}
-
-function isReadOnlyFsError(error: unknown) {
-  if (!(error instanceof Error)) return false;
-  const message = error.message.toLowerCase();
-  return (
-    message.includes("read-only") ||
-    message.includes("ero fs") ||
-    message.includes("erofs") ||
-    message.includes("permission denied") ||
-    message.includes("eacces") ||
-    message.includes("operation not permitted") ||
-    message.includes("eperm")
-  );
-}
+const BREVO_API_KEY = process.env.BREVO_API_KEY;
+const BREVO_LIST_ID = Number(process.env.BREVO_LIST_ID);
 
 export async function POST(request: NextRequest) {
   try {
@@ -46,39 +17,39 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Email invalido" }, { status: 400 });
     }
 
-    const data = loadSubscribers();
-
-    if (data.emails.includes(normalizedEmail)) {
+    if (!BREVO_API_KEY || !Number.isFinite(BREVO_LIST_ID)) {
       return NextResponse.json(
-        { ok: true, alreadySubscribed: true, count: data.emails.length },
-        { status: 200 }
+        { error: "Brevo no esta configurado todavia." },
+        { status: 503 }
       );
     }
 
-    try {
-      data.emails.push(normalizedEmail);
-      data.updated = new Date().toISOString();
-      saveSubscribers(data);
-    } catch (error) {
-      console.error("Failed to persist subscribers.json", error);
+    const brevoRes = await fetch("https://api.brevo.com/v3/contacts", {
+      method: "POST",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+        "api-key": BREVO_API_KEY,
+      },
+      body: JSON.stringify({
+        email: normalizedEmail,
+        listIds: [BREVO_LIST_ID],
+        updateEnabled: true,
+      }),
+    });
 
-      if (isReadOnlyFsError(error)) {
-        return NextResponse.json(
-          {
-            error:
-              "Waitlist storage is not enabled in this environment yet. Your email could not be saved.",
-          },
-          { status: 503 }
-        );
-      }
-
-      throw error;
+    if (!brevoRes.ok) {
+      const payload = await brevoRes.json().catch(() => ({}));
+      console.error("Brevo subscribe failed", payload);
+      return NextResponse.json(
+        { error: payload.message || "No se pudo guardar el email." },
+        { status: brevoRes.status }
+      );
     }
 
     return NextResponse.json({
       ok: true,
       alreadySubscribed: false,
-      count: data.emails.length,
     });
   } catch (error) {
     console.error("Subscribe route failed", error);

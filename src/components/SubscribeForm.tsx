@@ -8,11 +8,9 @@ export default function SubscribeForm() {
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [message, setMessage] = useState("");
   const { t } = useLang();
-  const isDisabled = true;
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    if (isDisabled) return;
     if (!email) return;
 
     setStatus("loading");
@@ -66,15 +64,15 @@ export default function SubscribeForm() {
           onChange={(e) => setEmail(e.target.value)}
           placeholder={t.subscribePlaceholder}
           required
-          disabled={isDisabled}
+          disabled={status === "loading"}
           className="flex-1 bg-background border border-border rounded-md px-3 py-2 text-sm font-mono text-text-primary placeholder:text-text-secondary/50 focus:outline-none focus:border-accent transition-colors disabled:cursor-not-allowed disabled:opacity-50"
         />
         <button
           type="submit"
-          disabled={isDisabled || status === "loading"}
-          className="bg-accent text-background font-mono font-semibold text-sm px-4 py-2 rounded-md transition-colors disabled:cursor-not-allowed disabled:opacity-50"
+          disabled={status === "loading"}
+          className="bg-accent hover:bg-accent/80 text-background font-mono font-semibold text-sm px-4 py-2 rounded-md transition-colors disabled:cursor-not-allowed disabled:opacity-50"
         >
-          {isDisabled ? t.subscribeButton : status === "loading" ? "..." : t.subscribeButton}
+          {status === "loading" ? "..." : t.subscribeButton}
         </button>
       </form>
 
