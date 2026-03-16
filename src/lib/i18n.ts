@@ -33,15 +33,15 @@ export const translations = {
     collapse: "← Collapse",
 
     // SubscribeForm
-    subscribeTitle: "Be first on 5AI",
+    subscribeTitle: "Subscribe to 5AI",
     subscribeDesc:
-      "Leave your email to get the daily 5AI brief as soon as delivery is enabled.",
+      "Subscribe to receive the daily 5AI brief every evening, around 7:30 PM Chile time.",
     subscribeWarning:
-      "Waitlist only for now. You will be among the first to receive the news when email delivery goes live.",
+      "English edition. Sent after the second daily fetch.",
     subscribePlaceholder: "you@email.com",
-    subscribeButton: "Join waitlist",
-    subscribeSuccess: "You're on the waitlist.",
-    subscribeAlready: "You're already on the waitlist.",
+    subscribeButton: "Subscribe",
+    subscribeSuccess: "Subscribed successfully.",
+    subscribeAlready: "You're already subscribed.",
     subscribeError: "Error subscribing",
     connectionError: "Connection error",
 
@@ -89,15 +89,15 @@ export const translations = {
     moreNews: "// mas noticias",
     collapse: "← Colapsar",
 
-    subscribeTitle: "Postulate a 5AI",
+    subscribeTitle: "Suscribite a 5AI",
     subscribeDesc:
-      "Deja tu email para recibir el brief diario de 5AI apenas activemos el envio.",
+      "Suscribite para recibir el brief diario de 5AI todas las tardes, alrededor de las 19:30 de Chile.",
     subscribeWarning:
-      "Por ahora es una lista de espera. Vas a estar entre los primeros en recibir las noticias cuando activemos el email.",
+      "Edicion en ingles. Se envia despues del segundo fetch del dia.",
     subscribePlaceholder: "tu@email.com",
-    subscribeButton: "Entrar a la lista",
-    subscribeSuccess: "Quedaste en la lista de espera.",
-    subscribeAlready: "Ya estas en la lista de espera.",
+    subscribeButton: "Suscribirse",
+    subscribeSuccess: "Suscripto exitosamente.",
+    subscribeAlready: "Ya estas suscripto.",
     subscribeError: "Error al suscribirse",
     connectionError: "Error de conexion",
 

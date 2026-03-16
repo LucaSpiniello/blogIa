@@ -326,6 +326,7 @@ def write_preview(date_str: str, html_content: str) -> Path:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Send the daily 5AI digest via Brevo")
     parser.add_argument("--date", help="News date in YYYY-MM-DD format")
+    parser.add_argument("--to", help="Send only to a single email address")
     parser.add_argument("--preview-only", action="store_true", help="Only render the HTML preview file")
     args = parser.parse_args()
 
@@ -342,13 +343,16 @@ def main() -> None:
         return
 
     api_key = require_env("BREVO_API_KEY")
-    list_id = int(require_env("BREVO_LIST_ID"))
     sender_email = require_env("BREVO_SENDER_EMAIL")
     sender_name = os.getenv("BREVO_SENDER_NAME", "5AI")
     sandbox = os.getenv("BREVO_SANDBOX", "0") == "1"
 
-    contacts = fetch_all_contacts(api_key, list_id)
-    recipients = active_recipient_emails(contacts, list_id)
+    if args.to:
+        recipients = [{"email": args.to.strip()}]
+    else:
+        list_id = int(require_env("BREVO_LIST_ID"))
+        contacts = fetch_all_contacts(api_key, list_id)
+        recipients = active_recipient_emails(contacts, list_id)
 
     if not recipients:
         print("[SKIP] No active recipients found in the Brevo list.")

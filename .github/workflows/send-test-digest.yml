@@ -1,0 +1,47 @@
+name: Send 5AI Test Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional date in YYYY-MM-DD"
+        required: false
+        type: string
+      sandbox:
+        description: "Send using Brevo sandbox mode"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  send_test_digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Pull latest published content
+        run: git pull --rebase origin master || true
+
+      - name: Send test digest to sge1109@gmail.com
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_SENDER_EMAIL: ${{ secrets.BREVO_SENDER_EMAIL }}
+          BREVO_SENDER_NAME: ${{ secrets.BREVO_SENDER_NAME }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+          BREVO_EMAIL_LANG: ${{ secrets.BREVO_EMAIL_LANG }}
+          BREVO_SANDBOX: ${{ inputs.sandbox && '1' || '0' }}
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            python scripts/brevo_digest.py --to sge1109@gmail.com --date "${{ inputs.date }}"
+          else
+            python scripts/brevo_digest.py --to sge1109@gmail.com
+          fi
