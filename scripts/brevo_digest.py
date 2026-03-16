@@ -257,7 +257,8 @@ def active_recipient_emails(contacts: Iterable[dict], list_id: int) -> list[dict
         email = contact.get("email")
         if not email or contact.get("emailBlacklisted"):
             continue
-        if list_id in contact.get("listUnsubscribed", []):
+        unsubscribed_lists = contact.get("listUnsubscribed") or []
+        if list_id in unsubscribed_lists:
             continue
         recipients.append({"email": email})
     return recipients
