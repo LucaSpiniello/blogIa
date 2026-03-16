@@ -37,7 +37,7 @@ export const translations = {
     subscribeDesc:
       "Subscribe to receive the daily 5AI brief every evening, around 7:30 PM Chile time.",
     subscribeWarning:
-      "English edition. Sent after the second daily fetch.",
+      "English edition.",
     subscribePlaceholder: "you@email.com",
     subscribeButton: "Subscribe",
     subscribeSuccess: "Subscribed successfully.",
@@ -93,7 +93,7 @@ export const translations = {
     subscribeDesc:
       "Suscribite para recibir el brief diario de 5AI todas las tardes, alrededor de las 19:30 de Chile.",
     subscribeWarning:
-      "Edicion en ingles. Se envia despues del segundo fetch del dia.",
+      "Edicion en ingles.",
     subscribePlaceholder: "tu@email.com",
     subscribeButton: "Suscribirse",
     subscribeSuccess: "Suscripto exitosamente.",
