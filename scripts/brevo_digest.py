@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
+import hmac
 import html
 import json
 import os
@@ -54,7 +56,23 @@ def format_domain(url: str) -> str:
     return url.replace("https://", "").replace("http://", "").split("/")[0]
 
 
-def render_digest_html(date_str: str, items: list[dict], site_url: str, lang: str) -> str:
+def unsubscribe_token(email: str, secret: str) -> str:
+    return hmac.new(secret.encode("utf-8"), email.strip().lower().encode("utf-8"), hashlib.sha256).hexdigest()
+
+
+def unsubscribe_url(email: str, site_url: str, secret: str) -> str:
+    token = unsubscribe_token(email, secret)
+    base = site_url.rstrip("/")
+    return f"{base}/api/unsubscribe?email={requests.utils.quote(email)}&token={token}"
+
+
+def render_digest_html(
+    date_str: str,
+    items: list[dict],
+    site_url: str,
+    lang: str,
+    unsubscribe_link: str | None = None,
+) -> str:
     is_en = lang == "en"
     top_items = items[:5]
     date_label = datetime.fromisoformat(date_str).strftime("%B %d, %Y") if is_en else datetime.fromisoformat(date_str).strftime("%d/%m/%Y")
@@ -70,6 +88,7 @@ def render_digest_html(date_str: str, items: list[dict], site_url: str, lang: st
         if is_en
         else "Hecho por dos geeks chilenos con un solo prompt"
     )
+    unsubscribe_label = "Unsubscribe" if is_en else "Desuscribirse"
 
     cards = []
     for index, item in enumerate(top_items, start=1):
@@ -176,6 +195,15 @@ def render_digest_html(date_str: str, items: list[dict], site_url: str, lang: st
                       <a href="{html.escape(site_url.rstrip('/') + '/dia/' + date_str)}" style="color:{FRONTEND_COLORS['text_secondary']};text-decoration:none;">{html.escape(site_url.rstrip('/') + '/dia/' + date_str)}</a>
                     </td>
                   </tr>
+                  {f'''
+                  <tr>
+                    <td style="padding-top:14px;">
+                      <a href="{html.escape(unsubscribe_link or '')}" style="display:inline-block;padding:10px 14px;border:1px solid {FRONTEND_COLORS['border']};border-radius:999px;color:{FRONTEND_COLORS['text_secondary']};font-family:Arial,Helvetica,sans-serif;font-size:12px;text-decoration:none;">
+                        {unsubscribe_label}
+                      </a>
+                    </td>
+                  </tr>
+                  ''' if unsubscribe_link else ''}
                 </table>
               </td>
             </tr>
@@ -187,7 +215,13 @@ def render_digest_html(date_str: str, items: list[dict], site_url: str, lang: st
 </html>"""
 
 
-def render_digest_text(date_str: str, items: list[dict], site_url: str, lang: str) -> str:
+def render_digest_text(
+    date_str: str,
+    items: list[dict],
+    site_url: str,
+    lang: str,
+    unsubscribe_link: str | None = None,
+) -> str:
     is_en = lang == "en"
     lines = [
         f"5AI - {date_str}",
@@ -213,6 +247,7 @@ def render_digest_text(date_str: str, items: list[dict], site_url: str, lang: st
         [
             site_url.rstrip("/") + f"/dia/{date_str}",
             "",
+            *((["Unsubscribe: " + unsubscribe_link, ""] if unsubscribe_link else [])),
             "Made by two Chilean geeks with a one-shot prompt"
             if is_en
             else "Hecho por dos geeks chilenos con un solo prompt",
@@ -273,18 +308,29 @@ def send_batches(
     api_key: str,
     recipients: list[dict],
     subject: str,
-    html_content: str,
-    text_content: str,
+    date_str: str,
+    items: list[dict],
+    site_url: str,
+    lang: str,
     sender_email: str,
     sender_name: str,
     sandbox: bool,
+    unsubscribe_secret: str,
 ) -> int:
     sent = 0
     headers = brevo_headers(api_key)
     if sandbox:
         headers["X-Sib-Sandbox"] = "drop"
 
-    for batch in chunked(recipients, 99):
+    for batch in chunked(recipients, 1):
+        recipient_email = batch[0]["email"]
+        unsub_link = unsubscribe_url(recipient_email, site_url, unsubscribe_secret)
+        html_content = render_digest_html(
+            date_str, items, site_url, lang, unsubscribe_link=unsub_link
+        )
+        text_content = render_digest_text(
+            date_str, items, site_url, lang, unsubscribe_link=unsub_link
+        )
         response = requests.post(
             f"{BREVO_API_BASE}/smtp/email",
             headers=headers,
@@ -335,9 +381,8 @@ def main() -> None:
     lang = os.getenv("BREVO_EMAIL_LANG", "en").lower()
     site_url = os.getenv("SITE_URL", "http://localhost:3000")
     items = load_news_items(date_str)
-    html_content = render_digest_html(date_str, items, site_url, lang)
-    text_content = render_digest_text(date_str, items, site_url, lang)
-    preview_path = write_preview(date_str, html_content)
+    preview_html = render_digest_html(date_str, items, site_url, lang)
+    preview_path = write_preview(date_str, preview_html)
     print(f"[OK] Email preview generated: {preview_path}")
 
     if args.preview_only:
@@ -347,6 +392,7 @@ def main() -> None:
     sender_email = require_env("BREVO_SENDER_EMAIL")
     sender_name = os.getenv("BREVO_SENDER_NAME", "5AI")
     sandbox = os.getenv("BREVO_SANDBOX", "0") == "1"
+    unsubscribe_secret = require_env("UNSUBSCRIBE_SECRET")
 
     if args.to:
         recipients = [{"email": args.to.strip()}]
@@ -363,11 +409,14 @@ def main() -> None:
         api_key=api_key,
         recipients=recipients,
         subject=subject_for(date_str, lang),
-        html_content=html_content,
-        text_content=text_content,
+        date_str=date_str,
+        items=items,
+        site_url=site_url,
+        lang=lang,
         sender_email=sender_email,
         sender_name=sender_name,
         sandbox=sandbox,
+        unsubscribe_secret=unsubscribe_secret,
     )
     mode = "sandbox" if sandbox else "live"
     print(f"[OK] Sent {sent} recipients via Brevo ({mode}).")
