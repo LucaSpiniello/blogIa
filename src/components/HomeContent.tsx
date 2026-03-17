@@ -13,6 +13,7 @@ export default function HomeContent({ days }: { days: DayNews[] }) {
 
   return (
     <div>
+      <h1 className="sr-only">5AI: The 5 AI news that matter today</h1>
       {!today || today.items.length === 0 ? (
         <div className="border border-border rounded-lg bg-surface p-8 text-center">
           <p className="font-mono text-text-secondary">
