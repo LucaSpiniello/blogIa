@@ -1,0 +1,509 @@
+{
+  "date": "2026-03-28",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "link": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "published": "2026-03-27T22:00:00",
+      "_id": "16594c97bd60c523",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Announcements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations. Knowledge work Agentic search Coding Reasoning Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains. Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search. Opus 4.6 excels at real-world agentic coding and system tasks. Opus 4.6 extends the frontier of expert-level ",
+      "published": "",
+      "_id": "6c20810f6d90adf9",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 12, 2026AnnouncementsAnthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Announcements Anthropic invests $100 million into the Claude Partner Network Mar 12, 2026 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude. We’re committing an initial $100 million to support our partners with training courses, dedicated technical support, and joint market development. Partners who join from today will get immediate access to a new technical certification and be eligible for investment. Anthropic is focused on ensuring that our AI model, Claude, serves the needs of businesses. To do this, we’ve partnered with a number of other companies. Notably, Claude is the only frontier AI model available on all three leading cloud providers: AWS, Google Cloud, and Microsoft. We also work with large management consultancies, professional services firms, specialist AI firms, and similar agencies. These organizations help our enterprise customers identify where Claude can provide the most value to their work, and then help them get started with our AI tools. Our partners act as trusted guides in what can feel like uncharted territory: navigating the deployment requirements, compliance, and change management necessary inside large organizations. Now, we’re doubling down our commitment to our partners, aiming to make it even easier for these organizations to support enterprises in adopting Claude. \"Anthropic is the most committed AI company in the world to the partner ecosystem—and we're putting $100 million behind that this year to prove it. The certification, the co-investment, the dedicated team—this infrastructure is built so that any firm, at any scale, can build a Claude practice. Our partners are instrumental in getting enterprises from proof of concept to production with Claude, and we're making sure they have everything they need to do it.\"—Steve Corfield, Head of Global Business Development and Partnerships, Anthropic. Introducing the Claude Partner Network The Claude Partner Network provides ",
+      "published": "",
+      "_id": "9d6a48ccf42b9ba3",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 11, 2026AnnouncementsIntroducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "summary": "Announcements Introducing The Anthropic Institute Mar 11, 2026 We’re launching The Anthropic Institute , a new effort to confront the most significant challenges that powerful AI will pose to our societies. The Anthropic Institute will draw on research from across Anthropic to provide information that other researchers and the public can use during our transition to a world containing much more powerful AI systems. In the five years since Anthropic began, AI progress has moved incredibly quickly. It took us two years to release our first commercial model, and just three more to develop models that can discover severe cybersecurity vulnerabilities , take on a wide range of real work , and even begin to accelerate the pace of AI development itself . We predict that far more dramatic progress will follow in the next two years. One of our company’s core convictions is that AI development is accelerating: that the improvements we make are compounding over time. Because of this, extremely powerful AI, like the kind our CEO Dario Amodei describes in Machines of Loving Grace , is coming far sooner than many think. If this is right, society is shortly going to need to confront many massive challenges . How will powerful AI systems reshape our jobs and economies? What kinds of opportunities for greater societal resilience will they give us? What kinds of threats will they magnify or introduce? What are the expressed “values” of AI systems and how will society help companies determine what the appropriate values are? And, if the recursive self-improvement of AI systems does begin to occur, who in the world should be made aware, and how should these systems be governed? The Anthropic Institute’s goal is to tell the world what we’re learning about these challenges as we build frontier AI systems, and to partner with external audiences to help address the risks we must confront. Whether our societies are able to do so will determine whether or not transformative AI delivers the r",
+      "published": "",
+      "_id": "a6aa0996df7b73a9",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "published": "2026-03-27T21:44:45",
+      "_id": "1b76789dfb3624b3",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "published": "2026-03-27T19:11:28",
+      "_id": "03c68e8fecce638b",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+      "published": "2026-03-27T15:40:19",
+      "_id": "c7a20c48ec609944",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+      "published": "2026-03-27T13:30:00",
+      "_id": "5170768851c0840d",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+      "published": "2026-03-27T01:26:40",
+      "_id": "57fcef62276f13d5",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "The Verge",
+      "title": "Why OpenAI killed Sora",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and […]",
+      "published": "2026-03-28T12:00:00",
+      "_id": "b0329c17bd079b1b",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "The Verge",
+      "title": "The latest in data centers, AI, and energy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.  From audacious plans to launch data centers into […]",
+      "published": "2026-03-27T18:35:53",
+      "_id": "f8fe21ba7f368ed1",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "link": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
+      "published": "2026-03-28T09:00:00",
+      "_id": "57a318aa82daec74",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
+      "published": "2026-03-27T12:32:54",
+      "_id": "0f7748cd7ec76b96",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a…",
+      "published": "2026-03-27T09:00:00",
+      "_id": "d9cb51a5cac06c78",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+      "published": "2026-03-27T21:46:39",
+      "_id": "b07dd3503fcdc3b5",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+      "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+      "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+      "published": "2026-03-27T15:00:00",
+      "_id": "c8024f1b5f48ef1a",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Wired",
+      "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
+      "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+      "published": "2026-03-27T11:00:00",
+      "_id": "e51c14ca410e7b3b",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Wired",
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+      "published": "2026-03-27T10:30:00",
+      "_id": "4f579a6d5e49d24f",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "hacksider /Deep-Live-Cam",
+      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "summary": "Deep-Live-Cam 2.1 Real-time face swap and video deepfake with a single click and only a single image. Disclaimer This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design. We are aware of the potential for unethical applications and are committed to preventative measures. A built-in check prevents the program from processing inappropriate media (nudity, graphic content, sensitive material like war footage, etc.). We will continue to develop this project responsibly, adhering to the law and ethics. We may shut down the project or add watermarks if legally required. Ethical Use: Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. Content Restrictions: The software includes built-in checks to prevent processing inappropriate media, such as nudity, graphic content, or sensitive material. Legal Compliance: We adhere to all relevant laws and ethical guidelines. If legally required, we may shut down the project or add watermarks to the output. User Responsibility: We are not responsible for end-user actions. Users must ensure their use of the software aligns with ethical standards and legal requirements. By using this software, you agree to these terms and commit to using it in a manner that respects the rights and dignity of others. Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions. Exclusive v2.7 beta Quick Start - Pre-built (Windows/Mac Silicon/CPU) This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU, CPU or Mac Silicon, And you'll receive special priority support. 2.7 beta is the best y",
+      "published": "",
+      "_id": "ec2a1fb5129b99e9",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Note: Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup. Claude Code Official Marketplace Superpowers is available via the official Claude plugin marketplace Install the plugin from Claude marketplace: /plugin install superpowers@claude-plugins-official Claude Code (via Plugin Marketplace) In Claude Code, register the marketplace fi",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "SakanaAI /AI-Scientist-v2",
+      "link": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "summary": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search 📚 [Paper] |\n  📝 [Blog Post] |\n  📂 [ICLR2025 Workshop Experiment] Fully autonomous scientific research systems are becoming increasingly capable, with AI playing a pivotal role in transforming how scientific discoveries are made.\nWe are excited to introduce The AI Scientist-v2, a generalized end-to-end agentic system that has generated the first workshop paper written entirely by AI and accepted through peer review. This system autonomously generates hypotheses, runs experiments, analyzes data, and writes scientific manuscripts. Unlike its predecessor (AI Scientist-v1) , the AI Scientist-v2 removes reliance on human-authored templates, generalizes across Machine Learning (ML) domains, and employs a progressive agentic tree search, guided by an experiment manager agent. Note: The AI Scientist-v2 doesn’t necessarily produce better papers than v1, especially when a strong starting template is available. v1 follows well-defined templates, leading to high success rates, while v2 takes a broader, more exploratory approach with lower success rates. v1 works best for tasks with clear objectives and a solid foundation, whereas v2 is designed for open-ended scientific exploration. Caution! This codebase will execute Large Language Model (LLM)-written code. There are various risks and challenges associated with this autonomy, including the potential use of dangerous packages, uncontrolled web access, and the possibility of spawning unintended processes. Ensure that you run this within a controlled sandbox environment (e.g., a Docker container). Use at your own discretion. Table of Contents Requirements Installation Supported Models and API Keys Generate Research Ideas Run AI Scientist-v2 Paper Generation Experiments Citing The AI Scientist-v2 Frequently Asked Questions Acknowledgement Requirements This code is designed to run on Linux with NVIDIA GPUs using CUDA and PyTorch. Installation ",
+      "published": "",
+      "_id": "b6bf6d853ba3cf88",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "virattt /dexter",
+      "link": "https://github.com/virattt/dexter",
+      "summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research. Table of Contents 👋 Overview ✅ Prerequisites 💻 How to Install 🚀 How to Run 📊 How to Evaluate 🐛 How to Debug 📱 How to Use with WhatsApp 🤝 How to Contribute 📄 License 👋 Overview Dexter takes complex financial questions and turns them into clear, step-by-step research plans. It runs those tasks using live market data, checks its own work, and refines the results until it has a confident, data-backed answer. Key Capabilities: Intelligent Task Planning : Automatically decomposes complex queries into structured research steps Autonomous Execution : Selects and executes the right tools to gather financial data Self-Validation : Checks its own work and iterates until tasks are complete Real-Time Financial Data : Access to income statements, balance sheets, and cash flow statements Safety Features : Built-in loop detection and step limits to prevent runaway execution ✅ Prerequisites Bun runtime (v1.0 or higher) OpenAI API key (get here ) Financial Datasets API key (get here ) Exa API key (get here ) - optional, for web search Installing Bun If you don't have Bun installed, you can install it using curl: macOS/Linux: curl -fsSL https://bun.com/install | bash Windows: powershell -c \" irm bun.sh/install.ps1|iex \" After installation, restart your terminal and verify Bun is installed: bun --version 💻 How to Install Clone the repository: git clone https://github.com/virattt/dexter.git cd dexter Install dependencies with Bun: bun install Set up your environment variables: # Copy the example environment file cp env.example .env # Edit .env and add your API keys (if using cloud providers) # OPENAI_API_KEY=your-openai-api-key # ANTHROPIC_API_KEY=your-anthropic-api-key (optional) # GOOGLE_API_KEY=your-google-api-key (optional) # XAI_API",
+      "published": "",
+      "_id": "9600b2b1dbc44b84",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "twentyhq /twenty",
+      "link": "https://github.com/twentyhq/twenty",
+      "summary": "The #1 Open-Source CRM 🌐 Website · 📚 Documentation · Roadmap · Discord · Figma Installation See:\n🚀 Self-hosting 🖥️ Local Setup Why Twenty We built Twenty for three reasons: CRMs are too expensive, and users are trapped. Companies use locked-in customer data to hike prices. It shouldn't be that way. A fresh start is required to build a better experience. We can learn from past mistakes and craft a cohesive experience inspired by new UX patterns from tools like Notion, Airtable or Linear. We believe in open-source and community. Hundreds of developers are already building Twenty together. Once we have plugin capabilities, a whole ecosystem will grow around it. What You Can Do With Twenty Please feel free to flag any specific needs you have by creating an issue. Below are a few features we have implemented to date: Personalize layouts with filters, sort, group by, kanban and table views Customize your objects and fields Create and manage permissions with custom roles Automate workflow with triggers and actions Emails, calendar events, files, and more Personalize layouts with filters, sort, group by, kanban and table views Customize your objects and fields Create and manage permissions with custom roles Automate workflow with triggers and actions Emails, calendar events, files, and more Stack TypeScript Nx NestJS , with BullMQ , PostgreSQL , Redis React , with Jotai , Linaria and Lingui Thanks Thanks to these amazing services that we use and recommend for UI testing (Chromatic), code review (Greptile), catching bugs (Sentry) and translating (Crowdin). Join the Community Star the repo Subscribe to releases (watch -> custom -> releases) Follow us on Twitter or LinkedIn Join our Discord Improve translations on Crowdin Contributions are, of course, most welcome!",
+      "published": "",
+      "_id": "a20220596b25af30",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "onyx-dot-app /onyx",
+      "link": "https://github.com/onyx-dot-app/onyx",
+      "summary": "Open Source AI Platform Onyx is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy and can run in a completely airgapped environment. Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep Research, Connectors to 40+ knowledge sources, and more. Tip Run Onyx with one command (or see deployment section below): curl -fsSL https://onyx.app/install_onyx.sh | bash ⭐ Features 🤖 Custom Agents: Build AI Agents with unique instructions, knowledge and actions. 🌍 Web Search: Browse the web with Google PSE, Exa, and Serper as well as an in-house scraper or Firecrawl. 🔍 RAG: Best in class hybrid-search + knowledge graph for uploaded files and ingested documents from connectors. 🔄 Connectors: Pull knowledge, metadata, and access information from over 40 applications. 🔬 Deep Research: Get in depth answers with an agentic multi-step search. ▶️ Actions & MCP: Give AI Agents the ability to interact with external systems. 💻 Code Interpreter: Execute code to analyze data, render graphs and create files. 🎨 Image Generation: Generate images based on user prompts. 👥 Collaboration: Chat sharing, feedback gathering, user management, usage analytics, and more. Onyx works with all LLMs (like OpenAI, Anthropic, Gemini, etc.) and self-hosted LLMs (like Ollama, vLLM, etc.) To learn more about the features, check out our documentation ! 🚀 Deployment Onyx supports deployments in Docker, Kubernetes, Terraform, along with guides for major cloud providers. See guides below: Docker or Quickstart (best for most users) Kubernetes (best for large teams) Terraform (best for teams already using Terraform) Cloud specific guides (best if specifically using AWS EKS , Azure VMs , etc.) Tip To try Onyx for free without deploying, check out Onyx Cloud . 🔍 Other Notable Benefits Onyx is built for teams of all sizes, from individual users to the largest global enterprises. Enterprise Search : far more than simple RAG, Onyx has custom indexing and retrieval",
+      "published": "",
+      "_id": "de3e2955aed3e931",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "datalab-to /chandra",
+      "link": "https://github.com/datalab-to/chandra",
+      "summary": "Datalab State of the Art models for Document Intelligence Chandra OCR 2 Chandra OCR 2 is a state of the art OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information. News 3/2026 - Chandra 2 is here with significant improvements to math, tables, layout, and multilingual OCR 10/2025 - Chandra 1 launched Features Tops external olmocr benchmark and significant improvement in internal multilingual benchmarks Convert documents to markdown, html, or json with detailed layout information Support for 90+ languages ( benchmark below ) Excellent handwriting support Reconstructs forms accurately, including checkboxes Strong performance with tables, math, and complex layouts Extracts images and diagrams, and adds captions and structured data Two inference modes: local (HuggingFace) and remote (vLLM server) Hosted API We have a hosted API for Chandra here , which is more accurate and faster. There is a free playground here if you want to try Chandra without installing. Quickstart The easiest way to start is with the CLI tools: pip install chandra-ocr # With vLLM (recommended, lightweight install) chandra_vllm\nchandra input.pdf ./output # With HuggingFace (requires torch) pip install chandra-ocr[hf]\nchandra input.pdf ./output --method hf # Interactive streamlit app pip install chandra-ocr[app]\nchandra_app Benchmarks Multilingual performance was a focus for us with Chandra 2.  There isn't a good public multilingual OCR benchmark, so we made our own.  This tests tables, math, ordering, layout, and text accuracy. See full scores below . We also have a full 90-language benchmark . We also benchmarked Chandra 2 with the widely accepted olmocr benchmark: See full scores below . Examples Type Name Link Math CS229 Textbook View Math Handwritten Math View Math Chinese Math View Tables Statistical Distribution View Tables Financial Table View Forms Registration Form View Forms Lease Form View Handwriting Cursive Writing View Handwriting ",
+      "published": "",
+      "_id": "83154f1f3c3c0f88",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "agentscope-ai /agentscope",
+      "link": "https://github.com/agentscope-ai/agentscope",
+      "summary": "中文主页 | Tutorial | Roadmap (Jan 2026 -) | FAQ What is AgentScope? AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that work with rising model capability and built-in support for finetuning. We design for increasingly agentic LLMs.\nOur approach leverages the models' reasoning and tool use abilities\nrather than constraining them with strict prompts and opinionated orchestrations. Why use AgentScope? Simple : start building your agents in 5 minutes with built-in ReAct agent, tools, skills, human-in-the-loop steering, memory, planning, realtime voice, evaluation and model finetuning Extensible : large number of ecosystem integrations for tools, memory and observability; built-in support for MCP and A2A; message hub for flexible multi-agent orchestration and workflows Production-ready : deploy and serve your agents locally, as serverless in the cloud, or on your K8s cluster with built-in OTel support The AgentScope Ecosystem News [2026-03] RELS : We recently developed and open sourced an AI assistant named CoPaw (Co Personal Agent Workstation), built upon AgentScope , AgentScope-Runtime , and Reme . [2026-02] FEAT : Realtime Voice Agent support. Example | Multi-Agent Realtime Example | Tutorial [2026-01] COMM : Biweekly Meetings launched to share ecosystem updates and development plans - join us! Details & Schedule [2026-01] FEAT : Database support & memory compression in memory module. Example | Tutorial [2025-12] INTG : A2A (Agent-to-Agent) protocol support. Example | Tutorial [2025-12] FEAT : TTS (Text-to-Speech) support. Example | Tutorial [2025-11] INTG : Anthropic Agent Skill support. Example | Tutorial [2025-11] RELS : Alias-Agent for diverse real-world tasks and Data-Juicer Agent for data processing open-sourced. Alias-Agent | Data-Juicer Agent [2025-11] INTG : Agentic RL via Trinity-RFT library. Example | Trinity-RFT [2025-11] INTG : ReMe for enhanced long-term memory. Example [2025-11] RELS : agentscope-samples repositor",
+      "published": "",
+      "_id": "a602ed08f0eed10c",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "GitHub",
+      "title": "apache /superset",
+      "link": "https://github.com/apache/superset",
+      "summary": "Superset A modern, enterprise-ready business intelligence web application. Documentation User Guide — For analysts and business users. Explore data, build charts, create dashboards, and connect databases. Administrator Guide — Install, configure, and operate Superset. Covers security, scaling, and database drivers. Developer Guide — Contribute to Superset or build on its REST API and extension framework. Why Superset? | Supported Databases | Release Notes | Get Involved | Resources | Organizations Using Superset Why Superset? Superset is a modern data exploration and data visualization platform. Superset can replace or augment proprietary business intelligence tools for many teams. Superset integrates well with a variety of data sources. Superset provides: A no-code interface for building charts quickly A powerful, web-based SQL Editor for advanced querying A lightweight semantic layer for quickly defining custom dimensions and metrics Out of the box support for nearly any SQL database or data engine A wide array of beautiful visualizations to showcase your data, ranging from simple bar charts to geospatial visualizations Lightweight, configurable caching layer to help ease database load Highly extensible security roles and authentication options An API for programmatic customization A cloud-native architecture designed from the ground up for scale Screenshots & Gifs Video Overview superset-video-1080p.webm Large Gallery of Visualizations Craft Beautiful, Dynamic Dashboards No-Code Chart Builder Powerful SQL Editor Supported Databases Superset can query data from any SQL-speaking datastore or data engine (Presto, Trino, Athena, and more ) that has a Python DB-API driver and a SQLAlchemy dialect. Here are some of the major database solutions that are supported: A more comprehensive list of supported databases along with the configuration instructions can be found here . Want to add support for your datastore or data engine? Read more here about the technical requirem",
+      "published": "",
+      "_id": "f088aee21acb435b",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "summary": "Article URL:https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_FilteringComments URL:https://news.ycombinator.com/item?id=47552562Points: 145# Comments: 71",
+      "published": "2026-03-28T08:06:19",
+      "_id": "7ae5463c14480ff1",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why are executives enamored with AI, but ICs aren't?",
+      "link": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+      "summary": "Article URL:https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/Comments URL:https://news.ycombinator.com/item?id=47549649Points: 67# Comments: 125",
+      "published": "2026-03-27T23:19:18",
+      "_id": "450c812f05b1f0d4",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+      "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+      "summary": "Article URL:https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/Comments URL:https://news.ycombinator.com/item?id=47547849Points: 51# Comments: 1",
+      "published": "2026-03-27T20:30:35",
+      "_id": "24cb86660f9fc301",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Some uncomfortable truths about AI coding agents",
+      "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
+      "summary": "Article URL:https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/Comments URL:https://news.ycombinator.com/item?id=47545748Points: 73# Comments: 85",
+      "published": "2026-03-27T17:32:48",
+      "_id": "477484998e7e1a14",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I am leaving the AI party after one drink",
+      "link": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+      "summary": "Article URL:https://lara-aigmueller.at/thoughts/leaving-the-ai-party/Comments URL:https://news.ycombinator.com/item?id=47545030Points: 113# Comments: 125",
+      "published": "2026-03-27T16:41:59",
+      "_id": "47951d802c522195",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "Article URL:https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worryingComments URL:https://news.ycombinator.com/item?id=47544980Points: 374# Comments: 345",
+      "published": "2026-03-27T16:39:32",
+      "_id": "7fc706d6ffc81786",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude loses its >99% uptime in Q1 2026",
+      "link": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
+      "summary": "Article URL:https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226Comments URL:https://news.ycombinator.com/item?id=47543189Points: 85# Comments: 79",
+      "published": "2026-03-27T14:40:06",
+      "_id": "e5a869f80606ee58",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anatomy of the .claude/ folder",
+      "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "summary": "Article URL:https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folderComments URL:https://news.ycombinator.com/item?id=47543139Points: 516# Comments: 229",
+      "published": "2026-03-27T14:35:45",
+      "_id": "ccc665fdd38793c6",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "summary": "Article URL:https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/Comments URL:https://news.ycombinator.com/item?id=47538795Points: 59# Comments: 21",
+      "published": "2026-03-27T03:21:35",
+      "_id": "af3af4b9955ffa25",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] Many times I feel additional experiments during the rebuttal make my paper worse",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s5j8bg/d_many_times_i_feel_additional_experiments_during/",
+      "summary": "Back in the days when I just started to review for major conferences, it was common to give and receive reviews saying \"I don't have major concerns\".In the past 3-5 years, the field has spent significant effort cracking down on low-quality reviews, which is great. But a side effect is that we don't see these kinds of \"easy\" reviews anymore. It feels like the reviewers are obliged to find something wrong with the paper to show they are doing their job. Even on papers where all reviewers are accepting, it's common for the author to be requested 5-10 additional numbers/plots during rebuttal.Many times, these experiments are detrimental. Most of them are \"what ifs\". How about a different backbone, task, dataset, or a specific setting? And whenever something doesn't work (especially during the rebuttal timeframe), the reviewer is having a good \"gotcha\" moment. I'm not only complaining as an author but also as a reviewer. Several times, I had to step in during the discussion: \"I don't think X experiment suggested by Reviewer Y is important,\" And every time the AC sided with me.The requirement for experiments should always be \"sufficient to support the core claims,\" not \"exhaustively examine every single barely applicable case.\" Folks, it's OK to say \"the paper passes the bar, but I have curiosity questions that do not affect my rating\" (I have written this line many times in my reviews).submitted by/u/AffectionateLife5693[link][comments]",
+      "published": "2026-03-27T22:46:11",
+      "_id": "b0c071ebf36fd044",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[Project] PentaNet: Pushing beyond BitNet with Native Pentanary {-2, -1, 0, 1, 2} Quantization (124M, zero-multiplier inference)",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s5l5l2/project_pentanet_pushing_beyond_bitnet_with/",
+      "summary": "Hey everyone,I've been experimenting with extreme LLM quantization following the BitNet 1.58b paper. While ternary quantization {-1, 0, 1} is great for replacing costly matrix multiplications with simple additions, I wondered if we were leaving too much model capacity on the table by overly restricting the weights.So, I built and trained PentaNet from scratch — a custom architecture that expands the weight states to pentanary: {-2, -1, 0, +1, +2}.Why ±2? Because multiplying by 2 doesn't require a hardware multiplier! It’s just a left bit-shift (x << 1). This means PentaNet completely preserves the \"zero-multiplier\" inference benefit of BitNet, while giving the network 47% more information per weight (log₂(5) ≈ 2.32 bits vs log₂(3) ≈ 1.58 bits for ternary) to encode knowledge.📊 The BenchmarkI trained two 124M parameter models (GPT-2 architecture) on WikiText-103 using exactly the same compute budget and setup to compare them head-to-head. To ensure statistical significance, I ran 3 independent seeds for each.Results (WikiText-103):That's a ~6.4% perplexity improvement essentially for \"free\" in terms of compute overhead, and the Straight-Through Estimator (STE) remained perfectly stable.🧬 Weight Distribution & Non-CollapseOne of my biggest fears was that the model would just ignore the ±2 buckets and silently collapse back into a ternary BitNet. I tracked the buckets during training, and they actually stabilize perfectly:🗣️ Text Generation ExampleThe PPL difference sounds small on paper, but at 124M parameters, it's the difference between stuttering and coherent English. Here is an uncurated sample from seed 42 (Prompt: \"The history of the internet began with\"):BitNet:The history of the internet began with the<unk>to be a way ,<unk>, which was the first recent of the<unk>, and the city and the<unk>. The French army was the first to be the first@-\\*@ scale*PentaNet:The history of the internet began with the original level of the other . The term of the original world w",
+      "published": "2026-03-28T00:05:50",
+      "_id": "a8a6cc2df74241bf",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] Thinking about augmentation as invariance assumptions",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s5nxwc/d_thinking_about_augmentation_as_invariance/",
+      "summary": "Data augmentation is still used much more heuristically than it should be.A training pipeline can easily turn into a stack of intuition, older project defaults, and transforms borrowed from papers or blog posts. The hard part is not adding augmentations. The hard part is reasoning about them: what invariance is each transform trying to impose, when is that invariance valid, how strong should the transform be, and when does it start corrupting the training signal instead of improving generalization?The examples I have in mind come mostly from computer vision, but the underlying issue is broader. A useful framing is: every augmentation is an invariance assumption.That framing sounds clean, but in practice it gets messy quickly. A transform may be valid for one task and destructive for another. It may help at one strength and hurt at another. Even when the label stays technically unchanged, the transform can still wash out the signal the model needs.I wrote a longer version of this argument with concrete examples and practical details; the link is in the first comment because weekday posts here need to be text-only.I’d be very interested to learn from your experience: - where this framing works well - where it breaks down - how you validate that an augmentation is really label-preserving instead of just plausiblehttps://albumentations.ai/docs/3-basic-usage/choosing-augmentations/submitted by/u/ternausX[link][comments]",
+      "published": "2026-03-28T02:12:26",
+      "_id": "2b793f59bb8e9724",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Google TurboQuant running Qwen Locally on MacAir",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s5kdu0/google_turboquant_running_qwen_locally_on_macair/",
+      "summary": "Hi everyone, we just ran an experiment.We patched llama.cpp with Google’s new TurboQuant compression method and then ran Qwen 3.5–9B on a regular MacBook Air (M4, 16 GB) with 20000 tokens context.Previously, it was basically impossible to handle large context prompts on this device. But with the new algorithm, it now seems feasible. Imagine running OpenClaw on a regular device for free! Just a MacBook Air or Mac Mini, not even a Pro model the cheapest ones. It’s still a bit slow, but the newer chips are making it faster.link for MacOs app:atomic.chat- open source and free.Curious if anyone else has tried something similar?submitted by/u/gladkos[link][comments]",
+      "published": "2026-03-27T23:33:47",
+      "_id": "b286f3fcbc5d4307",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "The AI releases hype cycle in a nutshell",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s5te4q/the_ai_releases_hype_cycle_in_a_nutshell/",
+      "summary": "This might look like a shitpost but beyond the meme lies the truth.Pay attention to my point: every new AI feature announcement now follows the exact same script:Week one: is pure exuberance (VEO 3 generating two elderly men speaking inPortugueseat the top of Everest,nano banana editing images so convincingly that ppl talk about photoshop's death, GPT-5.4 picking up on subtle context.Then week two hits. The model starts answering nonsense stuffed with em dashes, videos turn into surrealist art that ignores the prompt, etc.The companies don't announce anything about degradation, errors, etc. they don't have to. They simply announce more features (music maker?) feed the hype, and the cycle resets with a new week of exuberance.submitted by/u/GreenBird-ee[link][comments]",
+      "published": "2026-03-28T06:58:30",
+      "_id": "dea9590048f11563",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "TurboQuant on MLX: 4.6x KV cache compression with custom Metal kernels (Qwen 32B at 98% FP16 speed)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s5vhf6/turboquant_on_mlx_46x_kv_cache_compression_with/",
+      "summary": "Implemented TurboQuant (Google's new KV cache compression paper) for MLX with fused Metal kernels.Results on Qwen2.5-32B, M4 Pro 48GB:- 4.6x compression, 0.98x FP16 speed, identical quality- 16K context: 4.2GB cache → 897MBThe main challenge was speed — went from 0.28x to 0.98x FP16 through fused Metal quantize/dequantize kernels and an incremental decode buffer.Writeup with the full optimization journey:https://medium.com/@antonrozanov/turboquant-on-mlx-4-6x-kv-cache-compression-with-custom-metal-kernels-9cdee3f7d2a2Code:https://github.com/arozanov/turboquant-mlxPR to mlx-lm:https://github.com/ml-explore/mlx-lm/pull/1067submitted by/u/dirtyhand3[link][comments]",
+      "published": "2026-03-28T09:07:01",
+      "_id": "f203f45c0e32f660",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "llama.cpp: Prefetching weights when offloading to CPU",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s5xcmw/llamacpp_prefetching_weights_when_offloading_to/",
+      "summary": "Hellor/LocalLLaMA, I put up an experimental PR which prefetches weights when offloading to CPU. Long story short from results it helps dense + smaller MoE models for PP (prompt processing). Give it a try if you are ram-rich and gpu-poor like me.https://github.com/ggml-org/llama.cpp/pull/21067submitted by/u/am17an[link][comments]",
+      "published": "2026-03-28T11:00:45",
+      "_id": "03fb5d561a6332a5",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Say No to Congress using AI to mass surveil US Citizens and oppose the extension of the FISA Act",
+      "link": "https://www.reddit.com/r/artificial/comments/1s5onmr/say_no_to_congress_using_ai_to_mass_surveil_us/",
+      "summary": "In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.submitted by/u/FrequentAd5437[link][comments]",
+      "published": "2026-03-28T02:46:53",
+      "_id": "d986ca27dfca957d",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Looking for a solid ChatGPT alternative for daily work",
+      "link": "https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/",
+      "summary": "I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore.And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows.I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?submitted by/u/Working-Chemical-337[link][comments]",
+      "published": "2026-03-28T08:43:11",
+      "_id": "adc1de7ab3c9ff92",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model",
+      "link": "https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/",
+      "summary": "submitted by/u/boppinmule[link][comments]",
+      "published": "2026-03-27T21:35:26",
+      "_id": "55f9e7795fb6be6e",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Nobody’s talking about what Pixar’s Hoppers is actually saying about AI",
+      "link": "https://www.reddit.com/r/artificial/comments/1s5rlc5/nobodys_talking_about_what_pixars_hoppers_is/",
+      "summary": "Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them.A few things worth noting:The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language.The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended.The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions.The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself.Curious if anyone else read it this way.submitted by/u/GuacaGuaca[link][comments]",
+      "published": "2026-03-28T05:15:12",
+      "_id": "a707b9e9926708ab",
+      "_scraped_at": "13:01"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Is anyone else watching what Qubic is doing with distributed compute and AI training? Seems underreported in AI cirles",
+      "link": "https://www.reddit.com/r/artificial/comments/1s5x2wo/is_anyone_else_watching_what_qubic_is_doing_with/",
+      "summary": "I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities.Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things.The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput.Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads.For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training.Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it.My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?submitted by/u/srodland01[link][comments]",
+      "published": "2026-03-28T10:45:27",
+      "_id": "b905d5c69519aa4b",
+      "_scraped_at": "13:01"
+    }
+  ],
+  "seen_ids": [
+    "477484998e7e1a14",
+    "1b76789dfb3624b3",
+    "b0329c17bd079b1b",
+    "a8a6cc2df74241bf",
+    "57fcef62276f13d5",
+    "a602ed08f0eed10c",
+    "a707b9e9926708ab",
+    "ec2a1fb5129b99e9",
+    "d986ca27dfca957d",
+    "f203f45c0e32f660",
+    "af3af4b9955ffa25",
+    "47951d802c522195",
+    "b0c071ebf36fd044",
+    "ccc665fdd38793c6",
+    "b905d5c69519aa4b",
+    "24cb86660f9fc301",
+    "9d6a48ccf42b9ba3",
+    "450c812f05b1f0d4",
+    "e5a869f80606ee58",
+    "091b61caa9d6ad3b",
+    "7ae5463c14480ff1",
+    "dea9590048f11563",
+    "b6bf6d853ba3cf88",
+    "f8fe21ba7f368ed1",
+    "d9cb51a5cac06c78",
+    "4f579a6d5e49d24f",
+    "0f7748cd7ec76b96",
+    "c8024f1b5f48ef1a",
+    "c7a20c48ec609944",
+    "a6aa0996df7b73a9",
+    "8c6014a36ca90e3f",
+    "57a318aa82daec74",
+    "55f9e7795fb6be6e",
+    "5170768851c0840d",
+    "b07dd3503fcdc3b5",
+    "03fb5d561a6332a5",
+    "b286f3fcbc5d4307",
+    "adc1de7ab3c9ff92",
+    "6c20810f6d90adf9",
+    "16594c97bd60c523",
+    "03c68e8fecce638b",
+    "e51c14ca410e7b3b",
+    "83154f1f3c3c0f88",
+    "f088aee21acb435b",
+    "7fc706d6ffc81786",
+    "de3e2955aed3e931",
+    "2b793f59bb8e9724",
+    "a20220596b25af30",
+    "9600b2b1dbc44b84",
+    "c4a45eed67ee9087"
+  ],
+  "last_run": "13:01",
+  "run_count": 1
+}
