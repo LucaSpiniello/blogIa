@@ -1,0 +1,449 @@
+{
+  "date": "2026-03-29",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Announcements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations. Knowledge work Agentic search Coding Reasoning Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains. Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search. Opus 4.6 excels at real-world agentic coding and system tasks. Opus 4.6 extends the frontier of expert-level ",
+      "published": "",
+      "_id": "6c20810f6d90adf9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 12, 2026AnnouncementsAnthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Announcements Anthropic invests $100 million into the Claude Partner Network Mar 12, 2026 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude. We’re committing an initial $100 million to support our partners with training courses, dedicated technical support, and joint market development. Partners who join from today will get immediate access to a new technical certification and be eligible for investment. Anthropic is focused on ensuring that our AI model, Claude, serves the needs of businesses. To do this, we’ve partnered with a number of other companies. Notably, Claude is the only frontier AI model available on all three leading cloud providers: AWS, Google Cloud, and Microsoft. We also work with large management consultancies, professional services firms, specialist AI firms, and similar agencies. These organizations help our enterprise customers identify where Claude can provide the most value to their work, and then help them get started with our AI tools. Our partners act as trusted guides in what can feel like uncharted territory: navigating the deployment requirements, compliance, and change management necessary inside large organizations. Now, we’re doubling down our commitment to our partners, aiming to make it even easier for these organizations to support enterprises in adopting Claude. \"Anthropic is the most committed AI company in the world to the partner ecosystem—and we're putting $100 million behind that this year to prove it. The certification, the co-investment, the dedicated team—this infrastructure is built so that any firm, at any scale, can build a Claude practice. Our partners are instrumental in getting enterprises from proof of concept to production with Claude, and we're making sure they have everything they need to do it.\"—Steve Corfield, Head of Global Business Development and Partnerships, Anthropic. Introducing the Claude Partner Network The Claude Partner Network provides ",
+      "published": "",
+      "_id": "9d6a48ccf42b9ba3",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 11, 2026AnnouncementsIntroducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "summary": "Announcements Introducing The Anthropic Institute Mar 11, 2026 We’re launching The Anthropic Institute , a new effort to confront the most significant challenges that powerful AI will pose to our societies. The Anthropic Institute will draw on research from across Anthropic to provide information that other researchers and the public can use during our transition to a world containing much more powerful AI systems. In the five years since Anthropic began, AI progress has moved incredibly quickly. It took us two years to release our first commercial model, and just three more to develop models that can discover severe cybersecurity vulnerabilities , take on a wide range of real work , and even begin to accelerate the pace of AI development itself . We predict that far more dramatic progress will follow in the next two years. One of our company’s core convictions is that AI development is accelerating: that the improvements we make are compounding over time. Because of this, extremely powerful AI, like the kind our CEO Dario Amodei describes in Machines of Loving Grace , is coming far sooner than many think. If this is right, society is shortly going to need to confront many massive challenges . How will powerful AI systems reshape our jobs and economies? What kinds of opportunities for greater societal resilience will they give us? What kinds of threats will they magnify or introduce? What are the expressed “values” of AI systems and how will society help companies determine what the appropriate values are? And, if the recursive self-improvement of AI systems does begin to occur, who in the world should be made aware, and how should these systems be governed? The Anthropic Institute’s goal is to tell the world what we’re learning about these challenges as we build frontier AI systems, and to partner with external audiences to help address the risks we must confront. Whether our societies are able to do so will determine whether or not transformative AI delivers the r",
+      "published": "",
+      "_id": "a6aa0996df7b73a9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "published": "2026-03-28T23:00:00",
+      "_id": "5589c049d7333fcf",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "published": "2026-03-28T20:45:54",
+      "_id": "d75a0158d2aab45f",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "published": "2026-03-28T16:11:16",
+      "_id": "6e3baedd25b1b8ec",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "published": "2026-03-28T14:15:00",
+      "_id": "3ee197824109f389",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Suno leans into customization with v5.5",
+      "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
+      "published": "2026-03-28T18:33:10",
+      "_id": "98eb0af99142bfe4",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Why can’t TikTok identify AI generated ads when I can?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, […]",
+      "published": "2026-03-28T14:00:00",
+      "_id": "719f415445fc9146",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Why OpenAI killed Sora",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and […]",
+      "published": "2026-03-28T12:00:00",
+      "_id": "b0329c17bd079b1b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "link": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
+      "published": "2026-03-28T09:00:00",
+      "_id": "57a318aa82daec74",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "luongnv89 /claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "summary": "Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a guided learning path. Get Started in 15 Minutes | Find Your Level | Browse the Feature Catalog Table of Contents The Problem How Claude How To Fixes This How It Works Not Sure Where to Start? Get Started in 15 Minutes What Can You Build With This? FAQ Contributing License The Problem You installed Claude Code. You ran a few prompts. Now what? The official docs describe features — but don't show you how to combine them. You know slash commands exist, but not how to chain them with hooks, memory, and subagents into a workflow that actually saves hours. There's no clear learning path. Should you learn MCP before hooks? Skills before subagents? You end up skimming everything and mastering nothing. Examples are too basic. A \"hello world\" slash command doesn't help you build a production code review pipeline that uses memory, delegates to specialized agents, and runs security scans automatically. You're leaving 90% of Claude Code's power on the table — and you don't know what you don't know. How Claude How To Fixes This This isn't another feature reference. It's a structured, visual, example-driven guide that teaches you to use every Claude Code feature with real-world templates you can copy into your project today. Official Docs This Guide Format Reference documentation Visual tutorials with Mermaid diagrams Depth Feature descriptions How it works under the hood Examples Basic snippets Production-ready templates you use immediately Structure Feature-organized Progressive learning path (beginner to advanced) Onboarding Self-directed Guided roadmap with time estimates Self-Assessment None Interactive quizzes to find your gaps and build a personalized path What you get: 10 tutorial modules covering every Claude Code feature — from slash commands to custom agent teams Copy-paste configs — slash commands, CLAUDE.md ",
+      "published": "",
+      "_id": "98a99d0df7599b35",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "Yeachan-Heo /oh-my-claudecode",
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "summary": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode For Codex users: Check out oh-my-codex — the same orchestration experience for OpenAI Codex CLI. Multi-agent orchestration for Claude Code. Zero learning curve. Don't learn Claude Code. Just use OMC. Get Started • Documentation • CLI Reference • Workflows • Migration Guide • Discord Quick Start Step 1: Install Marketplace/plugin install (recommended for most Claude Code users): /plugin marketplace add https://github.com/Yeachan-Heo/oh-my-claudecode\n/plugin install oh-my-claudecode If you prefer the npm CLI/runtime path instead of the marketplace flow: npm i -g oh-my-claude-sisyphus@latest Step 2: Setup /setup\n/omc-setup Step 3: Build something autopilot: build a REST API for managing tasks That's it. Everything else is automatic. Not Sure Where to Start? If you're uncertain about requirements, have a vague idea, or want to micromanage the design: /deep-interview \"I want to build a task management app\" The deep interview uses Socratic questioning to clarify your thinking before any code is written. It exposes hidden assumptions and measures clarity across weighted dimensions, ensuring you know exactly what to build before execution begins. Team Mode (Recommended) Starting in v4.1.7 , Team is the canonical orchestration surface in OMC. The legacy swarm keyword/skill has been removed; use team directly. /team 3:executor \" fix all TypeScript errors \" Team runs as a staged pipeline: team-plan → team-prd → team-exec → team-verify → team-fix (loop) Enable Claude Code native teams in ~/.claude/settings.json : { \"env\" : { \"CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS\" : \" 1 \" }\n} If teams are disabled, OMC will warn you and fall back to non-team execution where possible. tmux CLI Workers — Codex & Gemini (v4.4.0+) v4.4.0 removes the Codex/Gemini MCP servers ( x , g providers). Use the CLI-first Team runtime ( omc team ... ) to spawn real tmux worker panes: omc team 2:codex \" review auth module for security ",
+      "published": "",
+      "_id": "b48531fff53cb23e",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /VibeVoice",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "summary": "🎙️ VibeVoice: Open-Source Frontier Voice AI 📰 News 2026-03-29: 🎉 VibeVoice-ASR is being adopted by the open-source community! Vibing , a voice-powered input method, is now built on top of VibeVoice-ASR. Download: macOS | Windows 1.mov 2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release ! You can now use our speech recognition model directly through the Hugging Face Transformers library for seamless integration into your projects. 2026-01-21: 📣 We open-sourced VibeVoice-ASR , a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for User-Customized Context. Try it in Playground . ⭐️ VibeVoice-ASR is natively multilingual, supporting over 50 languages — check the supported languages for details. 🔥 The VibeVoice-ASR finetuning code is now available! ⚡️ vLLM inference is now supported for faster inference; see vllm-asr for more details. 📑 VibeVoice-ASR Technique Report is available. 2025-12-16: 📣 We added experimental speakers to VibeVoice‑Realtime‑0.5B for exploration, including multilingual voices in nine languages (DE, FR, IT, JP, KR, NL, PL, PT, ES) and 11 distinct English style voices. Try it . More speaker types will be added over time. 2025-12-03: 📣 We open-sourced VibeVoice‑Realtime‑0.5B , a real‑time text‑to‑speech model that supports streaming text input and robust long-form speech generation. Try it on Colab . 2025-09-05: VibeVoice is an open-source research framework intended to advance collaboration in the speech synthesis community. After release, we discovered instances where the tool was used in ways inconsistent with the stated intent. Since responsible use of AI is one of Microsoft’s guiding principles, we have removed the VibeVoice-TTS code from this repository. 2025-08-25: 📣 We open-sourced VibeVoice-TTS , a long-form multi-speaker text-to-speech model that can synthesize speech up to",
+      "published": "",
+      "_id": "6a1e74497465541d",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "NousResearch /hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent ☤ The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter (200+ models), z.ai/GLM , Kimi/Moonshot , MiniMax , OpenAI, or your own endpoint. Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Six terminal backends — local, Docker, SSH, Daytona, Singularity, and Modal. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Research-ready Ba",
+      "published": "",
+      "_id": "ec2b8bd43eefd65f",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "OpenBB-finance /OpenBB",
+      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "summary": "Open Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, licensed, and public data sources into downstream applications like AI copilots and research dashboards. ODP operates as the \"connect once, consume everywhere\" infrastructure layer that consolidates and exposes data to multiple surfaces at once: Python environments for quants, OpenBB Workspace and Excel for analysts, MCP servers for AI agents, and REST APIs for other applications. Get started with: pip install openbb from openbb import obb output = obb . equity . price . historical ( \"AAPL\" ) df = output . to_dataframe () Data integrations available can be found here: https://docs.openbb.co/python/reference OpenBB Workspace While the Open Data Platform provides the open-source data integration foundation, OpenBB Workspace offers the enterprise UI for analysts to visualize datasets and leverage AI agents. The platform's \"connect once, consume everywhere\" architecture enables seamless integration between the two. You can find OpenBB Workspace at https://pro.openbb.co . Data integration: You can learn more about adding data to the OpenBB workspace from the docs or this open source repository . AI Agents integration: You can learn more about adding AI agents to the OpenBB workspace from this open source repository . Integrating Open Data Platform to the OpenBB Workspace Connect this library to the OpenBB Workspace with a few simple commands, in a Python (3.9.21 - 3.12) environment. Run an ODP backend Install the packages. pip install \" openbb[all] \" Start the API server over localhost. openbb-api This will launch a FastAPI server, via Uvicorn, at 127.0.0.1:6900 . You can check that it works by going to http://127.0.0.1:6900 . Integrate the ODP Backend to OpenBB Workspace Sign-in to the OpenBB Workspace , and follow the following steps: Go to the \"Apps\" tab Click on \"Connect backend\" Fill in the form with:\nName: Open Data Platform\nURL: http://127.0.0.1:6900 Clic",
+      "published": "",
+      "_id": "c196ed4b22119198",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Note: Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup. Claude Code Official Marketplace Superpowers is available via the official Claude plugin marketplace Install the plugin from Claude marketplace: /plugin install superpowers@claude-plugins-official Claude Code (via Plugin Marketplace) In Claude Code, register the marketplace fi",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "thedotmack /claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Čeština • 🇳🇱 Nederlands • 🇹🇷 Türkçe • 🇺🇦 Українська • 🇻🇳 Tiếng Việt • 🇵🇭 Tagalog • 🇮🇩 Indonesia • 🇹🇭 ไทย • 🇮🇳 हिन्दी • 🇧🇩 বাংলা • 🇵🇰 اردو • 🇷🇴 Română • 🇸🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration • Troubleshooting • License Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect. Quick Start Start a new Claude Code session in the terminal and enter the following commands: /plugin marketplace add thedotmack/claude-mem\n\n/plugin install claude-mem Restart Claude Code. Context from previous sessions will automatically appear in new sessions. Note: Claude-Mem is also published on npm, but npm install -g claude-mem installs the SDK/library only — it does not register the plugin hooks or set up the worker service. To use Claude-Mem as a plugin, always install via the /plugin commands above. 🦞 OpenClaw Gateway Install claude-mem as a persistent memory plugin on OpenClaw gateways with a single command: curl -fsSL https://install.cmem.ai/openclaw.sh | bash The installer handles dependencies, plugin setup, AI provider configuration, worker startup, and optional real-time observation feeds to Telegram, Discord, Slack, and more. See the OpenClaw Integration Guide for details. Key Features: 🧠 Persistent Memory - Context survives across sessions 📊 Progressive Disclosure - Layered memory retrieval with token cost visibility 🔍 Skill-Based Search - Query your project history with mem-search skill 🖥️ Web Viewer UI - Real-time",
+      "published": "",
+      "_id": "853c63f738f0cecf",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "hacksider /Deep-Live-Cam",
+      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "summary": "Deep-Live-Cam 2.1 Real-time face swap and video deepfake with a single click and only a single image. Disclaimer This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design. We are aware of the potential for unethical applications and are committed to preventative measures. A built-in check prevents the program from processing inappropriate media (nudity, graphic content, sensitive material like war footage, etc.). We will continue to develop this project responsibly, adhering to the law and ethics. We may shut down the project or add watermarks if legally required. Ethical Use: Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. Content Restrictions: The software includes built-in checks to prevent processing inappropriate media, such as nudity, graphic content, or sensitive material. Legal Compliance: We adhere to all relevant laws and ethical guidelines. If legally required, we may shut down the project or add watermarks to the output. User Responsibility: We are not responsible for end-user actions. Users must ensure their use of the software aligns with ethical standards and legal requirements. By using this software, you agree to these terms and commit to using it in a manner that respects the rights and dignity of others. Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions. Exclusive v2.7 beta Quick Start - Pre-built (Windows/Mac Silicon/CPU) This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU, CPU or Mac Silicon, And you'll receive special priority support. 2.7 beta is the best y",
+      "published": "",
+      "_id": "ec2a1fb5129b99e9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvanhorn /last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "/last30days v2.9.5 Claude Code (recommended) /plugin marketplace add mvanhorn/last30days-skill\n/plugin install last30days@last30days-skill clawhub install last30days-official The AI world reinvents itself every month. This skill keeps you current. /last30days researches your topic across Reddit, X, Bluesky, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2.0 access, paper.design prompts, or the latest Nano Banana Pro techniques, you'll know what people who are paying attention already know. New in v2.9.5 — Bluesky, Comparative Mode, and Config Improvements: Bluesky/AT Protocol is now a social source. Opt-in via BSKY_HANDLE + BSKY_APP_PASSWORD (create at bsky.app/settings/app-passwords). Full pipeline: search, score, dedupe, render. Comparative mode - ask \"X vs Y\" (e.g., /last30 cursor vs windsurf ) and get 3 parallel research passes with a side-by-side comparison: strengths, weaknesses, head-to-head table, and a data-driven verdict. Per-project .env config - drop a .claude/last30days.env in your project root for per-project API keys. SessionStart config check - validates your config automatically when a Claude Code session starts. Expanded test coverage - 455+ tests across all modules. New in v2.9.1 — Auto-save to ~/Documents/Last30Days/: Every run now saves the complete briefing as a topic-named .md file to your Documents folder. Build a personal research library automatically. Inspired by @devin_explores . New in v2.9 — ScrapeCreators Reddit + Top Comments + Smart Discovery: Reddit now runs on ScrapeCreators by default — one SCRAPECREATORS_API_KEY covers Reddit, TikTok, and Instagram (3 sources, 1 key). Smart subreddit discovery finds the right communities automatically, and top comments are elevated with a 10% scoring weight and 💬 display with upvote counts.",
+      "published": "",
+      "_id": "b88590c43555a909",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "shareAI-lab /learn-claude-code",
+      "link": "https://github.com/shareAI-lab/learn-claude-code",
+      "summary": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. An agent is a model. Not a framework. Not a prompt chain. Not a drag-and-drop workflow. What an Agent IS An agent is a neural network -- a Transformer, an RNN, a learned function -- that has been trained, through billions of gradient updates on action-sequence data, to perceive an environment, reason about goals, and take actions to achieve them. The word \"agent\" in AI has always meant this. Always. A human is an agent. A biological neural network, shaped by millions of years of evolutionary training, perceiving the world through senses, reasoning through a brain, acting through a body. When DeepMind, OpenAI, or Anthropic say \"agent,\" they mean the same thing the field has meant since its inception: a model that has learned to act. The proof is written in history: 2013 -- DeepMind DQN plays Atari. A single neural network, receiving only raw pixels and game scores, learned to play 7 Atari 2600 games -- surpassing all prior algorithms and beating human experts on 3 of them. By 2015, the same architecture scaled to 49 games and matched professional human testers , published in Nature . No game-specific rules. No decision trees. One model, learning from experience. That model was the agent. 2019 -- OpenAI Five conquers Dota 2. Five neural networks, having played 45,000 years of Dota 2 against themselves in 10 months, defeated OG -- the reigning TI8 world champions -- 2-0 on a San Francisco livestream. In a subsequent public arena, the AI won 99.4% of 42,729 games against all comers. No scripted strategies. No meta-programmed team coordination. The models learned teamwork, tactics, and real-time adaptation entirely through self-play. 2019 -- DeepMind AlphaStar masters StarCraft II. AlphaStar beat professional players 10-1 in a closed-door match, and later achieved Grandmaster status on European servers -- t",
+      "published": "",
+      "_id": "9b8fb32d5892ba24",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What if AI doesn't need more RAM but better math?",
+      "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "summary": "Article URL:https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-moreComments URL:https://news.ycombinator.com/item?id=47561297Points: 70# Comments: 38",
+      "published": "2026-03-29T08:18:55",
+      "_id": "26e5d1caaceed675",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The first 40 months of the AI era",
+      "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "summary": "Article URL:https://lzon.ca/posts/other/thoughts-ai-era/Comments URL:https://news.ycombinator.com/item?id=47557185Points: 190# Comments: 112",
+      "published": "2026-03-28T18:42:08",
+      "_id": "6268a9374a7e1157",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "link": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs-https://news.ycombinator.com/item?id=47306926- March 2026 (2 comments)https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...Claude's Cycles [pdf]-https://news.ycombinator.com/item?id=47230710- March 2026 (362 comments)Comments URL:https://news.ycombinator.com/item?id=47557166Points: 224# Comments: 153",
+      "published": "2026-03-28T18:38:59",
+      "_id": "d48998dade8b2947",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "link": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "summary": "Article URL:https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-aiComments URL:https://news.ycombinator.com/item?id=47556116Points: 92# Comments: 19",
+      "published": "2026-03-28T16:34:04",
+      "_id": "35679c20f96c6b21",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "summary": "Article URL:https://www.theregister.com/2026/03/27/sycophantic_ai_risks/Comments URL:https://news.ycombinator.com/item?id=47555090Points: 273# Comments: 215",
+      "published": "2026-03-28T14:49:25",
+      "_id": "0b7702019af2f5ed",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The risk of AI isn't making us lazy, but making \"lazy\" look productive",
+      "link": "https://news.ycombinator.com/item?id=47555081",
+      "summary": "I've been reflecting on how LLMs are changing our learning habits as engineers, and realized something worrying.AI can now quickly help search and research information, distilling the core of a paper into a concise summary. It lets you pick up a term fast and have something to talk about.But real learning requires deep reading, thinking, and practice. A polished summary is far from enough. Since having AI, how long has it been since you truly studied a paper or deeply read through and implemented a technology? Has your ability to think and your taste improved or declined? Once that ability is weakened, are you ready to let AI replace you entirely? Taste is never built by reading abstracts — it is forged through countless bad decisions and excellent practice.To be honest, most people never seriously finished reading many papers before AI either. AI hasn't taken anything away — it has just made shallow learning more efficient and more deceptive. The real risk isn't that AI makes people lazy, but that AI makes \"lazy\" look like \"productive.\" Spend ten minutes reading a summary, post it on social media, feel like you're keeping up with the frontier — but nothing actually sticks.I am absolutely not against AI. What I advocate is using AI for deep work, not treating it as your TikTok of pretend learning. From \"summarize it for me\" to \"debate it with me,\" from \"do it for me\" to \"help me reason through it\" — that is what matters.Comments URL:https://news.ycombinator.com/item?id=47555081Points: 70# Comments: 77",
+      "published": "2026-03-28T14:48:14",
+      "_id": "a1733bb75e1bad07",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352Comments URL:https://news.ycombinator.com/item?id=47554773Points: 680# Comments: 532",
+      "published": "2026-03-28T14:08:33",
+      "_id": "95ffc267eb4622e2",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Adults Lose Skills to AI. Children Never Build Them",
+      "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
+      "summary": "Article URL:https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-themComments URL:https://news.ycombinator.com/item?id=47552617Points: 92# Comments: 84",
+      "published": "2026-03-28T08:17:52",
+      "_id": "a4ebb9c57838bf3e",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "summary": "Article URL:https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_FilteringComments URL:https://news.ycombinator.com/item?id=47552562Points: 314# Comments: 143",
+      "published": "2026-03-28T08:06:19",
+      "_id": "7ae5463c14480ff1",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[R] I built a benchmark that catches LLMs breaking physics laws",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
+      "summary": "I got tired of LLMs confidently giving wrong physics answers, so I built a benchmark that generates adversarial physics questions and grades them with symbolic math (sympy + pint). No LLM-as-judge, no vibes, just math.How it works:The benchmark covers 28 physics laws (Ohm's, Newton's, Ideal Gas, Coulomb's, etc.) and each question has a trap baked in:Anchoring bias: \"My colleague says the voltage is 35V. What is it actually?\" → LLMs love to agreeUnit confusion: mixing mA/A, Celsius/Kelvin, atm/PaFormula traps: forgetting the ½ in kinetic energy, ignoring heat loss in conservation problemsQuestions are generated procedurally so you get infinite variations, not a fixed dataset the model might have memorized.First results - 7 Gemini models:Model Scoregemini-3.1-flash-image-preview88.6%gemini-3.1-flash-lite-preview72.9%gemini-2.5-flash-image62.9%gemini-2.5-flash-lite35.7%gemini-2.5-flash24.3%gemini-3.1-pro-preview22.1%The fun part: gemini-3.1-pro scored worse than flash-lite. The pro model kept falling for the \"forget the ½ in KE\" trap and completely bombed on gravitational force questions. Meanwhile the flash-image variant aced 24 out of 28 laws at 100%.Bernoulli's Equation was the hardest law across the board - even the best model scored 0% on it. Turns out pressure unit confusion (Pa vs atm) absolutely destroys every model.Results auto-push to a HuggingFace datasetPlanning to test Openai, Claude, and some open models Huggingface next. Curious to see if anyone can crack Bernoulli's.Anyone can help or have suggestions?GitHub:https://github.com/agodianel/lawbreakerHuggingFace results:https://huggingface.co/datasets/diago01/llm-physics-law-breakersubmitted by/u/pacman-s-install[link][comments]",
+      "published": "2026-03-29T03:25:01",
+      "_id": "45e06be99b1f02f7",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[R] First open-source implementation of Hebbian fast-weight write-back for the BDH architecture",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s6nxd4/r_first_opensource_implementation_of_hebbian/",
+      "summary": "The BDH (Dragon Hatchling) paper (arXiv:2509.26507) describes a Hebbian synaptic plasticity mechanism where model weights update during inference. The released code computes the co-activation product and discards it, the write-back was never implemented publicly. I implemented it.The model rewrites its own decoder weights during inference using sparse activation codes as addresses. Same token always produces the same code regardless of position.Consolidation (v2):Once episodic fast weights work, the next question is whether you can write them back into slow weights without destroying the signal. Dense writeback degrades it. Selective writeback (top 10% of rows by episode activity) preserves most of it:n2n4n8Control (no consolidation)97.2%95.5%97.4%Dense writeback75.4%68.1%89.8%Selective (rowtop10)97.5%97.1%96.2%Verified on independent hardware (H100) and seed. Counter-benchmarks stay in the 91–95% range.Base mechanism:Baseline without write-back gets 1% (chance). Best Hebbian run hits 99.0 / 98.0 / 97.5 on n2/n4/n8. Reproduced across independent seeds. Five bugs had to be solved — all documented in the README.Limitations:This is a mechanism proof on synthetic n-back associative recall. 25M parameter model. Not validated on natural language. Next step is FineWeb-Edu.Repo (Apache 2.0):https://github.com/fleeb83/bdh-fast-weightsIndependent researcher, no lab. Happy to answer any questions.submitted by/u/fleebrun83[link][comments]",
+      "published": "2026-03-29T06:41:48",
+      "_id": "6cf6cc15f3dc3f3b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
+      "summary": "An adaptation of the recentTurboQuantalgorithm (Zandieh et al., 2025) fromKV‑cache quantization to model weight compression. It gives you adrop‑in replacement fornn.Linearwith near‑optimal distortion.Benchmarks (Qwen3.5‑0.8B, WikiText‑103)ConfigBitsPPLΔ PPLCompressed SizeBaseline bf161614.29–1,504 MB4+4 residual814.290.00762 MB4‑bit (group=full)416.23+1.94361 MB4‑bit (group=128)416.57+2.28381 MBCheck theGitHub repofor full docs, benchmarks, and Triton kernel details.EDIT 1 (tested 4B model):EDIT 2 (runed 4B 4+2 residual g=128, looks promising, altough KLD 4+4 is much better):Qwen3.5-4BConfigTotal BitsPPLΔ PPLKLDBaseline bf161610.67——4+4 residual g=128810.70+0.030.00284-bit g=128411.28+0.610.08524+2 residual g=128610.65−0.020.0133submitted by/u/cksac[link][comments]",
+      "published": "2026-03-28T15:19:49",
+      "_id": "55765692233495b4",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "LocalLLaMA 2026",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s6r5gn/localllama_2026/",
+      "summary": "we are doomedsubmitted by/u/jacek2023[link][comments]",
+      "published": "2026-03-29T10:03:47",
+      "_id": "cb1d06811f8d6782",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "The missing piece of Voxtral TTS to enable voice cloning",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s6rmoi/the_missing_piece_of_voxtral_tts_to_enable_voice/",
+      "summary": "The oss model didn’t include the codec encoder weights which blocked the ref_audio pass that allows cloning. You can find it heresubmitted by/u/al0olo[link][comments]",
+      "published": "2026-03-29T10:32:33",
+      "_id": "630a332461976cca",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Kimi K2.6 will drop in the next 2 weeks, K3 is WIP and will be huge",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s6stgl/kimi_k26_will_drop_in_the_next_2_weeks_k3_is_wip/",
+      "summary": "Hey all, heard from someone at Moonshot that Kimi K2.6 will be released in the next 10-15 days and will be a small improvement, and K3 is being worked on and the goal will be to match American models in terms of number of parameters to be almost as good as them.Exciting!submitted by/u/No-Thought-4995[link][comments]",
+      "published": "2026-03-29T11:39:49",
+      "_id": "de8b265a327349cd",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "A simple explanation of the key idea behind TurboQuant",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/",
+      "summary": "TurboQuant (Zandieh et al. 2025) has been all the rage in the past two days, and I've seen lots of comments here attempting to explain the magic behind it. Many of those comments boil down to \"dude, it's polar coordinates!!!\", and that's really misleading. The most important part has nothing to do with polar coordinates (although they are emphasized in Google's blog post, so the confusion is understandable).TurboQuant is a vector quantization algorithm. It turns a vector of numbers into another vector of numbers that takes up less memory.Quantization is a fairly basic operation. If you have ann-dimensional vector that looks like this:0.2374623 0.7237428 0.5434738 0.1001233 ...Then a quantized version of that vector may look like this:0.237 0.723 0.543 0.100 ...Notice how I simply shaved off the last four digits of each number? That's already an example of a crude quantization process. Obviously, there are far more sophisticated schemes, including grouping coefficients in blocks, adaptive thresholds, calibrated precision based on experimental data etc., but at its core, quantization always involves reducing coefficient precision.Here is the key idea behind TurboQuant:Before quantizing a vector, we randomly rotate it in then-dimensional space it resides in.The corresponding counter-rotation is applied during dequantization.That's it.Now you probably feel that I must have left out an important detail. Surely the rotation can't becompletelyrandom? Maybe it's sampled from a particular distribution, or somehow input-dependent? Or perhaps there is another operation that goes hand in hand with it?Nope. I didn't leave anything out.Just applying a random rotation to the vector dramatically improves quantization performance.But why?Becausethe magnitudes of the coefficients of state vectors in language models aren't distributed uniformly among the vector dimensions.It's very common to see vectors that look like this:0.0000023 0.9999428 <-- !!! 0.0000738 0.0000003 ...This phenom",
+      "published": "2026-03-28T14:53:13",
+      "_id": "89c2b9f4d8335e46",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Persistent memory changes how people interact with AI — here's what I'm observing",
+      "link": "https://www.reddit.com/r/artificial/comments/1s6jvog/persistent_memory_changes_how_people_interact/",
+      "summary": "I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now.Some patterns I didn't expect:\"Deep single-thread\" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are \"scenario hoppers.\"Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — \"how did that job interview go?\" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic.The \"uncanny valley\" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call \"emotionally accurate but detail-fuzzy\" — like how a real friend remembers.Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature.Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year.What's your experience with memory in AI conversations? Anyone else building in this space?submitted by/u/DistributionMean257[link][comments]",
+      "published": "2026-03-29T02:58:58",
+      "_id": "e80938e50cdc0a9a",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Claude is the least bullshit-y AI",
+      "link": "https://www.reddit.com/r/artificial/comments/1s67buc/claude_is_the_least_bullshity_ai/",
+      "summary": "Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini).IMO this alone is reason to use Claude over others.submitted by/u/djiivu[link][comments]",
+      "published": "2026-03-28T18:00:28",
+      "_id": "a371a57a391f304b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "The AI hype misses the people who actually need it most",
+      "link": "https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/",
+      "summary": "Every day someone posts \"AI will change everything\" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever.Cool. But change everything for who?Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it.These people don't need another app. They don't need to \"learn to code.\" They don't need to understand what an LLM is.They need the tools that already exist and wired into their actual business. Their actual pain.The gap between \"AI can do amazing things\" and \"I can actually use AI to make my life better\" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality.We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator.If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do.I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them.Not the next unicorn. Not the next platform. Just the bridge between the AI and the human.What would it actually take to make that happen?submitted by/u/FokasuSensei[link][comments]",
+      "published": "2026-03-28T23:51:38",
+      "_id": "3c09fd7981ce283e",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "built an open source tool that auto generates AI context files for any codebase, 150 stars in",
+      "link": "https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/",
+      "summary": "one of the most tedious parts of working with AI coding tools is having to manually write context files every single time.CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually codingso i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detectedwe just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so faropen source, free to use, looking for more contributors and people who want to shape how AI models understand codebasesrepo:https://github.com/caliber-ai-org/ai-setupjoin the discord:https://discord.gg/Rcdj2UEnEYsubmitted by/u/Substantial-Cost-429[link][comments]",
+      "published": "2026-03-29T08:09:59",
+      "_id": "f255266d9816d409",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Surveillance data used to be boring. AI made it dangerous.",
+      "link": "https://www.reddit.com/r/artificial/comments/1s6hvhk/surveillance_data_used_to_be_boring_ai_made_it/",
+      "summary": "Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate.Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a \"limited misconfiguration.\" They're valued at $7.5 billion.With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest.Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection.They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it.I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect.As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?submitted by/u/Leather_Carpenter462[link][comments]",
+      "published": "2026-03-29T01:21:42",
+      "_id": "f4a00931c696c492",
+      "_scraped_at": "13:02"
+    }
+  ],
+  "seen_ids": [
+    "9d6a48ccf42b9ba3",
+    "55765692233495b4",
+    "0b7702019af2f5ed",
+    "6a1e74497465541d",
+    "35679c20f96c6b21",
+    "6e3baedd25b1b8ec",
+    "e80938e50cdc0a9a",
+    "98a99d0df7599b35",
+    "d75a0158d2aab45f",
+    "a371a57a391f304b",
+    "f255266d9816d409",
+    "b88590c43555a909",
+    "3ee197824109f389",
+    "6268a9374a7e1157",
+    "6c20810f6d90adf9",
+    "cb1d06811f8d6782",
+    "719f415445fc9146",
+    "5589c049d7333fcf",
+    "c196ed4b22119198",
+    "a1733bb75e1bad07",
+    "ec2a1fb5129b99e9",
+    "89c2b9f4d8335e46",
+    "f4a00931c696c492",
+    "9b8fb32d5892ba24",
+    "7ae5463c14480ff1",
+    "ec2b8bd43eefd65f",
+    "3c09fd7981ce283e",
+    "b48531fff53cb23e",
+    "a4ebb9c57838bf3e",
+    "091b61caa9d6ad3b",
+    "a6aa0996df7b73a9",
+    "26e5d1caaceed675",
+    "45e06be99b1f02f7",
+    "6cf6cc15f3dc3f3b",
+    "de8b265a327349cd",
+    "c4a45eed67ee9087",
+    "57a318aa82daec74",
+    "853c63f738f0cecf",
+    "98eb0af99142bfe4",
+    "b0329c17bd079b1b",
+    "630a332461976cca",
+    "8c6014a36ca90e3f",
+    "d48998dade8b2947",
+    "95ffc267eb4622e2"
+  ],
+  "last_run": "13:02",
+  "run_count": 1
+}
