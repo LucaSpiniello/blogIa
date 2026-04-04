@@ -1,0 +1,479 @@
+{
+  "date": "2026-04-04",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Announcements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations. Knowledge work Agentic search Coding Reasoning Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains. Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search. Opus 4.6 excels at real-world agentic coding and system tasks. Opus 4.6 extends the frontier of expert-level ",
+      "published": "",
+      "_id": "6c20810f6d90adf9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 31, 2026AnnouncementsAustralian government and Anthropic sign MOU for AI safety and research",
+      "link": "https://www.anthropic.com/news/australia-MOU",
+      "summary": "Announcements Australian government and Anthropic sign MOU for AI safety and research Mar 31, 2026 Today, Anthropic signed a Memorandum of Understanding with the Australian government to cooperate on AI safety research and support the goals of Australia’s National AI Plan. Our CEO, Dario Amodei, met with Prime Minister Anthony Albanese to formalize the agreement during a visit to Canberra, Australia. We also announced AUD$3 million in partnerships with leading Australian research institutions to use Claude to improve disease diagnosis and treatment and support computer science education and research. Central to the MOU is a commitment to work with Australia’s AI Safety Institute. We will share our findings on emerging model capabilities and risks, participate in joint safety and security evaluations, and collaborate on research with Australian academic institutions. This mirrors the arrangements we have with safety institutes in the US, UK, and Japan, where early access and technical information sharing has helped governments build an independent view of where frontier AI is heading, and AI developers increase the safety of their models. Under the MOU, we will share Anthropic Economic Index data with the Australian government to help track how AI is being adopted across the economy, its economic impacts, and the implications for workers. We’ll initially focus on sectors critical to Australia’s economy, including natural resources, agriculture, healthcare, and financial services. As part of this, we plan to develop ways to advance AI education and training within the workforce. Our recent Economic Index data shows that Australians already use Claude for a broader range of tasks than most countries—the most diverse among English-speaking nations—and work collaboratively with AI using sophisticated prompts to accomplish high-skill tasks ranging from management and sales and business operations, to use in the life sciences and in everyday life. Finally, in line with Aus",
+      "published": "",
+      "_id": "b3be35db7b67841e",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 12, 2026AnnouncementsAnthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Announcements Anthropic invests $100 million into the Claude Partner Network Mar 12, 2026 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude. We’re committing an initial $100 million to support our partners with training courses, dedicated technical support, and joint market development. Partners who join from today will get immediate access to a new technical certification and be eligible for investment. Anthropic is focused on ensuring that our AI model, Claude, serves the needs of businesses. To do this, we’ve partnered with a number of other companies. Notably, Claude is the only frontier AI model available on all three leading cloud providers: AWS, Google Cloud, and Microsoft. We also work with large management consultancies, professional services firms, specialist AI firms, and similar agencies. These organizations help our enterprise customers identify where Claude can provide the most value to their work, and then help them get started with our AI tools. Our partners act as trusted guides in what can feel like uncharted territory: navigating the deployment requirements, compliance, and change management necessary inside large organizations. Now, we’re doubling down our commitment to our partners, aiming to make it even easier for these organizations to support enterprises in adopting Claude. \"Anthropic is the most committed AI company in the world to the partner ecosystem—and we're putting $100 million behind that this year to prove it. The certification, the co-investment, the dedicated team—this infrastructure is built so that any firm, at any scale, can build a Claude practice. Our partners are instrumental in getting enterprises from proof of concept to production with Claude, and we're making sure they have everything they need to do it.\"—Steve Corfield, Head of Global Business Development and Partnerships, Anthropic. Introducing the Claude Partner Network The Claude Partner Network provides ",
+      "published": "",
+      "_id": "9d6a48ccf42b9ba3",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "published": "2026-04-04T01:31:00",
+      "_id": "4b0bfe97681515f0",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "published": "2026-04-03T20:35:34",
+      "_id": "ce0b1ecf26f611fb",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "published": "2026-04-03T20:28:40",
+      "_id": "5c1e67505e323dd5",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "published": "2026-04-03T20:22:18",
+      "_id": "52112c920dc8c8c8",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "published": "2026-04-03T19:48:22",
+      "_id": "71e7caf7bd903e8c",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Really, you made this without AI? Prove it",
+      "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one […]",
+      "published": "2026-04-04T13:00:00",
+      "_id": "9c43866c6f5324a5",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users […]",
+      "published": "2026-04-03T23:52:49",
+      "_id": "1606dc742faa6d7c",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s AGI boss is taking a leave of absence",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to […]",
+      "published": "2026-04-03T20:22:59",
+      "_id": "2be13a3e378effda",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s best product ever",
+      "link": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+      "summary": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should […]",
+      "published": "2026-04-03T12:52:41",
+      "_id": "53fd449e13e1bbb9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and […]",
+      "published": "2026-04-03T11:43:21",
+      "_id": "7cfe9be2233c786c",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "OpenClaw gives users yet another reason to be freaked out about security",
+      "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+      "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+      "published": "2026-04-03T20:30:15",
+      "_id": "50a808fdac3e4926",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Four things we’d need to put data centers in space",
+      "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
+      "published": "2026-04-03T17:03:19",
+      "_id": "aacf13f32df5f0d0",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Wired",
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+      "published": "2026-04-04T10:30:00",
+      "_id": "88fe638accaef70d",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+      "published": "2026-04-03T21:28:14",
+      "_id": "4e19f2902cbe9bda",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+      "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+      "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+      "published": "2026-04-03T19:38:35",
+      "_id": "7109d660cf385fa5",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Wired",
+      "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
+      "link": "https://www.wired.com/story/best-portable-jump-starters/",
+      "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
+      "published": "2026-04-03T10:39:00",
+      "_id": "632735486c4690e0",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "Blaizzy /mlx-vlm",
+      "link": "https://github.com/Blaizzy/mlx-vlm",
+      "summary": "MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents Installation Usage Command Line Interface (CLI) Thinking Budget Chat UI with Gradio Python Script Activation Quantization (CUDA) Multi-Image Chat Support Supported Models Usage Examples Model-Specific Documentation TurboQuant KV Cache Fine-tuning Model-Specific Documentation Some models have detailed documentation with prompt formats, examples, and best practices: Model Documentation DeepSeek-OCR Docs DeepSeek-OCR-2 Docs DOTS-OCR Docs DOTS-MOCR Docs GLM-OCR Docs Phi-4 Reasoning Vision Docs MiniCPM-o Docs Phi-4 Multimodal Docs MolmoPoint Docs Moondream3 Docs Gemma 4 Docs Falcon-OCR Docs Granite Vision 3.2 Docs Granite 4.0 Vision Docs Installation The easiest way to get started is to install the mlx-vlm package using pip: pip install -U mlx-vlm Usage Command Line Interface (CLI) Generate output from a model using the CLI: # Text generation mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt \" Hello, how are you? \" # Image generation mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --temperature 0.0 --image http://images.cocodataset.org/val2017/000000039769.jpg # Audio generation (New) mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt \" Describe what you hear \" --audio /path/to/audio.wav # Multi-modal generation (Image + Audio) mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt \" Describe what you see and hear \" --image /path/to/image.jpg --audio /path/to/audio.wav Thinking Budget For thinking models (e.g., Qwen3.5), you can limit the number of tokens spent in the thinking block: mlx_vlm.generate --model mlx-community/Qwen3.5-2B-4bit \\\n  --thinking-budget 50 \\\n  --thinking-start-token \" <think> \" \\\n  --thinking-end-token \" </think> \" \\\n  --enable-",
+      "published": "",
+      "_id": "a833997fb1804960",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "onyx-dot-app /onyx",
+      "link": "https://github.com/onyx-dot-app/onyx",
+      "summary": "Onyx - The Open Source AI Platform Onyx is the application layer for LLMs - bringing a feature-rich interface that can be easily hosted by anyone.\nOnyx enables LLMs through advanced capabilities like RAG, web search, code execution, file creation, deep research and more. Connect your applications with over 50+ indexing based connectors provided out of the box or via MCP. Tip Deploy with a single command: curl -fsSL https://onyx.app/install_onyx.sh | bash ⭐ Features 🔍 Agentic RAG: Get best in class search and answer quality based on hybrid index + AI Agents for information retrieval Benchmark to release soon! 🔬 Deep Research: Get in depth reports with a multi-step research flow. Top of leaderboard as of Feb 2026. 🤖 Custom Agents: Build AI Agents with unique instructions, knowledge, and actions. 🌍 Web Search: Browse the web to get up to date information. Supports Serper, Google PSE, Brave, SearXNG, and others. Comes with an in house web crawler and support for Firecrawl/Exa. 📄 Artifacts: Generate documents, graphics, and other downloadable artifacts. ▶️ Actions & MCP: Let Onyx agents interact with external applications, comes with flexible Auth options. 💻 Code Execution: Execute code in a sandbox to analyze data, render graphs, or modify files. 🎙️ Voice Mode: Chat with Onyx via text-to-speech and speech-to-text. 🎨 Image Generation: Generate images based on user prompts. Onyx supports all major LLM providers, both self-hosted (like Ollama, LiteLLM, vLLM, etc.) and proprietary (like Anthropic, OpenAI, Gemini, etc.). To learn more - check out our docs ! 🚀 Deployment Modes Onyx supports deployments in Docker, Kubernetes, Helm/Terraform and provides guides for major cloud providers.\nDetailed deployment guides found here . Onyx supports two separate deployment options: standard and lite. Onyx Lite The Lite mode can be thought of as a lightweight Chat UI. It requires less resources (under 1GB memory) and runs a less complex stack.\nIt is great for users who want to test out O",
+      "published": "",
+      "_id": "de3e2955aed3e931",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "Yeachan-Heo /oh-my-codex",
+      "link": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "summary": "oh-my-codex (OMX) Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows. Website: https://yeachan-heo.github.io/oh-my-codex-website/ Docs: Getting Started · Agents · Skills · Integrations · Demo · OpenClaw guide OMX is a workflow layer for OpenAI Codex CLI . It keeps Codex as the execution engine and makes it easier to: start a stronger Codex session by default run one consistent workflow from clarification to completion invoke the canonical skills with $deep-interview , $ralplan , $team , and $ralph keep project guidance, plans, logs, and state in .omx/ Core Maintainers Role Name GitHub Creator & Lead Yeachan Heo @Yeachan-Heo Maintainer HaD0Yun @HaD0Yun Ambassadors Name GitHub Sigrid Jin @sigridjineth Top Collaborators Name GitHub HaD0Yun @HaD0Yun Junho Yeo @junhoyeo JiHongKim98 @JiHongKim98 Lor — HyunjunJeon @HyunjunJeon Recommended default flow If you want the default OMX experience, start here: npm install -g @openai/codex oh-my-codex\nomx setup\nomx --madmax --high Then work normally inside Codex: $deep-interview \"clarify the authentication change\"\n$ralplan \"approve the auth plan and review tradeoffs\"\n$ralph \"carry the approved plan to completion\"\n$team 3:executor \"execute the approved plan in parallel\" That is the main path.\nStart OMX strongly, clarify first when needed, approve the plan, then choose $team for coordinated parallel execution or $ralph for the persistent completion loop. What OMX is for Use OMX if you already like Codex and want a better day-to-day runtime around it: a standard workflow built around $deep-interview , $ralplan , $team , and $ralph specialist roles and supporting skills when the task needs them project guidance through scoped AGENTS.md durable state under .omx/ for plans, logs, memory, and mode tracking If you want plain Codex with no extra workflow layer, you probably do not need OMX. Quick start Requirements Node.js 20+ Codex CLI installed: npm install -g @openai/codex Codex auth co",
+      "published": "",
+      "_id": "c06aaae7b572bcad",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "siddharthvaddem /openscreen",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "summary": "Warning This is very much in beta and might be buggy here and there (but hope you have a good experience!). OpenScreen OpenScreen is your free, open-source alternative to Screen Studio (sort of). If you don't want to pay $29/month for Screen Studio but want a much simpler version that does what most people seem to need, making beautiful product demos and walkthroughs, here's a free-to-use app for you. OpenScreen does not offer all Screen Studio features, but covers the basics well! Screen Studio is an awesome product and this is definitely not a 1:1 clone. OpenScreen is a much simpler take, just the basics for folks who want control and don't want to pay. If you need all the fancy features, your best bet is to support Screen Studio (they really do a great job, haha). But if you just want something free (no gotchas) and open, this project does the job! OpenScreen is 100% free for personal and commercial use. Use it, modify it, distribute it. (Just be cool 😁 and give a shoutout if you feel like it !) Core Features Record your whole screen or specific windows. Add Automatic zooms or manual zooms (customizable depth levels). Record microphone audio and system audio capture. Customize the duration and position of zooms however you please. Crop video recordings to hide parts. Choose between wallpapers, solid colors, gradients or a custom background. Motion blur for smoother pan and zoom effects. Add annotations (text, arrows, images). Trim sections of the clip. Customize speed at different segments. Export in different aspect ratios and resolutions. Installation Download the latest installer for your platform from the GitHub Releases page. macOS If you encounter issues with macOS Gatekeeper blocking the app (since it does not come with a developer certificate), you can bypass this by running the following command in your terminal after installation: xattr -rd com.apple.quarantine /Applications/Openscreen.app Note: Give your terminal Full Disk Access in System Settings > P",
+      "published": "",
+      "_id": "1baa86b973cc0bc9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "telegramdesktop /tdesktop",
+      "link": "https://github.com/telegramdesktop/tdesktop",
+      "summary": "Telegram Desktop – Official Messenger This is the complete source code and the build instructions for the official Telegram messenger desktop client, based on the Telegram API and the MTProto secure protocol. The source code is published under GPLv3 with OpenSSL exception, the license is available here . Supported systems The latest version is available for Windows 7 and above (64 bit) ( portable ) Windows 7 and above (32 bit) ( portable ) macOS 10.13 and above Linux static build for 64 bit Snap Flatpak Old system versions Version 4.9.9 was the last that supports older systems macOS 10.12 Linux with glibc < 2.28 static build Version 2.4.4 was the last that supports older systems OS X 10.10 and 10.11 Linux static build for 32 bit Version 1.8.15 was the last that supports older systems Windows XP and Vista ( portable ) OS X 10.8 and 10.9 OS X 10.6 and 10.7 Third-party Qt 6 ( LGPL ) and Qt 5.15 ( LGPL ) slightly patched OpenSSL 3.2.1 ( Apache License 2.0 ) WebRTC ( New BSD License ) zlib ( zlib License ) LZMA SDK 9.20 ( public domain ) liblzma ( public domain ) Google Breakpad ( License ) Google Crashpad ( Apache License 2.0 ) GYP ( BSD License ) Ninja ( Apache License 2.0 ) OpenAL Soft ( LGPL ) Opus codec ( BSD License ) FFmpeg ( LGPL ) Guideline Support Library ( MIT License ) Range-v3 ( Boost License ) Open Sans font ( Apache License 2.0 ) Vazirmatn font ( SIL Open Font License 1.1 ) Emoji alpha codes ( MIT License ) xxHash ( BSD License ) QR Code generator ( MIT License ) CMake ( New BSD License ) Hunspell ( LGPL ) Ada ( Apache License 2.0 ) Build instructions Windows (32-bit and 64-bit) macOS GNU/Linux using Docker",
+      "published": "",
+      "_id": "6b30aa1117632de8",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "block /goose",
+      "link": "https://github.com/block/goose",
+      "summary": "goose a local, extensible, open source AI agent that automates engineering tasks goose is your on-machine AI agent, capable of automating complex development tasks from start to finish. More than just code suggestions, goose can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows, and interact with external APIs - autonomously . Whether you're prototyping an idea, refining existing code, or managing intricate engineering pipelines, goose adapts to your workflow and executes tasks with precision. Designed for maximum flexibility, goose works with any LLM and supports multi-model configuration to optimize performance and cost, seamlessly integrates with MCP servers, and is available as both a desktop app as well as CLI - making it the ultimate AI assistant for developers who want to move faster and focus on innovation. Quick Links Quickstart Installation Tutorials Documentation Governance Custom Distributions - build your own goose distro with preconfigured providers, extensions, and branding Need Help? Diagnostics & Reporting Known Issues a little goose humor 🪿 Why did the developer choose goose as their AI agent? Because it always helps them \"migrate\" their code to production! 🚀 goose around with us Discord YouTube LinkedIn Twitter/X Bluesky Nostr",
+      "published": "",
+      "_id": "1e4478d8d92169d8",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /agent-framework",
+      "link": "https://github.com/microsoft/agent-framework",
+      "summary": "Welcome to Microsoft Agent Framework! Welcome to Microsoft's comprehensive multi-language framework for building, orchestrating, and deploying AI agents with support for both .NET and Python implementations. This framework provides everything from simple chat agents to complex multi-agent workflows with graph-based orchestration. Watch the full Agent Framework introduction (30 min) 📋 Getting Started 📦 Installation Python pip install agent-framework # This will install all sub-packages, see `python/packages` for individual packages. # It may take a minute on first install on Windows. .NET dotnet add package Microsoft.Agents.AI 📚 Documentation Overview - High level overview of the framework Quick Start - Get started with a simple agent Tutorials - Step by step tutorials User Guide - In-depth user guide for building agents and workflows Migration from Semantic Kernel - Guide to migrate from Semantic Kernel Migration from AutoGen - Guide to migrate from AutoGen Still have questions? Join our weekly office hours or ask questions in our Discord channel to get help from the team and other users. ✨ Highlights Graph-based Workflows : Connect agents and deterministic functions using data flows with streaming, checkpointing, human-in-the-loop, and time-travel capabilities Python workflows | .NET workflows AF Labs : Experimental packages for cutting-edge features including benchmarking, reinforcement learning, and research initiatives Labs directory DevUI : Interactive developer UI for agent development, testing, and debugging workflows DevUI package See the DevUI in action (1 min) Python and C#/.NET Support : Full framework support for both Python and C#/.NET implementations with consistent APIs Python packages | .NET source Observability : Built-in OpenTelemetry integration for distributed tracing, monitoring, and debugging Python observability | .NET telemetry Multiple Agent Provider Support : Support for various LLM providers with more being added continuously Python exampl",
+      "published": "",
+      "_id": "b6a803a2c827c895",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "GitHub",
+      "title": "sherlock-project /sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "summary": "Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to pipx/pip or Docker. Method Notes pipx install sherlock-project pip may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project. See all alternative installation methods here General usage To search for only one user: sherlock user123 To search for more than one user: sherlock user1 user2 user3 Accounts found will be stored in an individual text file with the corresponding username (e.g user123.txt ). $ sherlock --help usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--output OUTPUT] [--tor] [--unique-tor] [--csv] [--xlsx] [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE] [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color] [--browse] [--local] [--nsfw] USERNAMES [USERNAMES ...] Sherlock: Find Usernames Across Social Networks (Version 0.14.3) positional arguments: USERNAMES             One or more usernames to check with social networks. Check similar usernames using {?} (replace to '_', '-', '.'). optional arguments: -h, --help            show this help message and exit --version             Display version information and dependencies. --verbose, -v, -d, --debug Display extra debugging information and metrics. --folderoutput FOLDEROUTPUT, -fo FOLDEROUTPUT If using multiple usernames, the output of the results will be saved to this folder. --output OUTPUT, -o OUTPUT If using single username, the output of the result will be saved to this file. --tor, -t             Make requests over Tor; increases runtime; requires Tor to be installed and in",
+      "published": "",
+      "_id": "3619c42254a93704",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "link": "https://github.com/borski/travel-hacking-toolkit",
+      "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, your current balances, transfer partner ratios, and the math to compare them. I got tired of doing it manually across a dozen tabs.This toolkit teaches Claude Code and OpenCode how to do it. 7 skills (markdown files with API docs and curl examples) and 6 MCP servers (real-time tools the AI calls directly).It searches award flights across 25+ mileage programs (Seats.aero), compares cash prices (Google Flights, Skiplagged, Kiwi.com, Duffel), pulls your loyalty balances (AwardWallet), searches hotels (Trivago, LiteAPI, Airbnb, Booking.com), finds ferry routes across 33 countries, and looks up weird hidden gems near your destination (Atlas Obscura).Reference data is included: transfer partner ratios for Chase UR, Amex MR, Bilt, Capital One, and Citi TY. Point valuations sourced from TPG, Upgraded Points, OMAAT, and View From The Wing. Alliance membership, sweet spot redemptions, booking windows, hotel chain brand lookups.5 of the 6 MCP servers need zero API keys. Clone, run setup.sh, start \nsearching.Skills are, as usual, plain markdown. They work in OpenCode and Claude Code automatically (I added a tiny setup script), and they'll work in anything else that supports skills.PRs welcome! Help me expand the toolkit! :)https://github.com/borski/travel-hacking-toolkitComments URL:https://news.ycombinator.com/item?id=47635033Points: 75# Comments: 35",
+      "published": "2026-04-04T02:26:42",
+      "_id": "7188fb0cf34547ce",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "link": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "summary": "Article URL:https://mtlynch.io/claude-code-found-linux-vulnerability/Comments URL:https://news.ycombinator.com/item?id=47633855Points: 89# Comments: 58",
+      "published": "2026-04-03T23:46:51",
+      "_id": "7ff8d2fb586abc72",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+      "link": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+      "summary": "Article URL:https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plansComments URL:https://news.ycombinator.com/item?id=47633676Points: 59# Comments: 52",
+      "published": "2026-04-03T23:26:44",
+      "_id": "7bc569385cea8871",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "link": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "Received the following email from Anthropic:Hi,Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.Comments URL:https://news.ycombinator.com/item?id=47633396Points: 809# Comments: 634",
+      "published": "2026-04-03T22:55:24",
+      "_id": "6d26b37e8e88167f",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+      "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+      "summary": "Article URL:https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/Comments URL:https://news.ycombinator.com/item?id=47632504Points: 79# Comments: 35",
+      "published": "2026-04-03T21:26:13",
+      "_id": "95f20ef1fa3e5bfe",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "link": "https://apfel.franzai.com",
+      "summary": "Github:https://github.com/Arthur-Ficial/apfelComments URL:https://news.ycombinator.com/item?id=47624645Points: 685# Comments: 141",
+      "published": "2026-04-03T09:15:34",
+      "_id": "b8a6c3b76de314cf",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] Those of you with 10+ years in ML — what is the public completely wrong about?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sbzxwn/d_those_of_you_with_10_years_in_ml_what_is_the/",
+      "summary": "For those of you who've been in ML/AI research or applied ML for 10+ years — what's the gap between what the public thinks AI is doing vs. what's actually happening at the frontier? What are we collectively underestimating or overestimating?submitted by/u/PhattRatt[link][comments]",
+      "published": "2026-04-04T04:43:55",
+      "_id": "b8ca746ba870e90d",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] ACL 2026 Decision",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sbyfpm/d_acl_2026_decision/",
+      "summary": "ACL 2026 decision are soon to be published (<= 24 hr). Thought it might be nice to to have a thread for updates, discussions and venting.submitted by/u/007noob0071[link][comments]",
+      "published": "2026-04-04T03:26:09",
+      "_id": "06d09811e7312c0d",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[P] GPU friendly lossless 12-bit BF16 format with 0.03% escape rate and 1 integer ADD decode works for AMD & NVIDIA",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sbv9jl/p_gpu_friendly_lossless_12bit_bf16_format_with/",
+      "summary": "Hi everyone, I am from Australia : ) I just released a new research prototypeIt’s alossless BF16 compression formatthat stores weights in12 bitsby replacing the 8-bit exponent with a4-bit group code.For99.97% of weights, decoding is justone integer ADD.Byte-aligned split storage: true 12-bit per weight, no 16-bit padding waste, and zero HBM read amplification.Yes 12 bit not 11 bit !! The main idea was not just “compress weights more”, but to make the formatGPU-friendly enough to use directly during inference:sign + mantissa: exactly 1 byte per elementgroup: two nibbles packed into exactly 1 byte toohttps://preview.redd.it/qbx94xeeo2tg1.png?width=1536&format=png&auto=webp&s=831da49f6b1729bd0a0e2d1f075786274e5a73981.33x smallerthan BF16Fixed-rate 12-bit per weight, no entropy codingZero precision lossbit-perfect reconstructionFused decode + matmul, so there is effectivelyno separate decompression stageByte-aligned storage, no LUT, no bitstream parsingWorks onboth NVIDIA and AMDSome results so far:Single-user (B=1), RTX 5070 TiLlama 2 7B:64.7 tok/s(1.47x vs vLLM)Mistral 7B:60.0 tok/s(1.10x vs vLLM)Llama 3.1 8B:57.0 tok/s(vLLM OOM on 16 GB)Multi-user (B=256), total tok/sLlama 2 7B:2931vs1086in vLLM (2.70x)Mistral 7B:2554vs872in vLLM (2.93x)It also seems surprisingly stable across model types:Llama 3.1 405B:0.034% escape rateMixtral 8x7B:0.050%SDXL UNet:0.233%CogVideoX 2B:0.128%So far this is tested onBF16 safetensors only.Repo:https://github.com/cenconq25/Turbo-LosslessAlso worth noting: the V3 fused decode+GEMM kernel uses tensor-core patterns inspired byZipServ / ZipGEMM (Fan et al., ASPLOS 2026).Happy to hear criticism, edge cases, or reasons this idea won’t scale.Thanks for your time : )submitted by/u/Embarrassed_Will_120[link][comments]",
+      "published": "2026-04-04T00:55:50",
+      "_id": "6a8330d51027ef0b",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "FINALLY GEMMA 4 KV CACHE IS FIXED",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sbwkou/finally_gemma_4_kv_cache_is_fixed/",
+      "summary": "YESSS LLAMA.CPP IS UPDATED AND IT DOESN'T TAKE UP PETABYTES OF VRAMsubmitted by/u/FusionCow[link][comments]",
+      "published": "2026-04-04T01:56:37",
+      "_id": "782ebd377fcae52d",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Gemma 4 fixes in llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sc4gui/gemma_4_fixes_in_llamacpp/",
+      "summary": "There have already been opinions that Gemma is bad because it doesn’t work well, but you probably aren’t using the transformers implementation, you’re using llama.cpp.After a model is released, you have to wait at least a few days for all the fixes in llama.cpp, for example:https://github.com/ggml-org/llama.cpp/pull/21418https://github.com/ggml-org/llama.cpp/pull/21390https://github.com/ggml-org/llama.cpp/pull/21406https://github.com/ggml-org/llama.cpp/pull/21327https://github.com/ggml-org/llama.cpp/pull/21343...and maybe there will be more?I had a looping problem in chat, but I also tried doing some stuff in OpenCode (it wasn’t even coding), and there were zero problems. So, probably just like with GLM Flash, a better prompt somehow fixes the overthinking/looping.submitted by/u/jacek2023[link][comments]",
+      "published": "2026-04-04T09:07:33",
+      "_id": "532b6dd3b06821d9",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "We gave 12 LLMs a startup to run for a year. GLM-5 nearly matched Claude Opus 4.6 at 11× lower cost.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sbyte4/we_gave_12_llms_a_startup_to_run_for_a_year_glm5/",
+      "summary": "We builtYC-Bench, a benchmark where an LLM plays CEO of a simulated startup over a full year (~hundreds of turns). It manages employees, picks contracts, handles payroll, and survives a market where ~35% of clients secretly inflate work requirements after you accept their task. Feedback is delayed and sparse with no hand-holding.12 models, 3 seeds each. Here's the leaderboard:🥇 Claude Opus 4.6 - $1.27M avg final funds (~$86/run in API cost)🥈 GLM-5 - $1.21M avg (~$7.62/run)🥉 GPT-5.4 - $1.00M avg (~$23/run)Everyone else - below starting capital of $200K. Several went bankrupt.GLM-5 is the finding we keep coming back to. It's within 5% of Opus on raw performance and costs a fraction to run. For anyone building production agentic pipelines, the cost-efficiency curve here is real and Kimi-K2.5 actually tops the revenue-per-API-dollar chart at 2.5× better than the next model.The benchmark exposes something most evals miss:long-horizon coherence under delayed feedback. When you can't tell immediately whether a decision was good, most models collapse into loops, abandon strategies they just wrote, or keep accepting tasks from clients they've already identified as bad.The strongest predictor of success wasn't model size or benchmark score but it was whether the model actively used a persistent scratchpad to record what it learned. Top models rewrote their notes ~34 times per run. Bottom models averaged 0–2 entries.📄 Paper:https://arxiv.org/abs/2604.01212🌐 Leaderboard:https://collinear-ai.github.io/yc-bench/💻 Code (fully open-source):https://github.com/collinear-ai/yc-benchFeel free to run any of your models and happy to reply to your queries!submitted by/u/DreadMutant[link][comments]",
+      "published": "2026-04-04T03:45:40",
+      "_id": "f3d0f421f1fb6d3f",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "running gemma 4 on my macbook air from 2020",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sbwdxr/running_gemma_4_on_my_macbook_air_from_2020/",
+      "summary": "i dont know what im doing with my lifesubmitted by/u/redilaify[link][comments]",
+      "published": "2026-04-04T01:47:52",
+      "_id": "3ce4bb85ec7ef5aa",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "OpenAI CEO Sam Altman accused of sexual abuse by family member",
+      "link": "https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/",
+      "summary": "submitted by/u/esporx[link][comments]",
+      "published": "2026-04-04T08:11:57",
+      "_id": "e815cdc20f9779dd",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "People anxious about deviating from what AI tells them to do?",
+      "link": "https://www.reddit.com/r/artificial/comments/1sc2lip/people_anxious_about_deviating_from_what_ai_tells/",
+      "summary": "My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots.Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work.I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'.I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do.It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands.Has anybody had similar experiences?submitted by/u/qxrii4a[link][comments]",
+      "published": "2026-04-04T07:13:35",
+      "_id": "180c292cd64de678",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Elon Musk Requires Banks Behind SpaceX IPO To Buy Grok Subscriptions, Report Says",
+      "link": "https://www.reddit.com/r/artificial/comments/1sbxms5/elon_musk_requires_banks_behind_spacex_ipo_to_buy/",
+      "summary": "submitted by/u/esporx[link][comments]",
+      "published": "2026-04-04T02:47:16",
+      "_id": "921244595c99001e",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much",
+      "link": "https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/",
+      "summary": "submitted by/u/esporx[link][comments]",
+      "published": "2026-04-04T00:16:44",
+      "_id": "d97daf249bf8093a",
+      "_scraped_at": "13:02"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "MIT study challenges AI job apocalypse narrative",
+      "link": "https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/",
+      "summary": "submitted by/u/ThereWas[link][comments]",
+      "published": "2026-04-03T08:22:59",
+      "_id": "cb92b03a8996dbe6",
+      "_scraped_at": "13:02"
+    }
+  ],
+  "seen_ids": [
+    "b3be35db7b67841e",
+    "b6a803a2c827c895",
+    "1baa86b973cc0bc9",
+    "7bc569385cea8871",
+    "f3d0f421f1fb6d3f",
+    "782ebd377fcae52d",
+    "632735486c4690e0",
+    "de3e2955aed3e931",
+    "6b30aa1117632de8",
+    "4e19f2902cbe9bda",
+    "e815cdc20f9779dd",
+    "921244595c99001e",
+    "091b61caa9d6ad3b",
+    "5c1e67505e323dd5",
+    "ce0b1ecf26f611fb",
+    "3619c42254a93704",
+    "7188fb0cf34547ce",
+    "1e4478d8d92169d8",
+    "4b0bfe97681515f0",
+    "53fd449e13e1bbb9",
+    "1606dc742faa6d7c",
+    "2be13a3e378effda",
+    "52112c920dc8c8c8",
+    "6a8330d51027ef0b",
+    "532b6dd3b06821d9",
+    "7109d660cf385fa5",
+    "d97daf249bf8093a",
+    "88fe638accaef70d",
+    "c06aaae7b572bcad",
+    "9c43866c6f5324a5",
+    "b8a6c3b76de314cf",
+    "6d26b37e8e88167f",
+    "c4a45eed67ee9087",
+    "b8ca746ba870e90d",
+    "50a808fdac3e4926",
+    "cb92b03a8996dbe6",
+    "6c20810f6d90adf9",
+    "aacf13f32df5f0d0",
+    "a833997fb1804960",
+    "9d6a48ccf42b9ba3",
+    "06d09811e7312c0d",
+    "3ce4bb85ec7ef5aa",
+    "7ff8d2fb586abc72",
+    "180c292cd64de678",
+    "71e7caf7bd903e8c",
+    "7cfe9be2233c786c",
+    "95f20ef1fa3e5bfe"
+  ],
+  "last_run": "13:02",
+  "run_count": 1
+}
