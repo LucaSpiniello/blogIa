@@ -1,0 +1,569 @@
+{
+  "date": "2026-04-06",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "published": "2026-04-06T02:30:00",
+      "_id": "4dbb4daa381a06bf",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Announcements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations. Knowledge work Agentic search Coding Reasoning Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains. Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search. Opus 4.6 excels at real-world agentic coding and system tasks. Opus 4.6 extends the frontier of expert-level ",
+      "published": "",
+      "_id": "6c20810f6d90adf9",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 31, 2026AnnouncementsAustralian government and Anthropic sign MOU for AI safety and research",
+      "link": "https://www.anthropic.com/news/australia-MOU",
+      "summary": "Announcements Australian government and Anthropic sign MOU for AI safety and research Mar 31, 2026 Today, Anthropic signed a Memorandum of Understanding with the Australian government to cooperate on AI safety research and support the goals of Australia’s National AI Plan. Our CEO, Dario Amodei, met with Prime Minister Anthony Albanese to formalize the agreement during a visit to Canberra, Australia. We also announced AUD$3 million in partnerships with leading Australian research institutions to use Claude to improve disease diagnosis and treatment and support computer science education and research. Central to the MOU is a commitment to work with Australia’s AI Safety Institute. We will share our findings on emerging model capabilities and risks, participate in joint safety and security evaluations, and collaborate on research with Australian academic institutions. This mirrors the arrangements we have with safety institutes in the US, UK, and Japan, where early access and technical information sharing has helped governments build an independent view of where frontier AI is heading, and AI developers increase the safety of their models. Under the MOU, we will share Anthropic Economic Index data with the Australian government to help track how AI is being adopted across the economy, its economic impacts, and the implications for workers. We’ll initially focus on sectors critical to Australia’s economy, including natural resources, agriculture, healthcare, and financial services. As part of this, we plan to develop ways to advance AI education and training within the workforce. Our recent Economic Index data shows that Australians already use Claude for a broader range of tasks than most countries—the most diverse among English-speaking nations—and work collaboratively with AI using sophisticated prompts to accomplish high-skill tasks ranging from management and sales and business operations, to use in the life sciences and in everyday life. Finally, in line with Aus",
+      "published": "",
+      "_id": "b3be35db7b67841e",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 12, 2026AnnouncementsAnthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Announcements Anthropic invests $100 million into the Claude Partner Network Mar 12, 2026 We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude. We’re committing an initial $100 million to support our partners with training courses, dedicated technical support, and joint market development. Partners who join from today will get immediate access to a new technical certification and be eligible for investment. Anthropic is focused on ensuring that our AI model, Claude, serves the needs of businesses. To do this, we’ve partnered with a number of other companies. Notably, Claude is the only frontier AI model available on all three leading cloud providers: AWS, Google Cloud, and Microsoft. We also work with large management consultancies, professional services firms, specialist AI firms, and similar agencies. These organizations help our enterprise customers identify where Claude can provide the most value to their work, and then help them get started with our AI tools. Our partners act as trusted guides in what can feel like uncharted territory: navigating the deployment requirements, compliance, and change management necessary inside large organizations. Now, we’re doubling down our commitment to our partners, aiming to make it even easier for these organizations to support enterprises in adopting Claude. \"Anthropic is the most committed AI company in the world to the partner ecosystem—and we're putting $100 million behind that this year to prove it. The certification, the co-investment, the dedicated team—this infrastructure is built so that any firm, at any scale, can build a Claude practice. Our partners are instrumental in getting enterprises from proof of concept to production with Claude, and we're making sure they have everything they need to do it.\"—Steve Corfield, Head of Global Business Development and Partnerships, Anthropic. Introducing the Claude Partner Network The Claude Partner Network provides ",
+      "published": "",
+      "_id": "9d6a48ccf42b9ba3",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "published": "2026-04-05T18:51:37",
+      "_id": "beaeb0e8aff51cf9",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "published": "2026-04-05T15:40:58",
+      "_id": "ba9096857fd988cf",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "published": "2026-04-05T14:00:00",
+      "_id": "c6c4912748dd0b5f",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "The Verge",
+      "title": "Suno is a music copyright nightmare",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns […]",
+      "published": "2026-04-05T16:00:00",
+      "_id": "22bfdeb3cce60871",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "The Verge",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To […]",
+      "published": "2026-04-05T14:00:00",
+      "_id": "7be922b96c0eb9dd",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "The Verge",
+      "title": "Grammarly’s sloppelganger saga",
+      "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser […]",
+      "published": "2026-04-05T12:00:00",
+      "_id": "9571bb9eb6122661",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI is changing how small online sellers decide what to make",
+      "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.  When McClary…",
+      "published": "2026-04-06T11:00:00",
+      "_id": "db06ed6bb14e0288",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Wired",
+      "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+      "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+      "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+      "published": "2026-04-06T09:00:00",
+      "_id": "2b2e3f382cff97fe",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "abhigyanpatwari /GitNexus",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is not affiliated with, endorsed by, or created by this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus. Join the official Discord to discuss ideas, issues etc! Enterprise (SaaS & Self-hosted) - akonlabs.com Building nervous system for agent context. Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. Gitnexus_CLI.1.mp4 Like DeepWiki, but deeper. DeepWiki helps you understand code. GitNexus lets you analyze it — because a knowledge graph tracks every relationship, not just descriptions. TL;DR: The Web UI is a quick way to chat with any repo. The CLI + MCP is how you make your AI agent actually reliable — it gives Cursor, Claude Code, Codex, and friends a deep architectural view of your codebase so they stop missing dependencies, breaking call chains, and shipping blind edits. Even smaller models get full architectural clarity, making it compete with goliath models. Star History Two Ways to Use GitNexus CLI + MCP Web UI What Index repos locally, connect AI agents via MCP Visual graph explorer + AI chat in browser For Daily development with Cursor, Claude Code, Codex, Windsurf, OpenCode Quick exploration, demos, one-off analysis Scale Full repos, any size Limited by browser memory (~5k files), or unlimited via backend mode Install npm install -g gitnexus No install — gitnexus.vercel.app Storage LadybugDB native (fast, persistent) LadybugDB WASM (in-memory, per session) Parsing Tree-sitter native bindings Tree-sitter WASM Privacy Everything local, no network Everything in-browser, no server Bridge mode: gitnexus serve connects the two — the web UI auto-detects the local server and can browse all your CLI-indexed repos without re-uploading or r",
+      "published": "",
+      "_id": "3c90af76cbde0363",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-ai-edge /gallery",
+      "link": "https://github.com/google-ai-edge/gallery",
+      "summary": "Google AI Edge Gallery ✨ Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge. AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. Now Featuring: Gemma 4 The latest version brings official support for the newly released Gemma 4 family. As the centerpiece of this release, Gemma 4 allows you to test the cutting edge of on-device AI. Experience advanced reasoning, logic, and creative capabilities without ever sending your data to a server. Install the app today from Google Play Install the app today from App Store For users without Google Play access, install the apk from the latest release App Preview ✨ Core Features Agent Skills : Transform your LLM from a conversationalist into a proactive assistant. Use the Agent Skills tile to augment model capabilities with tools like Wikipedia for fact-grounding, interactive maps, and rich visual summary cards. You can even load modular skills from a URL or browse community contributions on GitHub Discussions. AI Chat with Thinking Mode : Engage in fluid, multi-turn conversations and toggle the new Thinking Mode to peek \"under the hood.\" This feature allows you to see the model’s step-by-step reasoning process, which is perfect for understanding complex problem-solving. Note: Thinking Mode currently works with supported models, starting with the Gemma 4 family. Ask Image : Use multimodal power to identify objects, solve visual puzzles, or get detailed descriptions using your device’s camera or photo gallery. Audio Scribe : Transcribe and translate voice recordings into text in real-time using high-efficiency on-device language models. Prompt Lab : A dedicated workspace to test different prompts and single-turn use cases with granular control over model parameters like temperature and top-k",
+      "published": "",
+      "_id": "3e7dd3980ef4863e",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "block /goose",
+      "link": "https://github.com/block/goose",
+      "summary": "goose a local, extensible, open source AI agent that automates engineering tasks goose is your on-machine AI agent, capable of automating complex development tasks from start to finish. More than just code suggestions, goose can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows, and interact with external APIs - autonomously . Whether you're prototyping an idea, refining existing code, or managing intricate engineering pipelines, goose adapts to your workflow and executes tasks with precision. Designed for maximum flexibility, goose works with any LLM and supports multi-model configuration to optimize performance and cost, seamlessly integrates with MCP servers, and is available as both a desktop app as well as CLI - making it the ultimate AI assistant for developers who want to move faster and focus on innovation. Quick Links Quickstart Installation Tutorials Documentation Governance Custom Distributions - build your own goose distro with preconfigured providers, extensions, and branding Need Help? Diagnostics & Reporting Known Issues a little goose humor 🪿 Why did the developer choose goose as their AI agent? Because it always helps them \"migrate\" their code to production! 🚀 goose around with us Discord YouTube LinkedIn Twitter/X Bluesky Nostr",
+      "published": "",
+      "_id": "1e4478d8d92169d8",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-ai-edge /LiteRT-LM",
+      "link": "https://github.com/google-ai-edge/LiteRT-LM",
+      "summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference\nframework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance\n( blog ). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI : litert-lm run  \\\n   --from-huggingface-repo=litert-community/gemma-4-E2B-it-litert-lm \\\n   gemma-4-E2B-it.litertlm \\\n   --prompt= \" What is the capital of France? \" 🌟 Key Features 📱 Cross-Platform Support : Android, iOS, Web, Desktop, and IoT (e.g.\nRaspberry Pi). 🚀 Hardware Acceleration : Peak performance via GPU and NPU accelerators. 👁️ Multi-Modality : Support for vision and audio inputs. 🔧 Tool Use : Function calling support for agentic workflows. 📚 Broad Model Support : Gemma, Llama, Phi-4, Qwen, and more. 🚀 Production-Ready for Google's Products LiteRT-LM powers on-device GenAI experiences in Chrome , Chromebook Plus , Pixel Watch , and more. You can also try the Google AI Edge Gallery app to run\nmodels immediately on your device. Install the app today from Google Play Install the app today from App Store 📰 Blogs & Announcements Link Description Bring state-of-the-art agentic skills to the edge with Gemma 4 Deploy Gemma 4 in-app and across a broader range of devices with stellar performance and broad reach using LiteRT-LM. On-device GenAI in Chrome, Chromebook Plus and Pixel Watch Deploy language models on wearables and browser-based platforms using LiteRT-LM at scale. On-device Function Calling in Google AI Edge Gallery Explore how to fine-tune FunctionGemma and enable function calling capabilities powered by LiteRT-LM Tool Use APIs. Google AI Edge small language models, multimodality, and function calling Latest insights on RAG, multimodality, and function calling for edge language models. 🏃 Quick Start 🔗 Key Links 👉 Technical Overview including performance benchmarks, model support, and m",
+      "published": "",
+      "_id": "61c5f6e5b0bf1e14",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "immich-app /immich",
+      "link": "https://github.com/immich-app/immich",
+      "summary": "High performance self-hosted photo and video management solution Català Español Français Italiano 日本語 한국어 Deutsch Nederlands Türkçe 简体中文 正體中文 Українська Русский Português Brasileiro Svenska العربية Tiếng Việt ภาษาไทย Warning ⚠️ Always follow 3-2-1 backup plan for your precious photos and videos! Note You can find the main documentation, including installation guides, at https://immich.app/ . Links Documentation About Installation Roadmap Demo Features Translations Contributing Demo Access the demo here . For the mobile app, you can use https://demo.immich.app for the Server Endpoint URL . Login credentials Email Password demo@immich.app demo Features Features Mobile Web Upload and view videos and photos Yes Yes Auto backup when the app is opened Yes N/A Prevent duplication of assets Yes Yes Selective album(s) for backup Yes N/A Download photos and videos to local device Yes Yes Multi-user support Yes Yes Album and Shared albums Yes Yes Scrubbable/draggable scrollbar Yes Yes Support raw formats Yes Yes Metadata view (EXIF, map) Yes Yes Search by metadata, objects, faces, and CLIP Yes Yes Administrative functions (user management) No Yes Background backup Yes N/A Virtual scroll Yes Yes OAuth support Yes Yes API Keys N/A Yes LivePhoto/MotionPhoto backup and playback Yes Yes Support 360 degree image display No Yes User-defined storage structure Yes Yes Public Sharing Yes Yes Archive and Favorites Yes Yes Global Map Yes Yes Partner Sharing Yes Yes Facial recognition and clustering Yes Yes Memories (x years ago) Yes Yes Offline support Yes No Read-only gallery Yes Yes Stacked Photos Yes Yes Tags No Yes Folder View Yes Yes Translations Read more about translations here . Repository activity Star history Contributors",
+      "published": "",
+      "_id": "bfefa0db462ca5c0",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "KeygraphHQ /shannon",
+      "link": "https://github.com/KeygraphHQ/shannon",
+      "summary": "Note 📢 New: Shannon is now available via npx @keygraph/shannon . → Shannon — AI Pentester by Keygraph Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. What is Shannon? Shannon is an AI pentester developed by Keygraph . It performs white-box security testing of web applications and their underlying APIs by combining source code analysis with live exploitation. Shannon analyzes your web application's source code to identify potential attack vectors, then uses browser automation and command-line tools to execute real exploits (injection attacks, authentication bypass, SSRF, XSS) against the running application and its APIs. Only vulnerabilities with a working proof-of-concept are included in the final report. Why Shannon Exists Thanks to tools like Claude Code and Cursor, your team ships code non-stop. But your penetration test? That happens once a year. This creates a massive security gap. For the other 364 days, you could be unknowingly shipping vulnerabilities to production. Shannon closes that gap by providing on-demand, automated penetration testing that can run against every build or release. Shannon in Action Shannon identified 20+ vulnerabilities in OWASP Juice Shop, including authentication bypass and database exfiltration. Full report → Features Fully Autonomous Operation : A single command launches the full pentest. Shannon handles 2FA/TOTP logins (including SSO), browser navigation, exploitation, and report generation without manual intervention. Reproducible Proof-of-Concept Exploits : The final report contains only proven, exploitable findings with copy-and-paste PoCs. Vulnerabilities that cannot be exploited are not reported. OWASP Vulnerability Coverage : Identifies and validates Injection, XSS, SSRF, and Broken Authentication/Authorization, with additional categories in development. Co",
+      "published": "",
+      "_id": "cc3eedd955ecc928",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "NousResearch /hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent ☤ The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter (200+ models), z.ai/GLM , Kimi/Moonshot , MiniMax , OpenAI, or your own endpoint. Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Six terminal backends — local, Docker, SSH, Daytona, Singularity, and Modal. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Research-ready Ba",
+      "published": "",
+      "_id": "ec2b8bd43eefd65f",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "tobi /qmd",
+      "link": "https://github.com/tobi/qmd",
+      "summary": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language. Ideal for your agentic flows. QMD combines BM25 full-text search, vector semantic search, and LLM re-ranking—all running locally via node-llama-cpp with GGUF models. You can read more about QMD's progress in the CHANGELOG . Quick Start # Install globally (Node or Bun) npm install -g @tobilu/qmd # or bun install -g @tobilu/qmd # Or run directly npx @tobilu/qmd ...\nbunx @tobilu/qmd ... # Create collections for your notes, docs, and meeting transcripts qmd collection add ~ /notes --name notes\nqmd collection add ~ /Documents/meetings --name meetings\nqmd collection add ~ /work/docs --name docs # Add context to help with search results, each piece of context will be returned when matching sub documents are returned. This works as a tree. This is the key feature of QMD as it allows LLMs to make much better contextual choices when selecting documents. Don't sleep on it! qmd context add qmd://notes \" Personal notes and ideas \" qmd context add qmd://meetings \" Meeting transcripts and notes \" qmd context add qmd://docs \" Work documentation \" # Generate embeddings for semantic search qmd embed # Search across everything qmd search \" project timeline \" # Fast keyword search qmd vsearch \" how to deploy \" # Semantic search qmd query \" quarterly planning process \" # Hybrid + reranking (best quality) # Get a specific document qmd get \" meetings/2024-01-15.md \" # Get a document by docid (shown in search results) qmd get \" #abc123 \" # Get multiple documents by glob pattern qmd multi-get \" journals/2025-05*.md \" # Search within a specific collection qmd search \" API \" -c notes # Export all matches for an agent qmd search \" API \" --all --files --min-score 0.3 Using with AI Agents QMD's --json and --files output formats are designed for agentic workflows: # Get structured ",
+      "published": "",
+      "_id": "79f49fc219e62c15",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "TelegramMessenger /Telegram-iOS",
+      "link": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform.\nThere are several things we require from all developers for the moment. Creating your Telegram Application Obtain your own api_id for your application. Please do not use the name Telegram for your app — or make sure your users understand that it is unofficial. Kindly do not use our standard logo (white paper plane in a blue circle) as your app's logo. Please study our security guidelines and take good care of your users' data and privacy. Please remember to publish your code too in order to comply with the licences. Quick Compilation Guide Get the Code git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git Setup Xcode Install Xcode (directly from https://developer.apple.com/download/applications or using the App Store). Adjust Configuration Generate a random identifier: openssl rand -hex 8 Create a new Xcode project. Use Telegram as the Product Name. Use org.{identifier from step 1} as the Organization Identifier. Open Keychain Access and navigate to Certificates . Locate Apple Development: your@email.address (XXXXXXXXXX) and double tap the certificate. Under Details , locate Organizational Unit . This is the Team ID. Edit build-system/template_minimal_development_configuration.json . Use data from the previous steps. Generate an Xcode project python3 build-system/Make/Make.py \\\n    --cacheDir=\"$HOME/telegram-bazel-cache\" \\\n    generateProject \\\n    --configurationPath=build-system/template_minimal_development_configuration.json \\\n    --xcodeManagedCodesigning Advanced Compilation Guide Xcode Copy and edit build-system/appstore-configuration.json . Copy build-system/fake-codesigning . Create and download provisioning profiles, using the profiles folder as a reference for the entitlements. Generate an Xcode project: python3 build-system/Make/Make.py \\\n    --cacheDir=\"$HOME/telegram-bazel-cache\" \\\n    gene",
+      "published": "",
+      "_id": "ad1e36d94a77e76a",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "GitHub",
+      "title": "kepano /obsidian-skills",
+      "link": "https://github.com/kepano/obsidian-skills",
+      "summary": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace /plugin marketplace add kepano/obsidian-skills\n/plugin install obsidian@obsidian-skills npx skills npx skills add git@github.com:kepano/obsidian-skills.git Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code). See more in the official Claude Skills documentation . Codex CLI Copy the skills/ directory into your Codex skills path (typically ~/.codex/skills ). See the Agent Skills specification for the standard skill format. OpenCode Clone the entire repo into the OpenCode skills directory ( ~/.opencode/skills/ ): git clone https://github.com/kepano/obsidian-skills.git ~ /.opencode/skills/obsidian-skills Do not copy only the inner skills/ folder — clone the full repo so the directory structure is ~/.opencode/skills/obsidian-skills/skills/<skill-name>/SKILL.md . OpenCode auto-discovers all SKILL.md files under ~/.opencode/skills/ . No changes to opencode.json or any config file are needed. Skills become available after restarting OpenCode. Skills Skill Description obsidian-markdown Create and edit Obsidian Flavored Markdown ( .md ) with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax obsidian-bases Create and edit Obsidian Bases ( .base ) with views, filters, formulas, and summaries json-canvas Create and edit JSON Canvas files ( .canvas ) with nodes, edges, groups, and connections obsidian-cli Interact with Obsidian vaults via the Obsidian CLI including plugin and theme development defuddle Extract clean markdown from web pages using Defuddle , removing clutter to save tokens",
+      "published": "",
+      "_id": "83e0e833f0504fcd",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "link": "https://github.com/arman-bd/guppylm",
+      "summary": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.Fork it and swap the personality for your own character.Comments URL:https://news.ycombinator.com/item?id=47655408Points: 627# Comments: 81",
+      "published": "2026-04-06T00:20:12",
+      "_id": "1f0eb934d645fc4e",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "link": "https://github.com/kessler/gemma-gem",
+      "summary": "Gemma Gem is a Chrome extension that loads Google's Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.You get a small chat overlay on every page. Ask it about the page and it (usually) figures out which tools to call. It has a thinking mode that shows chain-of-thought reasoning as it works.It's a 2B model in a browser. It works for simple page questions and running JavaScript, but multi-step tool chains are unreliable and it sometimes ignores its tools entirely. The agent loop has zero external dependencies and can be extracted as a standalone library if anyone wants to experiment with it.Comments URL:https://news.ycombinator.com/item?id=47655367Points: 103# Comments: 17",
+      "published": "2026-04-06T00:14:37",
+      "_id": "6ef24382b5b7341c",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Musician says AI company is cloning her music, filing claims against her",
+      "link": "https://twitter.com/unlimited_ls/status/2040577536136974444",
+      "summary": "Article URL:https://twitter.com/unlimited_ls/status/2040577536136974444Comments URL:https://news.ycombinator.com/item?id=47653471Points: 113# Comments: 19",
+      "published": "2026-04-05T20:19:11",
+      "_id": "b5a8b20d22d22187",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "link": "https://github.com/fikrikarim/parlor",
+      "summary": "Related:https://news.ycombinator.com/item?id=47653752Comments URL:https://news.ycombinator.com/item?id=47652007Points: 151# Comments: 13",
+      "published": "2026-04-05T17:53:19",
+      "_id": "45a8c07944f07491",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "link": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "summary": "Article URL:https://ai.georgeliu.com/p/running-google-gemma-4-locally-withComments URL:https://news.ycombinator.com/item?id=47651540Points: 311# Comments: 75",
+      "published": "2026-04-05T17:13:51",
+      "_id": "79753a90e8e63512",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "link": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "summary": "Article URL:https://github.com/salmanmohammadi/nanocode/discussions/1Comments URL:https://news.ycombinator.com/item?id=47649742Points: 193# Comments: 26",
+      "published": "2026-04-05T14:21:17",
+      "_id": "5fc43ea61cee5922",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Eight years of wanting, three months of building with AI",
+      "link": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "summary": "Article URL:https://lalitm.com/post/building-syntaqlite-ai/Comments URL:https://news.ycombinator.com/item?id=47648828Points: 830# Comments: 259",
+      "published": "2026-04-05T12:43:47",
+      "_id": "181a10d9da3f4596",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I used AI. It worked. I hated it",
+      "link": "https://taggart-tech.com/reckoning/",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t...Comments URL:https://news.ycombinator.com/item?id=47646277Points: 54# Comments: 120",
+      "published": "2026-04-05T05:08:39",
+      "_id": "f8b050ce73c7d4f0",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI that copied musical artist files copyright claim against artist [updated]",
+      "link": "https://twitter.com/VladTheInflator/status/2039577001531768906",
+      "summary": "https://xcancel.com/VladTheInflator/status/20395770015317689...Comments URL:https://news.ycombinator.com/item?id=47645976Points: 64# Comments: 17",
+      "published": "2026-04-05T03:55:10",
+      "_id": "ce94e3804bac8913",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Writing Lisp is AI resistant and I'm sad",
+      "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "summary": "Article URL:https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/Comments URL:https://news.ycombinator.com/item?id=47645468Points: 92# Comments: 95",
+      "published": "2026-04-05T02:01:31",
+      "_id": "6179f35ef9bc35d7",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] How to break free from LLM's chains as a PhD student?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
+      "summary": "I didn't realize but over a period of one year i have become overreliant on ChatGPT to write code, I am a second year PhD student and don't want to end up as someone with fake \"coding skills\" after I graduate. I hear people talk about it all the time that use LLM to write boring parts of the code, and write core stuff yourself, but the truth is, LLMs are getting better and better at even writing those parts if you write the prompt well (or at least give you a template that you can play around to cross the finish line). Even PhD advisors are well convinced that their students are using LLMs to assist in research work, and they mentally expect quicker results. I am currently trying to cope with imposter syndrome because my advisor is happy with my progress. But deep down I know that not 100% of it is my own output. I have started feeling like LLMs have tied my hands so tightly that I can't function without them.What would be some strategies to reduce the dependency on LLM for work?submitted by/u/etoipi1[link][comments]",
+      "published": "2026-04-06T02:36:24",
+      "_id": "077fd7ab06740c2c",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[D] IJCAI 2026 rebuttal discussion",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sdu1gd/d_ijcai_2026_rebuttal_discussion/",
+      "summary": "Hi everyone,I’ve created a thread for the upcoming discussion during the rebuttal phase. After Phase 1, it appears that around 70% of the papers are currently under review.Wishing you all the best!submitted by/u/snu95[link][comments]",
+      "published": "2026-04-06T09:29:56",
+      "_id": "ed8b2f78e75b33ad",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
+      "summary": "The problemIf you work with Italian text and local models, you know the pain. Every open-source LLM out there treats Italian as an afterthought — English-first tokenizer, English-first data, maybe some Italian sprinkled in during fine-tuning. The result: bloated token counts, poor morphology handling, and models that \"speak Italian\" the way a tourist orders coffee in Rome.I decided to fix this from the ground up.What is Dante-2BA 2.1B parameter, decoder-only, dense transformer. Trained from scratch — no fine-tune of Llama, no adapter on Mistral. Random init to coherent Italian in 16 days on 2× H200 GPUs.Architecture:LLaMA-style with GQA (20 query heads, 4 KV heads — 5:1 ratio)SwiGLU FFN, RMSNorm, RoPEd_model=2560, 28 layers, d_head=128 (optimized for Flash Attention on H200)Weight-tied embeddings, no MoE — all 2.1B params active per tokenCustom 64K BPE tokenizer built specifically for Italian + English + codeWhy the tokenizer mattersThis is where most multilingual models silently fail. Standard English-centric tokenizers splitl'intelligenzaintol,',intelligenza— 3 tokens for what any Italian speaker sees as 1.5 words. Multiply that across an entire document and you're wasting 20-30% of your context window on tokenizer overhead.Dante's tokenizer was trained on a character-balanced mix (~42% Italian, ~36% English, ~22% code) with a custom pre-tokenization regex that keeps Italian apostrophe contractions intact. Accented characters (à, è, é, ì, ò, ù) are pre-merged as atomic units — they're always single tokens, not two bytes glued together by luck.Small detail, massive impact on efficiency and quality for Italian text.Training setupData:~300B token corpus. Italian web text (FineWeb-2 IT), English educational content (FineWeb-Edu), Italian public domain literature (171K books), legal/parliamentary texts (Gazzetta Ufficiale, EuroParl), Wikipedia in both languages, and StarCoderData for code. Everything pre-tokenized into uint16 binary with quality tiers.Phase 1 (just com",
+      "published": "2026-04-05T22:24:36",
+      "_id": "83c8b35ed4c5dc90",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "I technically got an LLM running locally on a 1998 iMac G3 with 32 MB of RAM",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sdnw7l/i_technically_got_an_llm_running_locally_on_a/",
+      "summary": "Hardware:• Stock iMac G3 Rev B (October 1998). 233 MHz PowerPC 750, 32 MB RAM, Mac OS 8.5. No upgrades.• Model: Andrej Karpathy’s 260K TinyStories (Llama 2 architecture). ~1 MB checkpoint.Toolchain:• Cross-compiled from a Mac mini using Retro68 (GCC for classic Mac OS → PEF binaries)• Endian-swapped model + tokenizer from little-endian to big-endian for PowerPC• Files transferred via FTP to the iMac over EthernetChallenges:• Mac OS 8.5 gives apps a tiny memory partition by default. Had to use MaxApplZone() + NewPtr() from the Mac Memory Manager to get enough heap• RetroConsole crashes on this hardware, so all output writes to a text file you open in SimpleText• The original llama2.c weight layout assumes n_kv_heads == n_heads. The 260K model uses grouped-query attention (kv_heads=4, heads=8), which shifted every pointer after wk and produced NaN. Fixed by using n_kv_heads * head_size for wk/wv sizing• Static buffers for the KV cache and run state to avoid malloc failures on 32 MBIt reads a prompt from prompt.txt, tokenizes with BPE, runs inference, and writes the continuation to output.txt.Obviously the output is very short, but this is definitely meant to just be a fun experiment/demo!Here’s the repo link:https://github.com/maddiedreese/imac-llmsubmitted by/u/maddiedreese[link][comments]",
+      "published": "2026-04-06T03:36:04",
+      "_id": "c73ca4ce00f43d72",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Gemma 4 just casually destroyed every model on our leaderboard except Opus 4.6 and GPT-5.2. 31B params, $0.20/run",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sdcotc/gemma_4_just_casually_destroyed_every_model_on/",
+      "summary": "Tested Gemma 4 (31B) on our benchmark. Genuinely did not expect this.100% survival, 5 out of 5 runs profitable, +1,144% median ROI. At $0.20 per run.It outperforms GPT-5.2 ($4.43/run), Gemini 3 Pro ($2.95/run), Sonnet 4.6 ($7.90/run), and absolutely destroys every Chinese open-source model we've tested — Qwen 3.5 397B, Qwen 3.5 9B, DeepSeek V3.2, GLM-5. None of them even survive consistently.The only model that beats Gemma 4 is Opus 4.6 at $36 per run. That's 180× more expensive.31 billion parameters. Twenty cents. We double-checked the config, the prompt, the model ID — everything is identical to every other model on the leaderboard. Same seed, same tools, same simulation. It's just this good.Strongly recommend trying it for your agentic workflows. We've tested 22 models so far and this is by far the best cost-to-performance ratio we've ever seen.Full breakdown with charts and day-by-day analysis:foodtruckbench.com/blog/gemma-4-31bFoodTruck Bench is an AI business simulation benchmark — the agent runs a food truck for 30 days, making decisions about location, menu, pricing, staff, and inventory. Leaderboard atfoodtruckbench.comEDIT — Gemma 4 26B A4B results are in.Lots of you asked about the 26B A4B variant. Ran 5 simulations, here's the honest picture:60% survival(3/5 completed, 2 bankrupt). Median ROI: +119%, Net Worth: $4,386. Cost: $0.31/run. Placed #7 on the leaderboard — above every Chinese model and Sonnet 4.5, below everything else.Both bankruptcies were loan defaults — same pattern we see across models. The 3 surviving runs were solid, especially the best one at +296% ROI.But here's the catch.The 26B A4B is the only model out of 23 tested that required custom output sanitization to function. It produces valid tool-call intent, but the JSON formatting is consistently broken — malformed quotes, trailing garbage tokens, invalid escapes. I had to build a 3-stage sanitizer specifically for this model. No other model needed anything like this. The business decis",
+      "published": "2026-04-05T19:30:02",
+      "_id": "73f6d9ede92a91cf",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "[PokeClaw] First working app that uses Gemma 4 to autonomously control an Android phone. Fully on-device, no cloud.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sdv3lo/pokeclaw_first_working_app_that_uses_gemma_4_to/",
+      "summary": "PokeClaw - A Pocket Version of OpenClawMost \"private\" AI assistants are private because the company says so. PokeClaw is private because there's literally no server component. The AI model runs on your phone's CPU. There's no cloud endpoint. You can block the app from the internet entirely and it works the same.It runs Gemma 4 on-device using LiteRT and controls your phone through Android Accessibility. You type a command, the AI reads the screen, decides what to tap, and executes. Works with any app.I built this because I wanted a phone assistant that couldn't spy on me even if it wanted to. Not because of a privacy policy, but because of architecture. There's nowhere for the data to go.First app I've found that does fully local LLM phone control — every other option I checked either needs a cloud backend or uses screenshot-based vision (which is fragile and often still phones home).https://github.com/agents-io/PokeClawPlease give me starts and issues!One-time model download, then it's fully offline forever.submitted by/u/Think-Investment-557[link][comments]",
+      "published": "2026-04-06T10:31:42",
+      "_id": "be14f85eca121a1c",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Qwen3.5-4B GGUF quants comparison (KLD vs speed) - Lunar Lake",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sdqn13/qwen354b_gguf_quants_comparison_kld_vs_speed/",
+      "summary": "I wanted to know which type of quant is the best on this laptop (Intel 258V - iGPU 140V 18GB), so I tested all these small quants hoping that it generalizes to bigger models:Winners in bold (KLD≤0.01)UploaderQuanttk/sKLDGBKLD/GB*mradermacher*Q4_028.970.0526599182.370.04593mradermacher_i1Q4_028.890.0591715612.370.05162mradermacher_i1IQ3_XXS28.590.1771407131.770.20736UnslothUD-IQ2_XXS28.470.5736733271.420.83747UnslothQ4_028.30.0534312182.410.04583BartowskiQ4_028.280.0497967892.450.04200mradermacherQ4_K_S27.740.0503057222.390.04350UnslothQ4_K_S27.290.0284028152.410.02429UnslothUD-IQ3_XXS27.030.1468794191.820.16718mradermacherQ2_K26.980.8586481761.781.00000mradermacher_i1Q4_K_M25.950.0265405672.520.02169mradermacher_i1IQ3_XS25.890.1472141211.930.15800UnslothQ3_K_M25.680.0719337412.140.06955mradermacherQ4_K_M25.650.0456412992.520.03741UnslothQ4_125.550.0278913362.590.02219mradermacher_i1Q4_125.370.0260748722.580.02081mradermacher_i1Q3_K_M25.30.0977251912.110.09588UnslothQ4_K_M25.240.0250385452.550.02022mradermacherQ3_K_M25.110.1348164812.110.13233BartowskiQ4_K_M25.040.0215677582.670.01661mradermacher_i1Q4_K_S24.790.0296353272.390.02557mradermacher*Q5_024.680.0160113482.780.01180UnslothUD-Q2_K_XL24.470.2576325521.810.29497UnslothUD-Q3_K_XL24.280.0601933372.270.05484mradermacherQ5_K_S24.030.0149013542.780.01097mradermacher_i1IQ3_M24.030.121770672.010.12547mradermacherQ3_K_L23.840.130417612.260.11950mradermacher_i1Q3_K_L23.660.0907571722.260.08312UnslothUD-Q4_K_XL23.490.0219545062.710.01665mradermacherQ5_K_M23.240.0130062212.860.00929UnslothQ5_K_S23.170.0091941762.820.00662mradermacher_i1Q5_K_S22.780.0091513122.780.00668UnslothQ3_K_S22.760.1310182661.960.13845BartowskiQ5_K_S22.710.0077779432.910.00540mradermacher_i1Q3_K_S22.710.1544518081.930.16578UnslothQ5_K_M22.460.0081851372.930.00565mradermacher_i1Q5_K_M22.20.0088079712.860.00624mradermacher_i1IQ4_NL22.110.0357451552.430.03036UnslothIQ4_NL22.060.0336890862.40.02896mradermacher*Q5_122.040.0119706322.990.00816UnslothUD-Q5",
+      "published": "2026-04-06T06:04:00",
+      "_id": "e29449f76d0fc6dc",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.",
+      "link": "https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/",
+      "summary": "I want to be honest about something that happened to me because I think it is more common than people admit.Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically.I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions.At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be.I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI.I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it.The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together.I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year.Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.submitted by/u/Ambitious-Garbage-73[link][comments]",
+      "published": "2026-04-05T20:52:31",
+      "_id": "0e60783f620dae8a",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like",
+      "link": "https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/",
+      "summary": "I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API.Here are some of the companies building for AI agents:AgentMail — agents can have email accountsAgentPhone — agents can have phone numbersKapso — agents can have WhatsApp numbersDaytona / E2B — agents can have their own computersmonid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook)Browserbase / Browser Use / Hyperbrowser — agents can use web browsersFirecrawl — agents can crawl the web without a browserMem0 — agents can remember thingsKite / Sponge — agents can pay for thingsComposio — agents can use your SaaS toolsOrthogonal — agents can access APIs more easilyElevenLabs / Vapi — agents can have a voiceSixtyfour — agents can search for people and companiesExa — agents can search the web (Google isn’t built for agents)What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon.Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack.Curious if anyone here is actually building on top of this. What are you using?Also probably missing a bunch - drop anything I should add and I’ll keep this updated.submitted by/u/Shot_Fudge_6195[link][comments]",
+      "published": "2026-04-05T23:43:43",
+      "_id": "22f146939083b283",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "McKinsey's AI Lie Explains What's Happening to Work",
+      "link": "https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/",
+      "summary": "Everyone thinks McKinsey just built 25,000 AI experts.They didn't.They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question.This is the same play McKinsey has run for a hundred years. ERP in the 90s.Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails.The future looks a lot like the past.And once you see it, you can't unsee it.https://www.youtube.com/watch?v=uTdKJaQkgJQsubmitted by/u/AmorFati01[link][comments]",
+      "published": "2026-04-05T17:07:51",
+      "_id": "947bb0e40b2de935",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
+      "link": "https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/",
+      "summary": "submitted by/u/talkingatoms[link][comments]",
+      "published": "2026-04-06T11:42:32",
+      "_id": "e98c5861168e5fc1",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Opinions on Google’s search AI? Best practices?",
+      "link": "https://www.reddit.com/r/artificial/comments/1sdt5jn/opinions_on_googles_search_ai_best_practices/",
+      "summary": "Hello! I tend to use it often and I find it to have valid information when it comes to linguistic or computer related summaries, though it does require a play of words at times. I’m wondering what this Google search AI is good at, what it’s bad at, your opinions on it (especially for learning various topics or getting information, any subject you think it’s good or bad at). What are your opinions for using it for political information? How are your best practices in verifying the validity of the information??Literally, anything you have to say about it, yap about it in the comments. I use it all the time and it’s the only AI I use explicitly (usually after making a google search and it showing up at the top of my screen every time), besides some of the advanced (non image creation AI) AI parts of Photoshop, such as removing backgrounds.Or any better alternatives out there, or opinions on other AI platforms (free ones mostly), thanks!submitted by/u/New_Butterfly8095[link][comments]",
+      "published": "2026-04-06T08:35:25",
+      "_id": "7f31f7e3ebb661af",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "link": "https://arxiv.org/abs/2604.02334",
+      "summary": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To address these challenges, we introduce Holos, a web-scale LaMAS architected for long-term ecological persistence. Holos adopts a five-layer architecture, with core modules primarily featuring the Nuwa engine for high-efficiency agent generation and hosting, a market-driven Orchestrator for resilient coordination, and an endogenous value cycle to achieve incentive compatibility. By bridging the gap between micro-level collaboration and macro-scale emergence, Holos hopes to lay the foundation for the next generation of the self-organizing and continuously evolving Agentic Web. We have publicly released Holos (accessible at https://holosai.io), providing a resource for the community and a testbed for future research in large-scale agentic ecosystems.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "2445e01da7052269",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "link": "https://arxiv.org/abs/2604.02368",
+      "summary": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge this gap, we present XpertBench, a high-fidelity benchmark engineered to assess LLMs across authentic professional domains. XpertBench consists of 1,346 meticulously curated tasks across 80 categories, spanning finance, healthcare, legal services, education, and dual-track research (STEM and Humanities). These tasks are derived from over 1,000 submissions by domain experts--including researchers from elite institutions and practitioners with extensive clinical or industrial experience--ensuring superior ecological validity. Each task uses detailed rubrics with mostly 15-40 weighted checkpoints to assess professional rigor. To facilitate scalable yet human-aligned assessment, we introduce ShotJudge, a novel evaluation paradigm that employs LLM judges calibrated with expert few-shot exemplars to mitigate self-rewarding biases. Our empirical evaluation of state-of-the-art LLMs reveals a pronounced performance ceiling: even leading models achieve a peak success rate of only ~66%, with a mean score around 55%. Models also exhibit domain-specific divergence, showing non-overlapping strengths in quantitative reasoning versus linguistic synthesis.. These findings underscore a significant \"expert-gap\" in current AI systems and establish XpertBench as a critical instrument for navigating the transition from general-purpose assistants to specialized professional collaborators.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "44621ff01d4434cd",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "link": "https://arxiv.org/abs/2604.02434",
+      "summary": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extracts object-level structure from grids, uses neural priors to propose candidate transformations from a fixed domain-specific language (DSL) of atomic patterns, and filters hypotheses using cross-example consistency. Instantiated as a compositional reasoning framework based on unit patterns inspired by human visual abstraction, the system augments large language models (LLMs) with object representations and transformation proposals. On ARC-AGI-2, it improves base LLM performance from 16% to 24.4% on the public evaluation set, and to 30.8% when combined with ARC Lang Solver via a meta-classifier. These results demonstrate that separating perception, neural-guided transformation proposal, and symbolic consistency filtering improves generalization without task-specific finetuning or reinforcement learning, while reducing reliance on brute-force search and sampling-based test-time scaling. We open-source the ARC-AGI-2 Reasoner code (https://github.com/CoreThink-AI/arc-agi-2-reasoner).",
+      "published": "2026-04-06T04:00:00",
+      "_id": "cce6a758b1d6d9ac",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "link": "https://arxiv.org/abs/2604.02476",
+      "summary": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a space. The paper shows that this operation undergoes a qualitative transition as dimensionality increases. In low dimensions, the perceptron acts as a determinate logical classifier, separating classes when possible, as decided by linear programming. In high dimensions, however, a single hyperplane can separate almost any configuration of points (Cover, 1965); the space becomes saturated with potential classifiers, and the perceptron shifts from a logical device to a navigational one, functioning as an indexical indicator in the sense of Peirce. The limitations of the perceptron identified by Minsky and Papert (1969) were historically addressed by introducing multilayer architectures. This paper considers an alternative path: increasing dimensionality while retaining a single threshold element. It argues that this shift has equally significant implications for understanding neural computation. The role of depth is reinterpreted as a mechanism for the sequential deformation of data manifolds through iterated threshold operations, preparing them for linear separability already afforded by high-dimensional geometry. The resulting triadic account - threshold function as ontological unit, dimensionality as enabling condition, and depth as preparatory mechanism - provides a unified perspective on generative AI grounded in established mathematics.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "9820eb0a058d29e8",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+      "link": "https://arxiv.org/abs/2604.02478",
+      "summary": "arXiv:2604.02478v1 Announce Type: new \nAbstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and scalability across diverse control systems, frequently failing to distinguish genuine faults from nuisance faults caused by noise or the control system's large transient response. Consequently, because algorithmic fault validation remains unscalable, full Verification and Validation (V\\&V) operations are still managed by Human-in-the-Loop (HITL) analysis, resulting in an unsustainable manual workload. To automate this essential oversight, we propose Agent-Integrated Verification and Validation (AIVV), a hybrid framework that deploys Large Language Models (LLMs) as a deliberative outer loop. Because rigorous system verification strictly depends on accurate validation, AIVV escalates mathematically flagged anomalies to a role-specialized LLM council. The council agents perform collaborative validation by semantically validating nuisance and true failures based on natural-language (NL) requirements to secure a high-fidelity system-verification baseline. Building on this foundation, the council then performs system verification by assessing post-fault responses against NL operational tolerances, ultimately generating actionable V\\&V artifacts, such as gain-tuning proposals. Experiments on a time-series simulator for Unmanned Underwater Vehicles (UUVs) demonstrate that AIVV successfully digitizes the HITL V\\&V process, overcoming the limitations of rule-based fault classification and offering a scalable blueprint for LLM-mediated oversight in time-series data domains.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "18eb7db68afef5ea",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Using LLM-as-a-Judge/Jury to Advance Scalable, Clinically-Validated Safety Evaluations of Model Responses to Users Demonstrating Psychosis",
+      "link": "https://arxiv.org/abs/2604.02359",
+      "summary": "arXiv:2604.02359v1 Announce Type: new \nAbstract: General-purpose Large Language Models (LLMs) are becoming widely adopted by people for mental health support. Yet emerging evidence suggests there are significant risks associated with high-frequency use, particularly for individuals suffering from psychosis, as LLMs may reinforce delusions and hallucinations. Existing evaluations of LLMs in mental health contexts are limited by a lack of clinical validation and scalability of assessment. To address these issues, this research focuses on psychosis as a critical condition for LLM safety evaluation by (1) developing and validating seven clinician-informed safety criteria, (2) constructing a human-consensus dataset, and (3) testing automated assessment using an LLM as an evaluator (LLM-as-a-Judge) or taking the majority vote of several LLM judges (LLM-as-a-Jury). Results indicate that LLM-as-a-Judge aligns closely with the human consensus (Cohen's $\\kappa_{\\text{human} \\times \\text{gemini}} = 0.75$, $\\kappa_{\\text{human} \\times \\text{qwen}} = 0.68$, $\\kappa_{\\text{human} \\times \\text{kimi}} = 0.56$) and that the best judge slightly outperforms LLM-as-a-Jury (Cohen's $\\kappa_{\\text{human} \\times \\text{jury}} = 0.74$). Overall, these findings have promising implications for clinically grounded, scalable methods in LLM safety evaluations for mental health contexts.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "f75efca53aae6e0e",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "CIPHER: Conformer-based Inference of Phonemes from High-density EEG",
+      "link": "https://arxiv.org/abs/2604.02362",
+      "summary": "arXiv:2604.02362v1 Announce Type: new \nAbstract: Decoding speech information from scalp EEG remains difficult due to low SNR and spatial blurring. We present CIPHER (Conformer-based Inference of Phonemes from High-density EEG Representations), a dual-pathway model using (i) ERP features and (ii) broadband DDA coefficients. On OpenNeuro ds006104 (24 participants, two studies with concurrent TMS), binary articulatory tasks reach near-ceiling performance but are highly confound-vulnerable (acoustic onset separability and TMS-target blocking). On the primary 11-class CVC phoneme task under full Study 2 LOSO (16 held-out subjects), performance is substantially lower (real-word WER: ERP 0.671 +/- 0.080, DDA 0.688 +/- 0.096, indicating limited fine-grained discriminability. We therefore position this work as a benchmark and feature-comparison study rather than an EEG-to-text system, and we constrain neural-representation claims to confound-controlled evidence.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "31042975525b8bf2",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy",
+      "link": "https://arxiv.org/abs/2604.02423",
+      "summary": "arXiv:2604.02423v1 Announce Type: new \nAbstract: Large language models exhibit sycophancy: the tendency to shift outputs toward user-expressed stances, regardless of correctness or consistency. While prior work has studied this issue and its impacts, rigorous computational linguistic metrics are needed to identify when models are being sycophantic. Here, we introduce SWAY, an unsupervised computational linguistic measure of sycophancy. We develop a counterfactual prompting mechanism to identify how much a model's agreement shifts under positive versus negative linguistic pressure, isolating framing effects from content. Applying this metric to benchmark 6 models, we find that sycophancy increases with epistemic commitment. Leveraging our metric, we introduce a counterfactual mitigation strategy teaching models to consider what the answer would be if opposite assumptions were suggested. While baseline mitigation instructing to be explicitly anti-sycophantic yields moderate reductions, and can backfire, our counterfactual CoT mitigation drives sycophancy to near zero across models, commitment levels, and clause types, while not suppressing responsiveness to genuine evidence. Overall, we contribute a metric for benchmarking sycophancy and a mitigation informed by it.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "f2bd5c350988f052",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Skeleton-based Coherence Modeling in Narratives",
+      "link": "https://arxiv.org/abs/2604.02451",
+      "summary": "arXiv:2604.02451v1 Announce Type: new \nAbstract: Modeling coherence in text has been a task that has excited NLP researchers since a long time. It has applications in detecting incoherent structures and helping the author fix them. There has been recent work in using neural networks to extract a skeleton from one sentence, and then use that skeleton to generate the next sentence for coherent narrative story generation. In this project, we aim to study if the consistency of skeletons across subsequent sentences is a good metric to characterize the coherence of a given body of text. We propose a new Sentence/Skeleton Similarity Network (SSN) for modeling coherence across pairs of sentences, and show that this network performs much better than baseline similarity techniques like cosine similarity and Euclidean distance. Although skeletons appear to be promising candidates for modeling coherence, our results show that sentence-level models outperform those on skeletons for evaluating textual coherence, thus indicating that the current state-of-the-art coherence modeling techniques are going in the right direction by dealing with sentences rather than their sub-parts.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "3b7b67593b67913a",
+      "_scraped_at": "13:17"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets",
+      "link": "https://arxiv.org/abs/2604.02460",
+      "summary": "arXiv:2604.02460v1 Announce Type: new \nAbstract: Recent work reports strong performance from multi-agent LLM systems (MAS), but these gains are often confounded by increased test-time computation. When computation is normalized, single-agent systems (SAS) can match or outperform MAS, yet the theoretical basis and evaluation methodology behind this comparison remain unclear. We present an information-theoretic argument, grounded in the Data Processing Inequality, suggesting that under a fixed reasoning-token budget and with perfect context utilization, single-agent systems are more information-efficient. This perspective further predicts that multi-agent systems become competitive when a single agent's effective context utilization is degraded, or when more compute is expended. We test these predictions in a controlled empirical study across three model families (Qwen3, DeepSeek-R1-Distill-Llama, and Gemini 2.5), comparing SAS with multiple MAS architectures under matched budgets. We find that SAS consistently match or outperform MAS on multi-hop reasoning tasks when reasoning tokens are held constant. Beyond aggregate performance, we conduct a detailed diagnostic analysis of system behavior and evaluation methodology. We identify significant artifacts in API-based budget control (particularly in Gemini 2.5) and in standard benchmarks, both of which can inflate apparent gains from MAS. Overall, our results suggest that, for multi-hop reasoning tasks, many reported advantages of multi-agent systems are better explained by unaccounted computation and context effects rather than inherent architectural benefits, and highlight the importance of understanding and explicitly controlling the trade-offs between compute, context, and coordination in agentic systems.",
+      "published": "2026-04-06T04:00:00",
+      "_id": "059f43ed80674cf1",
+      "_scraped_at": "13:17"
+    }
+  ],
+  "seen_ids": [
+    "79753a90e8e63512",
+    "077fd7ab06740c2c",
+    "ba9096857fd988cf",
+    "181a10d9da3f4596",
+    "2b2e3f382cff97fe",
+    "45a8c07944f07491",
+    "c73ca4ce00f43d72",
+    "18eb7db68afef5ea",
+    "059f43ed80674cf1",
+    "ed8b2f78e75b33ad",
+    "b5a8b20d22d22187",
+    "4dbb4daa381a06bf",
+    "e29449f76d0fc6dc",
+    "c6c4912748dd0b5f",
+    "beaeb0e8aff51cf9",
+    "6c20810f6d90adf9",
+    "be14f85eca121a1c",
+    "f8b050ce73c7d4f0",
+    "7f31f7e3ebb661af",
+    "ad1e36d94a77e76a",
+    "2445e01da7052269",
+    "f2bd5c350988f052",
+    "5fc43ea61cee5922",
+    "22bfdeb3cce60871",
+    "f75efca53aae6e0e",
+    "31042975525b8bf2",
+    "1f0eb934d645fc4e",
+    "bfefa0db462ca5c0",
+    "6ef24382b5b7341c",
+    "ce94e3804bac8913",
+    "9820eb0a058d29e8",
+    "c4a45eed67ee9087",
+    "0e60783f620dae8a",
+    "44621ff01d4434cd",
+    "ec2b8bd43eefd65f",
+    "83e0e833f0504fcd",
+    "cce6a758b1d6d9ac",
+    "22f146939083b283",
+    "e98c5861168e5fc1",
+    "db06ed6bb14e0288",
+    "9571bb9eb6122661",
+    "cc3eedd955ecc928",
+    "3b7b67593b67913a",
+    "79f49fc219e62c15",
+    "9d6a48ccf42b9ba3",
+    "73f6d9ede92a91cf",
+    "947bb0e40b2de935",
+    "83c8b35ed4c5dc90",
+    "1e4478d8d92169d8",
+    "091b61caa9d6ad3b",
+    "7be922b96c0eb9dd",
+    "3c90af76cbde0363",
+    "6179f35ef9bc35d7",
+    "b3be35db7b67841e",
+    "3e7dd3980ef4863e",
+    "61c5f6e5b0bf1e14"
+  ],
+  "last_run": "13:17",
+  "run_count": 1
+}
