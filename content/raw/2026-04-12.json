@@ -1,0 +1,389 @@
+{
+  "date": "2026-04-12",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Announcements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations. Knowledge work Agentic search Coding Reasoning Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains. Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search. Opus 4.6 excels at real-world agentic coding and system tasks. Opus 4.6 extends the frontier of expert-level ",
+      "published": "",
+      "_id": "6c20810f6d90adf9",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Apr 6, 2026AnnouncementsAnthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "summary": "Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute Apr 6, 2026 We have signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity that we expect to come online starting in 2027. This significant expansion of our compute infrastructure will power our frontier Claude models and help us serve extraordinary demand from customers worldwide. “This groundbreaking partnership with Google and Broadcom is a continuation of our disciplined approach to scaling infrastructure: we are building the capacity necessary to serve the exponential growth we have seen in our customer base while also enabling Claude to define the frontier of AI development,” said Krishna Rao, CFO of Anthropic. “We are making our most significant compute commitment to date to keep pace with our unprecedented growth.” Demand from Claude customers has accelerated in 2026. Our run-rate revenue has now surpassed $30 billion—up from approximately $9 billion at the end of 2025. When we announced our Series G fundraising in February, we shared that over 500 business customers were each spending over $1 million on an annualized basis. Today that number exceeds 1,000, doubling in less than two months. The vast majority of the new compute will be sited in the United States, making this partnership a major expansion of our November 2025 commitment to invest $50 billion in strengthening American computing infrastructure. The partnership deepens our existing work with Google Cloud—building on the increased TPU capacity we announced last October—as well as our relationship with Broadcom. We train and run Claude on a range of AI hardware—AWS Trainium, Google TPUs, and NVIDIA GPUs—which means we can match workloads to the chips best suited for them. This diversity of platforms translates to better performance and greater resilience for customers who depend on Claude for critical work. Amazon remains our primary ",
+      "published": "",
+      "_id": "8589c87e9bba394d",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Mar 31, 2026AnnouncementsAustralian government and Anthropic sign MOU for AI safety and research",
+      "link": "https://www.anthropic.com/news/australia-MOU",
+      "summary": "Announcements Australian government and Anthropic sign MOU for AI safety and research Mar 31, 2026 Today, Anthropic signed a Memorandum of Understanding with the Australian government to cooperate on AI safety research and support the goals of Australia’s National AI Plan. Our CEO, Dario Amodei, met with Prime Minister Anthony Albanese to formalize the agreement during a visit to Canberra, Australia. We also announced AUD$3 million in partnerships with leading Australian research institutions to use Claude to improve disease diagnosis and treatment and support computer science education and research. Central to the MOU is a commitment to work with Australia’s AI Safety Institute. We will share our findings on emerging model capabilities and risks, participate in joint safety and security evaluations, and collaborate on research with Australian academic institutions. This mirrors the arrangements we have with safety institutes in the US, UK, and Japan, where early access and technical information sharing has helped governments build an independent view of where frontier AI is heading, and AI developers increase the safety of their models. Under the MOU, we will share Anthropic Economic Index data with the Australian government to help track how AI is being adopted across the economy, its economic impacts, and the implications for workers. We’ll initially focus on sectors critical to Australia’s economy, including natural resources, agriculture, healthcare, and financial services. As part of this, we plan to develop ways to advance AI education and training within the workforce. Our recent Economic Index data shows that Australians already use Claude for a broader range of tasks than most countries—the most diverse among English-speaking nations—and work collaboratively with AI using sophisticated prompts to accomplish high-skill tasks ranging from management and sales and business operations, to use in the life sciences and in everyday life. Finally, in line with Aus",
+      "published": "",
+      "_id": "b3be35db7b67841e",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "published": "2026-04-11T17:18:22",
+      "_id": "709900e76e4c893d",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "The Verge",
+      "title": "The AI code wars are heating up",
+      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI […]",
+      "published": "2026-04-12T12:00:00",
+      "_id": "b5a9186760d5fa90",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "The Verge",
+      "title": "Your article about AI doesn’t need AI art",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests […]",
+      "published": "2026-04-11T15:00:00",
+      "_id": "485ee0817c727488",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "The Verge",
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted […]",
+      "published": "2026-04-11T14:00:00",
+      "_id": "212feef976b83096",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "The Verge",
+      "title": "How Iran out-shitposted the White House",
+      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. […]",
+      "published": "2026-04-11T13:00:00",
+      "_id": "ec4254ff05cceee3",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Wired",
+      "title": "Your Push Notifications Aren’t Safe From the FBI",
+      "link": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+      "published": "2026-04-11T10:30:00",
+      "_id": "b6427c2daa6206c7",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Wired",
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+      "published": "2026-04-11T09:30:00",
+      "_id": "fd8319d143a6f3eb",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "NousResearch /hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent ☤ The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter (200+ models), z.ai/GLM , Kimi/Moonshot , MiniMax , OpenAI, or your own endpoint. Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Six terminal backends — local, Docker, SSH, Daytona, Singularity, and Modal. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Research-ready Ba",
+      "published": "",
+      "_id": "ec2b8bd43eefd65f",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "shiyu-coder /Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines),\ntrained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv ! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework: A specialized tokenizer first quantizes continuous, multi-dimensional K-line data (OHLCV) into hierarchical discrete tokens . A large, autoregressive Transformer is then pre-trained on these tokens, enabling it to serve as a unified model for diverse quantitative tasks. ✨ Live Demo We have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours. 👉 Access the Live Demo Here 📦 Model Zoo We release a family of pre-trained models with varying capacities to suit different computational and application needs. All models are readily accessible from the Hugging Face Hub. Model Tokenizer Context length Params Open-source Kronos-mini Kronos-Tokenizer-2k 2048 4.1M ✅ NeoQuasar/Kronos-mini Kronos-small Kronos-Tokenizer-base 512 24.7M ✅ NeoQuasar/Kronos-small Kronos-base Kronos-Tokenizer-base 512 102.3M ✅ NeoQuasar/Kronos-base Kronos-large Kronos-Tokenizer-base 512 499.2M ❌ 🚀 Getting Started Installation Install Python 3.10+, and then install the dependencies: pip install -r requirements.txt 📈 Making Forecasts Forecasting with Kronos is straightforward using the KronosPredictor class. It handles data ",
+      "published": "",
+      "_id": "6ea9960b31645056",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "forrestchang /andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They really like to overcomplicate code and APIs, bloat abstractions, don't clean up dead code... implement a bloated construction over 1000 lines when 100 would do.\" \"They still sometimes change/remove comments and code they don't sufficiently understand as side effects, even if orthogonal to the task.\" The Solution Four principles in one file that directly address these issues: Principle Addresses Think Before Coding Wrong assumptions, hidden confusion, missing tradeoffs Simplicity First Overcomplication, bloated abstractions Surgical Changes Orthogonal edits, touching code you shouldn't Goal-Driven Execution Leverage through tests-first, verifiable success criteria The Four Principles in Detail 1. Think Before Coding Don't assume. Don't hide confusion. Surface tradeoffs. LLMs often pick an interpretation silently and run with it. This principle forces explicit reasoning: State assumptions explicitly — If uncertain, ask rather than guess Present multiple interpretations — Don't pick silently when ambiguity exists Push back when warranted — If a simpler approach exists, say so Stop when confused — Name what's unclear and ask for clarification 2. Simplicity First Minimum code that solves the problem. Nothing speculative. Combat the tendency toward overengineering: No features beyond what was asked No abstractions for single-use code No \"flexibility\" or \"configurability\" that wasn't requested No error handling for impossible scenarios If 200 lines could be 50, rewrite it The test: Would a senior engineer say this is overcompl",
+      "published": "",
+      "_id": "b151953fe9e2acf1",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "summary": "MarkItDown Tip MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. Important Breaking changes between 0.0.1 to 0.1.0: Dependencies are now organized into optional feature-groups (further details below). Use pip install 'markitdown[all]' to have backward-compatible behavior. convert_stream() now requires a binary file-like object (e.g., a file opened in binary mode, or an io.BytesIO object). This is a breaking change from the previous version, where it previously also accepted text file-like objects, like io.StringIO. The DocumentConverter class interface has changed to read from file-like streams rather than file paths. No temporary files are created anymore . If you are the maintainer of a plugin, or custom DocumentConverter, you likely need to update your code. Otherwise, if only using the MarkItDown class or CLI (as in these examples), you should not need to change anything. MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparable to textract , but with a focus on preserving important document structure and content as Markdown (including: headings, lists, tables, links, etc.) While the output is often reasonably presentable and human-friendly, it is meant to be consumed by text analysis tools -- and may not be the best option for high-fidelity document conversions for human consumption. MarkItDown currently supports the conversion from: PDF PowerPoint Word Excel Images (EXIF metadata and OCR) Audio (EXIF metadata and speech transcription) HTML Text-based formats (CSV, JSON, XML) ZIP files (iterates over contents) Youtube URLs EPubs ... and more! Why Markdown? Markdown is extremely close to plain text, with minimal markup or formatting, but still\nprovides a way to represent important document structure. Mainstream LLMs, such as\nOpenAI's GPT-4",
+      "published": "",
+      "_id": "dec36f96df8d997b",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "multica-ai /multica",
+      "link": "https://github.com/multica-ai/multica",
+      "summary": "Multica Your next 10 hires won't be human. The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. Website · Cloud · X · Self-Hosting · Contributing English | 简体中文 What is Multica? Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code, report blockers, and update statuses autonomously. No more copy-pasting prompts. No more babysitting runs. Your agents show up on the board, participate in conversations, and compound reusable skills over time. Think of it as open-source infrastructure for managed agents — vendor-neutral, self-hosted, and designed for human + AI teams. Works with Claude Code , Codex , OpenClaw , and OpenCode . Features Multica manages the full agent lifecycle: from task assignment to execution monitoring to skill reuse. Agents as Teammates — assign to an agent like you'd assign to a colleague. They have profiles, show up on the board, post comments, create issues, and report blockers proactively. Autonomous Execution — set it and forget it. Full task lifecycle management (enqueue, claim, start, complete/fail) with real-time progress streaming via WebSocket. Reusable Skills — every solution becomes a reusable skill for the whole team. Deployments, migrations, code reviews — skills compound your team's capabilities over time. Unified Runtimes — one dashboard for all your compute. Local daemons and cloud runtimes, auto-detection of available CLIs, real-time monitoring. Multi-Workspace — organize work across teams with workspace-level isolation. Each workspace has its own agents, issues, and settings. Quick Install curl -fsSL https://raw.githubusercontent.com/multica-ai/multica/main/scripts/install.sh | bash Installs the Multica CLI on macOS and Linux. Works with Homebrew or downloads the binary directly. After installation: multica login # Authenticate (opens browser) multica daemon start # ",
+      "published": "",
+      "_id": "1c299b0df37a055a",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "coleam00 /Archon",
+      "link": "https://github.com/coleam00/Archon",
+      "summary": "Archon The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. Archon is a workflow engine for AI coding agents. Define your development processes as YAML workflows - planning, implementation, validation, code review, PR creation - and run them reliably across all your projects. Like what Dockerfiles did for infrastructure and GitHub Actions did for CI/CD - Archon does for AI coding workflows. Think n8n, but for software development. Why Archon? When you ask an AI agent to \"fix this bug\", what happens depends on the model's mood. It might skip planning. It might forget to run tests. It might write a PR description that ignores your template. Every run is different. Archon fixes this. Encode your development process as a workflow. The workflow defines the phases, validation gates, and artifacts. The AI fills in the intelligence at each step, but the structure is deterministic and owned by you. Repeatable - Same workflow, same sequence, every time. Plan, implement, validate, review, PR. Isolated - Every workflow run gets its own git worktree. Run 5 fixes in parallel with no conflicts. Fire and forget - Kick off a workflow, go do other work. Come back to a finished PR with review comments. Composable - Mix deterministic nodes (bash scripts, tests, git ops) with AI nodes (planning, code generation, review). The AI only runs where it adds value. Portable - Define workflows once in .archon/workflows/ , commit them to your repo. They work the same from CLI, Web UI, Slack, Telegram, or GitHub. What It Looks Like Here's an example of an Archon workflow that plans, implements in a loop until tests pass, gets your approval, then creates the PR: # .archon/workflows/build-feature.yaml nodes :\n  - id : plan prompt : \" Explore the codebase and create an implementation plan \" - id : implement depends_on : [plan] loop : # AI loop - iterate until done prompt : \" Read the plan. Implement the next task. Run validation. \" until : ALL_TASKS_COMPL",
+      "published": "",
+      "_id": "fa0e72b8e05b2bcb",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "shanraisshan /claude-code-best-practice",
+      "link": "https://github.com/shanraisshan/claude-code-best-practice",
+      "summary": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect = Agents · = Commands · = Skills Boris Cherny on X ( tweet 1 · tweet 2 · tweet 3 ) 🧠 CONCEPTS Feature Location Description Subagents .claude/agents/<name>.md Autonomous actor in fresh isolated context — custom tools, permissions, model, memory, and persistent identity Commands .claude/commands/<name>.md Knowledge injected into existing context — simple user-invoked prompt templates for workflow orchestration Skills .claude/skills/<name>/SKILL.md Knowledge injected into existing context — configurable, preloadable, auto-discoverable, with context forking and progressive disclosure · Official Skills Workflows .claude/commands/weather-orchestrator.md Hooks .claude/hooks/ User-defined handlers (scripts, HTTP, prompts, agents) that run outside the agentic loop on specific events · Guide MCP Servers .claude/settings.json , .mcp.json Model Context Protocol connections to external tools, databases, and APIs Plugins distributable packages Bundles of skills, subagents, hooks, MCP servers, and LSP servers · Marketplaces · Create Marketplaces Settings .claude/settings.json Hierarchical configuration system · Permissions · Model Config · Output Styles · Sandboxing · Keybindings · Fast Mode Status Line .claude/settings.json Customizable status bar showing context usage, model, cost, and session info Memory CLAUDE.md , .claude/rules/ , ~/.claude/rules/ , ~/.claude/projects/<project>/memory/ Persistent context via CLAUDE.md files and @path imports · Auto Memory · Rules Checkpointing automatic (git-based) Automatic tracking of file edits with rewind ( Esc Esc or /rewind ) and targeted summarization CLI Startup Flags claude [flags] Command-line flags, subcommands, and environment variables for launching Claude Code · Interactive Mode · Env Vars AI Terms Agentic Engineering · Context Engineering · Vibe Coding Best Practices Official best practices · Prompt Engineering · Extend Claude Code",
+      "published": "",
+      "_id": "beef767476532531",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "OpenBMB /VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English | 中文 👋 Join our community for discussion and support! Feishu | Discord VoxCPM is a tokenizer-free Text-to-Speech system that directly generates continuous speech representations via an end-to-end diffusion autoregressive architecture , bypassing discrete tokenization to achieve highly natural and expressive synthesis. VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages , Voice Design , Controllable Voice Cloning , and 48kHz studio-quality audio output. Built on a MiniCPM-4 backbone. ✨ Highlights 🌍 30-Language Multilingual — Input text in any of the 30 supported languages and synthesize directly, no language tag needed 🎨 Voice Design — Create a brand-new voice from a natural-language description alone (gender, age, tone, emotion, pace …), no reference audio required 🎛️ Controllable Cloning — Clone any voice from a short reference clip, with optional style guidance to steer emotion, pace, and expression while preserving the original timbre 🎙️ Ultimate Cloning — Reproduce every vocal nuance: provide both reference audio and its transcript, and the model continues seamlessly from the reference, faithfully preserving every vocal detail — timbre, rhythm, emotion, and style (same as VoxCPM1.5) 🔊 48kHz High-Quality Audio — Accepts 16kHz reference audio and directly outputs 48kHz studio-quality audio via AudioVAE V2's asymmetric encode/decode design, with built-in super-resolution — no external upsampler needed 🧠 Context-Aware Synthesis — Automatically infers appropriate prosody and expressiveness from text content ⚡ Real-Time Streaming — RTF as low as ~0.3 on NVIDIA RTX 4090, and ~0.13  accelerated by Nano-VLLM 📜 Fully Open-Source & Commercial-Ready — Weights and code released under the Apache-2.0 license, free for commercial use 🌍 Supported Languages (30) Arabi",
+      "published": "",
+      "_id": "8cf5140931d8ef20",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "thedotmack /claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Čeština • 🇳🇱 Nederlands • 🇹🇷 Türkçe • 🇺🇦 Українська • 🇻🇳 Tiếng Việt • 🇵🇭 Tagalog • 🇮🇩 Indonesia • 🇹🇭 ไทย • 🇮🇳 हिन्दी • 🇧🇩 বাংলা • 🇵🇰 اردو • 🇷🇴 Română • 🇸🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration • Troubleshooting • License Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect. Quick Start Install with a single command: npx claude-mem install Or install for Gemini CLI (auto-detects ~/.gemini ): npx claude-mem install --ide gemini-cli Or install from the plugin marketplace inside Claude Code: /plugin marketplace add thedotmack/claude-mem\n\n/plugin install claude-mem Restart Claude Code or Gemini CLI. Context from previous sessions will automatically appear in new sessions. Note: Claude-Mem is also published on npm, but npm install -g claude-mem installs the SDK/library only — it does not register the plugin hooks or set up the worker service. Always install via npx claude-mem install or the /plugin commands above. 🦞 OpenClaw Gateway Install claude-mem as a persistent memory plugin on OpenClaw gateways with a single command: curl -fsSL https://install.cmem.ai/openclaw.sh | bash The installer handles dependencies, plugin setup, AI provider configuration, worker startup, and optional real-time observation feeds to Telegram, Discord, Slack, and more. See the OpenClaw Integration Guide for details. Key Features: 🧠 Persistent Memory - Context survives across sessions 📊 Progressive Disclosure - Layered memory retr",
+      "published": "",
+      "_id": "853c63f738f0cecf",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "GitHub",
+      "title": "ahujasid /blender-mcp",
+      "link": "https://github.com/ahujasid/blender-mcp",
+      "summary": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. We have no official website. Any website you see online is unofficial and has no affiliation with this project. Use them at your own risk. Full tutorial Join the Community Give feedback, get inspired, and build on top of the MCP: Discord Supporters CodeRabbit All supporters: Support this project Current version(1.5.5) Added Hunyuan3D support View screenshots for Blender viewport to better understand the scene Search and download Sketchfab models Support for Poly Haven assets through their API Support to generate 3D models using Hyper3D Rodin Run Blender MCP on a remote host Telemetry for tools executed (completely anonymous) Installating a new version (existing users) For newcomers, you can go straight to Installation. For existing users, see the points below Download the latest addon.py file and replace the older one, then add it to Blender Delete the MCP server from Claude and add it back again, and you should be good to go! Features Two-way communication : Connect Claude AI to Blender through a socket-based server Object manipulation : Create, modify, and delete 3D objects in Blender Material control : Apply and modify materials and colors Scene inspection : Get detailed information about the current Blender scene Code execution : Run arbitrary Python code in Blender from Claude Components The system consists of two main components: Blender Addon ( addon.py ) : A Blender addon that creates a socket server within Blender to receive and execute commands MCP Server ( src/blender_mcp/server.py ) : A Python server that implements the Model Context Protocol and connects to the Blender addon Installation Prerequisites Blender 3.0 or newer Python 3.10 or newer uv package manager: If you",
+      "published": "",
+      "_id": "d593f3402dcfc4bf",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "summary": "Article URL:https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-andComments URL:https://news.ycombinator.com/item?id=47737563Points: 86# Comments: 121",
+      "published": "2026-04-12T09:16:35",
+      "_id": "d131bc1595b31746",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+      "summary": "Article URL:https://www.bbc.com/news/articles/cjd8jrd1vnyoComments URL:https://news.ycombinator.com/item?id=47735704Points: 79# Comments: 67",
+      "published": "2026-04-12T02:37:39",
+      "_id": "b96b39e0e87ed9e1",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "Article URL:https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/Comments URL:https://news.ycombinator.com/item?id=47733217Points: 417# Comments: 104",
+      "published": "2026-04-11T19:15:56",
+      "_id": "63f78f0106b9e6bf",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+      "link": "https://www.hormuz-havoc.com/",
+      "summary": "I built a satirical browser game to share with friends (Hormuz Havoc: you play an American president managing a crisis in the Middle East, only \"loosely\" inspired by current events). I had good fun making this, but that's not necessarily the interesting part.The interesting part was that within a few hours of sharing it with my friends, some of them set about trying to overrun the leaderboard by launching a swarm of AI bots to learn the game and figure out how to get the highest score. This set off a game of cat-and-mouse as they found vulnerabilities and I tried patching them.Within hours of sharing, someone used the Claude browser extension to read game.js directly. Large parts of the scoring formula, action effect values, and bonus thresholds were sitting in client-side JavaScript - this was a trivial thing even a human could've found, but a human would've still had to play the game, whereas the AI bot just optimised directly against the scoring formula. It meant that the first AI already scored 2.5x higher than the best human player by optimising directly against the source code rather than playing the game.Straightforward fix: moved the entire game engine server-side. The client is now a dumb terminal, it sends an action ID, receives a rendered state. No scoring logic, no bonus thresholds, no action effects exist in the browser. The live score display uses a deliberately different formula as misdirection.This increased the difficulty in finding bot-enabled hacks, so the subsequent bots tried brute-forcing the game, trying to game the RNG functions, and other methods.But the next winning bot found a vulnerability where the same signed session token could be replayed. It would play turn N, observe a bad random event, replay the same token for turn N, get a different RNG outcome, keep the best one. Effectively branching from a single game state to cherry-pick lucky outcomes across 30 turns. Managed to 1.5x the previous bot's high score.The bot's own description: \"",
+      "published": "2026-04-11T10:58:36",
+      "_id": "0fa061140c1f4372",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "\"There's a new generation of empirical deep learning researchers, hacking away at whatever seems trendy, blowing with the wind\" [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sj6sas/theres_a_new_generation_of_empirical_deep/",
+      "summary": "Saw this on X.I too am struggling with the term post agentic ai just posting here for further discussion.submitted by/u/elnino2023[link][comments]",
+      "published": "2026-04-12T06:29:05",
+      "_id": "015bc5a258ba5746",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Gary Marcus on the Claude Code leak [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/",
+      "summary": "Gary Marcus just tweeted:... the way Anthropic built that kernel is straight out of classical symbolic AI. For example, it is in large part a big IF-THEN conditional, with 486 branch points and 12 levels of nesting — all inside a deterministic, symbolic loop that the real godfathers of AI, people like John McCarthy and Marvin Minsky and Herb Simon, would have instantly recognizedI've read my share of classical AI books, but I cannot say that 486 branch points and 12 levels of nesting make me think of any classical AI algorithm. (They make me think of a giant ball of mud that grew more \"special cases\" over time). Anyways, what is he talking about?submitted by/u/we_are_mammals[link][comments]",
+      "published": "2026-04-12T10:34:37",
+      "_id": "7baa3f5509fc5684",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Just did an analysis on ICLR 2025 vs 2026 scores and WOW [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sj76a2/just_did_an_analysis_on_iclr_2025_vs_2026_scores/",
+      "summary": "Perhttps://paperreview.ai/tech-overview, the scores corr between 2 human is about 0.41 for ICLR 2025, but in my current project I am seeing a much lower corr for ICLR 2026. So I ran the metrics for both 2025 and 2026 and it is crazy. I used 2 metrics, one-vs-rest corr and half-half split corr. All data are fetched from OpenReview.I do know that top conf reviews are just a lottery now for most papers, but i nenver thought it is this bad.2025 avg-score SD: 1.253, mean wavg-scoreer human SD: 1.1862026 avg-score SD: 1.162, mean within-paper human SD: 1.523https://preview.redd.it/klay6nijipug1.png?width=2090&format=png&auto=webp&s=92c85470bc72ff03584f38f160d3d09f530b55e22025 avg-score SD: 1.253, mean within-paper human SD: 1.1862026 avg-score SD: 1.162, mean within-paper human SD: 1.523submitted by/u/Striking-Warning9533[link][comments]",
+      "published": "2026-04-12T06:51:43",
+      "_id": "ad0740b081bdcfa7",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Average vibe coder discourse",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sjb47a/average_vibe_coder_discourse/",
+      "summary": "the real answer is the third guy off-screen who built a personal app that replaced 3 subscriptions he was paying for and saved $40/month.technically profitable, just not the way anyone means itMeme from:ijustvibecodedthis(the big ai thing)submitted by/u/Complete-Sea6655[link][comments]",
+      "published": "2026-04-12T10:40:03",
+      "_id": "ab49de606e3ec703",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Minimax M2.7 Released",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sj0dm3/minimax_m27_released/",
+      "summary": "submitted by/u/decrement--[link][comments]",
+      "published": "2026-04-12T01:03:31",
+      "_id": "ae4089a8b17cf569",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Unsloth MiniMax M2.7 quants just finished uploading to HF",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sj7wc8/unsloth_minimax_m27_quants_just_finished/",
+      "summary": "They range from Q1 to BF16.Grab them while they're still hot over athttps://huggingface.co/unsloth/MiniMax-M2.7-GGUFThanks tou/danielhanchen!Here's the current list:BitsQuantization LabelSize1-bitUD-IQ1_M60.7 GB2-bitUD-IQ2_XXS65.4 GBUD-IQ2_M70.1 GBUD-Q2_K_XL75.3 GB3-bitUD-IQ3_XXS80.1 GBUD-IQ3_S83.6 GBUD-Q3_K_S93.6 GBUD-Q3_K_M101 GBUD-Q3_K_XL102 GB4-bitUD-IQ4_XS108 GBUD-IQ4_NL111 GBUD-Q4_K_S131 GBMXFP4_MOE136 GBUD-Q4_K_M140 GBUD-Q4_K_XL141 GB5-bitUD-Q5_K_S159 GBUD-Q5_K_M169 GBUD-Q5_K_XL169 GB6-bitUD-Q6_K188 GBUD-Q6_K_XL207 GB8-bitQ8_0243 GBUD-Q8_K_XL247 GB16-bitBF16457 GBsubmitted by/u/Zyj[link][comments]",
+      "published": "2026-04-12T07:31:52",
+      "_id": "85861e580ed7aba3",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Speculative Decoding works great for Gemma 4 31B with E2B draft (+29% avg, +50% on code)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sjct6a/speculative_decoding_works_great_for_gemma_4_31b/",
+      "summary": "Following up on my previous Gemma 4 31B benchmark post, I tested speculative decoding with Gemma 4 E2B (4.65B) as the draft model.The results were much better than I expected, so I wanted to share some controlled benchmark numbers.SetupGPU: RTX 5090 (32GB VRAM)Main model: Gemma 4 31B UD-Q4_K_XL (18.3GB)Draft model: Gemma 4 E2B UD-Q4_K_XL (3.0GB)Backend: llama.cpp fork with TurboQuant KV cache (turbo3)Config: 128K context, parallel=1, Flash Attention,--draft-max 8 --draft-min 1Benchmark ResultsSame server config for both, max_tokens=500, temp=0.7, warm-up query discarded before measuring.https://preview.redd.it/gjyo1gl1crug1.png?width=1007&format=png&auto=webp&s=6574ab5093a44846d688de2a951f661cbce2013bQuery TypeBaseline (t/s)SpecDec (t/s)Accept RateSpeedupMath explanation57.4585.8662.9%+49.5%Korean poetry56.9362.3444.1%+9.5%Code generation57.1586.0560.7%+50.5%Science explanation57.1971.1450.9%+24.4%Translation + analysis57.1463.2642.2%+10.7%Average57.1773.7352.2%+29.0%Even at 42% acceptance rate, speculative decoding is still +10% faster because there's zero token translation overhead when the vocabs are compatible.The GGUF Version TrapI initially got terrible results — the draft model wasslowerthan no draft at all (7.31 t/s vs 57 t/s baseline). Every draft model combo gave this warning:the target and draft vocabs are not compatible - tokens will be translated between the twoAfter digging intospeculative.cpp, I found the compatibility check comparesadd_bos_tokenbetween target and draft. My 31B GGUF was from early April when Gemma 4 first dropped, and it hadadd_bos_token = false. The E2B model (downloaded later) hadadd_bos_token = true. This single metadata mismatch forced llama.cpp into token translation mode, killing all performance gains.Re-downloading the 31B GGUF(Unsloth re-quantized all Gemma 4 GGUFs recently with the fix) made the warning disappear and unlocked the full +29% speedup.TL;DR: If you downloaded your Gemma 4 GGUF in early April 2026, re-download it.",
+      "published": "2026-04-12T12:08:42",
+      "_id": "693332f9cc6bdbdb",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Spent today at MIT's Open Agentic Web conference. Six things worth thinking about.",
+      "link": "https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/",
+      "summary": "We're in the DNS era of agent infrastructure.Before agents can find and trust each other at scale, you need identity, attestation, reputation, and registry infrastructure — the same structural role DNS played before search was possible. This came up independently from multiple directions. It's the most underbuilt layer in the stack right now.The chatbot framing is a local maximum.The most interesting work wasn't better UX or smarter responses. It was agents as persistent actors that discover, negotiate, and transact across networks over time. People doing serious work have already moved past the assistant model entirely.Coordination is the hard problem, not capability.A room full of brilliant agents can still fail badly. This matches what I found running HiddenBench against frontier models earlier this year; collective reasoning is not the sum of individual reasoning. There's a real argument that the frontier is protocol design, not model scaling.\"Commerce of intelligence\" is a real category.Not buying things through agents. A market where intelligence itself (bundled, verified, priced, resold) is the object of exchange. Felt like the most underexplored idea in the room.Data provenance becomes load-bearing.What an agent knows, how it was verified, under what terms it flows: this is the actual architecture forming beneath everything else.Partnership keeps outperforming replacement.Demos that actually worked (healthcare, enterprise) was about helping experts operate at higher leverage, not substituting them. Autonomy theater keeps failing in the same ways.submitted by/u/jradoff[link][comments]",
+      "published": "2026-04-11T23:45:51",
+      "_id": "38e12f89a000706e",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Building a wearable AI that processes everything on-device (no stored video). What would you want to verify?",
+      "link": "https://www.reddit.com/r/artificial/comments/1sjcuwt/building_a_wearable_ai_that_processes_everything/",
+      "summary": "I’m working on a clip-on wearable AI that uses computer vision to generate real-time “social + environment” signals (attention/glances, basic emotion cues, gestures, plus things like noise/air quality depending on the mode).The part I’m most focused on is privacy architecture: the device processes frames locally and discards them instantly. No photo library, no video archive, no “upload later.” It’s meant to behave more like a sensor than a camera.Questions for people who care about privacy and security: What would you personally need to see to believe “no frames are stored” is true?submitted by/u/Regular-Paint-2363[link][comments]",
+      "published": "2026-04-12T12:10:59",
+      "_id": "bfbe04192305220d",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
+      "link": "https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/",
+      "summary": "I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close.The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow.What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team.That's a room full of people wearing headphones.So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon.There's a command router (drone) so one command reaches any agent.pip install aipassaipass initaipass init agent my-agentcd my-agentclaude # codex or gemini too, mostly claude code tested rnWhere it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out b",
+      "published": "2026-04-12T06:22:28",
+      "_id": "7748e9f93f038710",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
+      "link": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
+      "summary": "submitted by/u/Fcking_Chuck[link][comments]",
+      "published": "2026-04-11T20:02:07",
+      "_id": "0c13bfd6740b9c44",
+      "_scraped_at": "13:07"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
+      "link": "https://www.reddit.com/r/artificial/comments/1si5uiw/6_months_using_ai_for_actual_work_whats/",
+      "summary": "Six months ago I committed to using AI tools for everything I possibly could in my work. Every day, every task, every workflow.Here's the honest report as of April 2026.What's Genuinely IncredibleFirst drafts of anything — AI eliminated the blank-page problem entirely. I don't dread starting anymore.Research synthesis — Feeding 10 articles into Claude Opus 4.6 and asking \"what's the common thread?\" gets me a better synthesis in 2 minutes than I could produce in an hour.Code for non-coders — I've built automation scripts, web scrapers, and a custom dashboard without knowing how to code. Cursor (powered by Claude) changed what \"non-technical\" means. The tool has 2M+ users now for good reason.Getting unstuck — Talking through a problem with an AI that can actually push back is underrated. Not therapy, but something.Learning new topics fast — \"Teach me [topic] like I'm smart but completely new to this. What are the most common misconceptions?\" is my go-to for rapid learning.What's Massively Overhyped\"AI will do it for you\" — Everything still requires your judgment and context. The AI drafts. You think.AI SEO content — The \"publish 100 AI articles and watch traffic pour in\" strategy is even more dead in 2026 than it was in 2024. Google has gotten much better at identifying low-value AI content.AI chatbots for customer service — Unless you invest heavily in training and iteration, they frustrate users more than they help.\"Set it and forget it\" automation — AI workflows break. They require monitoring. Fully autonomous workflows exist only in narrow, controlled cases.Chasing the newest model — New model releases happen constantly now. I've learned to stay on a model that works for my tasks rather than jumping to every new release.What's Quietly Dangerous (Nobody Talks About This)Skill atrophy — My first-draft writing has gotten worse. I outsourced that skill and I'm losing the muscle. I now intentionally write without AI some days.Confidence without competence — Frontier mo",
+      "published": "2026-04-11T01:47:47",
+      "_id": "b46e56d6c42c48c4",
+      "_scraped_at": "13:07"
+    }
+  ],
+  "seen_ids": [
+    "091b61caa9d6ad3b",
+    "ad0740b081bdcfa7",
+    "b151953fe9e2acf1",
+    "d131bc1595b31746",
+    "7baa3f5509fc5684",
+    "fa0e72b8e05b2bcb",
+    "ab49de606e3ec703",
+    "693332f9cc6bdbdb",
+    "8589c87e9bba394d",
+    "8cf5140931d8ef20",
+    "853c63f738f0cecf",
+    "38e12f89a000706e",
+    "ec2b8bd43eefd65f",
+    "6c20810f6d90adf9",
+    "b3be35db7b67841e",
+    "85861e580ed7aba3",
+    "7748e9f93f038710",
+    "0c13bfd6740b9c44",
+    "b46e56d6c42c48c4",
+    "485ee0817c727488",
+    "ec4254ff05cceee3",
+    "1c299b0df37a055a",
+    "b6427c2daa6206c7",
+    "fd8319d143a6f3eb",
+    "63f78f0106b9e6bf",
+    "6ea9960b31645056",
+    "beef767476532531",
+    "d593f3402dcfc4bf",
+    "c4a45eed67ee9087",
+    "0fa061140c1f4372",
+    "709900e76e4c893d",
+    "dec36f96df8d997b",
+    "ae4089a8b17cf569",
+    "b5a9186760d5fa90",
+    "bfbe04192305220d",
+    "b96b39e0e87ed9e1",
+    "015bc5a258ba5746",
+    "212feef976b83096"
+  ],
+  "last_run": "13:07",
+  "run_count": 1
+}
