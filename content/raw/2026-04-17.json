@@ -1,0 +1,599 @@
+{
+  "date": "2026-04-17",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Codex for (almost) everything",
+      "link": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "published": "2026-04-16T10:00:00",
+      "_id": "20e34cbfb714919c",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Google AI",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "summary": "AI Mode in Chrome",
+      "published": "2026-04-16T17:00:00",
+      "_id": "2a48dfc9b0f61613",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Google AI",
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "summary": "Example images made with Personal Intelligence",
+      "published": "2026-04-16T16:00:00",
+      "_id": "65855801f848c4a0",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/",
+      "summary": "Head straight for orbit with GeForce NOW — no space helmet required.  PRAGMATA, Capcom’s long-awaited sci-fi action adventure, touches down on GeForce NOW the same day it launches worldwide. The futuristic journey through a cold lunar station in the near future can be streamed instantly from the cloud to almost any device, no console or […]",
+      "published": "2026-04-16T13:00:11",
+      "_id": "558c5418b2fe1f31",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "Product Announcements Introducing Claude Opus 4.7 Apr 16, 2026 Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. Users report being able to hand off their hardest coding work—the kind that previously needed close supervision—to Opus 4.7 with confidence. Opus 4.7 handles complex, long-running tasks with rigor and consistency, pays precise attention to instructions, and devises ways to verify its own outputs before reporting back. The model also has substantially better vision: it can see images in greater resolution. It’s more tasteful and creative when completing professional tasks, producing higher-quality interfaces, slides, and docs. And—although it is less broadly capable than our most powerful model, Claude Mythos Preview—it shows better results than Opus 4.6 across a range of benchmarks: Last week we announced Project Glasswing , highlighting the risks—and benefits—of AI models for cybersecurity. We stated that we would keep Claude Mythos Preview’s release limited and test new cyber safeguards on less capable models first. Opus 4.7 is the first such model: its cyber capabilities are not as advanced as those of Mythos Preview (indeed, during its training we experimented with efforts to differentially reduce these capabilities). We are releasing Opus 4.7 with safeguards that automatically detect and block requests that indicate prohibited or high-risk cybersecurity uses. What we learn from the real-world deployment of these safeguards will help us work towards our eventual goal of a broad release of Mythos-class models. Security professionals who wish to use Opus 4.7 for legitimate cybersecurity purposes (such as vulnerability research, penetration testing, and red-teaming) are invited to join our new Cyber Verification Program . Opus 4.7 is available today across all Claude products and our API, Amazon Bedrock, Google C",
+      "published": "",
+      "_id": "b8af8104c423c106",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "Product Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.” Computer use Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation. In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expe",
+      "published": "",
+      "_id": "c4a45eed67ee9087",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Apr 14, 2026AnnouncementsAnthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "link": "https://www.anthropic.com/news/narasimhan-board",
+      "summary": "Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors Apr 14, 2026 Vas Narasimhan has been appointed to Anthropic's Board of Directors by the Anthropic Long-Term Benefit Trust. He is a physician-scientist and the Chief Executive Officer of Novartis—one of the world's leading innovative medicines companies—and shares Anthropic’s conviction that healthcare and life sciences are among the areas where AI has the greatest potential to improve the quality of human life. “Vas brings something rare to our board. He's overseen the development and approval of more than 35 novel medicines for the benefit of patients around the world in one of the most regulated industries,” said Daniela Amodei, Co-founder and President of Anthropic. “Getting powerful new technology to people safely and at scale is what we think about every day at Anthropic. Vas has been doing exactly that for years, and I'm grateful he's joining us.” Anthropic is a Public Benefit Corporation and its Board is elected by stockholders and the Long-Term Benefit Trust, as detailed here . The Trust is an independent body whose members have no financial stake in Anthropic, and it exists to keep the company's governance aligned in a responsible balance between financial success and the company’s public benefit mission of developing AI for the long-term benefit of humanity. With Narasimhan's appointment, Trust-appointed directors now make up a majority of the Board. Narasimhan joins Dario Amodei, Daniela Amodei, Yasmin Razavi , Jay Kreps , Reed Hastings , and Chris Liddell on the Board of Directors. \"The Long-Term Benefit Trust's role is to appoint directors who will ensure Anthropic responsibly balances its commitment to stockholders and its public benefit mission as the company grows. Vas has spent his career stewarding breakthrough science responsibly —exactly the perspective we are excited to have on the board as we develop consequential technology. We’re excited for what h",
+      "published": "",
+      "_id": "d97dfad68cf12bf4",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "published": "2026-04-16T22:55:30",
+      "_id": "298523b2500f2a20",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "published": "2026-04-16T21:58:08",
+      "_id": "d385f5137d925a9b",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+      "published": "2026-04-16T20:41:13",
+      "_id": "e199069a4a4dcacd",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+      "published": "2026-04-16T20:26:44",
+      "_id": "6c39c8eba803f3d0",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "published": "2026-04-16T19:18:41",
+      "_id": "b928c5b64b7940ac",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "The Verge",
+      "title": "The ‘AI is inevitable’ trap",
+      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, […]",
+      "published": "2026-04-17T13:24:34",
+      "_id": "12d7123540aa3aa0",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. […]",
+      "published": "2026-04-16T17:00:00",
+      "_id": "bcd279e5b551b00e",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s AI Mode update lets you open links without leaving the page",
+      "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+      "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. […]",
+      "published": "2026-04-16T17:00:00",
+      "_id": "7ec43b426bfd571d",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "The Verge",
+      "title": "Gemini can now pull from Google Photos to generate personalized images",
+      "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+      "summary": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context. With the feature, you can use prompts like \"Design my dream house\" or \"Create a […]",
+      "published": "2026-04-16T16:00:00",
+      "_id": "8182e959915ff66c",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "summary": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it […]",
+      "published": "2026-04-16T15:59:24",
+      "_id": "e468557509a415bf",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "published": "2026-04-17T11:00:50",
+      "_id": "64b716711b288ef9",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+      "published": "2026-04-17T12:10:00",
+      "_id": "b2a71b70d0439e26",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The case for fixing everything",
+      "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+      "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
+      "published": "2026-04-17T10:00:00",
+      "_id": "638f6eb1c17aaf81",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How robots learn: A brief, contemporary history",
+      "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+      "published": "2026-04-17T10:00:00",
+      "_id": "36b7a02eb70f462e",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Making AI operational in constrained public sector environments",
+      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+      "published": "2026-04-16T13:00:00",
+      "_id": "2d9238353e5c9955",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Treating enterprise AI as an operating layer",
+      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+      "published": "2026-04-16T13:00:00",
+      "_id": "4e1d82fecc7dd9b7",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Wired",
+      "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+      "published": "2026-04-16T18:00:00",
+      "_id": "2be1fe8c94400e1c",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Wired",
+      "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+      "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+      "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+      "published": "2026-04-16T17:30:00",
+      "_id": "346069c2b7e6ee2b",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Wired",
+      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+      "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+      "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
+      "published": "2026-04-16T17:00:00",
+      "_id": "037795166c4b45be",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Wired",
+      "title": "Anthropic Plots Major London Expansion",
+      "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
+      "published": "2026-04-16T13:49:35",
+      "_id": "c267cf53ac5af329",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Wired",
+      "title": "This Beanie Is Designed to Read Your Thoughts",
+      "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
+      "summary": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
+      "published": "2026-04-16T11:00:00",
+      "_id": "9e23953470691923",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "EvoMap /evolver",
+      "link": "https://github.com/EvoMap/evolver",
+      "summary": "🧬 Evolver evomap.ai | Documentation | Chinese / 中文文档 | GitHub | Releases \"Evolution is not optional. Adapt or die.\" Three lines What it is : A GEP -powered self-evolution engine for AI agents. Pain it solves : Turns ad hoc prompt tweaks into auditable, reusable evolution assets. Use in 30 seconds : Clone, install, run node index.js -- get a GEP-guided evolution prompt. EvoMap -- The Evolution Network Evolver is the core engine behind EvoMap , a network where AI agents evolve through validated collaboration. Visit evomap.ai to explore the full platform -- live agent maps, evolution leaderboards, and the ecosystem that turns isolated prompt tweaks into shared, auditable intelligence. Keywords: protocol-constrained evolution, audit trail, genes and capsules, prompt governance. Installation Prerequisites Node.js >= 18 Git -- Required. Evolver uses git for rollback, blast radius calculation, and solidify. Running in a non-git directory will fail with a clear error message. Setup git clone https://github.com/EvoMap/evolver.git cd evolver\nnpm install To connect to the EvoMap network , create a .env file (optional): # Register at https://evomap.ai to get your Node ID A2A_HUB_URL=https://evomap.ai\nA2A_NODE_ID=your_node_id_here Note : Evolver works fully offline without .env . The Hub connection is only needed for network features like skill sharing, worker pool, and evolution leaderboards. Quick Start # Single evolution run -- scans logs, selects a Gene, outputs a GEP prompt node index.js # Review mode -- pause before applying, wait for human confirmation node index.js --review # Continuous loop -- runs as a background daemon node index.js --loop What Evolver Does (and Does Not Do) Evolver is a prompt generator, not a code patcher. Each evolution cycle: Scans your memory/ directory for runtime logs, error patterns, and signals. Selects the best-matching Gene or Capsule from assets/gep/ . Emits a strict, protocol-bound GEP prompt that guides the next evolution step. Records a",
+      "published": "",
+      "_id": "95ecf3ff93939a2a",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "lsdefine /GenericAgent",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "summary": "English | 中文 🌟 Overview GenericAgent is a minimal, self-evolving autonomous agent framework. Its core is just ~3K lines of code . Through 9 atomic tools + a ~100-line Agent Loop , it grants any LLM system-level control over a local computer — covering browser, terminal, filesystem, keyboard/mouse input, screen vision, and mobile devices (ADB). Its design philosophy: don't preload skills — evolve them. Every time GenericAgent solves a new task, it automatically crystallizes the execution path into an skill for direct reuse later. The longer you use it, the more skills accumulate — forming a skill tree that belongs entirely to you, grown from 3K lines of seed code. 🤖 Self-Bootstrap Proof — Everything in this repository, from installing Git and running git init to every commit message, was completed autonomously by GenericAgent. The author never opened a terminal once. 📋 Core Features Self-Evolving : Automatically crystallizes each task into an skill. Capabilities grow with every use, forming your personal skill tree. Minimal Architecture : ~3K lines of core code. Agent Loop is ~100 lines. No complex dependencies, zero deployment overhead. Strong Execution : Injects into a real browser (preserving login sessions). 9 atomic tools take direct control of the system. High Compatibility : Supports Claude / Gemini / Kimi / MiniMax and other major models. Cross-platform. Token Efficient : <30K context window — a fraction of the 200K–1M other agents consume. Layered memory ensures the right knowledge is always in scope. Less noise, fewer hallucinations, higher success rate — at a fraction of the cost. 🧬 Self-Evolution Mechanism This is what fundamentally distinguishes GenericAgent from every other agent framework. [New Task] --> [Autonomous Exploration] (install deps, write scripts, debug & verify) -->\n[Crystallize Execution Path into skill] --> [Write to Memory Layer] --> [Direct Recall on Next Similar Task] What you say What the agent does the first time Every time after \"Re",
+      "published": "",
+      "_id": "6da89fcedc484a23",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "SimoneAvogadro /android-reverse-engineering-skill",
+      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "summary": "Android Reverse Engineering & API Extraction — Claude Code skill A Claude Code skill that decompiles Android APK/XAPK/JAR/AAR files and extracts the HTTP APIs used by the app — Retrofit endpoints, OkHttp calls, hardcoded URLs, authentication patterns — so you can document and reproduce them without the original source code. What it does Decompiles APK, XAPK, JAR, and AAR files using jadx and Fernflower/Vineflower (single engine or side-by-side comparison) Extracts and documents APIs : Retrofit endpoints, OkHttp calls, hardcoded URLs, auth headers and tokens Traces call flows from Activities/Fragments through ViewModels and repositories down to HTTP calls Analyzes app structure: manifest, packages, architecture patterns Handles obfuscated code : strategies for navigating ProGuard/R8 output Requirements Required: Java JDK 17+ jadx (CLI) Optional (recommended): Vineflower or Fernflower — better output on complex Java code dex2jar — needed to use Fernflower on APK/DEX files See plugins/android-reverse-engineering/skills/android-reverse-engineering/references/setup-guide.md for detailed installation instructions. Installation From GitHub (recommended) Inside Claude Code, run: /plugin marketplace add SimoneAvogadro/android-reverse-engineering-skill\n/plugin install android-reverse-engineering@android-reverse-engineering-skill The skill will be permanently available in all future sessions. From a local clone git clone https://github.com/SimoneAvogadro/android-reverse-engineering-skill.git Then in Claude Code: /plugin marketplace add /path/to/android-reverse-engineering-skill\n/plugin install android-reverse-engineering@android-reverse-engineering-skill Usage Slash command /decompile path/to/app.apk This runs the full workflow: dependency check, decompilation, and initial structure analysis. Natural language The skill activates on phrases like: \"Decompile this APK\" \"Reverse engineer this Android app\" \"Extract API endpoints from this app\" \"Follow the call flow from LoginActivi",
+      "published": "",
+      "_id": "dcbd5f05d9af9cac",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "BasedHardware /omi",
+      "link": "https://github.com/BasedHardware/omi",
+      "summary": "omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations, transcribes in real-time, generates summaries and action items, and gives you an AI chat that remembers everything you've seen and heard. Works on desktop, phone and wearables. Fully open source. Trusted by 300,000+ professionals. Website · Docs · Discord · Twitter · DeepWiki Quick Start Try in Browser git clone https://github.com/BasedHardware/omi.git && cd omi/desktop && ./run.sh --yolo Builds the macOS app, connects to the cloud backend, and launches. No env files, no credentials, no local backend. Requirements: macOS 14+, Xcode (includes Swift & code signing), Node.js Full Installation For local development with the full backend stack: Install prerequisites xcode-select --install\ncurl --proto ' =https ' --tlsv1.2 -sSf https://sh.rustup.rs | sh Clone and configure git clone https://github.com/BasedHardware/omi.git cd omi/desktop\ncp Backend-Rust/.env.example Backend-Rust/.env Build and run ./run.sh See desktop/README.md for environment variables and credential setup. Mobile App cd app && bash setup.sh ios # or: bash setup.sh android How it works ┌─────────────────────────────────────────────────────────┐\n│                      Your Devices                       │\n│                                                         │\n│  ┌──────────┐  ┌──────────────┐  ┌───────────────────┐  │\n│  │ Omi      │  │ macOS App    │  │ Mobile App        │  │\n│  │ Wearable │  │ (Swift/Rust) │  │ (Flutter)         │  │\n│  └────┬─────┘  └──────┬───────┘  └────────┬──────────┘  │\n│       │    BLE         │   HTTPS/WS        │             │\n└───────┼────────────────┼───────────────────┼─────────────┘\n        │                │                   │\n        ▼                ▼                   ▼\n┌─────────────────────────────────────────────────────────┐\n│                    Omi Backend (Python)                  │\n│                                                         │\n│  ┌─────────┐  ┌──────────┐  ",
+      "published": "",
+      "_id": "703c4fc041e78068",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "Lordog /dive-into-llms",
+      "link": "https://github.com/Lordog/dive-into-llms",
+      "summary": "《动手学大模型》系列编程实践教程 项目动机 / 教程目录 / 贡献者列表 💡 Updates 2025/06/06  感谢各位朋友们的关注和积极反馈！我们从以下两个方面对本教程进行了更新： 上线国产化《大模型开发全流程》公益教程（含PPT、实验手册和视频），此处特别感谢华为昇腾社区的支持！ 在原系列编程实践教程的基础上进行内容更新，并增加了新的主题（数学推理、GUI Agent、大模型对齐、隐写术等）！ 🎯 项目动机 《动手学大模型》系列编程实践教程，由上海交通大学《自然语言处理前沿技术》（NIS8021）、《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师： 张倬胜 ），旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。 📚 教程目录 教程内容 简介 地址 微调与部署 预训练模型微调与部署指南：想提升预训练模型在指定任务上的性能？让我们选择合适的预训练模型，在特定任务上进行微调，并将微调后的模型部署成方便使用的Demo！ [ 课件 ] [ 教程 ] [ 脚本 ] 提示学习与思维链 大模型的API调用与推理指南：“AI在线求鼓励？大模型对一些问题的回答令人大跌眼镜，但它可能只是想要一句「鼓励」” [ 课件 ] [ 教程 ] [ 脚本 ] 知识编辑 语言模型的编辑方法和工具：想操控语言模型在对指定知识的记忆？让我们选择合适的编辑方法，对特定知识进行编辑，并将对编辑后的模型进行验证！ [ 课件 ] [ 教程 ]  [ 脚本 ] 数学推理 如何让大模型学会数学推理？让我们快速蒸馏一个迷你R1！ [ 课件 ] [ 教程 ]  [ 脚本 ] 模型水印 语言模型的文本水印：在语言模型生成的内容中嵌入人类不可见的水印 [ 课件 ] [ 教程 ]  [ 脚本 ] 越狱攻击 想要得到更好的安全，要先从学会攻击开始。让我们了解越狱攻击如何撬开大模型的嘴！ [ 课件 ] [ 教程 ] [ 脚本 ] 大模型隐写 “看不见的墨水”！想让大模型在流畅回答的同时，悄悄携带只有“自己人”能识别的信息吗？大模型隐写告诉你！ [ 课件 ] [ 教程 ] [ 脚本 ] 多模态模型 作为能够更充分模拟真实世界的多模态大语言模型，其如何实现更强大的多模态理解和生成能力？多模态大语言模型是否能够帮助实现AGI？ [ 课件 ]  [ 教程 ] [ 脚本 ] GUI智能体 想要饭来张口、解放双手？那么让我们一起来让AI Agent替你点外卖、回消息、购物比价吧！ [ 课件 ]  [ 教程 ] [ 脚本 ] 智能体安全 大模型智能体迈向了未来操作系统之旅。然而，大模型在开放智能体场景中能意识到风险威胁吗？ [ 课件 ] [ 教程 ] [ 脚本 ] RLHF安全对齐 基于PPO的RLHF实验指南：本教程”十分危险“，阅读后请检查你的大模型是否在冷笑。 [ 课件 ] [ 教程 ] [ 脚本 ] 🔥 新上线：国产化《大模型开发全流程》 ✨ 我们联合华为昇腾推出的《大模型开发全流程》公益教程正式上线！前沿技术+代码实践，手把手带你玩转AI大模型 ✨ : 在《动手学大模型》原系列教程的基础上，我们联合华为开发了《大模型开发全流程》系列课程。本系列教程基于昇腾基础软硬件开发，覆盖PPT、实验手册、视频等教程形式。该教程分为初级、中级、高级系列，面向不同的大模型实践需求，旨在将前沿技术通过代码实践的方式，为相关研究者、开发者由浅入深地提供快速上手、应用昇腾已支持模型和全新模型迁移调优的全流程开发指南。 🚀 前往昇腾社区探索《大模型开发全流程》系列课程 ： 👉《 大模型开发学习专区 》@ 昇腾社区 👈 ✨ 课程内容展示 ✨ 🙏 免责声明 本教程所有内容仅仅来自于贡献者的个人经验、互联网数据、日常科研工作中的相关积累。所有技巧仅供参考，不保证百分百正确。若有任何问题，欢迎提交 Issue 或 PR。另本项目所用徽章来自互联网，如侵犯了您的图片版权请联系我们删除，谢谢。 🤝 欢迎贡献 本教程目前是一个正在进行中的项目，如有疏漏在所难免，欢迎任何的PR及issue讨论。 ❤️ 贡献者列表 感谢以下老师和同学对本项目的支持与贡献： 《动手学大模型》系列教程开发团队 ： 上海交通大学： 张倬胜 、 袁童鑫 、 马欣贝 、 何志威 、 杜巍 、 赵皓东 、 吴宗儒 、 吴铮 、 董凌众 、 张玉龙 新加坡国立大学： 费豪 《大模型开发全流程》系列教程开发团队： 上海交通大学： 张倬胜 、 刘功申 、 陈星宇 、 程彭洲 、 董凌众 、 何志威 、 鞠天杰 、 马欣贝 、 吴铮 、 吴宗儒 、 闫子赫 、 姚杳 、 袁童鑫 、 赵皓东 ; 华为昇腾社区：ZOMI、谢乾、程黎明、楼梨华、焦泽昱 🌟 Star Hist",
+      "published": "",
+      "_id": "77046dc4653a9fcc",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "Donchitos /Claude-Code-Game-Studios",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "summary": "Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 72 skills. One coordinated AI team. Why This Exists Building a game solo with AI is powerful — but a single chat session has no structure. No one stops you from hardcoding magic numbers, skipping design docs, or writing spaghetti code. There's no QA pass, no design review, no one asking \"does this actually fit the game's vision?\" Claude Code Game Studios solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a studio hierarchy — directors who guard the vision, department leads who own their domains, and specialists who do the hands-on work. Each agent has defined responsibilities, escalation paths, and quality gates. The result: you still make every decision, but now you have a team that asks the right questions, catches mistakes early, and keeps your project organized from first brainstorm to launch. Table of Contents What's Included Studio Hierarchy Slash Commands Getting Started Upgrading Project Structure How It Works Design Philosophy Customization Platform Support Community Supporting This Project License What's Included Category Count Description Agents 49 Specialized subagents across design, programming, art, audio, narrative, QA, and production Skills 72 Slash commands for every workflow phase ( /start , /design-system , /create-epics , /create-stories , /dev-story , /story-done , etc.) Hooks 12 Automated validation on commits, pushes, asset changes, session lifecycle, agent audit trail, and gap detection Rules 11 Path-scoped coding standards enforced when editing gameplay, engine, AI, UI, network code, and more Templates 39 Document templates for GDDs, UX specs, ADRs, sprint plans, HUD design, accessibility, and more Studio Hierarchy Agents are organized into three tiers, matching how real studios operate: Tier 1 — Directors (Opus)\n  creative-director",
+      "published": "",
+      "_id": "14444dc7b4eca899",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "jamiepine /voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "summary": "Voicebox The open-source voice synthesis studio. Clone voices. Generate speech. Apply effects. Build voice-powered apps. All running locally on your machine. voicebox.sh • Docs • Download • Features • API Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first voice cloning studio — a free and open-source alternative to ElevenLabs. Clone voices from a few seconds of audio, generate speech in 23 languages across 5 TTS engines, apply post-processing effects, and compose multi-voice projects with a timeline editor. Complete privacy — models and voice data stay on your machine 5 TTS engines — Qwen3-TTS, LuxTTS, Chatterbox Multilingual, Chatterbox Turbo, and HumeAI TADA 23 languages — from English to Arabic, Japanese, Hindi, Swahili, and more Post-processing effects — pitch shift, reverb, delay, chorus, compression, and filters Expressive speech — paralinguistic tags like [laugh] , [sigh] , [gasp] via Chatterbox Turbo Unlimited length — auto-chunking with crossfade for scripts, articles, and chapters Stories editor — multi-track timeline for conversations, podcasts, and narratives API-first — REST API for integrating voice synthesis into your own projects Native performance — built with Tauri (Rust), not Electron Runs everywhere — macOS (MLX/Metal), Windows (CUDA), Linux, AMD ROCm, Intel Arc, Docker Download Platform Download macOS (Apple Silicon) Download DMG macOS (Intel) Download DMG Windows Download MSI Docker docker compose up View all binaries → Linux — Pre-built binaries are not yet available. See voicebox.sh/linux-install for build-from-source instructions. Features Multi-Engine Voice Cloning Five TTS engines with different strengths, switchable per-generation: Engine Languages Strengths Qwen3-TTS (0.6B / 1.7B) 10 High-quality multilingual cloning, delivery instructions (\"speak slowly\", \"whisper\") LuxTTS English Lightweight (~1GB VRAM), 48kHz output, 150x realtime on CPU Chatterbox Multilingual 23 Broadest language",
+      "published": "",
+      "_id": "ca722902e449ecc1",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "lukilabs /craft-agents-oss",
+      "link": "https://github.com/lukilabs/craft-agents-oss",
+      "summary": "Craft Agents How it Works (Video) To understand what Craft Agents does and how it works watch this video. Click Here (or on the image above) to watch the video on YouTube → Why Craft Agents was built Craft Agents is a tool we built so that we (at craft.do) can work effectively with agents. It enables intuitive multitasking, no-fluff connection to any API or Service, sharing sessions, and a more document (vs code) centric workflow - in a beautiful and fluid UI. It uses the Claude Agent SDK and the Pi SDK side by side—building on what we found great and improving areas where we've desired improvements. It's built with Agent Native software principles in mind, and is highly customisable out of the box. One of the first of its kind. Craft Agents is open source under the Apache 2.0 license - so you are free to remix, change anything. And that's actually possible. We ourselves are building Craft Agents with Craft Agents only - no code editors - so really, any customisation is just a prompt away. We built Craft Agents because we wanted a better, more opinionated (and preferably non-CLI way) of working with the most powerful agents in the world. We'll continue to improve it, based on our experiences and intuition. Things that are hard to believe \"just work\" How do I connect to Linear, Gmail, Slack...? Tell the agent \"add Linear as a source.\" It finds public APIs and MCP servers, reads their docs, sets up credentials, and configures everything. No config files, no setup wizards. Check out how I just connected to Slack → I already have my MCP config JSON. Paste it. The agent handles the rest. What about local MCPs? Fully supported. Stdio-based MCP servers run as local subprocesses on your machine. Point it at an npx command, a Python script, or any local binary. It just works. Can it handle custom APIs? Yes. Paste an OpenAPI spec, some endpoint URLs, screenshots of docs, whatever you have. It figures it out and guides you through the rest. APIs too? Not just MCPs? Craft Agent",
+      "published": "",
+      "_id": "14fe720119c38a8e",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "Tracer-Cloud /opensre",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "summary": "OpenSRE: Build Your Own AI SRE Agents The open-source framework for AI SRE agents, and the training and evaluation environment they need to improve. Connect the 40+ tools you already run, define your own workflows, and investigate incidents on your own infrastructure. Quickstart · Docs · FAQ · Security Why OpenSRE? When something breaks in production, the evidence is scattered across logs, metrics, traces, runbooks, and Slack threads. OpenSRE is an open-source framework for AI SRE agents that resolve production incidents, built to run on your own infrastructure. We do that because SWE-bench 1 gave coding agents scalable training data and clear feedback. Production incident response still lacks an equivalent. Distributed failures are slower, noisier, and harder to simulate and evaluate than local code tasks, which is why AI SRE, and AI for production debugging more broadly, remains unsolved. OpenSRE is building that missing layer: an open reinforcement learning environment for agentic infrastructure incident response, with end-to-end tests and synthetic incident simulations for realistic production failures We do that by: building easy-to-deploy, customizable AI SRE agents for production incident investigation and response running scored synthetic RCA suites that check root-cause accuracy, required evidence, and adversarial red herrings (tests/synthetic) running real-world end-to-end tests across cloud-backed scenarios including Kubernetes, EC2, CloudWatch, Lambda, ECS Fargate, and Flink (tests/e2e) keeping semantic test-catalog naming so e2e vs synthetic and local vs cloud boundaries stay obvious (tests/README.md) Our mission is to build AI SRE agents on top of this, scale it to thousands of realistic infrastructure failure scenarios, and establish OpenSRE as the benchmark and training ground for AI SRE. 1 https://arxiv.org/abs/2310.06770 Install curl -fsSL https://raw.githubusercontent.com/Tracer-Cloud/opensre/main/install.sh | bash brew install Tracer-Cloud/opensr",
+      "published": "",
+      "_id": "83475f57615f5d10",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Note: Installation differs by platform. Claude Code Official Marketplace Superpowers is available via the official Claude plugin marketplace Install the plugin from Anthropic's official marketplace: /plugin install superpowers@claude-plugins-official Claude Code (Superpowers Marketplace) The Superpowers marketplace provides Superpowers and some other related plugins for Claude Code. In Claude Code, register the",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "summary": "I built MCP servers for my oscilloscope and SPICE simulator so Claude Code can close the loop between simulation and real hardware.Comments URL:https://news.ycombinator.com/item?id=47801255Points: 96# Comments: 20",
+      "published": "2026-04-17T00:37:47",
+      "_id": "53f6b3efc6e89405",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+      "summary": "Article URL:https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.htmlComments URL:https://news.ycombinator.com/item?id=47800765Points: 77# Comments: 52",
+      "published": "2026-04-16T23:17:47",
+      "_id": "75b9b62ae0bc6fb9",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "Article URL:https://github.com/gainsec/autoproberComments URL:https://news.ycombinator.com/item?id=47800033Points: 203# Comments: 40",
+      "published": "2026-04-16T21:56:37",
+      "_id": "e54e8f0cc0289c0e",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The beginning of scarcity in AI",
+      "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "summary": "Article URL:https://tomtunguz.com/ai-compute-crisis-2026/Comments URL:https://news.ycombinator.com/item?id=47799322Points: 115# Comments: 147",
+      "published": "2026-04-16T20:49:35",
+      "_id": "b7f4f7afeff0dc9b",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT‑Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind/",
+      "summary": "Article URL:https://openai.com/index/introducing-gpt-rosalind/Comments URL:https://news.ycombinator.com/item?id=47798244Points: 96# Comments: 27",
+      "published": "2026-04-16T19:24:50",
+      "_id": "362c37b35993dc7c",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "summary": "Article URL:https://simonwillison.net/2026/Apr/16/qwen-beats-opus/Comments URL:https://news.ycombinator.com/item?id=47796830Points: 416# Comments: 86",
+      "published": "2026-04-16T17:37:20",
+      "_id": "4f09b464b3f198d3",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+      "link": "https://andonlabs.com/blog/andon-market-launch",
+      "summary": "Article URL:https://andonlabs.com/blog/andon-market-launchComments URL:https://news.ycombinator.com/item?id=47794391Points: 195# Comments: 274",
+      "published": "2026-04-16T15:13:13",
+      "_id": "c0c56d7b68504697",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 4.7 Model Card",
+      "link": "https://anthropic.com/claude-opus-4-7-system-card",
+      "summary": "Article URL:https://anthropic.com/claude-opus-4-7-system-cardComments URL:https://news.ycombinator.com/item?id=47793546Points: 173# Comments: 81",
+      "published": "2026-04-16T14:32:24",
+      "_id": "f6f9f09006430f3c",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "There's yet another study about how bad AI is for our brains",
+      "link": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html",
+      "summary": "Article URL:https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.htmlComments URL:https://news.ycombinator.com/item?id=47793522Points: 50# Comments: 62",
+      "published": "2026-04-16T14:30:38",
+      "_id": "28adcfc8cdfeb845",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 4.7",
+      "link": "https://www.anthropic.com/claude/opus",
+      "summary": "Article URL:https://www.anthropic.com/claude/opusComments URL:https://news.ycombinator.com/item?id=47793493Points: 186# Comments: 12",
+      "published": "2026-04-16T14:29:09",
+      "_id": "2f9466008c6e13a1",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms",
+      "link": "https://arxiv.org/abs/2604.14160",
+      "summary": "arXiv:2604.14160v1 Announce Type: new \nAbstract: The rapid digitization of nuclear power plant main control rooms has fundamentally reshaped operator interaction patterns, introducing complex soft-control behaviors and elevated cognitive risks that are not adequately addressed by existing human reliability analysis approaches. Although recent advances in large language models and autonomous agents offer new opportunities for intelligent decision support, their deployment in safety critical environments remains constrained by risks of hallucinated reasoning and weakened human authority. This study proposes NuHF Claw, a persistent cognitive-risk agent framework that enables risk governed human centered autonomy for digital nuclear operations. The core methodological innovation lies in the introduction of a risk constrained agent runtime, which tightly couples cognitive state inference with probabilistic safety assessment to regulate autonomous system behavior in real time. By integrating cognitively grounded workload and situational awareness estimation with dynamic human error probability prediction, the framework transforms conventional offline reliability analysis into a proactive intervention mechanism embedded directly within operational workflows. Experimental validation on a high-fidelity digital control room simulator demonstrates that NuHF Claw can anticipate interface induced cognitive degradation, dynamically constrain unsafe autonomous recommendations, and provide risk-aware navigational guidance while preserving human decision authority. The results highlight a fundamental shift from automation-driven operation toward cognition-aware autonomy, offering a principled pathway for the safe integration of intelligent agents into next-generation nuclear control environments.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "8ddaf75970c8ba77",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+      "link": "https://arxiv.org/abs/2604.14178",
+      "summary": "arXiv:2604.14178v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated remarkable capabilities in reasoning and tool use, yet they often suffer from rigid, reactive control flows that limit their adaptability and efficiency. Most existing frameworks rely on fixed pipelines or failure-triggered reflection, causing agents to act impulsively or correct errors only after they occur. In this paper, we introduce Heartbeat-Driven Autonomous Thinking Activity Scheduling, a mechanism that enables proactive, adaptive, and continuous self-regulation. Mirroring the natural rhythm of human cognition, our system employs a periodic ``heartbeat'' mechanism to orchestrate a dynamic repertoire of cognitive modules (e.g., Planner, Critic, Recaller, Dreamer). Unlike traditional approaches that rely on hard-coded symbolic rules or immediate reactive triggers, our scheduler learns to determine when to engage specific thinking activities -- such as recalling memories, summarizing experiences, or strategic planning -- based on temporal patterns and historical context. This functional approach allows cognitive modules to be dynamically added or removed without structural reengineering. Meanwhile, we propose a meta-learning strategy for continual policy adaptation, where the scheduler optimizes its cognitive strategy over time using historical interaction logs. Evaluation results demonstrate that our approach effectively learns to schedule cognitive activities based on historical data and can autonomously integrate new thinking modules.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "7f3fd87b67ccbe6e",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling",
+      "link": "https://arxiv.org/abs/2604.14221",
+      "summary": "arXiv:2604.14221v1 Announce Type: new \nAbstract: Reliable evaluation of anomaly detection methods in multivariate time series remains an open challenge, largely due to the limitations of existing benchmark datasets. Current resources often lack fine-grained anomaly annotations, do not provide explicit intervariable and temporal dependencies, and offer little insight into the underlying generative mechanisms. These shortcomings hinder the development and rigorous comparison of detection models, especially those targeting interpretable and variable-specific outputs. To address this gap, we introduce Fun-TSG, a fully customizable time series generator designed to support high-quality evaluation of anomaly detection systems. Our tool enables both fully automated generation, based on randomly sampled dependency structures and anomaly types, and manual generation through user-defined equations and anomaly configurations. In both cases, it provides full transparency over the data generation process, including access to ground-truth anomaly labels at the variable and timestamp levels. Fun-TSG supports the creation of diverse, interpretable, and reproducible benchmarking scenarios, enabling fine-grained performance analysis for both classical and modern anomaly detection models.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "7746d4d06dc877b3",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making",
+      "link": "https://arxiv.org/abs/2604.14240",
+      "summary": "arXiv:2604.14240v1 Announce Type: new \nAbstract: The simulation of complex systems increasingly relies on sophisticated but fundamentally opaque computational black-box simulators. Surrogate models play a central role in reducing the computational cost of complex systems simulations across a wide range of scientific and engineering domains. Notwithstanding, they inevitably inherit and often exacerbate this black-box nature, obscuring how input variables drive physical responses. Conversely, Explainable Artificial Intelligence (XAI) offers powerful tools to unpack these models. Yet, XAI methods struggle with engineering-specific constraints, such as highly correlated inputs, dynamical systems, and rigorous reliability requirements. Consequently, surrogate modeling and XAI have largely evolved as distinct fields of research, despite their strong complementarity. To reconnect these approaches, this state-of-the-art survey provides a structured perspective that maps existing XAI techniques onto the various stages of surrogate modeling workflows for design and exploration. To ground this synthesis, we draw upon illustrative applications across both equation-based simulations and agent-based modeling. We survey a broad spectrum of techniques, highlighting their strengths for revealing interactions and supporting human comprehension. Finally, we identify pressing open challenges, including the explainability of dynamical systems and the handling of mixed-variable systems, and propose a research agenda to make explainability a core, embedded element of simulation-driven workflows from model construction through decision-making. By transforming opaque emulators into explainable tools, this agenda empowers practitioners to move beyond accelerating simulations to extracting actionable insights from complex system behaviors.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "830a22fa7122f170",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Formalizing Kantian Ethics: Formula of the Universal Law Logic (FULL)",
+      "link": "https://arxiv.org/abs/2604.14254",
+      "summary": "arXiv:2604.14254v1 Announce Type: new \nAbstract: The field of machine ethics aims to build Artificial Moral Agents (AMAs) to better understand morality and make AI agents safer. To do so, many approaches encode human moral intuition as a set of axioms on actions e.g., do not harm, you must help others. However, this introduces (at least) two limitations for future AMAs. First, it does not consider the agent's purposes in performing the action. Second, it assumes that we humans can enumerate our moral intuition. This paper explores formalizing a moral procedure that alleviates these two limitations. We specifically consider Kantian ethics and present a multi-sorted quantified modal logic we call the Formula of the Universal Law Logic (FULL). The FULL formalizes Kant's first formulation of the categorical imperative, the Formula of the Universal Law (FUL), and concepts such as causality and agency. We demonstrate on three cases from Kantian ethics that the FULL can reason to evaluate agents' actions for certain purposes without built-in moral intuition, given that it has sufficient (non-normative) background knowledge. Therefore, the FULL is a contribution towards more robust and autonomous AMAs, and a more formal understanding of Kantian ethics.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "21411e00d9729a27",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models",
+      "link": "https://arxiv.org/abs/2604.14156",
+      "summary": "arXiv:2604.14156v1 Announce Type: new \nAbstract: Large language models deliver strong generative performance but at the cost of massive parameter counts, memory use, and decoding latency. Prior work has shown that pruning and structured sparsity can preserve accuracy under substantial compression, while prompt-compression methods reduce latency by removing redundant input tokens. However, these two directions remain largely separate. Most model-compression methods are static and optimized offline, and they do not exploit the fact that different prompts and decoding steps activate different latent computational pathways. Prompt-compression methods reduce sequence length, but they do not adapt the executed model subnetwork.\n  We propose a unified compressed-sensing-guided framework for dynamic LLM execution. Random measurement operators probe latent model usage, sparse recovery estimates task-conditioned and token-adaptive support sets, and the recovered supports are compiled into hardware-efficient sparse execution paths over blocks, attention heads, channels, and feed-forward substructures. The framework introduces five key contributions: task-conditioned measurements, so different prompts induce different sparse supports; token-adaptive recovery, so active substructures are re-estimated during decoding; formal sample-complexity bounds under restricted isometry or mutual incoherence assumptions; compile-to-hardware constraints that restrict recovery to GPU-efficient structures; and a joint objective that unifies prompt compression with model reduction. Together, these components recast LLM inference as a measurement-and-recovery problem with explicit approximation guarantees and deployment-oriented speedup constraints.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "e70c5c07cb153701",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios",
+      "link": "https://arxiv.org/abs/2604.14158",
+      "summary": "arXiv:2604.14158v1 Announce Type: new \nAbstract: Current evaluations of long-term memory in LLMs are fundamentally static. By fixating on simple retrieval and short-context inference, they neglect the multifaceted nature of complex memory systems, such as dynamic state tracking and hierarchical reasoning in continuous interactions. To overcome these limitations, we propose MemGround, a rigorous long-term memory benchmark natively grounded in rich, gamified interactive scenarios. To systematically assess these capabilities, MemGround introduces a three-tier hierarchical framework that evaluates Surface State Memory, Temporal Associative Memory, and Reasoning-Based Memory through specialized interactive tasks. Furthermore, to comprehensively quantify both memory utilization and behavioral trajectories, we propose a multi-dimensional metric suite comprising Question-Answer Score (QA Overall), Memory Fragments Unlocked (MFU), Memory Fragments with Correct Order (MFCO), and Exploration Trajectory Diagrams (ETD). Extensive experiments reveal that state-of-the-art LLMs and memory agents still struggle with sustained dynamic tracking, temporal event association, and complex reasoning derived from long-term accumulated evidence in interactive environments.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "d094dae22270baba",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization",
+      "link": "https://arxiv.org/abs/2604.14159",
+      "summary": "arXiv:2604.14159v1 Announce Type: new \nAbstract: Mobile input method editors (IMEs) are the primary interface for text input, yet they remain constrained to manual typing and struggle to produce personalized text. While lightweight large language models (LLMs) make on-device auxiliary generation feasible, enabling deeply personalized, privacy-preserving, and real-time generative IMEs poses fundamental challenges.To this end, we present HUOZIIME, a personalized on-device IME powered by LLM. We endow HUOZIIME with initial human-like prediction ability by post-training a base LLM on synthesized personalization data. Notably, a hierarchical memory mechanism is designed to continually capture and leverage user-specific input history. Furthermore, we perform systemic optimizations tailored to on-device LLMbased IME deployment, ensuring efficient and responsive operation under mobile constraints.Experiments demonstrate efficient on-device execution and high-fidelity memory-driven personalization. Code and package are available at https://github.com/Shan-HIT/HuoziIME.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "5249f7cbafb78df9",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Can Large Language Models Detect Methodological Flaws? Evidence from Gesture Recognition for UAV-Based Rescue Operation Based on Deep Learning",
+      "link": "https://arxiv.org/abs/2604.14161",
+      "summary": "arXiv:2604.14161v1 Announce Type: new \nAbstract: Reliable evaluation is essential in machine learning research, yet methodological flaws-particularly data leakage-continue to undermine the validity of reported results. In this work, we investigate whether large language models (LLMs) can act as independent analytical agents capable of identifying such issues in published studies. As a case study, we analyze a gesture-recognition paper reporting near-perfect accuracy on a small, human-centered dataset. We first show that the evaluation protocol is consistent with subject-level data leakage due to non-independent training and test splits. We then assess whether this flaw can be detected independently by six state-of-the-art LLMs, each analyzing the original paper without prior context using an identical prompt. All models consistently identify the evaluation as flawed and attribute the reported performance to non-independent data partitioning, supported by indicators such as overlapping learning curves, minimal generalization gap, and near-perfect classification results. These findings suggest that LLMs can detect common methodological issues based solely on published artifacts. While not definitive, their consistent agreement highlights their potential as complementary tools for improving reproducibility and supporting scientific auditing.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "d1113bbf437bc8d6",
+      "_scraped_at": "13:25"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Decoupling Scores and Text: The Politeness Principle in Peer Review",
+      "link": "https://arxiv.org/abs/2604.14162",
+      "summary": "arXiv:2604.14162v1 Announce Type: new \nAbstract: Authors often struggle to interpret peer review feedback, deriving false hope from polite comments or feeling confused by specific low scores. To investigate this, we construct a dataset of over 30,000 ICLR 2021-2025 submissions and compare acceptance prediction performance using numerical scores versus text reviews. Our experiments reveal a significant performance gap: score-based models achieve 91% accuracy, while text-based models reach only 81% even with large language models, indicating that textual information is considerably less reliable. To explain this phenomenon, we first analyze the 9% of samples that score-based models fail to predict, finding their score distributions exhibit high kurtosis and negative skewness, which suggests that individual low scores play a decisive role in rejection even when the average score falls near the borderline. We then examine why text-based accuracy significantly lags behind scores from a review sentiment perspective, revealing the prevalence of the Politeness Principle: reviews of rejected papers still contain more positive than negative sentiment words, masking the true rejection signal and making it difficult for authors to judge outcomes from text alone.",
+      "published": "2026-04-17T04:00:00",
+      "_id": "4c2ad1d7af6a5651",
+      "_scraped_at": "13:25"
+    }
+  ],
+  "seen_ids": [
+    "d1113bbf437bc8d6",
+    "2a48dfc9b0f61613",
+    "8c6014a36ca90e3f",
+    "558c5418b2fe1f31",
+    "2be1fe8c94400e1c",
+    "dcbd5f05d9af9cac",
+    "75b9b62ae0bc6fb9",
+    "36b7a02eb70f462e",
+    "2f9466008c6e13a1",
+    "4c2ad1d7af6a5651",
+    "77046dc4653a9fcc",
+    "53f6b3efc6e89405",
+    "091b61caa9d6ad3b",
+    "9e23953470691923",
+    "14444dc7b4eca899",
+    "830a22fa7122f170",
+    "e70c5c07cb153701",
+    "298523b2500f2a20",
+    "4e1d82fecc7dd9b7",
+    "21411e00d9729a27",
+    "c4a45eed67ee9087",
+    "e54e8f0cc0289c0e",
+    "5249f7cbafb78df9",
+    "12d7123540aa3aa0",
+    "14fe720119c38a8e",
+    "8182e959915ff66c",
+    "e199069a4a4dcacd",
+    "b8af8104c423c106",
+    "c267cf53ac5af329",
+    "6da89fcedc484a23",
+    "346069c2b7e6ee2b",
+    "65855801f848c4a0",
+    "b2a71b70d0439e26",
+    "362c37b35993dc7c",
+    "d385f5137d925a9b",
+    "e468557509a415bf",
+    "64b716711b288ef9",
+    "b928c5b64b7940ac",
+    "2d9238353e5c9955",
+    "bcd279e5b551b00e",
+    "037795166c4b45be",
+    "b7f4f7afeff0dc9b",
+    "c0c56d7b68504697",
+    "7746d4d06dc877b3",
+    "703c4fc041e78068",
+    "d094dae22270baba",
+    "4f09b464b3f198d3",
+    "ca722902e449ecc1",
+    "d97dfad68cf12bf4",
+    "7f3fd87b67ccbe6e",
+    "20e34cbfb714919c",
+    "638f6eb1c17aaf81",
+    "f6f9f09006430f3c",
+    "8ddaf75970c8ba77",
+    "28adcfc8cdfeb845",
+    "7ec43b426bfd571d",
+    "95ecf3ff93939a2a",
+    "83475f57615f5d10",
+    "6c39c8eba803f3d0"
+  ],
+  "last_run": "13:25",
+  "run_count": 1
+}
