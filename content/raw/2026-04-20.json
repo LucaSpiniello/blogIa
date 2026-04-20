@@ -1,0 +1,429 @@
+{
+  "date": "2026-04-20",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "published": "2026-04-20T00:00:00",
+      "_id": "24cb1873b9d2d37a",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+      "link": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+      "summary": "AI agents are transforming how work gets done across all industries, accelerating everything from content creation to decision-making. NVIDIA’s expanded strategic collaborations with Adobe and WPP are bringing agentic AI to the center of enterprise marketing operations across creative production and customer experience orchestration.  As demand for personalized customer experiences surges, brands require intelligent systems […]",
+      "published": "2026-04-20T13:00:50",
+      "_id": "11b16a8eda3d2846",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+      "link": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+      "summary": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production.  The question is no longer whether to adopt AI, but how fast and at what […]",
+      "published": "2026-04-20T08:30:55",
+      "_id": "717a1241cb1bf6e7",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "Product Announcements Introducing Claude Opus 4.7 Apr 16, 2026 Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. Users report being able to hand off their hardest coding work—the kind that previously needed close supervision—to Opus 4.7 with confidence. Opus 4.7 handles complex, long-running tasks with rigor and consistency, pays precise attention to instructions, and devises ways to verify its own outputs before reporting back. The model also has substantially better vision: it can see images in greater resolution. It’s more tasteful and creative when completing professional tasks, producing higher-quality interfaces, slides, and docs. And—although it is less broadly capable than our most powerful model, Claude Mythos Preview—it shows better results than Opus 4.6 across a range of benchmarks: Last week we announced Project Glasswing , highlighting the risks—and benefits—of AI models for cybersecurity. We stated that we would keep Claude Mythos Preview’s release limited and test new cyber safeguards on less capable models first. Opus 4.7 is the first such model: its cyber capabilities are not as advanced as those of Mythos Preview (indeed, during its training we experimented with efforts to differentially reduce these capabilities). We are releasing Opus 4.7 with safeguards that automatically detect and block requests that indicate prohibited or high-risk cybersecurity uses. What we learn from the real-world deployment of these safeguards will help us work towards our eventual goal of a broad release of Mythos-class models. Security professionals who wish to use Opus 4.7 for legitimate cybersecurity purposes (such as vulnerability research, penetration testing, and red-teaming) are invited to join our new Cyber Verification Program . Opus 4.7 is available today across all Claude products and our API, Amazon Bedrock, Google C",
+      "published": "",
+      "_id": "b8af8104c423c106",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "Product Announcements Introducing Claude Design by Anthropic Labs Apr 17, 2026 Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Claude Design is powered by our most capable vision model, Claude Opus 4.7 , and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers. We’re rolling out to users gradually throughout the day. Design with Claude Even experienced designers have to ration exploration—there's rarely time to prototype a dozen directions, so you limit yourself to a few. And for founders, product managers, and marketers with an idea but not a design background, creating and sharing those ideas can be daunting. Claude Design gives designers room to explore widely and everyone else a way to produce visual work. Describe what you need and Claude builds a first version. From there, you refine through conversation, inline comments, direct edits, or custom sliders (made by Claude) until it’s right. When given access, Claude can also apply your team’s design system to every project automatically, so the output is consistent with the rest of your company’s designs. Teams have been using Claude Design for: Realistic prototypes: Designers can turn static mockups into easily-shareable interactive prototypes to gather feedback and user-test, without code review or PRs. Product wireframes and mockups: Product Managers can sketch out feature flows and hand them off to Claude Code for implementation, or share them with designers to refine further. Design explorations: Designers can quickly create a wide range of directions to explore. Pitch decks and presentations: Founders and Account Executives can go from a rough outline to a complete, on-brand deck in minutes, and then export as a PPTX or send to Canva. Marketing collateral: Marketers can create landing pages, social media assets, and campaign visuals",
+      "published": "",
+      "_id": "0dba0c3d7be35ac4",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "published": "2026-04-19T21:24:06",
+      "_id": "b190f3d53f6a8e88",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The 12-month window",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "published": "2026-04-19T19:30:00",
+      "_id": "0611c46cc2ebeb4e",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "published": "2026-04-19T16:30:00",
+      "_id": "153b7ea189504cda",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-04-19T16:01:00",
+      "_id": "dc106413578ce7a6",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "Cloud development platform Vercel was hacked",
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed […]",
+      "published": "2026-04-19T19:54:52",
+      "_id": "ce8ca2693c2394f0",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
+      "published": "2026-04-20T12:10:00",
+      "_id": "4db24749e9f9457b",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "link": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
+      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma…",
+      "published": "2026-04-20T10:00:00",
+      "_id": "927146391c739eb6",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
+      "published": "2026-04-20T09:00:00",
+      "_id": "63c0469901e8357f",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Wired",
+      "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+      "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+      "summary": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+      "published": "2026-04-20T13:00:00",
+      "_id": "5cca6625f53f163c",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Wired",
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+      "published": "2026-04-20T11:00:00",
+      "_id": "1549ee28e52fe42b",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "Fincept-Corporation /FinceptTerminal",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "Fincept Terminal Your Thinking is the Only Limit. The Data Isn't. State-of-the-art financial intelligence platform with CFA-level analytics, AI automation, and unlimited data connectivity. 📥 Download · 📚 Docs · 💬 Discussions · 💬 Discord · 🤝 Partner Equity Research Portfolio News Node Editor About Fincept Terminal v4 is a pure native C++20 desktop application. It uses Qt6 for UI and rendering, embedded Python for analytics, and delivers Bloomberg-terminal-class performance in a single native binary. Features Feature Description 📊 CFA-Level Analytics DCF models, portfolio optimization, risk metrics (VaR, Sharpe), derivatives pricing via embedded Python 🤖 AI Agents 37 agents across Trader/Investor (Buffett, Graham, Lynch, Munger, Klarman, Marks…), Economic, and Geopolitics frameworks; local LLM support; multi-provider (OpenAI, Anthropic, Gemini, Groq, DeepSeek, MiniMax, OpenRouter, Ollama) 🌐 100+ Data Connectors DBnomics, Polygon, Kraken, Yahoo Finance, FRED, IMF, World Bank, AkShare, government APIs, plus optional alternative-data overlays such as Adanos market sentiment for equity research 📈 Real-Time Trading Crypto (Kraken/HyperLiquid WebSocket), equity, algo trading, paper trading engine, 16 broker integrations (Zerodha, Angel One, Upstox, Fyers, Dhan, Groww, Kotak, IIFL, 5paisa, AliceBlue, Shoonya, Motilal, IBKR, Alpaca, Tradier, Saxo) 🔬 QuantLib Suite 18 quantitative analysis modules — pricing, risk, stochastic, volatility, fixed income 🚢 Global Intelligence Maritime tracking, geopolitical analysis, relationship mapping, satellite data 🎨 Visual Workflows Node editor for automation pipelines, MCP tool integration 🧠 AI Quant Lab ML models, factor discovery, HFT, reinforcement learning trading Installation Option 1 — Download Installer (Recommended) Latest release: v4.0.2 — View all releases Platform Download Run Windows x64 FinceptTerminal-Windows-x64-setup.exe Run installer → launch FinceptTerminal.exe Linux x64 FinceptTerminal-Linux-x64.run chmod +x → run install",
+      "published": "",
+      "_id": "55636c4dc2826b1e",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "ruvnet /RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "summary": "π RuView Beta Software — Under active development. APIs and firmware may change. Known limitations: ESP32-C3 and original ESP32 are not supported (single-core, insufficient for CSI DSP) Single ESP32 deployments have limited spatial resolution — use 2+ nodes or add a Cognitum Seed for best results Camera-free pose accuracy is limited — use camera ground-truth training for 92.9% PCK@20 Contributions and bug reports welcome at Issues . See through walls with WiFi Turn ordinary WiFi into a sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics. π RuView is a WiFi sensing platform that turns radio signals into spatial intelligence. Every WiFi router already fills your space with radio waves. When people move, breathe, or even sit still, they disturb those waves in measurable ways. RuView captures these disturbances using Channel State Information (CSI) from low-cost ESP32 sensors and turns them into actionable data: who's there, what they're doing, and whether they're okay. What it senses: Presence and occupancy — detect people through walls, count them, track entries and exits Vital signs — breathing rate and heart rate, contactless, while sleeping or sitting Activity recognition — walking, sitting, gestures, falls — from temporal CSI patterns Environment mapping — RF fingerprinting identifies rooms, detects moved furniture, spots new objects Sleep quality — overnight monitoring with sleep stage classification and apnea screening Built on RuVector and Cognitum Seed , RuView runs entirely on edge hardware — an ESP32 mesh (as low as $9 per node) paired with a Cognitum Seed for persistent memory, cryptographic attestation, and AI integration. No cloud, no cameras, no internet required. The system learns each environment locally using spiking neural networks that adapt in under 30 seconds, with multi-frequency mesh scanning across 6 WiFi channels that uses yo",
+      "published": "",
+      "_id": "b303b1e4141446e6",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "thunderbird /thunderbolt",
+      "link": "https://github.com/thunderbird/thunderbolt",
+      "summary": "Thunderbolt AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. Important ⚠️ We are excited about the amount of interest Thunderbolt has been getting and want to clarify that it is still early and under active development . Currently, we are targeting enterprise customers that want to deploy it on-prem. We encourage you to self-host it and try it out, but there are a few caveats we are still working on: While we eventually plan to make Thunderbolt fully offline-first, it currently depends on authentication and search functionality (though you can disable search on the integrations screen in the app). You can deploy your own backend with Docker and sign up in order to test it locally. You’ll need to add your own model providers - we don’t yet have a public inference endpoint. We recommend using Thunderbolt with Ollama or llama.cpp if you want free local inference, or you can add API keys for any OpenAI-compatible model provider in the settings. Thunderbolt is an open-source, cross-platform AI client that can be deployed on-prem anywhere. 🌐 Available on all major desktop and mobile platforms: web, iOS, Android, Mac, Linux, and Windows. 🧠 Compatible with frontier, local, and on-prem models. 🙋 Enterprise features, support, and FDEs available. Thunderbolt is under active development, currently undergoing a security audit, and preparing for enterprise production readiness. Need Help? Found a bug? Have an idea? We're actively working on our docs, community, and roadmap. For now, the best way to get in touch is to File an issue . Contributing We welcome contributions from everyone. Development : The development guide will help you get started. Make sure to check out the Mozilla Community Participation Guidelines . Documentation FAQ - Frequently asked questions Deployment - Self-host with Docker Compose or Kubernetes Development - Quick start, setup, and testing Architecture - System architecture and diagrams Features and Roadmap - Platform and featu",
+      "published": "",
+      "_id": "a8a62cfae489a798",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "paperless-ngx /paperless-ngx",
+      "link": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "Paperless-ngx Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper . Paperless-ngx is the official successor to the original Paperless & Paperless-ng projects and is designed to distribute the responsibility of advancing and supporting the project among a team of people. Consider joining us! Thanks to the generous folks at DigitalOcean , a demo is available at demo.paperless-ngx.com using login demo / demo . Note: demo content is reset frequently and confidential information should not be uploaded. Features Getting started Contributing Community Support Translation Feature Requests Bugs Related Projects Important Note This project is supported by: Features A full list of features and screenshots are available in the documentation . Getting started The easiest way to deploy paperless is docker compose . The files in the /docker/compose directory are configured to pull the image from the GitHub container registry. If you'd like to jump right in, you can configure a docker compose environment with our install script: bash -c \" $( curl -L https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/main/install-paperless-ngx.sh ) \" More details and step-by-step guides for alternative installation methods can be found in the documentation . Migrating from Paperless-ng is easy, just drop in the new docker image! See the documentation on migrating for more details. Documentation The documentation for Paperless-ngx is available at https://docs.paperless-ngx.com . Contributing If you feel like contributing to the project, please do! Bug fixes, enhancements, visual fixes etc. are always welcome. If you want to implement something big: Please start a discussion about that! The documentation has some basic information on how to get started. Community Support People interested in continuing the work on paperless-ngx are encouraged to reach out here on github and in the Matrix Roo",
+      "published": "",
+      "_id": "e8cd7111f3678ea8",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "tractorjuice /arc-kit",
+      "link": "https://github.com/tractorjuice/arc-kit",
+      "summary": "ArcKit - Enterprise Architecture Governance Toolkit Build better enterprise architecture through structured governance, vendor procurement, and design review workflows. ArcKit is a toolkit for enterprise architects that transforms architecture governance from scattered documents into a systematic, AI-assisted workflow for: 🏛️ Establishing and enforcing architecture principles 👥 Analyzing stakeholder drivers, goals, and outcomes 🛡️ Risk management (HM Treasury Orange Book) 💼 Business case justification (HM Treasury Green Book SOBC) 📋 Creating comprehensive requirements documents 🗄️ Data modeling with ERD, GDPR compliance, and data governance 🔬 Technology research with build vs buy analysis (web search powered) ☁️ Azure-specific research using Microsoft Learn MCP for authoritative documentation 🗺️ Strategic planning with Wardley Mapping 📊 Generating visual architecture diagrams (Mermaid) 🤝 Managing vendor RFP and selection processes ✅ Conducting formal design reviews (HLD/DLD) 🔧 ServiceNow service management design 🔗 Maintaining requirements traceability 📎 Citation traceability for external documents (inline [DOC-CN] markers with source quotes) 📖 The ArcKit Book A comprehensive book-length guide to ArcKit — covering every subsystem (commands, agents, hooks, skills, MCP servers, multi-AI distribution, templates, autoresearch) — now lives in its own repository: tractorjuice/arckit-book . Star History Quick Start Installation Claude Code (premier experience) — install the ArcKit plugin (requires v2.1.112+ ): /plugin marketplace add tractorjuice/arc-kit Then install from the Discover tab. Claude Code is the primary development platform for ArcKit and provides the most complete experience: all 68 commands, 10 autonomous research agents, 5 automation hooks (session init, project context injection, filename enforcement, output validation, impact scan), bundled MCP servers (AWS Knowledge, Microsoft Learn, Google Developer Knowledge, govreposcrape), and automatic updates via t",
+      "published": "",
+      "_id": "d7a00ae0ef9589cd",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "koala73 /worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "summary": "World Monitor Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 435+ curated news feeds across 15 categories, AI-synthesized into briefs Dual map engine — 3D globe (globe.gl) and WebGL flat map (deck.gl) with 45 data layers Cross-stream correlation — military, economic, disaster, and escalation signal convergence Country Intelligence Index — composite risk scoring across 12 signal categories Finance radar — 92 stock exchanges, commodities, crypto, and 7-signal market composite Local AI — run everything with Ollama, no API keys required 5 site variants from a single codebase (world, tech, finance, commodity, happy) Native desktop app (Tauri 2) for macOS, Windows, and Linux 21 languages with native-language feeds and RTL support For the full feature list, architecture, data sources, and algorithms, see the documentation . Quick Start git clone https://github.com/koala73/worldmonitor.git cd worldmonitor\nnpm install\nnpm run dev Open localhost:5173 . No environment variables required for basic operation. For variant-specific development: npm run dev:tech # tech.worldmonitor.app npm run dev:finance # finance.worldmonitor.app npm run dev:commodity # commodity.worldmonitor.app npm run dev:happy # happy.worldmonitor.app See the self-hosting guide for deployment options (Vercel, Docker, static). Tech Stack Category Technologies Frontend Vanilla TypeScript, Vite, globe.gl + Three.js, deck.gl + MapLibre GL Desktop Tauri 2 (Rust) with Node.js sidecar AI/ML Ollama / Groq / OpenRouter, Transformers.js (browser-side) API Contracts Protocol Buffers (92 protos, 22 services), sebuf HTTP annotations Deployment Vercel Edge Functions (60+), Railway relay, Tauri, PWA Caching Redis (Upstash), 3-tier cache, CDN, service worker Full stack details in the architecture docs . Flight Data Flight data provided gracefully by Wi",
+      "published": "",
+      "_id": "5fce3c914fe93bcc",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "openai /openai-agents-python",
+      "link": "https://github.com/openai/openai-agents-python",
+      "summary": "OpenAI Agents SDK The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs. Note Looking for the JavaScript/TypeScript version? Check out Agents SDK JS/TS . Core concepts: Agents : LLMs configured with instructions, tools, guardrails, and handoffs Sandbox Agents : Agents preconfigured to work with a container to perform work over long time horizons. Agents as tools / Handoffs : Delegating to other agents for specific tasks Tools : Various Tools let agents take actions (functions, MCP, hosted tools) Guardrails : Configurable safety checks for input and output validation Human in the loop : Built-in mechanisms for involving humans across agent runs Sessions : Automatic conversation history management across agent runs Tracing : Built-in tracking of agent runs, allowing you to view, debug and optimize your workflows Realtime Agents : Build powerful voice agents with gpt-realtime-1.5 and full agent features Explore the examples directory to see the SDK in action, and read our documentation for more details. Get started To get started, set up your Python environment (Python 3.10 or newer required), and then install OpenAI Agents SDK package. venv python -m venv .venv source .venv/bin/activate # On Windows: .venv\\Scripts\\activate pip install openai-agents For voice support, install with the optional voice group: pip install 'openai-agents[voice]' . For Redis session support, install with the optional redis group: pip install 'openai-agents[redis]' . uv If you're familiar with uv , installing the package would be even easier: uv init\nuv add openai-agents For voice support, install with the optional voice group: uv add 'openai-agents[voice]' . For Redis session support, install with the optional redis group: uv add 'openai-agents[redis]' . Run your first Sandbox Agent Sandbox Agents are new in version 0.14.0. A sandbox agent",
+      "published": "",
+      "_id": "82fcf33f253d184e",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai /DeepGEMM",
+      "link": "https://github.com/deepseek-ai/DeepGEMM",
+      "summary": "DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models — GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more — into a single, cohesive CUDA codebase. All kernels are compiled at runtime via a lightweight Just-In-Time (JIT) module, requiring no CUDA compilation during installation. DeepGEMM leverages some concepts from CUTLASS and CuTe , but avoids heavy reliance on their templates or algebras. The library is designed for simplicity, with only a limited number of core kernel functions, making it a clean and accessible resource for learning NVIDIA GPU kernel optimization techniques. Despite its lightweight design, DeepGEMM's performance matches or exceeds expert-tuned libraries across various matrix shapes. News 2026.04.16: Mega MoE, FP8xFP4 GEMM, FP4 Indexer, PDL, faster JIT compilation and more. Performance comparison will be posted later. Please see #304 for more details. 2025.09.28: DeepGEMM now supports scoring kernels (weighted ReLU MQA logits) for the lightning indexer for DeepSeek v3.2. Please see #200 for more details. 2025.07.20: DeepGEMM now supports both SM90/SM100, and has a full refactor with a low-CPU-overhead JIT CPP module. NVRTC and post-compilation SASS optimization are all disabled. NVRTC will be supported later. As NVCC 12.9 will automatically do the FFMA interleaving, all post optimizations will be no longer supported. Please see #112 for more details. 2025.05.14: DeepGEMM now offers weight gradient kernels for dense and MoE backward! See #95 for details. 2025.05.07: DeepGEMM now supports NVRTC with up to 10x compilation speedup! See #94 for details. Please use DG_JIT_USE_NVRTC=1 to enable it (may have performance loss with some cases). 2025.04.18: DeepGEMM now achieves up to 1550 TFLOPS on H800! See #74 , #78 , #81 , #86 and 340d988 for details. Quic",
+      "published": "",
+      "_id": "548c777176838cb4",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "pi-hole /pi-hole",
+      "link": "https://github.com/pi-hole/pi-hole",
+      "summary": "Network-wide ad blocking via your own Linux hardware The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software. Easy-to-install : our dialogs walk you through the simple installation process in less than ten minutes Resolute : content is blocked in non-browser locations , such as ad-laden mobile apps and smart TVs Responsive : seamlessly speeds up the feel of everyday browsing by caching DNS queries Lightweight : runs smoothly with minimal hardware and software requirements Robust : a command-line interface that is quality assured for interoperability Insightful : a beautiful responsive Web Interface dashboard to view and control your Pi-hole Versatile : can optionally function as a DHCP server , ensuring all your devices are protected automatically Scalable : capable of handling hundreds of millions of queries when installed on server-grade hardware Modern : blocks ads over both IPv4 and IPv6 Free : open source software that helps ensure you are the sole person in control of your privacy One-Step Automated Install Those who want to get started quickly and conveniently may install Pi-hole using the following command: curl -sSL https://install.pi-hole.net | bash Alternative Install Methods Piping to bash is controversial , as it prevents you from reading code that is about to run on your system. Therefore, we provide these alternative installation methods which allow code review before installation: Method 1: Clone our repository and run git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole cd \" Pi-hole/automated install/ \" sudo bash basic-install.sh Method 2: Manually download the installer and run wget -O basic-install.sh https://install.pi-hole.net\nsudo bash basic-install.sh Method 3: Using Docker to deploy Pi-hole Please refer to the Pi-hole docker repo to use the Official Docker Images. Post-install: Make your network take advantage of Pi-hole Once the installer has been run, you will",
+      "published": "",
+      "_id": "09b51a05b9faaf76",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "XTLS /Xray-core",
+      "link": "https://github.com/XTLS/Xray-core",
+      "summary": "Project X Project X originates from XTLS protocol, providing a set of network tools such as Xray-core and REALITY . README is open, so feel free to submit your project here . Sponsors Sponsor Xray-core Donation & NFTs Collect a Project X NFT to support the development of Project X! TRX(Tron)/USDT/USDC: TNrDh5VSfwd4RPrwsohr6poyNTfFefNYan TON: UQApeV-u2gm43aC1uP76xAC1m6vCylstaN1gpfBmre_5IyTH BTC: 1JpqcziZZuqv3QQJhZGNGBVdCBrGgkL6cT XMR: 4ABHQZ3yJZkBnLoqiKvb3f8eqUnX4iMPb6wdant5ZLGQELctcerceSGEfJnoCk6nnyRZm73wrwSgvZ2WmjYLng6R7sR67nq SOL/USDT/USDC: 3x5NuXHzB5APG6vRinPZcsUv5ukWUY1tBGRSJiEJWtZa ETH/USDT/USDC: 0xDc3Fe44F0f25D13CACb1C4896CD0D321df3146Ee Project X NFT: https://opensea.io/item/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/1 VLESS NFT: https://opensea.io/collection/vless REALITY NFT: https://opensea.io/item/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2 Related links: VLESS Post-Quantum Encryption , XHTTP: Beyond REALITY , Announcement of NFTs by Project X License Mozilla Public License Version 2.0 Documentation Project X Official Website Telegram Project X Project X Channel Project VLESS (Русский) Project XHTTP (Persian) Installation Linux Script XTLS/Xray-install ( Official ) tempest (supports systemd and OpenRC ; Linux-only) Docker ghcr.io/xtls/xray-core ( Official ) teddysun/xray wulabing/xray_docker Web Panel Remnawave 3X-UI PasarGuard Xray-UI X-Panel Marzban Hiddify TX-UI CELERITY One Click Xray-REALITY , xray-reality , reality-ezpz Xray_bash_onekey , XTool , VPainLess v2ray-agent , Xray_onekey , ProxySU Magisk NetProxy-Magisk Xray4Magisk Xray_For_Magisk Homebrew brew install xray Usage Example VLESS-XTLS-uTLS-REALITY VLESS-TCP-XTLS-Vision All-in-One-fallbacks-Nginx Xray-examples XTLS/Xray-examples chika0801/Xray-examples lxhao61/integrated-examples Tutorial XTLS Vision REALITY (English) XTLS-Iran-Reality (English) Xray REALITY with 'steal oneself' (English) Xray with WireGuard inbound (English) GUI Clients OpenWrt PassWall , PassWall 2 Shadow",
+      "published": "",
+      "_id": "b73cbc8d7389b013",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Figma's woes compound with Claude Design",
+      "link": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+      "summary": "Article URL:https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/Comments URL:https://news.ycombinator.com/item?id=47832366Points: 59# Comments: 51",
+      "published": "2026-04-20T10:26:35",
+      "_id": "a586b1d89ef288a4",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Token Counter, now with model comparisons",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "Article URL:https://simonwillison.net/2026/Apr/20/claude-token-counts/Comments URL:https://news.ycombinator.com/item?id=47829178Points: 152# Comments: 62",
+      "published": "2026-04-20T00:56:40",
+      "_id": "a2c45ad9360a2536",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Swiss AI Initiative (2023)",
+      "link": "https://www.swiss-ai.org",
+      "summary": "Article URL:https://www.swiss-ai.orgComments URL:https://news.ycombinator.com/item?id=47828444Points: 84# Comments: 26",
+      "published": "2026-04-19T22:58:35",
+      "_id": "f2869d9b2049e404",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CEOs admit AI had no impact on employment or productivity",
+      "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+      "summary": "Article URL:https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/Comments URL:https://news.ycombinator.com/item?id=47827985Points: 84# Comments: 75",
+      "published": "2026-04-19T21:56:22",
+      "_id": "0bbff94c3be9eae5",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Uber’s Anthropic AI push hits a wall",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+      "summary": "Article URL:https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.htmlComments URL:https://news.ycombinator.com/item?id=47826328Points: 93# Comments: 94",
+      "published": "2026-04-19T18:13:32",
+      "_id": "cf76a7d0d436392d",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "Article URL:https://simonwillison.net/2026/Apr/18/opus-system-prompt/Comments URL:https://news.ycombinator.com/item?id=47823270Points: 342# Comments: 199",
+      "published": "2026-04-19T10:36:29",
+      "_id": "af313d625d47cf19",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+      "link": "https://arxiv.org/abs/2604.15456",
+      "summary": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems lack explicit and inspectable criteria for evidence appraisal, creating a risk of compounding errors and making it difficult for researchers and clinicians to assess the reliability of their outputs. In parallel, current benchmarking approaches rarely evaluate performance on complex, real-world medical questions. Here, we introduce DeepER-Med, a Deep Evidence-based Research framework for Medicine with an agentic AI system. DeepER-Med frames deep medical research as an explicit and inspectable workflow of evidence-based generation, consisting of three modules: research planning, agentic collaboration, and evidence synthesis. To support realistic evaluation, we also present DeepER-MedQA, an evidence-grounded dataset comprising 100 expert-level research questions derived from authentic medical research scenarios and curated by a multidisciplinary panel of 11 biomedical experts. Expert manual evaluation demonstrates that DeepER-Med consistently outperforms widely used production-grade platforms across multiple criteria, including the generation of novel scientific insights. We further demonstrate the practical utility of DeepER-Med through eight real-world clinical cases. Human clinician assessment indicates that DeepER-Med's conclusions align with clinical recommendations in seven cases, highlighting its potential for medical research and decision support.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "bed78f241653be61",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+      "link": "https://arxiv.org/abs/2604.15495",
+      "summary": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still struggle with spatial grounding in cluttered environments. We present GIST (Grounded Intelligent Semantic Topology), a multimodal knowledge extraction pipeline that transforms a consumer-grade mobile point cloud into a semantically annotated navigation topology. Our architecture distills the scene into a 2D occupancy map, extracts its topological layout, and overlays a lightweight semantic layer via intelligent keyframe and semantic selection. We demonstrate the versatility of this structured spatial knowledge through critical downstream Human-AI interaction tasks: (1) an intent-driven Semantic Search engine that actively infers categorical alternatives and zones when exact matches fail; (2) a one-shot Semantic Localizer achieving a 1.04 m top-5 mean translation error; (3) a Zone Classification module that segments the walkable floor plan into high-level semantic regions; and (4) a Visually-Grounded Instruction Generator that synthesizes optimal paths into egocentric, landmark-rich natural language routing. In multi-criteria LLM evaluations, GIST outperforms sequence-based instruction generation baselines. Finally, an in-situ formative evaluation (N=5) yields an 80% navigation success rate relying solely on verbal cues, validating the system's capacity for universal design.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "bfe1b4b2b04372ac",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+      "link": "https://arxiv.org/abs/2604.15514",
+      "summary": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding. Our findings reveal a sharp divergence between the rhetoric of \"sovereign AI\" and the reality of bureaucratic practice: while 86\\% of systems are deployed internally for efficiency, the Register systematically obscures the human discretion, training, and uncertainty management required to operate them. By privileging technical descriptions over sociotechnical context, the Register constructs an ontology of AI as \"reliable tooling\" rather than \"contestable decision-making.\" We conclude that without a shift in design, such transparency artifacts risk automating accountability into a performative compliance exercise, offering visibility without contestability.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "0654134ff2fce64d",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "LACE: Lattice Attention for Cross-thread Exploration",
+      "link": "https://arxiv.org/abs/2604.15529",
+      "summary": "arXiv:2604.15529v1 Announce Type: new \nAbstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing the model architecture to enable cross-thread attention, LACE allows concurrent reasoning paths to share intermediate insights and correct one another during inference. A central challenge is the absence of natural training data that exhibits such collaborative behavior. We address this gap with a synthetic data pipeline that explicitly teaches models to communicate and error-correct across threads. Experiments show that this unified exploration substantially outperforms standard parallel search, improving reasoning accuracy by over 7 points. Our results suggest that large language models can be more effective when parallel reasoning paths are allowed to interact.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "32093bd1a11c8862",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Preregistered Belief Revision Contracts",
+      "link": "https://arxiv.org/abs/2604.15558",
+      "summary": "arXiv:2604.15558v1 Announce Type: new \nAbstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects: agreement, confidence, prestige, or majority size may be treated as if they were evidence, producing high-confidence convergence to false conclusions. To address this, we introduce PBRC (Preregistered Belief Revision Contracts), a protocol-level mechanism that strictly separates open communication from admissible epistemic change. A PBRC contract publicly fixes first-order evidence triggers, admissible revision operators, a priority rule, and a fallback policy. A non-fallback step is accepted only when it cites a preregistered trigger and provides a nonempty witness set of externally validated evidence tokens. This ensures that every substantive belief change is both enforceable by a router and auditable after the fact. In this paper, (a) we prove that under evidential contracts with conservative fallback, social-only rounds cannot increase confidence and cannot generate purely conformity-driven wrong-but-sure cascades. (b) We show that auditable trigger protocols admit evidential PBRC normal forms that preserve belief trajectories and canonicalized audit traces. (c) We demonstrate that sound enforcement yields epistemic accountability: any change of top hypothesis is attributable to a concrete validated witness set. For token-invariant contracts, (d) we prove that enforced trajectories depend only on token-exposure traces; under flooding dissemination, these traces are characterized exactly by truncated reachability, giving tight diameter bounds for universal evidence closure. Finally, we introduce a companion contractual dynamic doxastic logic to specify trace invariants, and provide simulations illustrating cascade suppression, auditability, and robustness-liveness trade-offs.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "5a3122825a7db9bd",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Applied Explainability for Large Language Models: A Comparative Study",
+      "link": "https://arxiv.org/abs/2604.15371",
+      "summary": "arXiv:2604.15371v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance across many natural language processing tasks, yet their decision processes remain difficult to interpret. This lack of transparency creates challenges for trust, debugging, and deployment in real-world systems.\n  This paper presents an applied comparative study of three explainability techniques: Integrated Gradients, Attention Rollout, and SHAP, on a fine-tuned DistilBERT model for SST-2 sentiment classification. Rather than proposing new methods, the focus is on evaluating the practical behavior of existing approaches under a consistent and reproducible setup.\n  The results show that gradient-based attribution provides more stable and intuitive explanations, while attention-based methods are computationally efficient but less aligned with prediction-relevant features. Model-agnostic approaches offer flexibility but introduce higher computational cost and variability.\n  This work highlights key trade-offs between explainability methods and emphasizes their role as diagnostic tools rather than definitive explanations. The findings provide practical insights for researchers and engineers working with transformer-based NLP systems.\n  This is a preprint and has not undergone peer review.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "f0f6634fd73d4664",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch",
+      "link": "https://arxiv.org/abs/2604.15490",
+      "summary": "arXiv:2604.15490v1 Announce Type: new \nAbstract: Recent developments in reasoning capabilities have enabled large language models to solve increasingly complex mathematical, symbolic, and logical tasks. Interestingly, while reasoning models are often trained to generate monolingual text, these models have also been observed to code-switch (i.e., mix languages). Prior works have either viewed code-switching as an undesirable error, attempted to control code-switching through modifications to input prompts or the output decoding process, or focus on narrow subsets of languages, domains, tasks, and models. We address these gaps by introducing the first linguistically and behaviorally motivated fine-tuning framework for identifying beneficial code-switched reasoning behaviors in large language models and teaching these models to code-switch more effectively for reasoning. First, we create and systematically analyze a dataset of reasoning traces from diverse models, languages, tasks, and domains to understand the types of code-switching behaviors found in existing reasoning models. Then, we develop fine-tuning interventions that teach reasoning models to code-switch based on our observations of helpful behaviors in existing models. We find that our framework can significantly increase beneficial code-switched reasoning behaviors in a data-efficient manner. Interestingly, we also find that code-switching behaviors in reasoning models can be modified by fine-tuning for tasks that do not directly demonstrate code-switching in reasoning (e.g., machine translation). Our work suggests that data-efficient interventions can instill helpful forms of code-switching behavior in reasoning models.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "905bf9a8469e859b",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences",
+      "link": "https://arxiv.org/abs/2604.15503",
+      "summary": "arXiv:2604.15503v1 Announce Type: new \nAbstract: Recent breakthroughs in language models (LMs) using neural networks have raised the question: how similar are these models' processing to human language processing? Results using a framework called Brain Score (BS) -- predicting fMRI activations during reading from LM activations -- have been used to argue for a high degree of similarity. To understand this similarity, we conduct experiments by training LMs on various types of input data and evaluate them on BS. We find that models trained on various natural languages from many different language families have very similar BS performance. LMs trained on other structured data -- the human genome, Python, and pure hierarchical structure (nested parentheses) -- also perform reasonably well and close to natural languages in some cases. These findings suggest that BS can highlight language models' ability to extract common structure across natural languages, but that the metric may not be sensitive enough to allow us to infer human-like processing from a high BS score alone.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "11f4c85677d55596",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "PolicyBank: Evolving Policy Understanding for LLM Agents",
+      "link": "https://arxiv.org/abs/2604.15505",
+      "summary": "arXiv:2604.15505v1 Announce Type: new \nAbstract: LLM agents operating under organizational policies must comply with authorization constraints typically specified in natural language. In practice, such specifications inevitably contain ambiguities and logical or semantic gaps that cause the agent's behavior to systematically diverge from the true requirements. We ask: by letting an agent evolve its policy understanding through interaction and corrective feedback from pre-deployment testing, can it autonomously refine its interpretation to close specification gaps? We propose PolicyBank, a memory mechanism that maintains structured, tool-level policy insights and iteratively refines them -- unlike existing memory mechanisms that treat the policy as immutable ground truth, reinforcing \"compliant but wrong\" behaviors. We also contribute a systematic testbed by extending a popular tool-calling benchmark with controlled policy gaps that isolate alignment failures from execution failures. While existing memory mechanisms achieve near-zero success on policy-gap scenarios, PolicyBank closes up to 82% of the gap toward a human oracle.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "19c5598d39f848cc",
+      "_scraped_at": "13:48"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Consistency Analysis of Sentiment Predictions using Syntactic & Semantic Context Assessment Summarization (SSAS)",
+      "link": "https://arxiv.org/abs/2604.15547",
+      "summary": "arXiv:2604.15547v1 Announce Type: new \nAbstract: The fundamental challenge of using Large Language Models (LLMs) for reliable, enterprise-grade analytics, such as sentiment prediction, is the conflict between the LLMs' inherent stochasticity (generative, non-deterministic nature) and the analytical requirement for consistency. The LLM inconsistency, coupled with the noisy nature of chaotic modern datasets, renders sentiment predictions too volatile for strategic business decisions. To resolve this, we present a Syntactic & Semantic Context Assessment Summarization (SSAS) framework for establishing context. Context established by SSAS functions as a sophisticated data pre-processing framework that enforces a bounded attention mechanism on LLMs. It achieves this by applying a hierarchical classification structure (Themes, Stories, Clusters) and an iterative Summary-of-Summaries (SoS) based context computation architecture. This endows the raw text with high-signal, sentiment-dense prompts, that effectively mitigate both irrelevant data and analytical variance.\n  We empirically evaluated the efficacy of SSAS, using Gemini 2.0 Flash Lite, against a direct-LLM approach across three industry-standard datasets - Amazon Product Reviews, Google Business Reviews, Goodreads Book Reviews - and multiple robustness scenarios. Our results show that our SSAS framework is capable of significantly improving data quality, up to 30%, through a combination of noise removal and improvement in the estimation of sentiment prediction. Ultimately, consistency in our context-estimation capabilities provides a stable and reliable evidence base for decision-making.",
+      "published": "2026-04-20T04:00:00",
+      "_id": "a449839ccae3f4d9",
+      "_scraped_at": "13:48"
+    }
+  ],
+  "seen_ids": [
+    "55636c4dc2826b1e",
+    "5a3122825a7db9bd",
+    "1549ee28e52fe42b",
+    "cf76a7d0d436392d",
+    "717a1241cb1bf6e7",
+    "f2869d9b2049e404",
+    "153b7ea189504cda",
+    "091b61caa9d6ad3b",
+    "927146391c739eb6",
+    "4db24749e9f9457b",
+    "19c5598d39f848cc",
+    "a2c45ad9360a2536",
+    "63c0469901e8357f",
+    "0dba0c3d7be35ac4",
+    "24cb1873b9d2d37a",
+    "b8af8104c423c106",
+    "dc106413578ce7a6",
+    "32093bd1a11c8862",
+    "b73cbc8d7389b013",
+    "548c777176838cb4",
+    "b303b1e4141446e6",
+    "11f4c85677d55596",
+    "a8a62cfae489a798",
+    "ce8ca2693c2394f0",
+    "905bf9a8469e859b",
+    "82fcf33f253d184e",
+    "bfe1b4b2b04372ac",
+    "5fce3c914fe93bcc",
+    "0611c46cc2ebeb4e",
+    "f0f6634fd73d4664",
+    "bed78f241653be61",
+    "a586b1d89ef288a4",
+    "b190f3d53f6a8e88",
+    "5cca6625f53f163c",
+    "af313d625d47cf19",
+    "d7a00ae0ef9589cd",
+    "a449839ccae3f4d9",
+    "11b16a8eda3d2846",
+    "09b51a05b9faaf76",
+    "0654134ff2fce64d",
+    "0bbff94c3be9eae5",
+    "e8cd7111f3678ea8"
+  ],
+  "last_run": "13:48",
+  "run_count": 1
+}
