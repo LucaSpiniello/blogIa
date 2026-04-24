@@ -1,0 +1,639 @@
+{
+  "date": "2026-04-24",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "published": "2026-04-23T11:00:00",
+      "_id": "dfe7e0c6ff398140",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.5 System Card",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": "",
+      "published": "2026-04-23T11:00:00",
+      "_id": "a07eb39dec044669",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Automations",
+      "link": "https://openai.com/academy/codex-automations",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "published": "2026-04-23T10:00:00",
+      "_id": "9fab69c8c968c73d",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Top 10 uses for Codex at work",
+      "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "published": "2026-04-23T10:00:00",
+      "_id": "533227aa43914c8e",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Plugins and skills",
+      "link": "https://openai.com/academy/codex-plugins-and-skills",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "published": "2026-04-23T10:00:00",
+      "_id": "277cf65bf8c8d0a7",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Google AI",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "published": "2026-04-23T12:00:00",
+      "_id": "4286eb4691c1507d",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Google AI",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "summary": "Aerial image of the data center",
+      "published": "2026-04-23T09:00:00",
+      "_id": "fd02f90b4d79825b",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "summary": "",
+      "published": "2026-04-24T00:00:00",
+      "_id": "3d462a37e82b391b",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+      "link": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+      "summary": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation.  Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems.  Over 10,000 […]",
+      "published": "2026-04-23T18:57:55",
+      "_id": "8e6b6aeefff51fff",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
+      "summary": "GeForce NOW is doubling down on what matters most: gamers. This week’s upgrades bring smarter libraries, making it easier than ever for gamers to turn a PC collection into a cloud-powered flex. It starts with giving existing libraries time to shine. Gamers can bring the games they love to the cloud, stream them with high […]",
+      "published": "2026-04-23T13:00:51",
+      "_id": "4e2d46ca7b7754de",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Making Sense of the Early Universe",
+      "link": "https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
+      "summary": "This Spring Astronomy Day, here’s a look at how AI and GPUs are helping astronomers work through unprecedented volumes of cosmic data.",
+      "published": "2026-04-23T13:00:22",
+      "_id": "da8232909c412961",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 4.7ProductApr 16, 2026Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "Product Announcements Introducing Claude Opus 4.7 Apr 16, 2026 Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. Users report being able to hand off their hardest coding work—the kind that previously needed close supervision—to Opus 4.7 with confidence. Opus 4.7 handles complex, long-running tasks with rigor and consistency, pays precise attention to instructions, and devises ways to verify its own outputs before reporting back. The model also has substantially better vision: it can see images in greater resolution. It’s more tasteful and creative when completing professional tasks, producing higher-quality interfaces, slides, and docs. And—although it is less broadly capable than our most powerful model, Claude Mythos Preview—it shows better results than Opus 4.6 across a range of benchmarks: Last week we announced Project Glasswing , highlighting the risks—and benefits—of AI models for cybersecurity. We stated that we would keep Claude Mythos Preview’s release limited and test new cyber safeguards on less capable models first. Opus 4.7 is the first such model: its cyber capabilities are not as advanced as those of Mythos Preview (indeed, during its training we experimented with efforts to differentially reduce these capabilities). We are releasing Opus 4.7 with safeguards that automatically detect and block requests that indicate prohibited or high-risk cybersecurity uses. What we learn from the real-world deployment of these safeguards will help us work towards our eventual goal of a broad release of Mythos-class models. Security professionals who wish to use Opus 4.7 for legitimate cybersecurity purposes (such as vulnerability research, penetration testing, and red-teaming) are invited to join our new Cyber Verification Program . Opus 4.7 is available today across all Claude products and our API, Amazon Bedrock, Google C",
+      "published": "",
+      "_id": "b8af8104c423c106",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "Product Announcements Introducing Claude Design by Anthropic Labs Apr 17, 2026 Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Claude Design is powered by our most capable vision model, Claude Opus 4.7 , and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers. We’re rolling out to users gradually throughout the day. Design with Claude Even experienced designers have to ration exploration—there's rarely time to prototype a dozen directions, so you limit yourself to a few. And for founders, product managers, and marketers with an idea but not a design background, creating and sharing those ideas can be daunting. Claude Design gives designers room to explore widely and everyone else a way to produce visual work. Describe what you need and Claude builds a first version. From there, you refine through conversation, inline comments, direct edits, or custom sliders (made by Claude) until it’s right. When given access, Claude can also apply your team’s design system to every project automatically, so the output is consistent with the rest of your company’s designs. Teams have been using Claude Design for: Realistic prototypes: Designers can turn static mockups into easily-shareable interactive prototypes to gather feedback and user-test, without code review or PRs. Product wireframes and mockups: Product Managers can sketch out feature flows and hand them off to Claude Code for implementation, or share them with designers to refine further. Design explorations: Designers can quickly create a wide range of directions to explore. Pitch decks and presentations: Founders and Account Executives can go from a rough outline to a complete, on-brand deck in minutes, and then export as a PPTX or send to Canva. Marketing collateral: Marketers can create landing pages, social media assets, and campaign visuals",
+      "published": "",
+      "_id": "0dba0c3d7be35ac4",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Apr 24, 2026AnnouncementsAn update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "summary": "",
+      "published": "",
+      "_id": "6719220a430a909c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Apr 24, 2026AnnouncementsAnthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "link": "https://www.anthropic.com/news/anthropic-nec",
+      "summary": "Announcements Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce Apr 24, 2026 NEC Corporation will use Claude as it builds one of Japan’s largest AI-native engineering organizations, making it available to approximately 30,000 NEC Group employees worldwide. As part of this strategic collaboration, NEC will become Anthropic’s first Japan-based global partner. Together, we will develop secure, industry-specific AI products for the Japanese market, starting with tools for finance, manufacturing, and local government. “This long-term partnership with Anthropic enables NEC to maximize the potential of AI in the Japanese market,” said Toshifumi Yoshizaki, Executive Officer and COO of NEC Corporation. “Together, we aim to create solutions that meet the high safety, reliability, and quality standards demanded by companies and public administration in Japan.” Claude for NEC’s customers NEC and Anthropic will jointly develop secure, domain-specific AI products for Japanese customers in sectors like finance, manufacturing, and cybersecurity. In addition, NEC is already integrating Claude into its Security Operations Center services to help defend customers against increasingly sophisticated cybersecurity threats. Claude will also be integrated into the next-generation cybersecurity service NEC is currently providing. Claude, including Claude Opus 4.7, and Claude Code will be incorporated into NEC BluStellar Scenario , a program that provides consulting, AI tools, security, and digital infrastructure to businesses, starting with its offerings for data-driven management and customer experience, and gradually expanding to others. How NEC will use Claude internally Internally, NEC will establish a Center of Excellence to develop a highly skilled, AI-enabled engineering organization, supported by technical enablement and training from Anthropic. NEC aims to build one of Japan’s largest AI-native engineering teams, who will use Claude Code in their work.",
+      "published": "",
+      "_id": "9d08d393003b3087",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "published": "2026-04-24T13:41:42",
+      "_id": "f7f6495adda6ad16",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "published": "2026-04-24T13:30:59",
+      "_id": "180cc5597a27c60a",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "published": "2026-04-24T12:00:00",
+      "_id": "42ce5bcdd7ad396c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "published": "2026-04-23T21:00:00",
+      "_id": "66a7d0a5ee405bb7",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+      "published": "2026-04-23T19:38:25",
+      "_id": "966748ae703ff12a",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. […]",
+      "published": "2026-04-24T12:00:00",
+      "_id": "758fdc9831086ba5",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "The Verge",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central […]",
+      "published": "2026-04-24T09:45:30",
+      "_id": "057528c0bceff5fd",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "The Verge",
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by […]",
+      "published": "2026-04-24T09:40:07",
+      "_id": "723c88989d5af1ad",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "The Verge",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such […]",
+      "published": "2026-04-23T22:27:11",
+      "_id": "cc12e34d5f78f92a",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is laying off 10 percent of its staff",
+      "link": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments […]",
+      "published": "2026-04-23T19:41:07",
+      "_id": "053879854ac8dcdb",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+      "published": "2026-04-23T20:41:23",
+      "_id": "8dfdb6bddb2f60ec",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+      "published": "2026-04-24T12:10:00",
+      "_id": "4d7643bd97c13af1",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
+      "published": "2026-04-24T09:00:00",
+      "_id": "be1cb3dc7b4ad60c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: introducing the Nature issue",
+      "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.  From microplastics in rainforest wildlife to artificial light…",
+      "published": "2026-04-23T12:10:00",
+      "_id": "8b6cc70e59fc312d",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in…",
+      "published": "2026-04-23T10:00:00",
+      "_id": "6ccf7b452087d17a",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Wired",
+      "title": "These AI Thirst Trap Creators Say They're Misunderstood",
+      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+      "published": "2026-04-24T09:30:00",
+      "_id": "b6f1622e36193ea0",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Wired",
+      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+      "published": "2026-04-24T09:00:00",
+      "_id": "86244bb52dcdbc7e",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+      "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+      "published": "2026-04-23T19:26:11",
+      "_id": "93f43c8512a85a2c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Wired",
+      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+      "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+      "published": "2026-04-23T18:24:37",
+      "_id": "e8219e514869fd8f",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "Alishahryar1 /free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "🤖 Free Claude Code Use Claude Code CLI & VSCode for free. No Anthropic API key required. A lightweight proxy that routes Claude Code's Anthropic API calls to NVIDIA NIM (40 req/min free), OpenRouter (hundreds of models), DeepSeek (direct API), LM Studio (fully local), or llama.cpp (local with Anthropic endpoints). Quick Start · Providers · Discord Bot · Configuration · Development · Contributing Claude Code running via NVIDIA NIM, completely free Features Feature Description Zero Cost 40 req/min free on NVIDIA NIM. Free models on OpenRouter. Fully local with LM Studio Drop-in Replacement Set 2 env vars. No modifications to Claude Code CLI or VSCode extension needed 5 Providers NVIDIA NIM, OpenRouter, DeepSeek, LM Studio (local), llama.cpp ( llama-server ) Per-Model Mapping Route Opus / Sonnet / Haiku to different models and providers. Mix providers freely Thinking Token Support Parses <think> tags and reasoning_content into native Claude thinking blocks Heuristic Tool Parser Models outputting tool calls as text are auto-parsed into structured tool use Request Optimization 5 categories of trivial API calls intercepted locally, saving quota and latency Smart Rate Limiting Proactive rolling-window throttle + reactive 429 exponential backoff + optional concurrency cap Discord / Telegram Bot Remote autonomous coding with tree-based threading, session persistence, and live progress Subagent Control Task tool interception forces run_in_background=False . No runaway subagents Extensible Clean BaseProvider and MessagingPlatform ABCs. Add new providers or platforms easily Quick Start Prerequisites Get an API key (or use LM Studio / llama.cpp locally): NVIDIA NIM : build.nvidia.com/settings/api-keys OpenRouter : openrouter.ai/keys DeepSeek : platform.deepseek.com/api_keys LM Studio : No API key needed. Run locally with LM Studio llama.cpp : No API key needed. Run llama-server locally. Install Claude Code Install uv # Install uv (required to run the project) pip install uv If u",
+      "published": "",
+      "_id": "9d67ce648f6a8919",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "huggingface /ml-intern",
+      "link": "https://github.com/huggingface/ml-intern",
+      "summary": "ML Intern An ML intern that autonomously researches, writes, and ships good quality ML releated code using the Hugging Face ecosystem — with deep access to docs, papers, datasets, and cloud compute. Quick Start Installation git clone git@github.com:huggingface/ml-intern.git cd ml-intern\nuv sync\nuv tool install -e . That's it. Now ml-intern works from any directory: ml-intern Create a .env file in the project root (or export these in your shell): ANTHROPIC_API_KEY= < your-anthropic-api-key > # if using anthropic models HF_TOKEN= < your-hugging-face-token > GITHUB_TOKEN= < github-personal-access-token > If no HF_TOKEN is set, the CLI will prompt you to paste one on first launch. To get a GITHUB_TOKEN follow the tutorial here . Usage Interactive mode (start a chat session): ml-intern Headless mode (single prompt, auto-approve): ml-intern \" fine-tune llama on my dataset \" Options: ml-intern --model anthropic/claude-opus-4-6 \" your prompt \" ml-intern --max-iterations 100 \" your prompt \" ml-intern --no-stream \" your prompt \" Architecture Component Overview ┌─────────────────────────────────────────────────────────────┐\n│                         User/CLI                            │\n└────────────┬─────────────────────────────────────┬──────────┘\n             │ Operations                          │ Events\n             ↓ (user_input, exec_approval,         ↑\n      submission_queue  interrupt, compact, ...)  event_queue\n             │                                          │\n             ↓                                          │\n┌────────────────────────────────────────────────────┐  │\n│            submission_loop (agent_loop.py)         │  │\n│  ┌──────────────────────────────────────────────┐  │  │\n│  │  1. Receive Operation from queue             │  │  │\n│  │  2. Route to handler (run_agent/compact/...) │  │  │\n│  └──────────────────────────────────────────────┘  │  │\n│                      ↓                             │  │\n│  ┌────────────────────────────────────────",
+      "published": "",
+      "_id": "fac519908c9358c4",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "google /osv-scanner",
+      "link": "https://github.com/google/osv-scanner",
+      "summary": "Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.\nOSV-Scanner provides an officially supported frontend to the OSV database and CLI interface to OSV-Scalibr that connects a project’s list of dependencies with the vulnerabilities that affect them. OSV-Scanner supports a wide range of project types, package managers and features, including but not limited to: Languages: C/C++, Dart, Elixir, Go, Java, Javascript, PHP, Python, R, Ruby, Rust. Package Managers: npm, pip, yarn, maven, go modules, cargo, gem, composer, nuget and others. Operating Systems: Detects vulnerabilities in OS packages on Linux systems. Containers: Scans container images for vulnerabilities in their base images and included packages. Guided Remediation: Provides recommendations for package version upgrades based on criteria such as dependency depth, minimum severity, fix strategy, and return on investment. OSV-Scanner uses the extensible OSV-Scalibr library under the hood to provide this functionality. If a language or package manager is not supported currently, please file a feature request. Underlying database The underlying database, OSV.dev has several benefits in comparison with closed source advisory databases and scanners: Covering most open source language and OS ecosystems (including Git ), it’s comprehensive. Each advisory comes from an open and authoritative source (e.g. GitHub Security Advisories , RustSec Advisory Database , Ubuntu security notices ) Anyone can suggest improvements to advisories, resulting in a very high quality database. The OSV format unambiguously stores information about affected versions in a machine-readable format that precisely maps onto a developer’s list of packages The above all results in accurate and actionable vulnerability notifications, which reduces the time needed to resolve them. Check out OSV.dev for more details! Basic installation To install OSV-Scanner, please refer to the installation section of our documenta",
+      "published": "",
+      "_id": "7bc6ab6f65340a92",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "Z4nzu /hackingtool",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "summary": "All-in-One Hacking Tool for Security Researchers & Pentesters What's New in v2.0.0 Feature Description 🐍 Python 3.10+ All Python 2 code removed, modern syntax throughout 🖥 OS-aware menus Linux-only tools hidden automatically on macOS 📦 185+ tools 35 new modern tools added across 6 categories 🔍 Search Type / to search all tools by name, description, or keyword 🏷 Tag filter Type t to filter by 19 tags — osint, web, c2, cloud, mobile... 💡 Recommend Type r — \"I want to scan a network\" → shows relevant tools ✅ Install status ✔/✘ shown next to every tool — know what's ready ⚡ Install all Option 97 in any category — batch install at once 🔄 Smart update Each tool has Update — auto-detects git pull / pip upgrade / go install 📂 Open folder Jump into any tool's directory for manual inspection 🐳 Docker Builds locally — no unverified external images 🚀 One-liner install curl -sSL .../install.sh | sudo bash — zero manual steps 🏢 3 new categories Active Directory, Cloud Security, Mobile Security Quick Commands Command Action Works in /query Search — find tools instantly by keyword Main menu t Tags — filter by osint, scanner, c2, cloud, mobile... Main menu r Recommend — \"I want to do X\" → matching tools Main menu ? Help — quick reference card Everywhere q Quit — exit from any depth Everywhere 97 Install All — batch install all tools in category Category 99 Back — return to previous menu Everywhere Tool Categories # Category Tools # Category Tools 1 🛡 Anonymously Hiding 2 11 🧰 Exploit Framework 4 2 🔍 Information Gathering 26 12 🔁 Reverse Engineering 5 3 📚 Wordlist Generator 7 13 ⚡ DDOS Attack 5 4 📶 Wireless Attack 13 14 🖥 RAT 1 5 🧩 SQL Injection 7 15 💥 XSS Attack 9 6 🎣 Phishing Attack 17 16 🖼 Steganography 4 7 🌐 Web Attack 20 17 🏢 Active Directory 6 8 🔧 Post Exploitation 10 18 ☁ Cloud Security 4 9 🕵 Forensics 8 19 📱 Mobile Security 3 10 📦 Payload Creation 8 20 ✨ Other Tools 24 🛡 Anonymously Hiding Tools Anonymously Surf Multitor 🔍 Information Gathering Tools Network Map (nmap) Dracnm",
+      "published": "",
+      "_id": "154a5e7e876f18c6",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "zilliztech /claude-context",
+      "link": "https://github.com/zilliztech/claude-context",
+      "summary": "🆕 Looking for persistent memory for Claude Code? Check out memsearch Claude Code plugin — a markdown-first memory system that gives your AI agent long-term memory across sessions. Your entire codebase as Claude's context Claude Context is an MCP plugin that adds semantic code search to Claude Code and other AI coding agents, giving them deep context from your entire codebase. 🧠 Your Entire Codebase as Context : Claude Context uses semantic search to find all relevant code from millions of lines. No multi-round discovery needed. It brings results straight into the Claude's context. 💰 Cost-Effective for Large Codebases : Instead of loading entire directories into Claude for every request, which can be very expensive, Claude Context efficiently stores your codebase in a vector database and only uses related code in context to keep your costs manageable. 🚀 Demo Model Context Protocol (MCP) allows you to integrate Claude Context with your favorite AI coding assistants, e.g. Claude Code. Quick Start Prerequisites Get a free vector database on Zilliz Cloud 👈 Claude Context needs a vector database. You can sign up on Zilliz Cloud to get an API key. Copy your Personal Key to replace your-zilliz-cloud-api-key in the configuration examples. Get OpenAI API Key for embedding model You need an OpenAI API key for the embedding model. You can get one by signing up at OpenAI . Your API key will look like this: it always starts with sk- . Copy your key and use it in the configuration examples below as your-openai-api-key . Configure MCP for Claude Code System Requirements: Node.js >= 20.0.0 and < 24.0.0 Claude Context is not compatible with Node.js 24.0.0, you need downgrade it first if your node version is greater or equal to 24. Configuration Use the command line interface to add the Claude Context MCP server: claude mcp add claude-context \\\n  -e OPENAI_API_KEY=sk-your-openai-api-key \\\n  -e MILVUS_ADDRESS=your-zilliz-cloud-public-endpoint \\\n  -e MILVUS_TOKEN=your-zilliz-cloud-api-k",
+      "published": "",
+      "_id": "0f5187d118d5cccf",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "open-metadata /OpenMetadata",
+      "link": "https://github.com/open-metadata/OpenMetadata",
+      "summary": "Empower your Data Journey with OpenMetadata What is OpenMetadata? OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column-level lineage, and seamless team collaboration. It is one of the fastest-growing open-source projects with a vibrant community and adoption by a diverse set of companies in a variety of industry verticals. Based on Open Metadata Standards and APIs, supporting connectors to a wide range of data services, OpenMetadata enables end-to-end metadata management, giving you the freedom to unlock the value of your data assets. Contents: Features Try our Sandbox Install & Run Roadmap Documentation and Support Contributors OpenMetadata Consists of Four Main Components: Metadata Schemas : These are the core definitions and vocabulary for metadata based on common abstractions and types. They also allow for custom extensions and properties to suit different use cases and domains. Metadata Store : This is the central repository for storing and managing the metadata graph, which connects data assets, users, and tool-generated metadata in a unified way. Metadata APIs : These are the interfaces for producing and consuming metadata, built on top of the metadata schemas. They enable seamless integration of user interfaces and tools, systems, and services with the metadata store. Ingestion Framework : This is a pluggable framework for ingesting metadata from various sources and tools to the metadata store. It supports about 84+ connectors for data warehouses, databases, dashboard services, messaging services, pipeline services, and more. Key Features of OpenMetadata Data Discovery : Find and explore all your data assets in a single place using various strategies, such as keyword search, data associations, and advanced queries. You can search across tables, topics, dashboards, pipelines, and services. Data Collaboration : Communicate, converse, and cooperate with ",
+      "published": "",
+      "_id": "7f7c6401b1844fcc",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "PostHog /posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "summary": "Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is an all-in-one, open source platform for building successful products PostHog provides every tool you need to build a successful product including: Product Analytics : Autocapture or manually instrument event-based analytics to understand user behavior and analyze data with visualization or SQL. Web Analytics : Monitor web traffic and user sessions with a GA-like dashboard. Easily monitor conversion, web vitals, and revenue. Session Replays : Watch real user sessions of interactions with your website or mobile app to diagnose issues and understand user behavior. Feature Flags : Safely roll out features to select users or cohorts with feature flags. Experiments : Test changes and measure their statistical impact on goal metrics. Set up experiments with no-code too. Error Tracking : Track errors, get alerts, and resolve issues to improve your product. Surveys : Ask anything with our collection of no-code survey templates, or build custom surveys with our survey builder. Data warehouse : Sync data from external tools like Stripe, Hubspot, your data warehouse, and more. Query it alongside your product data. Data pipelines : Run custom filters and transformations on your incoming data. Send it to 25+ tools or any webhook in real time or batch export large amounts to your warehouse. LLM analytics : Capture traces, generations, latency, and cost for your LLM-powered app. Workflows : Create workflows that automate actions or send messages to your users. Best of all, all of this is free to use with a generous monthly free tier for each product. Get started by signing up for PostHog Cloud US or PostHog Cloud EU . Table of Contents PostHog is an all-in-one, open source platform for building successful products Table of Contents Getting started with PostHog PostHog Cloud (Recommended) Self-hosting the open-source hobby deploy (Advanced) Setting up PostHog Learning more about PostHog Contributing Open-",
+      "published": "",
+      "_id": "fbfdec28cfffc04c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "dani-garcia /vaultwarden",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "summary": "An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [ disclaimer ], perfect for self-hosted deployment where running the official resource-heavy service might not be ideal. Important When using this server, please report any bugs or suggestions directly to us (see Get in touch ), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official Bitwarden support channels. Features A nearly complete implementation of the Bitwarden Client API is provided, including: Personal Vault Send Attachments Website icons Personal API Key Organizations Collections , Password Sharing , Member Roles , Groups , Event Logs , Admin Password Reset , Directory Connector , Policies Multi/Two Factor Authentication Authenticator , Email , FIDO2 WebAuthn , YubiKey , Duo Emergency Access Vaultwarden Admin Backend Modified Web Vault client (Bundled within our containers) Usage Important The web-vault requires the use a secure context for the Web Crypto API .\nThat means it will only work via http://localhost:8000 (using the port from the example below) or if you enable HTTPS . The recommended way to install and use Vaultwarden is via our container images which are published to ghcr.io , docker.io and quay.io .\nSee which container image to use for an explanation of the provided tags. There are also community driven packages which can be used, but those might be lagging behind the latest version or might deviate in the way Vaultwarden is configured, as described in our Wiki . Alternatively, you can also build Vaultwarden yourself. While Vaultwarden is based upon the Rocket web framework which has built-in support for TLS our recommendation would be that you setup a reverse proxy (see proxy examples ). Tip For more detailed examples on how to install, use and configure Vaultwarden you can check our Wiki . Docker/Podman CLI Pull the container image and mount a volume from the host for pe",
+      "published": "",
+      "_id": "4b5ff39c88f99c81",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io /build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot create, I do not understand — Richard Feynman. It's a great way to learn. 3D Renderer AI Model Augmented Reality BitTorrent Client Blockchain / Cryptocurrency Bot Command-Line Tool Database Docker Emulator / Virtual Machine Front-end Framework / Library Game Git Memory Allocator Network Stack Neural Network Operating System Physics Engine Processor Programming Language Regex Engine Search Engine Shell Template Engine Text Editor Visual Recognition System Voxel Engine Web Browser Web Server Uncategorized Tutorials Build your own Distributed Systems Java : Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide Build your own 3D Renderer C++ : Introduction to Ray Tracing: a Simple Method for Creating 3D Images C++ : How OpenGL works: software rendering in 500 lines of code C++ : Raycasting engine of Wolfenstein 3D C++ : Physically Based Rendering:From Theory To Implementation C++ : Ray Tracing in One Weekend C++ : Rasterization: a Practical Implementation C# / TypeScript / JavaScript : Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript Java / JavaScript : Build your own 3D renderer Java : How to create your own simple 3D render engine in pure Java JavaScript / Pseudocode : Computer Graphics from scratch Python : A 3D Modeller Build your own AI Model Python : A Large Language Model (LLM) Python : Diffusion Models for Image Generation Python : RAG for Document Search Build your own Augmented Reality C# : How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D [video] C# : How To Unity ARCore [video] C# : AR Portal Tutorial with Unity [video] C# : How to create a Dragon in Augmented Reality in Unity ARCore [video] C# : How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down [video] Python : Augmented Reality wi",
+      "published": "",
+      "_id": "bee422cc001e2185",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai /DeepEP",
+      "link": "https://github.com/deepseek-ai/DeepEP",
+      "summary": "DeepEP DeepEP is a communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP). It provides high-throughput and low-latency all-to-all GPU kernels, which are also known as MoE dispatch and combine. The library also supports low-precision operations, including FP8. To align with the group-limited gating algorithm proposed in the DeepSeek-V3 paper, DeepEP offers a set of kernels optimized for asymmetric-domain bandwidth forwarding, such as forwarding data from NVLink domain to RDMA domain. These kernels deliver high throughput, making them suitable for both training and inference prefilling tasks. Additionally, they support SM (Streaming Multiprocessors) number control. For latency-sensitive inference decoding, DeepEP includes a set of low-latency kernels with pure RDMA to minimize delays. The library also introduces a hook-based communication-computation overlapping method that does not occupy any SM resource. Notice: the implementation in this library may have some slight differences from the DeepSeek-V3 paper. Performance Normal kernels with NVLink and RDMA forwarding We test normal kernels on H800 (~160 GB/s NVLink maximum bandwidth), with each connected to a CX7 InfiniBand 400 Gb/s RDMA network card (~50 GB/s maximum bandwidth). And we follow the DeepSeek-V3/R1 pretraining setting (4096 tokens per batch, 7168 hidden, top-4 groups, top-8 experts, FP8 dispatching and BF16 combining). Type Dispatch #EP Bottleneck bandwidth Combine #EP Bottleneck bandwidth Intranode 8 153 GB/s (NVLink) 8 158 GB/s (NVLink) Internode 16 43 GB/s (RDMA) 16 43 GB/s (RDMA) Internode 32 58 GB/s (RDMA) 32 57 GB/s (RDMA) Internode 64 51 GB/s (RDMA) 64 50 GB/s (RDMA) News (2025.04.22) : with optimizations from Tencent Network Platform Department, performance was enhanced by up to 30%, see #130 for more details. Thanks for the contribution! Low-latency kernels with pure RDMA We test low-latency kernels on H800 with each connected to a CX7 InfiniBand 400 Gb/s RDMA net",
+      "published": "",
+      "_id": "08b96935929c8530",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "summary": "Article URL:https://www.bbc.com/news/articles/c4gx1n0dl9noComments URL:https://news.ycombinator.com/item?id=47887683Points: 159# Comments: 90",
+      "published": "2026-04-24T09:17:57",
+      "_id": "b6955fce078890a6",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+      "link": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+      "summary": "Article URL:https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1aComments URL:https://news.ycombinator.com/item?id=47880697Points: 92# Comments: 17",
+      "published": "2026-04-23T19:43:08",
+      "_id": "9b2b9ca7a553ae3c",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
+      "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
+      "summary": "Article URL:https://xbow.com/blog/mythos-like-hacking-open-to-allComments URL:https://news.ycombinator.com/item?id=47879330Points: 66# Comments: 19",
+      "published": "2026-04-23T18:16:55",
+      "_id": "b222054a68fd51e7",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "Article URL:https://openai.com/index/introducing-gpt-5-5/Comments URL:https://news.ycombinator.com/item?id=47879092Points: 1428# Comments: 951",
+      "published": "2026-04-23T18:01:39",
+      "_id": "1b0938288101b6f8",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Article URL:https://www.anthropic.com/engineering/april-23-postmortemComments URL:https://news.ycombinator.com/item?id=47878905Points: 800# Comments: 614",
+      "published": "2026-04-23T17:48:38",
+      "_id": "85b0ca3c45b5c993",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "link": "https://blog.meshcore.io/2026/04/23/the-split",
+      "summary": "Article URL:https://blog.meshcore.io/2026/04/23/the-splitComments URL:https://news.ycombinator.com/item?id=47878117Points: 240# Comments: 127",
+      "published": "2026-04-23T16:55:13",
+      "_id": "fe370f3118dcd626",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Do you want the US to \"win\" AI?",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+      "summary": "Article URL:https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.htmlComments URL:https://news.ycombinator.com/item?id=47873796Points: 53# Comments: 104",
+      "published": "2026-04-23T09:41:20",
+      "_id": "a653bd3ee6bf6868",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Our newsroom AI policy",
+      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "summary": "Article URL:https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/Comments URL:https://news.ycombinator.com/item?id=47872452Points: 200# Comments: 128",
+      "published": "2026-04-23T05:14:05",
+      "_id": "a8b4227f060fd8ec",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+      "link": "https://arxiv.org/abs/2604.19749",
+      "summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledge availability regions, we identify a \\textit{knowledge epistemic illusion}: models misjudge internal knowledge boundaries and fail to accurately perceive their actual knowledge availability. To mitigate this, we propose a knowledge-aware epistemic boundary alignment strategy based on direct preference optimization, which reduces tool usage in by 82.8\\% while yielding an accuracy improvement. (2) Second, we establish a causal link between reward structures and tool-use behavior by visualizing the tool-augmented training process. It reveals that \\textit{outcome-only rewards} inadvertently encourage tool overuse by rewarding only final correctness, regardless of tool efficiency. To verify this, we balance reward signals during training rather than relying on outcome-only rewards, cutting unnecessary tool calls by 66.7\\% (7B) and 60.7\\% (32B) without sacrificing accuracy. Finally, we provide theoretical justification in this two lenses to understand tool overuse.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "b22991cdf8153c0e",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+      "link": "https://arxiv.org/abs/2604.19751",
+      "summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Learn 2.0, a deliverable-oriented governance framework for AI-assisted work. Rather than claiming element-wise novelty, it reorganizes adjacent ideas around the final deliverable package, distinguishes artifact residual from capability residual, and operationalizes the result through a five-part package, a seven-dimension maturity rubric, gate thresholds on critical dimensions, and a companion capability-evidence ladder. AI to Learn 2.0 allows opaque AI during exploration, drafting, hypothesis generation, and workflow design, but requires that the released deliverable be usable, auditable, transferable, and justifiable without the original large language model or cloud API. In learning-intensive contexts, it additionally requires context-appropriate human-attributable evidence of explanation or transfer. Worked scoring across contrastive cases, including coursework substitution, a symbolic-regression governance contrast, teacher-audited national-exam practice forms, and a self-hosted lecture-to-quiz pipeline with deterministic quality control, shows how the framework separates polished substitution workflows from bounded, auditable, and handoff-ready AI-assisted workflows. AI to Learn 2.0 is proposed as a governance instrument for structured third-party review where capability preservation, accountability, and validity boundaries matter.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "aac1c7d2640cd887",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+      "link": "https://arxiv.org/abs/2604.19753",
+      "summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish problem instances without any domain knowledge or task-specific training. This allows us to apply the same three-step pipeline (serialize, embed, select) across diverse problem domains with text-based instance formats. We evaluate our approach on 11 ASlib scenarios spanning 7 domains (SAT, MaxSAT, QBF, ASP, CSP, MIP, and graph problems). Our experiments show that this approach outperforms a random forest trained on hand-crafted features in 10 of 11 scenarios with a single fixed configuration, and in all 11 with two-seed voting; the margin is often substantial. Our ablation study shows that inverse-distance weighting, line shuffling, and Manhattan distance are the key design choices. On scenarios where both selectors are competitive, combining embeddings with hand-crafted features via soft voting yields further improvements.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "7d7bf4a0607ffb33",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+      "link": "https://arxiv.org/abs/2604.19754",
+      "summary": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 high school responses scored on 11 binary-coded analytic categories. This rubric identifies six important components including scientific ideas needed for a complete explanation along with five common incomplete or inaccurate ideas. Using SciBERT as a baseline, we applied fine-tuning and test these augmentation strategies: (1) GPT-4--generated synthetic responses, (2) EASE, a word-level extraction and filtering approach, and (3) ALP (Augmentation using Lexicalized Probabilistic context-free grammar) phrase-level extraction.\n  While fine-tuning SciBERT improved recall over baseline, augmentation substantially enhanced performance, with GPT data boosting both precision and recall, and ALP achieving perfect precision, recall, and F1 scores across most severe imbalanced categories (5,6,7 and 9). Across all rubric categories EASE augmentation substantially increased alignment with human scoring for both scientific ideas (Categories 1--6) and inaccurate ideas (Categories 7--11). We compared different augmentation strategies to a traditional oversampling method (SMOTE) in an effort to avoid overfitting and retain novice-level data critical for learning progression alignment. Findings demonstrate that targeted augmentation can address severe imbalance while preserving conceptual coverage, offering a scalable solution for automated learning progression-aligned scoring in science education.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "bc4f25065ebf229d",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+      "link": "https://arxiv.org/abs/2604.19755",
+      "summary": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language models (LLMs) can summarize heterogeneous evidence and draft rationales, unconstrained generation is risky in regulated workflows due to hallucinations, weak provenance, and explanations that are not faithful to the underlying decision. We propose an explainable AML triage framework that treats triage as an evidence-constrained decision process. Our method combines (i) retrieval-augmented evidence bundling from policy/typology guidance, customer context, alert triggers, and transaction subgraphs, (ii) a structured LLM output contract that requires explicit citations and separates supporting from contradicting or missing evidence, and (iii) counterfactual checks that validate whether minimal, plausible perturbations lead to coherent changes in both the triage recommendation and its rationale. We evaluate on public synthetic AML benchmarks and simulators and compare against rules, tabular and graph machine-learning baselines, and LLM-only/RAG-only variants. Results show that evidence grounding substantially improves auditability and reduces numerical and policy hallucination errors, while counterfactual validation further increases decision-linked explainability and robustness, yielding the best overall triage performance (PR-AUC 0.75; Escalate F1 0.62) and strong provenance and faithfulness metrics (citation validity 0.98; evidence support 0.88; counterfactual faithfulness 0.76). These findings indicate that governed, verifiable LLM systems can provide practical decision support for AML triage without sacrificing compliance requirements for traceability and defensibility.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "ff357756132e42a9",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models",
+      "link": "https://arxiv.org/abs/2604.20878",
+      "summary": "arXiv:2604.20878v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have achieved remarkable progress in Traffic Accident Detection (TAD) and Traffic Accident Understanding (TAU). However, existing studies mainly focus on describing and interpreting accident videos, leaving room for deeper causal reasoning and integration of legal knowledge. Traffic Accident Responsibility Allocation (TARA) is a more challenging task that requires multi-step reasoning grounded in traffic regulations. To address this, we introduce AITP (Artificial Intelligence Traffic Police), a multimodal large language model for responsibility reasoning and allocation. AITP enhances reasoning via a Multimodal Chain-of-Thought (MCoT) mechanism and integrates legal knowledge through Retrieval-Augmented Generation (RAG). We further present DecaTARA, a decathlon-style benchmark unifying ten interrelated traffic accident reasoning tasks with 67,941 annotated videos and 195,821 question-answer pairs. Extensive experiments show that AITP achieves state-of-the-art performance across responsibility allocation, TAD, and TAU tasks, establishing a new paradigm for reasoning-driven multimodal traffic analysis.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "07c9023ad8e73645",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "AFRILANGTUTOR: Advancing Language Tutoring and Culture Education in Low-Resource Languages with Large Language Models",
+      "link": "https://arxiv.org/abs/2604.20996",
+      "summary": "arXiv:2604.20996v1 Announce Type: new \nAbstract: How can language learning systems be developed for languages that lack sufficient training resources? This challenge is increasingly faced by developers across the African continent who aim to build AI systems capable of understanding and responding in local languages. To address this gap, we introduce AFRILANGDICT, a collection of 194.7K African language-English dictionary entries designed as seed resources for generating language-learning materials, enabling us to automatically construct large-scale, diverse, and verifiable student-tutor question-answer interactions suitable for training AI-assisted language tutors. Using AFRILANGDICT, we build AFRILANGEDU, a dataset of 78.9K multi-turn training examples for Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO). Using AFRILANGEDU, we train language tutoring models collectively referred to as AFRILANGTUTOR. We fine-tune two multilingual LLMs: Llama-3-8B-IT and Gemma-3-12B-IT on AFRILANGEDU across 10 African languages and evaluate their performance. Our results show that models trained on AFRILANGEDU consistently outperform their base counterparts, and combining SFT and DPO yields substantial improvements, with gains ranging from 1.8% to 15.5% under LLM-as-a-judge evaluations across four criteria. To facilitate further research on low-resource languages -- all resources are available at https://huggingface.co/afrilang-edu.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "8fc8cede71c19e29",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech",
+      "link": "https://arxiv.org/abs/2604.21045",
+      "summary": "arXiv:2604.21045v1 Announce Type: new \nAbstract: Simultaneous speech translation (SST) generates translations while receiving partial speech input. Recent advances show that large language models (LLMs) can substantially improve SST quality, but at the cost of high computational overhead. To reduce this cost, prior work reformulates SST as a multi-turn dialogue task, enabling full reuse of the LLM's key-value (KV) cache and eliminating redundant feature recomputation. However, this approach relies on supervised fine-tuning (SFT) data in dialogue form, for which few human annotations exist, and existing synthesis methods cannot guarantee data quality. In this work, we propose a Hierarchical Policy Optimization (HPO) approach that post-train models trained on imperfect SFT data. We introduce a hierarchical reward that balances translation quality and latency objectives. Experiments on English to Chinese/German/Japanese demonstrate improvements of over +7 COMET score and +1.25 MetricX score at a latency of 1.5 seconds. Comprehensive ablation studies further validate the effectiveness of different quality rewards, hierarchical reward formulations, and segmentation strategies. Code can be found here https://github.com/owaski/HPO",
+      "published": "2026-04-24T04:00:00",
+      "_id": "6cff70c2b412030d",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping",
+      "link": "https://arxiv.org/abs/2604.21057",
+      "summary": "arXiv:2604.21057v1 Announce Type: new \nAbstract: The field of Language Reasoning Models (LRMs) has been very active over the past few years with advances in training and inference techniques enabling LRMs to reason longer, and more accurately. However, a growing body of studies show that LRMs are still inefficient, over-generating verification and reflection steps. Additionally, the high-level role of each reasoning step and how different step types contribute to the generation of correct answers, is largely underexplored. To address this challenge, we introduce TRACES (Tagging of the Reasoning steps enabling Adaptive Cost-Efficient early-Stopping), a lightweight framework that tags reasoning steps in real-time, and enable adaptive, cost-efficient early stopping of large-language-model inferences. Building on this framework we monitor reasoning behaviors during inferences, and we find that LRMs tend to shift their reasoning behavior after reaching a correct answer. We demonstrate that the monitoring of the specific type of steps can produce effective interpretable early stopping criteria. We evaluate the TRACES framework on three mathematical reasoning benchmarks, namely, MATH500, GSM8K, AIME and two knowledge and reasoning benchmarks, MMLU and GPQA respectively. We achieve 20 to 50% token reduction while maintaining comparable accuracy to standard generation.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "e17f3daaaa9cfefe",
+      "_scraped_at": "13:41"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "DWTSumm: Discrete Wavelet Transform for Document Summarization",
+      "link": "https://arxiv.org/abs/2604.21070",
+      "summary": "arXiv:2604.21070v1 Announce Type: new \nAbstract: Summarizing long, domain-specific documents with large language models (LLMs) remains challenging due to context limitations, information loss, and hallucinations, particularly in clinical and legal settings. We propose a Discrete Wavelet Transform (DWT)-based multi-resolution framework that treats text as a semantic signal and decomposes it into global (approximation) and local (detail) components. Applied to sentence- or word-level embeddings, DWT yields compact representations that preserve overall structure and critical domain-specific details, which are used directly as summaries or to guide LLM generation. Experiments on clinical and legal benchmarks demonstrate comparable ROUGE-L scores. Compared to a GPT-4o baseline, the DWT based summarization consistently improve semantic similarity and grounding, achieving gains of over 2% in BERTScore, more than 4\\% in Semantic Fidelity, factual consistency in legal tasks, and large METEOR improvements indicative of preserved domain-specific semantics. Across multiple embedding models, Fidelity reaches up to 97%, suggesting that DWT acts as a semantic denoising mechanism that reduces hallucinations and strengthens factual grounding. Overall, DWT provides a lightweight, generalizable method for reliable long-document and domain-specific summarization with LLMs.",
+      "published": "2026-04-24T04:00:00",
+      "_id": "2fa054da6a4d992d",
+      "_scraped_at": "13:41"
+    }
+  ],
+  "seen_ids": [
+    "7d7bf4a0607ffb33",
+    "3d462a37e82b391b",
+    "2fa054da6a4d992d",
+    "180cc5597a27c60a",
+    "053879854ac8dcdb",
+    "8fc8cede71c19e29",
+    "4d7643bd97c13af1",
+    "a653bd3ee6bf6868",
+    "091b61caa9d6ad3b",
+    "8dfdb6bddb2f60ec",
+    "fbfdec28cfffc04c",
+    "b8af8104c423c106",
+    "723c88989d5af1ad",
+    "6ccf7b452087d17a",
+    "154a5e7e876f18c6",
+    "b22991cdf8153c0e",
+    "6719220a430a909c",
+    "7f7c6401b1844fcc",
+    "fac519908c9358c4",
+    "bc4f25065ebf229d",
+    "8e6b6aeefff51fff",
+    "86244bb52dcdbc7e",
+    "93f43c8512a85a2c",
+    "b222054a68fd51e7",
+    "66a7d0a5ee405bb7",
+    "1b0938288101b6f8",
+    "fe370f3118dcd626",
+    "9b2b9ca7a553ae3c",
+    "9d67ce648f6a8919",
+    "057528c0bceff5fd",
+    "277cf65bf8c8d0a7",
+    "bee422cc001e2185",
+    "aac1c7d2640cd887",
+    "ff357756132e42a9",
+    "42ce5bcdd7ad396c",
+    "0f5187d118d5cccf",
+    "07c9023ad8e73645",
+    "f7f6495adda6ad16",
+    "b6f1622e36193ea0",
+    "85b0ca3c45b5c993",
+    "4e2d46ca7b7754de",
+    "6cff70c2b412030d",
+    "7bc6ab6f65340a92",
+    "966748ae703ff12a",
+    "533227aa43914c8e",
+    "08b96935929c8530",
+    "be1cb3dc7b4ad60c",
+    "cc12e34d5f78f92a",
+    "da8232909c412961",
+    "a07eb39dec044669",
+    "758fdc9831086ba5",
+    "a8b4227f060fd8ec",
+    "e8219e514869fd8f",
+    "9d08d393003b3087",
+    "fd02f90b4d79825b",
+    "0dba0c3d7be35ac4",
+    "b6955fce078890a6",
+    "9fab69c8c968c73d",
+    "8b6cc70e59fc312d",
+    "4b5ff39c88f99c81",
+    "dfe7e0c6ff398140",
+    "4286eb4691c1507d",
+    "e17f3daaaa9cfefe"
+  ],
+  "last_run": "13:41",
+  "run_count": 1
+}
