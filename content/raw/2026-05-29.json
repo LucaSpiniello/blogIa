@@ -1,0 +1,749 @@
+{
+  "date": "2026-05-29",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "published": "2026-05-29T03:00:00",
+      "_id": "1c9b44953320e0b2",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Endava builds an agentic organization with Codex",
+      "link": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "published": "2026-05-28T12:00:00",
+      "_id": "2aa7e747964e595a",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Google AI",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "published": "2026-05-29T12:00:00",
+      "_id": "952e93f8af7bdc4d",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Google AI",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "published": "2026-05-28T15:00:00",
+      "_id": "37ff2c4c3b92c68b",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "summary": "",
+      "published": "2026-05-29T00:00:00",
+      "_id": "5b02604714f8043c",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+      "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+      "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world.  At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and […]",
+      "published": "2026-05-28T13:00:51",
+      "_id": "e1b3f2254d419d85",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+      "summary": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required.  For a limited time, the game is included with the purchase of a 12‑month GeForce NOW […]",
+      "published": "2026-05-28T13:00:37",
+      "_id": "9a54079094f77ff9",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 4.8ProductMay 28, 2026An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Product Announcements Introducing Claude Opus 4.8 May 28, 2026 We’re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It’s available today for the same price. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new “dynamic workflows” feature that allows it to tackle very large-scale problems. And fast mode for Opus 4.8—where the model can work at 2.5× the speed—is now three times cheaper than it was for previous models. Opus 4.8’s capabilities The table below shows how Opus 4.8 compares to its predecessor and to other models on tests of coding, agentic skills, reasoning, and practical knowledge work tasks. More details and a much wider range of capability evaluations are provided in the Claude Opus 4.8 System Card . Collaborating with Opus 4.8 Early testers have found Claude Opus 4.8 to be more reliable and sharper in its judgement when it’s performing agentic tasks. Below are quotes from many of these testers about their experience collaborating with Opus 4.8: Claude Opus 4.8 has noticeably better judgment. In Claude Code, it asks the right questions, catches its own mistakes, pushes back when a plan isn’t sound, and builds up confidence around complex, multi-service explorations before making big changes. It’s a great model to build with. On our Super-Agent benchmark, Claude Opus 4.8 is the only model to complete every case end-to-end, beating prior Opus models and GPT-5.5 at parity on cost. For agent products in translation, deep research, slide-building, and analysis, it delivers powerful reliability. On CursorBench, Claude Opus 4.8 exceeds prior Opus models across every effort level. Tool calling is meaningfully more efficient, using fewer steps for the same intelligence, and it carries end-to-end tasks through. Claude Opus 4.8 delivers the highest score r",
+      "published": "",
+      "_id": "5348a7d239028e9b",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductApr 17, 2026Introducing Claude Design by Anthropic LabsToday, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "Product Announcements Introducing Claude Design by Anthropic Labs Apr 17, 2026 Today, we’re launching Claude Design , a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Claude Design is powered by our most capable vision model, Claude Opus 4.7 , and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers. We’re rolling out to users gradually throughout the day. Design with Claude Even experienced designers have to ration exploration—there's rarely time to prototype a dozen directions, so you limit yourself to a few. And for founders, product managers, and marketers with an idea but not a design background, creating and sharing those ideas can be daunting. Claude Design gives designers room to explore widely and everyone else a way to produce visual work. Describe what you need and Claude builds a first version. From there, you refine through conversation, inline comments, direct edits, or custom sliders (made by Claude) until it’s right. When given access, Claude can also apply your team’s design system to every project automatically, so the output is consistent with the rest of your company’s designs. Teams have been using Claude Design for: Realistic prototypes: Designers can turn static mockups into easily-shareable interactive prototypes to gather feedback and user-test, without code review or PRs. Product wireframes and mockups: Product Managers can sketch out feature flows and hand them off to Claude Code for implementation, or share them with designers to refine further. Design explorations: Designers can quickly create a wide range of directions to explore. Pitch decks and presentations: Founders and Account Executives can go from a rough outline to a complete, on-brand deck in minutes, and then export as a PPTX or send to Canva. Marketing collateral: Marketers can create landing pages, social media assets, and campaign visual",
+      "published": "",
+      "_id": "0dba0c3d7be35ac4",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "summary": "Announcements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate. We still have much to learn about the impact of AI models on the people who use them. Early research sugg",
+      "published": "",
+      "_id": "091b61caa9d6ad3b",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Anthropic",
+      "title": "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "summary": "Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation May 28, 2026 Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money. Global enterprises across industries are deploying Claude in their core operations, and a growing number of people around the world use it for their everyday work. Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month. This latest funding is expected to advance our safety and interpretability research, expand compute to meet growing demand for Claude, and scale the products and partnerships our customers rely on. “Claude is increasingly indispensable to our growing global community of customers, and we work tirelessly to make tools like Claude Code and Cowork more helpful, more powerful, and more adaptable to their needs,” said Krishna Rao, Chief Financial Officer of Anthropic. “This funding will help us serve the historic demand we are experiencing, stay at the research frontier, and bring Claude to more of the places where work happens.” The round was co-led by Capital Group, Coatue, D1 Capital Partners, GIC, ICONIQ, and XN. Significant investors in this round include AMP PBC, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity Management & Research Company, General Catalyst, Insight Partners, Jane Street, Lightspeed Venture Partners, MGX, NTTVC, NX1 Capital, Situational Awareness LP, T. Rowe Price Associates, Inc., T. Rowe Price Investment Management, Inc., and Temasek. It also includes $15 billion of previously committed investments from hyperscalers, including $5 billion from Amazon . Joining them are strategic infrastructure partners — Micron, Samsung, and SK hynix — whose technologies play a critical role in the world's supply of memory, storage, and logic ch",
+      "published": "",
+      "_id": "b5e22ae086a6b353",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "published": "2026-05-29T14:15:00",
+      "_id": "808100862796d5f6",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "published": "2026-05-29T14:00:00",
+      "_id": "110352bc4c3290db",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "published": "2026-05-29T12:00:00",
+      "_id": "fce77064b0aa4280",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "published": "2026-05-29T00:44:37",
+      "_id": "8d9d177d9af9a767",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The internet is being rebuilt for machines",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "published": "2026-05-28T21:24:01",
+      "_id": "3f9e04c7b0cae6fd",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jony Ive’s funky Ferrari",
+      "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of […]",
+      "published": "2026-05-29T12:25:12",
+      "_id": "9383011912274a38",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "The Verge",
+      "title": "This AI startup will clean your home for free to train future robots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on […]",
+      "published": "2026-05-29T11:58:40",
+      "_id": "55b0c0308dd40dbd",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "The Verge",
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a […]",
+      "published": "2026-05-29T10:00:00",
+      "_id": "cc92f35f91ab8753",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
+      "published": "2026-05-28T20:14:07",
+      "_id": "1dd18e5ec70038e3",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "The Verge",
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, […]",
+      "published": "2026-05-28T17:00:00",
+      "_id": "1c632bdf04eec24e",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "published": "2026-05-28T20:29:53",
+      "_id": "35837e574862090f",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+      "published": "2026-05-29T12:10:00",
+      "_id": "4370ddece44bdeb7",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+      "published": "2026-05-29T11:19:52",
+      "_id": "be2e408b311322c4",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+      "published": "2026-05-29T10:00:00",
+      "_id": "15c630a21b82e53b",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.  The research was published today in Science, and a startup called Rock Zero is working to…",
+      "published": "2026-05-28T18:01:00",
+      "_id": "c8fe8fc096d9c54f",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
+      "published": "2026-05-28T12:10:00",
+      "_id": "1e59e284a503a0ef",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Wired",
+      "title": "The Vatican’s Man Inside Anthropic",
+      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+      "published": "2026-05-29T15:00:00",
+      "_id": "381be700bcabc3c2",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Wired",
+      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+      "published": "2026-05-28T15:00:00",
+      "_id": "71e4053d677dcff4",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Wired",
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "published": "2026-05-28T11:00:00",
+      "_id": "fa8e38173bd8ede4",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Wired",
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "published": "2026-05-28T10:30:00",
+      "_id": "79a3e638b801efac",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "harry0703 /MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "MoneyPrinterTurbo 💸 简体中文 | English 只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。 Web界面 API界面 功能特性 🎯 完整的 MVC架构 ，代码 结构清晰 ，易于维护，支持 API 和 Web界面 支持视频文案 AI自动生成 ，也可以 自定义文案 支持多种 高清视频 尺寸 竖屏 9:16， 1080x1920 横屏 16:9， 1920x1080 支持 批量视频生成 ，可以一次生成多个视频，然后选择一个最满意的 支持 视频片段时长 设置，方便调节素材切换频率 支持 中文 和 英文 视频文案 支持 多种语音 合成，可 实时试听 效果 支持 字幕生成 ，可以调整 字体 、 位置 、 颜色 、 大小 ，同时支持 字幕描边 设置 支持 背景音乐 ，随机或者指定音乐文件，可设置 背景音乐音量 视频素材来源 高清 ，而且 无版权 ，也可以使用自己的 本地素材 支持 OpenAI 、 Moonshot 、 Azure 、 gpt4free 、 one-api 、 通义千问 、 Google Gemini 、 Ollama 、 DeepSeek 、 MiniMax 、 文心一言 , Pollinations 、 ModelScope 等多种模型接入 中国用户建议使用 DeepSeek 或 Moonshot 作为大模型提供商（国内可直接访问，不需要VPN。注册就送额度，基本够用） 视频演示 📺 竖屏 9:16 ▶️ 《如何增加生活的乐趣》 ▶️ 《金钱的作用》 更真实的合成声音 ▶️ 《生命的意义是什么》 demo-portrait-1.mp4 default.mp4 demo-portrait-2.mp4 横屏 16:9 ▶️ 《生命的意义是什么》 ▶️ 《为什么要运动》 demo-landscape.mp4 demo-landscape-2.mp4 配置要求 📦 建议系统：Windows 10 或 MacOS 11.0 以上，或主流 Linux 发行版 GPU 不是必需项，但如果你希望本地转录、更快的视频处理或更顺畅的批量生成体验，建议使用带显存的独立显卡 项目 最低配置 推荐配置 理想配置 CPU 4 核 6 到 8 核 8 核及以上 RAM 4 GB 8 GB 16 GB 及以上 GPU 非必须 4 GB 显存及以上 8 GB 显存及以上 如果你主要依赖云端 LLM、云端 TTS 和在线素材源，CPU 与内存比 GPU 更重要 如果你启用 faster-whisper 、批量生成或更重的本地处理链路，GPU 会明显提升速度 快速开始 🚀 推荐使用方式 Windows 用户：优先使用一键启动包，适合快速体验 MacOS / Linux 用户：优先使用 uv sync --frozen 进行本地部署 想要隔离运行环境：优先使用 Docker 部署 在 Google Colab 中运行 免去本地环境配置，点击直接在 Google Colab 中快速体验 MoneyPrinterTurbo Windows一键启动包 下载一键启动包，解压直接使用（路径不要有 中文 、 特殊字符 、 空格 ）\n当前提供的安装包仍是 v1.2.6 的旧打包版本，建议下载后先执行 update.bat 更新到最新代码。 百度网盘（v1.2.6）: https://pan.baidu.com/s/1wg0UaIyXpO3SqIpaq790SQ?pwd=sbqx 提取码: sbqx Google Drive (v1.2.6): https://drive.google.com/file/d/1HsbzfT7XunkrCrHw5ncUjFX8XX4zAuUh/view?usp=sharing 下载后，建议先 双击执行 update.bat 更新到 最新代码 ，然后双击 start.bat 启动 启动后，会自动打开浏览器（如果打开是空白，建议换成 Chrome 或者 Edge 打开） 安装部署 📥 前提条件 尽量不要使用 中文路径 ，避免出现一些无法预料的问题 请确保你的 网络 是正常的，VPN需要打开 全局流量 模式 ① 克隆代码 git clone https://github.com/harry0703/MoneyPrinterTurbo.git ② 修改配置文件（可选，建议启动后也可以在 WebUI 里面配置） 将 config.example.toml 文件复制一份，命名为 config.toml 按照 config.toml 文件中的说明，配置好 pexels_api_keys 和 llm_provider ，并根据 llm_provider 对应的",
+      "published": "",
+      "_id": "0604d6a7a7d7afd2",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "summary": "MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest convert_* function needed for your use case (e.g., convert_stream() , or convert_local() ). See the Security Considerations section of the documentation for more information. MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparable to textract , but with a focus on preserving important document structure and content as Markdown (including: headings, lists, tables, links, etc.) While the output is often reasonably presentable and human-friendly, it is meant to be consumed by text analysis tools -- and may not be the best option for high-fidelity document conversions for human consumption. MarkItDown currently supports the conversion from: PDF PowerPoint Word Excel Images (EXIF metadata and OCR) Audio (EXIF metadata and speech transcription) HTML Text-based formats (CSV, JSON, XML) ZIP files (iterates over contents) Youtube URLs EPubs ... and more! Why Markdown? Markdown is extremely close to plain text, with minimal markup or formatting, but still\nprovides a way to represent important document structure. Mainstream LLMs, such as\nOpenAI's GPT-4o, natively \" speak \" Markdown, and often incorporate Markdown into their\nresponses unprompted. This suggests that they have been trained on vast amounts of\nMarkdown-formatted text, and understand it well. As a side benefit, Markdown conventions\nare also highly token-efficient. Prerequisites MarkItDown requires Python 3.10 or higher. It is recommended to use a virtual environment to avoid dependency conflicts. With the standard Python installation, you can create and activate a virtual environment using the following commands: python -m venv .venv source .venv/bin/ac",
+      "published": "",
+      "_id": "dec36f96df8d997b",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "EveryInc /compound-engineering-plugin",
+      "link": "https://github.com/EveryInc/compound-engineering-plugin",
+      "summary": "Compound Engineering AI skills and agents that make each unit of engineering work easier than the last. Philosophy Each unit of engineering work should make subsequent units easier -- not harder. Traditional development accumulates technical debt. Every feature adds complexity. Every bug fix leaves behind a little more local knowledge that someone has to rediscover later. The codebase gets larger, the context gets harder to hold, and the next change becomes slower. Compound engineering inverts this. 80% is in planning and review, 20% is in execution: Plan thoroughly before writing code with /ce-brainstorm and /ce-plan Review to catch issues and calibrate judgment with /ce-code-review and /ce-doc-review Codify knowledge so it is reusable with /ce-compound Keep quality high so future changes are easy The point is not ceremony. The point is leverage. A good brainstorm makes the plan sharper. A good plan makes execution smaller. A good review catches the pattern, not just the bug. A good compound note means the next agent does not have to learn the same lesson from scratch. Learn more Full component reference - all agents and skills Compound engineering: how Every codes with agents The story behind compounding engineering Workflow /ce-strategy is upstream of the loop -- it captures the product's target problem, approach, persona, metrics, and tracks as a short durable anchor at STRATEGY.md . Ideate, brainstorm, and plan read it as grounding when present, so strategy choices flow into feature conception, prioritization, and spec. The core loop is: brainstorm the requirements, plan the implementation, work through the plan, review the result, compound the learning, then repeat with better context. Use /ce-ideate before the loop when you want the agent to generate and critique bigger ideas before choosing one to brainstorm. It produces a ranked ideation artifact, not requirements, plans, or code. Skill Purpose /ce-strategy Create or maintain STRATEGY.md -- the product's ta",
+      "published": "",
+      "_id": "47dca59f5e85d3b9",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "twentyhq /twenty",
+      "link": "https://github.com/twentyhq/twenty",
+      "summary": "The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves. Twenty is the CRM you build, ship, and version like the rest of your stack. Learn more about why we built Twenty Installation Cloud The fastest way to get started. Sign up at twenty.com and spin up a workspace in under a minute, with no infrastructure to manage and always up to date. Build an app Scaffold a new app with the Twenty CLI: npx create-twenty-app my-app Define objects, fields, and views as code: import { defineObject , FieldType } from 'twenty-sdk/define' ; export default defineObject ( { nameSingular : 'deal' , namePlural : 'deals' , labelSingular : 'Deal' , labelPlural : 'Deals' , fields : [ { name : 'name' , label : 'Name' , type : FieldType . TEXT } , { name : 'amount' , label : 'Amount' , type : FieldType . CURRENCY } , { name : 'closeDate' , label : 'Close Date' , type : FieldType . DATE_TIME } , ] , } ) ; Then ship it to your workspace: npx twenty app:publish --private See the app development guide for objects, views, agents, and logic functions. Self-hosting Run Twenty on your own infrastructure with Docker Compose , or contribute locally via the local setup guide . Everything you need Twenty gives you the building blocks of a modern CRM (objects, views, workflows, and agents) and lets you extend them as code. Here's a tour of what's in the box. Want to go deeper? Read the User Guide for product walkthroughs, or the Documentation for developer reference. Learn more about apps in doc Learn more about version control in doc Learn more about primitives in doc Learn more about layouts in doc Learn more about AI in doc Learn more about CRM features in doc Stack TypeScript Nx NestJS , with BullMQ , PostgreSQL , Redis React , with Jotai , Linaria and Lingui Thanks Thanks to these amazing services that we use and recommend for UI",
+      "published": "",
+      "_id": "a20220596b25af30",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github. Learn more in the official documentation . Get started Note Installation via npm is deprecated. Use one of the recommended methods below. For more installation options, uninstall steps, and troubleshooting, see the setup documentation . Install Claude Code: MacOS/Linux (Recommended): curl -fsSL https://claude.ai/install.sh | bash Homebrew (MacOS/Linux): brew install --cask claude-code Windows (Recommended): irm https: // claude.ai / install.ps1 | iex WinGet (Windows): winget install Anthropic.ClaudeCode NPM (Deprecated): npm install -g @anthropic-ai/claude-code Navigate to your project directory and run claude . Plugins This repository includes several Claude Code plugins that extend functionality with custom commands and agents. See the plugins directory for detailed documentation on available plugins. Reporting Bugs We welcome your feedback. Use the /bug command to report issues directly within Claude Code, or file a GitHub issue . Connect on Discord Join the Claude Developers Discord to connect with other developers using Claude Code. Get help, share feedback, and discuss your projects with the community. Data collection, usage, and retention When you use Claude Code, we collect feedback, which includes usage data (such as code acceptance or rejections), associated conversation data, and user feedback submitted via the /bug command. How we use your data See our data usage policies . Privacy safeguards We have implemented several safeguards to protect your data, including limited retention periods for sensitive information, restricted access to user session data, and clear policies against using feedback for model training. For full details, please review our ",
+      "published": "",
+      "_id": "13d96f6971fff698",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "Leonxlnx /taste-skill",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "Taste Skill The Anti-Slop Frontend Framework for AI Agents Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (web, mobile, brand kits). Pair them with ChatGPT Images or similar generators, then hand the frames to Codex, Cursor, or Claude Code for implementation. Disclaimer Taste Skill has no official token, coin, or crypto project. Any token using my name, image, or project is unaffiliated and not endorsed by me. Disclaimer · Install · Skills · Settings · Examples · Sponsor · Research · FAQ · License Feedback & Contributions We would love your feedback. Suggestions and bug reports: Open a Pull Request or Issue on GitHub DM @lexnlin or @blueemi99 Email us at hello@tasteskill.dev Installing The npx skills add CLI scans the skills/ folder in this repo, so all skills below (code and image-generation) install the same way. npx skills add https://github.com/Leonxlnx/taste-skill Install a single skill by its install name (the name: field inside the SKILL frontmatter, not the folder name): npx skills add https://github.com/Leonxlnx/taste-skill --skill \" design-taste-frontend \" You can also copy any SKILL.md into your project or paste it into ChatGPT / Codex conversations. Updating from the previous version The default taste-skill (install name design-taste-frontend ) is now v2 (experimental) , a substantial rewrite of the original v1. If you already have v1 installed, just re-run the install command and you will be upgraded: npx skills add https://github.com/Leonxlnx/taste-skill --skill \" design-taste-frontend \" The install name did not change, so no script updates are needed. The newer SKILL.md replaces the older one in place. If you depend on the exact behavior of v1 and want to pin to it explicitly: npx skills add https://github.com/Leonxlnx/taste-skill --skill \" design-taste-frontend-v1 \" See CHANGELOG.md for the",
+      "published": "",
+      "_id": "291d5eb46511b79f",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "cursor /plugins",
+      "link": "https://github.com/cursor/plugins",
+      "summary": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit Cursor Team Kit Cursor Developer Tools Internal team workflows used by Cursor developers for CI, code review, shipping, local automation, and verification. thermos Thermos Cursor Developer Tools Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, thermos orchestration, and optional merge-ready PR flows. create-plugin Create Plugin Cursor Developer Tools Scaffold and validate new Cursor plugins. agent-compatibility Agent Compatibility Cursor Developer Tools CLI-backed repo compatibility scans plus Cursor agents that audit startup, validation, and docs against reality. cli-for-agent CLI for Agents Cursor Developer Tools Patterns for designing CLIs that coding agents can run reliably: flags, help with examples, pipelines, errors, idempotency, dry-run. pr-review-canvas PR Review Canvas Cursor Developer Tools Render PR diffs as interactive Cursor Canvases organized for reviewer comprehension — groups changes by importance, separates boilerplate from core logic, and highlights tricky or unexpected code. docs-canvas Docs Canvas Cursor Developer Tools Render documentation — architecture notes, API references, runbooks, and codebase walkthroughs — as a navigable Cursor Canvas with sections, table of contents, diagrams, and cross-references. cursor-sdk Cursor SDK Cursor Developer Tools Build apps, scripts, CI pipelines, and automations on top of the Cursor TypeScript SDK (@cursor/sdk) — runtime selection, auth, streaming, MCP, error handling, and ready-to-extend integration ",
+      "published": "",
+      "_id": "a50d216def4cada3",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "run-llama /liteparse",
+      "link": "https://github.com/run-llama/liteparse",
+      "summary": "LiteParse | | | | | | Docs Looking for LiteParse V1? Follow this link to the old code LiteParse is a standalone OSS PDF parsing tool focused exclusively on fast and light parsing. It provides high-quality spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies. Everything runs locally on your machine. Hitting the limits of local parsing? For complex documents (dense tables, multi-column layouts, charts, handwritten text, or\nscanned PDFs), you'll get significantly better results with LlamaParse ,\nour cloud-based document parser built for production document pipelines. LlamaParse handles the\nhard stuff so your models see clean, structured data and markdown. Sign up for LlamaParse free Overview Fast Text Parsing : Spatial text parsing using PDFium Flexible OCR System : Built-in : Tesseract (zero setup, bundled with the library) HTTP Servers : Plug in any OCR server (EasyOCR, PaddleOCR, custom) Standard API : Simple, well-defined OCR API specification Screenshot Generation : Generate high-quality page screenshots for LLM agents Multiple Output Formats : JSON and Text Bounding Boxes : Precise text positioning information Multi-language : Use from Rust, Node.js/TypeScript, Python, or the browser (WASM) Multi-platform : Linux, macOS (Intel/ARM), Windows flowchart LR\n      subgraph Input[\"Input Formats\"]\n          direction TB\n          PDF[\"PDF\"]\n          DOCX[\"DOCX\"]\n          XLSX[\"XLSX\"]\n          PPTX[\"PPTX\"]\n          IMG[\"Images\"]\n      end\n\n      subgraph Core[\"Rust Core\"]\n          direction TB\n          CONV[\"Format Conversion\\nLibreOffice / ImageMagick\"]\n          EXTRACT[\"Text Extraction\\nPDFium C library\"]\n          OCR[\"Selective OCR\\nTesseract / HTTP / Custom\"]\n          MERGE[\"OCR Merge\\nNative text + OCR results\"]\n          PROJ[\"Grid Projection\\nSpatial layout reconstruction\"]\n          CONV --> EXTRACT\n          EXTRACT --> OCR --> MERGE --> PROJ\n          EXTRACT --> MERGE\n      end\n\n      subgraph Output[\" Outpu",
+      "published": "",
+      "_id": "8ba92212f68080ea",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "galilai-group /stable-worldmodel",
+      "link": "https://github.com/galilai-group/stable-worldmodel",
+      "summary": "stable-worldmodel A platform for reproducible world model research and evaluation. Installation · Quick Start · Environments · Solvers & Baselines · Documentation · Paper · Citation stable-worldmodel provides a single, unified interface for the three stages of world model research — collecting data , training , and evaluating with model-predictive control — across a large suite of standardized environments. It ships with reference implementations of common baselines and planning solvers so research code can stay focused on the contribution that matters: the model and the objective. Installation From PyPI: pip install stable-worldmodel # base only pip install ' stable-worldmodel[all] ' # + training, environments, and data formats LeRobot dataset support is a separate opt-in extra (requires Python 3.12+): pip install 'stable-worldmodel[lerobot]' . From source (development): git clone https://github.com/galilai-group/stable-worldmodel cd stable-worldmodel\nuv venv --python=3.10 && source .venv/bin/activate\nuv sync --extra all --group dev Datasets and checkpoints are stored under $STABLEWM_HOME (defaults to ~/.stable_worldmodel/ ). Override the variable to point at your preferred storage location. The library is in active development. APIs may change between minor versions. Quick Start import stable_worldmodel as swm from stable_worldmodel . policy import WorldModelPolicy , PlanConfig from stable_worldmodel . solver import CEMSolver # 1. Collect a dataset world = swm . World ( \"swm/PushT-v1\" , num_envs = 8 ) world . set_policy ( your_expert_policy ) world . collect ( \"data/pusht_demo.lance\" , episodes = 100 , seed = 0 ) # 2. Load it and train your world model (format is autodetected) dataset = swm . data . load_dataset ( \"data/pusht_demo.lance\" , num_steps = 16 ) world_model = ... # your model # 3. Evaluate with model-predictive control solver = CEMSolver ( model = world_model , num_samples = 300 ) policy = WorldModelPolicy ( solver = solver , config = PlanConfig ( horiz",
+      "published": "",
+      "_id": "2394051d5e352ea3",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "GitHub",
+      "title": "byoungd /English-level-up-tips",
+      "link": "https://github.com/byoungd/English-level-up-tips",
+      "summary": "简体中文 | English 谨以此献给我曾今的挚爱 W. 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。 项目介绍 An advanced guide to learn English which might benefit you a lot. 离谱的英语学习指南/英语学习教程 。 推荐资源：ku0.com - 库 如果你在使用本指南里的 AI 学习方案时，需要更稳定、可信的 AI 账户与接口资源，可以看看我们的产品： ku0.com - 库 。 ku0.com 是一个可信任 AI 资源库，可一站式获取 ChatGPT 、 Claude 、 Gemini 账户充值、成品号和号池资源。我们用 Token 质检和统一网关筛掉不稳定、掺水、冒名的中转服务，并通过可信账户资源、质检报告和接入记录，帮助你降低 AI 使用成本与采购风险。 背景 你好啊朋友，欢迎来到 离谱的英语学习指南 。 当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。 时间回到 2017 年 7 月初，备考托福的女神 W. 问了我一个问题： 如何高效学习英语？ 在我思考如何回答这个问题时，回想起我在大四一学期一次性考过 26 门课的经验（其中重修 19 门，当前学期 7 门），再加上本人 英语 和 语文 两门学科曾 侥幸 在高考时摘得省第一（江苏卷），或许我勉强有资格提供一些 高效学习 的 小技巧 ，权当抛砖引玉。 与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些 不可取之处 。 于是我写了一篇简单的文章零散地介绍了下我学习英语的心得体会，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。 在此之前，我并不知道原来有那么多同学在学习英语的这件事上磕磕绊绊。 他们甚至从未想过： 英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样 。 我由衷地希望大家能 热爱 学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意思却是相似的)： The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it. 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。 热爱之于学习 ，同样如此。 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南， 真心希望本指南能给你带来一点小小的帮助 。 英语水平等级 本图主要参考 Global scale - Table 1 (CEFR 3.3): Common Reference levels 特色 章节 新增的 AI 章节已经更新为 2026 版，重点不再只是通用 Prompt，而是更系统地回答： 为什么现在更推荐把 Gemini 作为英语学习主引擎 如何把 Gem / Live / Guided Learning / Canvas / quiz / flashcards 串成完整训练流程 除了 Gemini 之外， ChatGPT / Claude / Perplexity / DeepL Write 应该如何分工使用 怎样设计真正能长期起作用的听说读写训练回路 如果你想把 AI 真正变成英语学习的加速器，而不只是偶尔帮你翻译两句，这一章值得重点看。 我的故事 感谢 感谢所有关心以及为这份指南做出贡献的人 ❤️ 番外篇 聊聊我的个人成长经历中的爱情部分，欢迎查阅 离谱的前女友们 如果你想看我在创业失败后那段时间的真实经历，也可以读这篇： 我的故事 在线阅读 知乎 离谱的英语学习指南 GitHub Pages English-level-up-tips GitBook English-level-up-tips 转载声明 转载本指南，请注明作者与 GitHub 链接，谢谢！ 协议/License 本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。 特别声明 有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一",
+      "published": "",
+      "_id": "6fc77bdc5b8a25da",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Please Use AI",
+      "link": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "summary": "Article URL:https://shawnsmucker.substack.com/p/please-use-aiComments URL:https://news.ycombinator.com/item?id=48323101Points: 548# Comments: 217",
+      "published": "2026-05-29T13:50:25",
+      "_id": "491fb39bc5a409f7",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "link": "https://github.com/scanaislop/aislop",
+      "summary": "Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops. They aren’t syntax and passes most tests, they are patterns like empty catch blocks, useless comments, duplicated helpers, dead code and many more. So I built a tool to scan and check for these patterns and wired it into hooks so after each tool call, the agent checks for the slops.You can try it out with npx aislop scan.It’s all local and no code is transferred. Thank you.Comments URL:https://news.ycombinator.com/item?id=48322956Points: 62# Comments: 51",
+      "published": "2026-05-29T13:37:38",
+      "_id": "fc50449bb3fe4c63",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "summary": "Article URL:https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/Comments URL:https://news.ycombinator.com/item?id=48321631Points: 158# Comments: 159",
+      "published": "2026-05-29T11:09:32",
+      "_id": "0a88c1447f0de47a",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "summary": "Article URL:https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/Comments URL:https://news.ycombinator.com/item?id=48321076Points: 114# Comments: 59",
+      "published": "2026-05-29T09:47:23",
+      "_id": "34a4865aee9bd38e",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "link": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "summary": "Article URL:https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/Comments URL:https://news.ycombinator.com/item?id=48320985Points: 56# Comments: 83",
+      "published": "2026-05-29T09:34:37",
+      "_id": "63fa07b193015168",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "summary": "Article URL:https://buildingbetter.tech/p/i-read-the-claude-code-source-codeComments URL:https://news.ycombinator.com/item?id=48318174Points: 267# Comments: 53",
+      "published": "2026-05-29T02:13:20",
+      "_id": "0c0f485ce8f9c9a0",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft data suggests using AI is more expensive than hiring people",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+      "summary": "Article URL:https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.htmlComments URL:https://news.ycombinator.com/item?id=48317563Points: 65# Comments: 14",
+      "published": "2026-05-29T00:49:05",
+      "_id": "ad52d40f6a298995",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "summary": "Article URL:https://minimaxir.com/2026/05/openrouter-hy3/Comments URL:https://news.ycombinator.com/item?id=48317294Points: 88# Comments: 75",
+      "published": "2026-05-29T00:09:35",
+      "_id": "7346742db1280348",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+      "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+      "summary": "Article URL:https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6Comments URL:https://news.ycombinator.com/item?id=48315583Points: 64# Comments: 17",
+      "published": "2026-05-28T21:14:22",
+      "_id": "72f7b2076a0177fa",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "summary": "https://archive.ph/50zy3Comments URL:https://news.ycombinator.com/item?id=48314363Points: 223# Comments: 173",
+      "published": "2026-05-28T19:43:14",
+      "_id": "4f322fedc2ea7e5e",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "ICML paper checker is down? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr127y/icml_paper_checker_is_down_d/",
+      "summary": "I was getting ready to upload my camera-ready paper to ICML (few minutes before the deadline... no comments), but the paper checker site seemingly went down before I could finish... I emailed the publication chairs already but i just wanted to know if anyone else was in the same situation, and if there's anything else I should do.submitted by/u/KiddWantidd[link][comments]",
+      "published": "2026-05-29T12:57:09",
+      "_id": "00529734ce9450da",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
+      "summary": "Just wanted to share my research regarding probe-targeted fine-tuning (LoRa) for verbal confidence calibration.,If you probe the hidden states of an instruct-tuned LLM, it can tell correct from incorrect answers at 0.76–0.88 AUROC. But when you ask it directly it tends to respond with confidence at 99% for everything. The model knows if it actually knows but it won't admit it.I took the probe's output and used it as fine-tuning targets. This teaches the model to say out loud what it already knows internally. LoRA, few hundred examples, under 10 minutes on an M3 Ultra.I tested on 8 models across 4 families (7B–70B).Activation patching shows it's actually causal. Not just a correlation. If you swap hidden states at the confidence position you can watch confidence shift (ρ = 0.976 layer gradient). If swap occurs at a random position then nothing happens.At 70B, the softmax distribution carries valid metacognitive signal but the argmax text is still stuck at 99% confident. The model learned the routing internally but can't get pass the text bottleneck.Seed-level replication across 3 models . The discrimination is stable, but theshapeof the confidence distribution is seed-sensitive.I pre-registered this across 2 studies (with noted deviations) and have all my code available (Code: github.com/synthiumjp/metacog-engineering). I tried to make it as rigourous and replicable as possible. The pre-print is here:https://zenodo.org/records/20436841submitted by/u/Synthium-[link][comments]",
+      "published": "2026-05-29T05:15:10",
+      "_id": "bab5653012ee0000",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/",
+      "summary": "We built a monokernel that runs the full decode sequence as one GPU-resident program on AMD MI300X, with some neat optimizations. The die topology is central to the result, we map memory access patterns to the physical layout, compute units group by their associated IOD, and the hardware runs at its full design performance.Up to 3,300 output tokens/s per request, batch size 1, no speculative decoding, no quantization, on 8x MI300X.This preview runs a small 2B coding model, and we plan to support large frontier MoE in the future.Technical deep dive:https://blog.kog.ai/building-a-single-kernel-latency-optimized-llm-inference-engine-on-amd-mi300x-gpusTry it:https://playground.kog.aisubmitted by/u/averne_[link][comments]",
+      "published": "2026-05-29T08:54:29",
+      "_id": "8ce7d23bd09c87c6",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "llama: use f16 mask for FA to save VRAM by am17an · Pull Request #23764 · ggml-org/llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqupcr/llama_use_f16_mask_for_fa_to_save_vram_by_am17an/",
+      "summary": "now you can download more VRAM ;) (by downloading new llama.cpp version)submitted by/u/jacek2023[link][comments]",
+      "published": "2026-05-29T07:49:27",
+      "_id": "e3cde25e7765026e",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Beware!! Users trying to fork and steal your projects",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqnx5n/beware_users_trying_to_fork_and_steal_your/",
+      "summary": "Context!Useru/Worried_Goat_8604claimed to have made a similar but unrelated project to my SmallCode. He framed it as \"I made this before you, but we can collab if you make me co-founder\".In reality, he made a low effort fork of MY project 2 days ago and is trying to peddle it off as his own!!Beware of people trying to takeover your project like this. It really is an unneeded stain on the open source community that scammers like this are out here trying to leech off other people's hard work!My repo:SmallCodeHis fork:LightAgentsubmitted by/u/Glittering_Focus1538[link][comments]",
+      "published": "2026-05-29T02:12:09",
+      "_id": "ddfec95f41bd58d9",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "StepFun 3.7 Flash",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+      "summary": "StepFun dropped Step 3.7 Flash, 196B total / 11B active MoE, runs locally on 128GB RAMIt's a multimodal MoE (196B total params, only 11B active) with a built-in 1.8B ViT for vision.Benchmark highlights vs. other flash-tier models:- SWE-Bench Pro: 56.26% (beats DeepSeek V4 Flash at 55.6%, matches Gemini 3.5 Flash at 55.1%)- DeepSearchQA F1: 92.82%, competitive with GPT 5.5 (93.98%)- HLE w/ tools: 47.2%, solid for a flash-class modelEssentially punches well above its active parameter weight on agentic and coding tasks. If you've got the RAM for it, looks like a genuinely interesting local option, especially for agent workflows.Available on OpenRouter and NVIDIA NIM if you don't want to self-host.submitted by/u/Everlier[link][comments]",
+      "published": "2026-05-29T00:32:52",
+      "_id": "caba8d3281cc37da",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Liquid AI releases LFM2.5-8B-A1B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqqnsl/liquid_ai_releases_lfm258ba1b/",
+      "summary": "Liquid AI released LFM2.5-8B-A1B, an edge model designed to power real-life applications.It builds on LFM2-8B-A1B with three major upgrades: an expanded 128K context window, 38T tokens of pre-training (up from 12T), and large-scale reinforcement learning. It also comes with a doubled vocabulary to improve tokenization for non-Latin languages.The result is a model that chains tool calls, completes complex tasks, and fits comfortably on an entry-level laptop.The model is available on HF >https://huggingface.co/LiquidAI/LFM2.5-8B-A1Bsubmitted by/u/PauLabartaBajo[link][comments]",
+      "published": "2026-05-29T04:17:10",
+      "_id": "6798b4b353ba3ced",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "A moment of thanks for DeepSeek",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqyl20/a_moment_of_thanks_for_deepseek/",
+      "summary": "Even when I'm not using their models, they're sharing their R&D which benefits the whole ecosystem and consumers, esp. those that make AI cheaper and more efficient. And by setting low prices, they are pushing costs down and reducing prices for us all.submitted by/u/DeltaSqueezer[link][comments]",
+      "published": "2026-05-29T11:13:22",
+      "_id": "3fd6b55ad59fbe9f",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Microsoft data suggests using AI is more expensive than hiring people",
+      "link": "https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/",
+      "summary": "submitted by/u/Hot-Upstairs9603[link][comments]",
+      "published": "2026-05-29T00:48:14",
+      "_id": "1c83c948a5fd9354",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Your brain does on 20 watts what AI needs a nuclear reactor to attempt. Last week a team figured out how to print something that actually speaks to living brain cells.",
+      "link": "https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/",
+      "summary": "Amazon bought a 960 megawatt nuclear reactor for AI servers. Microsoft restarted Three Mile Island. Stargate is spending 500 billion dollars on data centres. All of this to do, badly, what your brain does for free on the power of a dim light bulb.The reason is that silicon processes information nothing like the brain does. Rigid chips with identical transistors trying to mimic something soft, three dimensional, constantly rewiring itself, with billions of different neurons each doing something slightly different.Northwestern University just published research showing they printed artificial neurons from MoS2 and graphene ink that produced biologically realistic electrical spikes. They tested on living mouse brain cells. The brain responded as if the signal came from one of its own cells.The breakthrough was accidental. Every other lab had been burning away the polymer residue left in the ink after printing. This team kept it. That residue created the switching behaviour that made the spikes biologically realistic.The neuromorphic computing implications here seem significant. If you can print devices that process information the way neurons do at scale, the energy math changes completely.submitted by/u/filmguy_1987[link][comments]",
+      "published": "2026-05-29T15:01:27",
+      "_id": "193bccfd0c363f0d",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Google reached AGI ?🚨🚨",
+      "link": "https://www.reddit.com/r/artificial/comments/1tqimus/google_reached_agi/",
+      "summary": "submitted by/u/armend7[link][comments]",
+      "published": "2026-05-28T22:25:42",
+      "_id": "56821d76ae29ef95",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Anthropic overtakes OpenAI as the most valuable AI startup at $965B",
+      "link": "https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/",
+      "summary": "submitted by/u/CostaGraphic[link][comments]",
+      "published": "2026-05-29T12:28:48",
+      "_id": "b1850452dc5c2724",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
+      "link": "https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/",
+      "summary": "submitted by/u/esporx[link][comments]",
+      "published": "2026-05-29T05:43:20",
+      "_id": "64f4f4d2d551a351",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+      "link": "https://arxiv.org/abs/2605.28849",
+      "summary": "arXiv:2605.28849v1 Announce Type: new \nAbstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD methods typically use the feature covariance metric, whereas hybrid TD methods suggest that behavior-policy transition information can provide a more informative update geometry. This paper proposes a behavior-induced Mirror-Prox temporal-difference method, called STHTD-MP, which replaces the covariance metric in the primal-dual saddle-point formulation with the symmetric part of the behavior-policy Bellman matrix. The method keeps a single learning rate for the primal and auxiliary variables and applies a Mirror-Prox prediction-correction step to the resulting hybrid saddle-point operator. We provide a formal convergence analysis for fixed-policy linear prediction under standard stochastic approximation assumptions: the behavior-induced metric is positive definite, the joint mean system is Hurwitz, boundedness follows from a Lyapunov argument, and the stochastic recursion converges by the ODE method. We further derive projected-oracle ergodic gap bounds and an exact mean-operator comparison with GTD2-MP based on the spectral radius of the deterministic Mirror-Prox error matrix. The analysis shows that STHTD-MP can have a smaller mean contraction factor than GTD2-MP when the behavior-induced metric improves the saddle-point geometry. Exact numerical mean-operator analysis on two-state, Random Walk, and Boyan Chain benchmarks supports this condition, while Baird's counterexample is identified as a singular boundary case where the strict assumptions fail.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "0f0cdf62a679d4f1",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+      "link": "https://arxiv.org/abs/2605.28855",
+      "summary": "arXiv:2605.28855v1 Announce Type: new \nAbstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear prediction setting, which is the standard local model for understanding the feature-space dynamics of value-function approximation. We first replace the TDC auxiliary matrix (C) by the behavior Bellman matrix (A_\\mu), yielding BA-TDC, and then regularize the same behavior-aware equation to obtain BA-TDRC. This two-step construction separates the contribution of behavior-aware geometry from the contribution of regularization. The linear analysis also provides a tractable model for an auxiliary-geometry design question that arises in neural-network value approximation, where feature covariances and temporal transition matrices jointly shape the last-layer correction dynamics. We give a finite-state mean-system formulation, prove fixed-point preservation and almost-sure convergence under a Hurwitz stability condition on the instantiated mean system, and compare deterministic mean rates through the spectral radius of the exact linear error recursion. Experiments on the two-state counterexample, Baird's counterexample, Random Walk, and Boyan Chain show that the behavior-aware replacement can be highly beneficial by itself on some tasks, but that regularization is necessary for robust performance across harder settings.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "b9e8b7d7b0e7503c",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+      "link": "https://arxiv.org/abs/2605.28864",
+      "summary": "arXiv:2605.28864v1 Announce Type: new \nAbstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matched data, matched optimizer and schedule) on WikiText-103, CCT reaches 21.27 validation perplexity, compared with 24.19 for an identically fine-tuned GPT-2 Small baseline. The architecture therefore contributes a 2.92 PPL (12% relative) reduction beyond what in-domain fine-tuning alone provides. A retrain-from-scratch ablation that holds GT-Full simplicial message passing bypassed across the entire seven-phase activation schedule reaches 23.72 PPL, localizing 84% of the architectural improvement (2.45 of 2.92 PPL) to GT-Full. We present the first ablation-validated evidence that simplicial message passing improves language-model perplexity at the 306M-parameter scale on WikiText-103. Published GPT-2 Large reaches 22.05 zero-shot PPL on WikiText-103 with 6.2x more parameters than GPT-2 Small; this paper treats that number as an external published reference, not as the architectural benchmark. Three negative results on consistency-style categorical priors (sheaf smoothing, adjunction round-trip, curvature regularization) and the joint structural-prior result for GT-Full and PrecisionWeightedPP together support an empirical pattern termed the *structure/consistency distinction*, in which categorical priors that add new topology improve language modeling and those that enforce a consistency identity do not.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "7ac216dd37bc3603",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+      "link": "https://arxiv.org/abs/2605.28883",
+      "summary": "arXiv:2605.28883v1 Announce Type: new \nAbstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical forests, Ultra-Reduced-Impact-Encased-Logging (URIEL). This new method is based on heli-logging techniques combined with intensive use of robotics and AI integrated with post-harvest silvicultural treatments performed by drones. The concept of appropriate equipment for this method was developed, dimensions were determined, details were completed in a digital proof of concept, and an effective digital simulation and economic feasibility analysis were carried out for various helicopter-timber-distance combinations. The results demonstrated that a URIEL method has high economic viability and makes it possible to virtually eliminate collateral damage to forests while maintaining ecosystem services. The main conclusion of this paper is that, despite the satisfactory scientific and technological results, the feasibility of a Uriel method depends on the integration of stakeholders intrinsic to the context: high-tech industry; political governments; certified logging companies; and native populations.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "466c559fcf44c28f",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "link": "https://arxiv.org/abs/2605.28897",
+      "summary": "arXiv:2605.28897v1 Announce Type: new \nAbstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assistance, but also that authors use LLMs to revise their papers before submitting. In this work, we perform empirical experiments on papers from the 2025 ACL Rolling Review (ARR) to evaluate LLM reviews from both the author and the reviewer perspective. First, we identify a limited alignment of LLM reviews with human ones. In the best-case scenario, the alignment is reasonable. However, we also find that LLM-human alignment varies substantially across prompts and models. Finally, we investigate the scenario in which the author uses an iterative draft-revise workflow to improve the submission according to the LLM review. We find that this \"gaming\" of LLM reviews can be effective in specific scenarios, leading to a statistically significant increase of overall scores for up to 35\\% of papers. We publish our code: https://github.com/uhh-hcds/reviewarcade.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "78187448be764806",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment",
+      "link": "https://arxiv.org/abs/2605.27374",
+      "summary": "arXiv:2605.27374v1 Announce Type: new \nAbstract: Recent advances in multimodal large language models (MLLMs) and diffusion models (DMs) have opened new possibilities for AI-generated content. Yet, personalized cover image generation remains underexplored, despite its critical role in boosting user engagement on digital platforms. We propose ICG, a novel framework that integrates MLLM-based prompting with personalized preference alignment to generate high-quality, contextually relevant covers. ICG extracts semantic features from item titles and reference images via meta tokens, refines them with user embeddings, and injects the resulting personalized context into the diffusion model. To address the lack of labeled supervision, we adopt a multi-reward learning strategy that combines public aesthetic and relevance rewards with a personalized preference model trained from user behavior. Unlike prior pipelines relying on handcrafted prompts and disjointed modules, ICG employs an adapter to bridge MLLMs and diffusion models for end-to-end training. Experiments demonstrate that ICG significantly improves image quality, semantic fidelity, and personalization, leading to stronger user appeal and offline recommendation accuracy in downstream tasks. As a plug-and-play adapter bridging MLLMs and diffusion models, ICG is compatible with common checkpoints and requires no ground-truth labels during optimization.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "00ca21567eecf381",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "LCO: LLM-based Constraint Optimization for Safer Agentic LLMs in Real-world Tasks",
+      "link": "https://arxiv.org/abs/2605.27375",
+      "summary": "arXiv:2605.27375v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly acting as autonomous agents, but their continuous interaction with the environment can lead to in-context reward hacking (ICRH), a phenomenon where LLMs iteratively optimize their behavior to maximize proxy objectives, inadvertently producing harmful side effects. Existing defense methods are insufficient to address this risk, as ICRH arises not from adversarial inputs but from the model's own over-optimization. To mitigate this issue, we propose \\textbf{LLM-based Constraint Optimization (LCO)}, a framework that effectively reduces ICRH without model fine-tuning. LCO consists of two modules: \\textit{self-thought module}, which guides the LLM to proactively deliberate and integrate potential safety constraints before execution; and \\textit{evolutionary sampling module}, which employs LLM-based crossover and mutation to constrain the model's actions within a safe solution space while maintaining task performance. Experimental results demonstrate that LCO substantially alleviates ICRH in both output-refine and policy-refine scenarios. In particular, on the tweet engagement optimization task, LCO achieves a 39% reduction in the Toxicity Growth Rate (TGR) on GPT-4, while on the policy optimization benchmark, it reduces the ICRH Occurrence Rate by 15.23%, demonstrating safety improvement without sacrificing task performance.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "56adf7c9d3d77cb5",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Unlocking Fine-Grained and Within-Utterance Speaking Style Control in Prompt-Based Text-to-Speech Models",
+      "link": "https://arxiv.org/abs/2605.27376",
+      "summary": "arXiv:2605.27376v1 Announce Type: new \nAbstract: While prompt-based text-to-speech (TTS) models enable natural language-driven speaking style control, they often provide limited fine-grained control and apply a single global style across an utterance. This restricts practical use cases that require continuous style attribute interpolation across utterances and time-varying style transitions within a single utterance. In this paper, we propose novel techniques to achieve both capabilities in existing prompt-based TTS models. For inter-utterance style interpolation, we compute direction vectors between contrastive style prompts in the embedding space and perform simple interpolation, enabling smooth transitions between style characteristics. For intra-utterance style transition, we first identify a strong attention bias toward early tokens in autoregressive TTS decoders, causing the initial audio realization to dominate subsequent generation. To mitigate this effect, we introduce KV-cache swapping and sliding-window attention masking. Experiments demonstrate that our proposed inter-utterance interpolation achieves a 99-100% success rate in gender conversion, up to 36 Hz pitch variation, and up to 1.6 syllables-per-second speed change. Our intra-utterance transition maintains a speaker similarity of 0.81-0.91 and achieves perceptual smoothness scores of 3.48-4.48.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "74c29245972ab061",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Enhancing LLM Medical Coding with Structured External Knowledge",
+      "link": "https://arxiv.org/abs/2605.27377",
+      "summary": "arXiv:2605.27377v2 Announce Type: new \nAbstract: Accurate medical coding requires consulting authoritative resources such as the ICD tabular list and coding guidelines. Existing LLM-based automated methods largely rely on LLMs' internal knowledge, which is prone to hallucination and cannot keep pace with guideline updates. We introduce RAG-Coding, an agentic, training-free method that augments LLMs with structured external knowledge: the tabular list is encoded as a knowledge graph capturing hierarchical and instructional code relationships, and the guidelines are distilled into concise, code-specific summaries rather than retrieved as raw text. To enable our study, we also introduce MDACE-2025, expert re-annotations of the MDACE dataset under the 2025 ICD-10-CM/PCS guidelines, adding code sequencing and justification comments. On MDACE, RAG-Coding outperforms the best LLM-based baseline by 3--13\\% in micro-F1 across five LLM backbones, and achieves comparable micro- and macro-F1 to the supervised state-of-the-art, with higher recall ($+$11\\%) at the cost of precision ($-$6\\%). On MDACE-2025, RAG-Coding outperforms all baselines, demonstrating effective generalisation to updated guidelines. Ablations confirm stepwise gains, highlighting the importance of integrating structured external knowledge for LLM-based medical coding.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "4c1a140aac623fd5",
+      "_scraped_at": "15:42"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis",
+      "link": "https://arxiv.org/abs/2605.27378",
+      "summary": "arXiv:2605.27378v1 Announce Type: new \nAbstract: Dental image analysis plays a pivotal role in supporting accurate diagnosis and treatment planning in oral healthcare. Although recent advances have produced dental AI models for specific tasks and individual imaging modalities, their isolated designs limit practical use in real-world clinical workflows. In this paper, we present OralAgent, the first dental-specialized AI agent that unifies multimodal reasoning, tool-based decision-making, and knowledge-grounded retrieval within an end-to-end automated framework. It integrates 22 visual analysis tools and 368 widely-used classical dental textbooks, enabling autonomous reasoning, planning, tool use, knowledge retrieval, and multi-step workflow execution. Furthermore, we introduce OralCorpus, a large-scale, high-quality bilingual textual resource containing 134.8M tokens curated for dental retrieval-augmented generation (RAG). To evaluate models' multidisciplinary dental knowledge, we construct OralQA-ZH, a Chinese multiple-choice question benchmark consisting of 798 items across eleven oral subspecialties. Extensive experiments demonstrate that OralAgent achieves state-of-the-art performance on the MMOral-Uni, MMOral-OPG, and OralQA-ZH benchmarks, highlighting its effectiveness, interpretability, and adaptability in real-world clinical settings. The code and models are publicly available at https://github.com/isjinghao/OralAgent.",
+      "published": "2026-05-29T04:00:00",
+      "_id": "07bff11635a86658",
+      "_scraped_at": "15:42"
+    }
+  ],
+  "seen_ids": [
+    "e1b3f2254d419d85",
+    "0f0cdf62a679d4f1",
+    "b1850452dc5c2724",
+    "be2e408b311322c4",
+    "193bccfd0c363f0d",
+    "7346742db1280348",
+    "466c559fcf44c28f",
+    "4c1a140aac623fd5",
+    "8d9d177d9af9a767",
+    "00ca21567eecf381",
+    "56adf7c9d3d77cb5",
+    "b5e22ae086a6b353",
+    "381be700bcabc3c2",
+    "1e59e284a503a0ef",
+    "4f322fedc2ea7e5e",
+    "3fd6b55ad59fbe9f",
+    "35837e574862090f",
+    "fc50449bb3fe4c63",
+    "07bff11635a86658",
+    "1c83c948a5fd9354",
+    "cc92f35f91ab8753",
+    "2aa7e747964e595a",
+    "a20220596b25af30",
+    "808100862796d5f6",
+    "8ba92212f68080ea",
+    "71e4053d677dcff4",
+    "78187448be764806",
+    "c8fe8fc096d9c54f",
+    "1c9b44953320e0b2",
+    "6fc77bdc5b8a25da",
+    "491fb39bc5a409f7",
+    "fa8e38173bd8ede4",
+    "fce77064b0aa4280",
+    "64f4f4d2d551a351",
+    "72f7b2076a0177fa",
+    "caba8d3281cc37da",
+    "3f9e04c7b0cae6fd",
+    "110352bc4c3290db",
+    "34a4865aee9bd38e",
+    "55b0c0308dd40dbd",
+    "a50d216def4cada3",
+    "63fa07b193015168",
+    "b9e8b7d7b0e7503c",
+    "0dba0c3d7be35ac4",
+    "7ac216dd37bc3603",
+    "56821d76ae29ef95",
+    "47dca59f5e85d3b9",
+    "5b02604714f8043c",
+    "74c29245972ab061",
+    "5348a7d239028e9b",
+    "e3cde25e7765026e",
+    "8ce7d23bd09c87c6",
+    "0c0f485ce8f9c9a0",
+    "15c630a21b82e53b",
+    "091b61caa9d6ad3b",
+    "952e93f8af7bdc4d",
+    "0604d6a7a7d7afd2",
+    "dec36f96df8d997b",
+    "13d96f6971fff698",
+    "2394051d5e352ea3",
+    "9a54079094f77ff9",
+    "79a3e638b801efac",
+    "bab5653012ee0000",
+    "1dd18e5ec70038e3",
+    "4370ddece44bdeb7",
+    "291d5eb46511b79f",
+    "0a88c1447f0de47a",
+    "ad52d40f6a298995",
+    "00529734ce9450da",
+    "ddfec95f41bd58d9",
+    "6798b4b353ba3ced",
+    "37ff2c4c3b92c68b",
+    "1c632bdf04eec24e",
+    "9383011912274a38"
+  ],
+  "last_run": "15:42",
+  "run_count": 1
+}
