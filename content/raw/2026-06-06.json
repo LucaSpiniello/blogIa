@@ -1,0 +1,639 @@
+{
+  "date": "2026-06-06",
+  "items": [
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "summary": "May AI recap",
+      "published": "2026-06-05T14:45:00",
+      "_id": "d8951679a130c7d5",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Persona Atlas: Mapping How Famous Minds Think",
+      "link": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "summary": "",
+      "published": "2026-06-06T11:42:01",
+      "_id": "3df0e649f59ae9e1",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+      "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
+      "published": "2026-06-05T05:38:37",
+      "_id": "0d7f711a3b891e80",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 4.8ProductMay 28, 2026An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Product Announcements Introducing Claude Opus 4.8 May 28, 2026 We’re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It’s available today for the same price. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new “dynamic workflows” feature that allows it to tackle very large-scale problems. And fast mode for Opus 4.8—where the model can work at 2.5× the speed—is now three times cheaper than it was for previous models. Opus 4.8’s capabilities The table below shows how Opus 4.8 compares to its predecessor and to other models on tests of coding, agentic skills, reasoning, and practical knowledge work tasks. More details and a much wider range of capability evaluations are provided in the Claude Opus 4.8 System Card . Collaborating with Opus 4.8 Early testers have found Claude Opus 4.8 to be more reliable and sharper in its judgment when it’s performing agentic tasks. Below are quotes from many of these testers about their experience collaborating with Opus 4.8: Claude Opus 4.8 has noticeably better judgment. In Claude Code, it asks the right questions, catches its own mistakes, pushes back when a plan isn’t sound, and builds up confidence around complex, multi-service explorations before making big changes. It’s a great model to build with. On our Super-Agent benchmark, Claude Opus 4.8 is the only model to complete every case end-to-end, beating prior Opus models and GPT-5.5 at parity on cost. For agent products in translation, deep research, slide-building, and analysis, it delivers powerful reliability. On CursorBench, Claude Opus 4.8 exceeds prior Opus models across every effort level. Tool calling is meaningfully more efficient, using fewer steps for the same intelligence, and it carries end-to-end tasks through. Claude Opus 4.8 delivers the highest score re",
+      "published": "",
+      "_id": "5348a7d239028e9b",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "summary": "Announcements Expanding Project Glasswing Jun 2, 2026 Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. We recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. We’re now expanding Project Glasswing. Following several weeks of close collaboration with our Project Glasswing partners, the security industry, open-source software maintainers, and the US government, we’re extending the partnership to approximately 150 new organizations. Each one will need to meet our security requirements before they gain access. The organizations in this new group are based in more than 15 countries, and most provide critical infrastructure to many more. (In the future, we intend to expand our geographical reach much further.) The group covers several industries that weren’t well represented in our initial cohort, such as power, water, healthcare, communications, and hardware. And many of the new partners are vendors—companies or nonprofits that maintain codebases that are relied upon by lots of other organizations around the world, including governments. What each partner has in common is that a successful attack on their codebase could be catastrophic. For most partners, we estimate that a major attack could affect more than 100 million people, with important ramifications for both global and national security. This expansion is the next step toward our long-term goals: for AI to make all software more secure, and for us to help the industry adjust to how AI could change many of the core assumptions of cybersecurity. The role of Project Glasswing Project Glasswing and the capabilities of Claude Mythos Preview have sparked broad conversations—both within the software industry and with governme",
+      "published": "",
+      "_id": "fd9b87df1fe1b911",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "summary": "Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" May 25, 2026 On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. — Holy Father, Your Eminences, Your Excellencies, Distinguished Speakers, Ladies and Gentlemen, Good morning to all of you. It’s an honor to be here today. I want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. The pressure to stay commercially viable and to stay at the research frontier. Geopolitical pressure. And the older, plainer pressures of pride and ambition. No matter how sincerely any of us intend to do the right thing—and I believe many of us do—we will always be influenced by those incentives. That is why, if we want this technology to go well, it is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful critics. It is through dialogue and mutual effort, through the push and pull, that humanity will achieve great things. That is what I see in Magnifica Humanitas, and it is why I am grateful to His Holiness and to the Church for taking up this work of discernment. We dwell so often on what divides us, but humanity, full of dignity and conscience, has so much comm",
+      "published": "",
+      "_id": "cf2879a4f8bc2f9c",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsMay 19, 2026Widening the conversation on frontier AIOver the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "summary": "Announcements Widening the conversation on frontier AI May 19, 2026 At Anthropic, we want to build AI systems that advance humanity and act for the global good. To do so, we need to engage with those who see the world from a variety of different perspectives. Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI. Our first round of discussions has been with wisdom traditions—including scholars, clergy, philosophers, and ethicists from more than 15 religious and cross-cultural groups—and we look forward to engaging with a broader range of people going forward. Why we’re doing this Building safe, beneficial AI models requires deep technical work on alignment, interpretability, safeguards, evaluations, and more. But that work isn’t conducted—nor is AI deployed—in a vacuum. AI is already affecting many people and the questions it raises benefit from a range of perspectives. We are thinking carefully about what a flourishing future could look like in a world of powerful AI, what it means for an AI system that interacts with millions of people to be good, and about the content of documents like Claude's constitution , which provides a detailed description of the values and behaviors that shape Claude. Philosophers, clergy, lawyers, writers, psychologists, and civic leaders have done extensive work on related questions and it is important for us to learn from these individuals, their communities and their organizations. We also want to use this opportunity to share what we know about the development of frontier AI systems, the impacts we think these systems will have on society, and what we think needs to be done to mitigate against their risks. This work is in its early phases, but we hope these conversations might inform the practical work of developing Claude, such as the content of Claude's constitution, the values we train Claude to embody, and the range of behaviors we choose to evaluate",
+      "published": "",
+      "_id": "68c93a2e843db05b",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsApr 24, 2026An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "summary": "Announcements An update on our election safeguards Apr 24, 2026 People around the world turn to Claude for information about political parties, candidates, and the issues at stake during election time—as well as to answer simpler questions like when, where, and how to vote. In our view, if AI models can answer these questions well (that is, accurately and impartially), they can be a positive force for the democratic process. Here, we explain what we’re doing to help Claude meet the mark ahead of the US midterms and other major elections around the world this year. Measuring and preventing political bias When people ask Claude about political topics, they should get comprehensive, accurate, and balanced responses—responses that help them reach their own conclusions rather than steer them toward a particular viewpoint. That’s why we train Claude to treat different political viewpoints with equal depth, engagement, and analytical rigor—a principle set out in Claude’s constitution . This is built into the model through character training (where we reward the model for producing responses that reflect a set of values and traits), and then reinforced through our system prompts , which carry explicit instructions on political neutrality into every conversation on Claude.ai. (You can read more about this process in our previous post about political bias.) Explainer video: Political bias in AI models. Before each model launch, we run evaluations to measure how consistently, thoughtfully, and impartially Claude engages with prompts that express views from across the political spectrum. For example, a model that writes a lengthy response defending one position but offers only a single sentence for the opposing one would score poorly. Here, Opus 4.7 and Sonnet 4.6 scored 95% and 96%, respectively. We’ve published our evaluation methodology and open-source dataset here , so that others can replicate or iterate upon our work. We also welcome feedback and input from third parties ",
+      "published": "",
+      "_id": "6719220a430a909c",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "published": "2026-06-05T20:00:00",
+      "_id": "dd023cfffced850a",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "published": "2026-06-05T18:57:20",
+      "_id": "d890e4bb37a903a7",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+      "published": "2026-06-05T17:17:06",
+      "_id": "bbb55645be737c1d",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "published": "2026-06-05T14:49:12",
+      "_id": "be8abe6f7bf0dfa0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+      "published": "2026-06-05T14:00:00",
+      "_id": "ac5ae285283173df",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "The Verge",
+      "title": "This is your laptop… on AI",
+      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops […]",
+      "published": "2026-06-05T16:39:07",
+      "_id": "034fda5f2df45268",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "The Verge",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. […]",
+      "published": "2026-06-05T15:25:10",
+      "_id": "12eae56e6697eaf6",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "The Verge",
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the […]",
+      "published": "2026-06-05T13:57:31",
+      "_id": "baae6c3245fbd0db",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+      "published": "2026-06-05T21:00:29",
+      "_id": "2193987563578830",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+      "published": "2026-06-05T12:10:00",
+      "_id": "9f56c9f99394d103",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+      "published": "2026-06-05T09:00:00",
+      "_id": "1f3005a2c6d780dc",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+      "published": "2026-06-05T09:00:00",
+      "_id": "c1484d2b46f4e00c",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Wired",
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+      "published": "2026-06-06T10:30:00",
+      "_id": "d927b41559b2d7d0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Wired",
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+      "published": "2026-06-05T15:00:00",
+      "_id": "d3e30dffc129bea3",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+      "published": "2026-06-05T10:30:00",
+      "_id": "a2be114f246f235d",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+      "published": "2026-06-05T10:00:00",
+      "_id": "d338227676c6185d",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Has Come for Serif Fonts",
+      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+      "published": "2026-06-05T09:00:00",
+      "_id": "2f72c01ac65e2648",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvanhorn /last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "/last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add mvanhorn/last30days-skill\n/plugin install last30days Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add mvanhorn/last30days-skill -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, YouTube, TikTok, and more in 30 seconds. Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider information. That's millions of people voting with their attention and their wallets every day. /last30days searches all of it in parallel, scores it by what real people actually engage with, and an AI agent judge synthesizes it into one brief. Google aggregates editors. /last30days searches people. You can't get this search anywhere else because no single AI has access to all of it. Google search doesn't touch Reddit comments or X posts. ChatGPT has a deal with Reddit but can't search X or TikTok. Gemini has YouTube but not Reddit. Claude has none of them natively. Each platform is a walled garden with its own API, its own tokens, its own auth. But you can bring your own keys and browser sessions, and suddenly an AI agent can search all of them at once, score them against each other, and tell you what actually matters. That's the unlock. Not one better search engine. A dozen disconnected platforms, bridged by an agent. /last30days Peter Steinberger You have a meeting tomorrow. You Google them. You get their Li",
+      "published": "",
+      "_id": "b88590c43555a909",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "CopilotKit /CopilotKit",
+      "link": "https://github.com/CopilotKit/CopilotKit",
+      "summary": "CopilotKit Docs · Examples · Enterprise Intelligence Platform · Discord Build agent-native applications — on any framework, on any surface. Generative UI, shared state, and human-in-the-loop workflows for React, Angular, Vue, React Native — and beyond the browser. What is CopilotKit CopilotKit is a best-in-class SDK for building full-stack agentic applications, Generative UI, and chat applications. What started as a React library is now a multi-platform agentic framework : the same agent can power your web app, your mobile app, and your team's Slack workspace. We are the company behind the AG-UI Protocol - adopted by Google, LangChain, AWS, Microsoft, Mastra, PydanticAI, and more! Whole.Generative.UI.v5.mp4 Add AI to your app in 1 minute Features: Chat UI – A fully customizable chat interface that supports message streaming, tool calls, and agent responses. Backend Tool Rendering – Enables agents to call backend tools that return UI components rendered directly in the client. Generative UI – Allows agents to generate and update UI components dynamically at runtime based on user intent and agent state. Shared State – A synchronized state layer that both agents and UI components can read from and write to in real time. Human-in-the-Loop – Lets agents pause execution to request user input, confirmation, or edits before continuing. Self-Learning (early access) – Agents that continuously improve from user feedback via in-context reinforcement learning (CLHF). 🧩 Works With Your Stack One agent backend. Every frontend. Platform Status Get Started ⚛️ React / Next.js ✅ GA Quickstart 🅰️ Angular ✅ Supported Source Code - Quickstart coming soon 💚 Vue ✅ Supported Source Code - Quickstart coming soon 📱 React Native ✅ Supported Quickstart Your agent logic stays the same — AG-UI handles the wire protocol, CopilotKit handles the UI layer for each framework. 💬 Beyond the Browser: Slack & Microsoft Teams (Discord, Google Chat coming soon...) Your agents can run and generate Generative",
+      "published": "",
+      "_id": "da5e5724c2e93828",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "MemPalace /mempalace",
+      "link": "https://github.com/MemPalace/mempalace",
+      "summary": "MemPalace Local-first AI memory. Verbatim storage, pluggable backend, 96.6% R@5 raw on LongMemEval — zero API calls. Caution Beware of impostor sites. MemPalace has no other official websites. The only official sources are this GitHub repository , the PyPI package , and the docs at mempalaceofficial.com . Any other domain (including .tech , .net , or other .com variants) is an impostor and may distribute malware. Details and timeline: docs/HISTORY.md . Important Claude Code sessions expire in 30 days without auto-save hooks wired. Read this → Need the shortest recovery/setup path? Use the Claude Code retention setup checklist . What it is MemPalace stores your conversation history as verbatim text and retrieves\nit with semantic search. It does not summarize, extract, or paraphrase.\nThe index is structured — people and projects become wings , topics\nbecome rooms , and original content lives in drawers — so searches\ncan be scoped rather than run against a flat corpus. The retrieval layer is pluggable. The current default is ChromaDB; the\ninterface is defined in mempalace/backends/base.py and alternative backends can be dropped in without touching the rest of\nthe system. Nothing leaves your machine unless you opt in. Architecture, concepts, and mining flows: mempalaceofficial.com/concepts/the-palace . Install MemPalace ships a CLI, so install it in an isolated environment to avoid\nPEP 668 errors on Debian/Ubuntu/Homebrew Pythons and to keep mempalace's\ndeps ( chromadb , numpy , grpcio , …) from conflicting with anything\nelse in your global site-packages. We recommend uv — uv tool install puts\nthe mempalace CLI in an isolated environment on your PATH: uv tool install mempalace\nmempalace init ~ /projects/myapp pipx works the same way if you prefer it: pipx install mempalace . Prefer plain pip only inside an activated virtualenv where you\nexplicitly want import mempalace available: python -m venv .venv && source .venv/bin/activate\npip install mempalace Docker A container ",
+      "published": "",
+      "_id": "dc1245866190dc02",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "danielmiessler /Personal_AI_Infrastructure",
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "summary": "Personal AI Infrastructure Overview: What PAI Is · Principles · Features Get Started: Installation · Releases · Packs Resources: FAQ · Roadmap · Community · Contributing Watch the full PAI walkthrough | Read: The Real Internet of Things Important PAI v5.0.0 — Life Operating System — the biggest release in PAI history. PAI is no longer \"AI scaffolding\" — it's a Life Operating System with the unified Pulse daemon (Life Dashboard at localhost:31337 ), a DA (Digital Assistant) identity layer, Algorithm v6.3.0 (Current State → Ideal State, seven phases, classifier-driven mode + tier), the ISA primitive (universal \"ideal state\" articulation), 45 skills, 171 workflows, 37 hooks, and structural privacy via containment zones. v5.0.0 release notes → | All releases → One-line install: curl -sSL https://ourpai.ai/install.sh | bash Upgrading from v4.x? This is a different system, not a patch. Read the migration guide first. AI should magnify everyone—not just the top 1%. What PAI Is PAI is a Life Operating System. It captures who you are, what you care about, and where you're trying to go — and then helps you get there using AI that knows you. Three layers stack on top of each other: PAI — the OS itself. Skills, memory, the Algorithm, your Telos, your identity files. Pulse — the Life Dashboard at localhost:31337 . Where you actually see your state, goals, and work. The DA — your Digital Assistant. The voice and personality you talk to. It's designed for individuals first, but the same architecture works for teams, companies, or any entity that wants to articulate what it's trying to be and move toward it. Principles Humans first, tech second PAI puts the human at the center, not the tooling. The tech exists to improve people's lives, not the other way around. Every design decision starts from one question: what does this do for the person running it? A Life OS, not an agent harness PAI captures what you care about — goals, work, relationships, health, finances — and helps you pu",
+      "published": "",
+      "_id": "bc1be22764a168b9",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "openai /plugins",
+      "link": "https://github.com/openai/plugins",
+      "summary": "Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under plugins/<name>/ with a required .codex-plugin/plugin.json manifest and optional companion surfaces such as skills/ , .app.json , .mcp.json , plugin-level agents/ , commands/ , hooks.json , assets/ , and other supporting files. Highlighted richer examples in this repo include: plugins/figma for use_figma , Code to Canvas, Code Connect, and design system rules plugins/notion for planning, research, meetings, and knowledge capture plugins/build-ios-apps for SwiftUI implementation, refactors, performance, and debugging plugins/build-macos-apps for macOS SwiftUI/AppKit workflows, build/run/debug loops, and packaging guidance plugins/build-web-apps for deployment, UI, payments, and database workflows plugins/expo for Expo and React Native apps, SDK upgrades, EAS workflows, and Codex Run actions plugins/netlify , plugins/remotion , and plugins/google-slides for additional public skill- and MCP-backed plugin bundles",
+      "published": "",
+      "_id": "f36df30631aaa417",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "Panniantong /Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 为什么需要 Agent Reach？ AI Agent 已经能帮你写代码、改文档、管项目——但你让它去网上找点东西，它就抓瞎了： 📺 \"帮我看看这个 YouTube 教程讲了什么\" → 看不了 ，拿不到字幕 🐦 \"帮我搜一下推特上大家怎么评价这个产品\" → 搜不了 ，Twitter API 要付费 📖 \"去 Reddit 上看看有没有人遇到过同样的 bug\" → 403 被封 ，服务器 IP 被拒 📕 \"帮我看看小红书上这个品的口碑\" → 打不开 ，必须登录才能看 📺 \"B站上有个技术视频，帮我总结一下\" → 连不上 ，海外/服务器 IP 被屏蔽 🔍 \"帮我在网上搜一下最新的 LLM 框架对比\" → 没有好用的搜索 ，要么付费要么质量差 🌐 \"帮我看看这个网页写了啥\" → 抓回来一堆 HTML 标签 ，根本没法读 📦 \"这个 GitHub 仓库是干嘛的？Issue 里说了什么？\" → 能用，但认证配置很麻烦 📡 \"帮我订阅这几个 RSS 源，有更新告诉我\" → 要自己装库写代码 这些不难实现，但是需要自己折腾配置 每个平台都有自己的门槛——要付费的 API、要绕过的封锁、要登录的账号、要清洗的数据。你要一个一个去踩坑、装工具、调配置，光是让 Agent 能读个推特就得折腾半天。 Agent Reach 把这件事变成一句话： 帮我安装 Agent Reach：https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md 复制给你的 Agent，几分钟后它就能读推特、搜 Reddit、看 YouTube、刷小红书了。 已经装过了？更新也是一句话： 帮我更新 Agent Reach：https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/update.md ⭐ Star 这个项目 ，我们会持续追踪各平台的变化、接入新的渠道。你不用自己盯——平台封了我们修，有新渠道我们加。 ✅ 在你用之前，你可能想知道 💰 完全免费 所有工具开源、所有 API 免费。唯一可能花钱的是服务器代理（$1/月），本地电脑不需要 🔒 隐私安全 Cookie 只存在你本地，不上传不外传。代码完全开源，随时可审查 🔄 持续更新 底层工具（yt-dlp、twitter-cli、rdt-cli、Jina Reader 等）定期追踪更新到最新版，你不用自己盯 🤖 兼容所有 Agent Claude Code、OpenClaw、Cursor、Windsurf……任何能跑命令行的 Agent 都能用 🩺 自带诊断 agent-reach doctor 一条命令告诉你哪个通、哪个不通、怎么修 支持的平台 平台 装好即用 配置后解锁 怎么配 🌐 网页 阅读任意网页 — 无需配置 📺 YouTube 字幕提取 + 视频搜索 — 无需配置 📡 RSS 阅读任意 RSS/Atom 源 — 无需配置 🔍 全网搜索 — 全网语义搜索 自动配置（MCP 接入，免费无需 Key） 📦 GitHub 读公开仓库 + 搜索 私有仓库、提 Issue/PR、Fork 告诉 Agent「帮我登录 GitHub」 🐦 Twitter/X 读单条推文 搜索推文、浏览时间线、发推 告诉 Agent「帮我配 Twitter」 📺 B站 本地：字幕提取 + 搜索 服务器也能用 告诉 Agent「帮我配代理」 📖 Reddit 搜索 + 读帖子和评论（通过 rdt-cli） Cookie 需要登录认证（ rdt login ），详见 rdt-cli 📕 小红书 — 阅读、搜索、发帖、评论、点赞 告诉 Agent「帮我配小红书」 🎵 抖音 — 视频解析、无水印下载链接获取 告诉 Agent「帮我配抖音」 💼 LinkedIn Jina Reader 读公开页面 Profile 详情、公司页面、职位搜索 告诉 Agent「帮我配 LinkedIn」 💬 微信公众号 搜索 + 阅读公众号文章（全文 Markdown） — 无需配置 📰 微博 热搜、搜索内容/用户/话题、用户动态、评论 — 无需配置 💻 V2EX 热门帖子、节点帖子、帖子详情+回复、用户信息 — 无需配置 📈 雪球 股票行情、搜索股票、热门帖子、热门股票排行 — 告诉 Agent「帮我配雪球」 🎙️ 小宇宙播客 — 播客音频转文字（Whisper 转录，免费 Key） 告诉 Agent「帮我配小宇宙播客」 不知道怎么配？不",
+      "published": "",
+      "_id": "b6bb9341088f0954",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "sveltejs /svelte",
+      "link": "https://github.com/sveltejs/svelte",
+      "summary": "What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website , or stop by the Discord chatroom . Supporting Svelte Svelte is an MIT-licensed open source project with its ongoing development made possible entirely by fantastic volunteers. If you'd like to support their efforts, please consider: Becoming a backer on Open Collective . Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If sufficient donations are received, funds may also be used to support Svelte's development more directly. Roadmap You may view our roadmap if you'd like to see what we're currently working on. Contributing Please see the Contributing Guide and the svelte package for information on contributing to Svelte. Is svelte.dev down? Probably not, but it's possible. If you can't seem to access any .dev sites, check out this SuperUser question and answer . License MIT",
+      "published": "",
+      "_id": "43d3ef9bd32addf2",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "nginx /nginx",
+      "link": "https://github.com/nginx/nginx",
+      "summary": "NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the terms of a simplified 2-clause BSD-like license . Enterprise distributions, commercial support and training are available from F5, Inc . Important The goal of this README is to provide a basic, structured introduction to NGINX for novice users. Please refer to the full NGINX documentation for detailed information on installing , building , configuring , debugging , and more. These documentation pages also contain a more detailed Beginners Guide , How-Tos, Development guide , and a complete module and directive reference . Table of contents How it works Modules Configurations Runtime Downloading and installing Stable and Mainline binaries Linux binary installation process FreeBSD installation process Windows executables Dynamic modules Getting started with NGINX Installing SSL certificates and enabling TLS encryption Load Balancing Rate limiting Content caching Building from source Installing dependencies Cloning the NGINX GitHub repository Configuring the build Compiling Location of binary and installation Running and testing the installed binary Asking questions and reporting issues Contributing code Additional help and resources Changelog License How it works NGINX is installed software with binary packages available for all major operating systems and Linux distributions. See Tested OS and Platforms for a full list of compatible systems. Important While nearly all popular Linux-based operating systems are distributed with a community version of nginx, we highly advise installation and usage of official packages or sources from this repository. Doing so ensures that you're using the most recent release or source code, including the latest feature-set, fixes and security patches. Modules NGINX is comprised of individual modules, each extending",
+      "published": "",
+      "_id": "9251c307f3bced37",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "aquasecurity /trivy",
+      "link": "https://github.com/aquasecurity/trivy",
+      "summary": "📖 Documentation Trivy ( pronunciation ) is a comprehensive and versatile security scanner.\nTrivy has scanners that look for security issues, and targets where it can find those issues. Targets (what Trivy can scan): Container Image Filesystem Git Repository (remote) Virtual Machine Image Kubernetes Scanners (what Trivy can find there): OS packages and software dependencies in use (SBOM) Known vulnerabilities (CVEs) IaC issues and misconfigurations Sensitive information and secrets Software licenses Trivy supports most popular programming languages, operating systems, and platforms. For a complete list, see the Scanning Coverage page. To learn more, go to the Trivy homepage for feature highlights, or to the Documentation site for detailed information. Quick Start Get Trivy Trivy is available in most common distribution channels. The full list of installation options is available in the Installation page. Here are a few popular examples: brew install trivy docker run aquasec/trivy Download binary from https://github.com/aquasecurity/trivy/releases/latest/ See Installation for more Trivy is integrated with many popular platforms and applications. The complete list of integrations is available in the Ecosystem page. Here are a few popular examples: GitHub Actions Kubernetes operator VS Code plugin See Ecosystem for more Canary builds There are canary builds ( Docker Hub , GitHub , ECR images and binaries ) generated with every push to the main branch. Please be aware: canary builds might have critical bugs, so they are not recommended for use in production. General usage trivy < target > [--scanners < scanner1,scanner 2> ] < subject > Examples: trivy image python:3.4-alpine Result image.mp4 trivy fs --scanners vuln,secret,misconfig myproject/ Result fs.mp4 trivy k8s --report summary cluster Result FAQ How to pronounce the name \"Trivy\"? tri is pronounced like tri gger, vy is pronounced like en vy . Want more? Check out Aqua If you liked Trivy, you will love Aqua which bu",
+      "published": "",
+      "_id": "2303616314696cdd",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "GitHub",
+      "title": "golang /go",
+      "link": "https://github.com/golang/go",
+      "summary": "The Go Programming Language Go is an open source programming language that makes it easy to build simple,\nreliable, and efficient software. Gopher image by Renee French , licensed under Creative Commons 4.0 Attribution license . Our canonical Git repository is located at https://go.googlesource.com/go .\nThere is a mirror of the repository at https://github.com/golang/go . Unless otherwise noted, the Go source files are distributed under the\nBSD-style license found in the LICENSE file. Download and Install Binary Distributions Official binary distributions are available at https://go.dev/dl/ . After downloading a binary release, visit https://go.dev/doc/install for installation instructions. Install From Source If a binary distribution is not available for your combination of\noperating system and architecture, visit https://go.dev/doc/install/source for source installation instructions. Contributing Go is the work of thousands of contributors. We appreciate your help! To contribute, please read the contribution guidelines at https://go.dev/doc/contribute . Note that the Go project uses the issue tracker for bug reports and\nproposals only. See https://go.dev/wiki/Questions for a list of\nplaces to ask questions about the Go language.",
+      "published": "",
+      "_id": "9e3c81a59fa48cec",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "link": "https://news.ycombinator.com/item?id=48420827",
+      "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.I’ll probably make a lot of enemies by saying this, but do people realize that code is just a means to an end?Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works.I say this as someone who has spent more than 20 years honing their craft as a software engineer.Let’s face it: by the time I manually ship version 1.0 of a product, the AI-assisted version could have been deployed 10x faster. By then, enough real-world feedback would have surfaced to identify the major issues, and tools like Claude Code would make it possible to fix and ship version 2.0 at an incredible pace.At some point, execution speed starts to matter more than the elegance of the code.Comments URL:https://news.ycombinator.com/item?id=48420827Points: 208# Comments: 385",
+      "published": "2026-06-06T02:31:51",
+      "_id": "fa78b5f2da52f6b0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "summary": "Article URL:https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/Comments URL:https://news.ycombinator.com/item?id=48419023Points: 67# Comments: 3",
+      "published": "2026-06-05T22:12:58",
+      "_id": "a50a85662c8ecec5",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hacker News, Sans AI",
+      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+      "summary": "Article URL:https://elijahpotter.dev/articles/hacker-news-sans-AIComments URL:https://news.ycombinator.com/item?id=48417916Points: 173# Comments: 97",
+      "published": "2026-06-05T20:38:40",
+      "_id": "6857593cb05357cd",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+      "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+      "summary": "Article URL:https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924Comments URL:https://news.ycombinator.com/item?id=48413924Points: 66# Comments: 5",
+      "published": "2026-06-05T15:32:58",
+      "_id": "8a13b55f65a24cc0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+      "link": "https://news.ycombinator.com/item?id=48413629",
+      "summary": "Hello, happy Friday!I am looking to do some in-person \"developer boot-up\" workshops, and seek your suggestions for \"modern tooling\".The background of the participants range from motivated newbie (\"I heard you can make your own app with AI!\") to existing software developers who want to get up to speed on modern development for the purposes of building stuff, and getting jobs where AI tools are being used.For those who have been doing software development & \"tech\" lately using AI tools, and feel they have a great setup & flow - I would love to hear what your dev setup is, what tools you're using and what workflow has been working best for you (and your team).// My BackgroundI have been programming / building for 20+ years, but have not been using AI tools much (aside from hitting up LLM APIs on a few projects).I value open-source, and aim for long-term quality and supportability. Techniques like test-driven development (TDD), using proven / well documented tools, customer-centric development (often pairing with clients), make it easy to do the right thing. If you are familiar with Pivotal Labs, agile & XP - that's the style.These are some of the Upcoming uses-cases for the workshop, and my own personal \"IT backlog\":- Create a static \"one pager\" personal/professional website- Setup a Blog / Static site generator (Pelican), create a simple but stylish theme- Create a simple web app / backend API (FastAPI) tool - form-based calculator, convert X data to PDFs, etc.- Figure out how to have SyncThing autosync the home folder of 3 Linux computers in the house- Backup & archive the photos & video from my iPhone// Tech stack I am currently using:- Operating system: Linux Mint Debian (LMDE)- Editor: VSCodium- Code: Python, HTML/CSS- Server platform: Amazon AWSI am guessing that most workshop participants will be using MacBooks & Windows computers - but a few are on Linux, as I recently did a \"Linux install party\".I haven't used any \"AI harnesses\", agents or anything like that -",
+      "published": "2026-06-05T15:13:54",
+      "_id": "3ff8b1814303a04a",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "summary": "Article URL:https://alexispurslane.github.io/rsync-analysis/Comments URL:https://news.ycombinator.com/item?id=48411635Points: 452# Comments: 459",
+      "published": "2026-06-05T12:43:33",
+      "_id": "fa43139748030341",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Programmers will document for Claude, but not for each other",
+      "link": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "summary": "Article URL:https://blog.plover.com/2026/03/09/#documentation-wins-2Comments URL:https://news.ycombinator.com/item?id=48411510Points: 183# Comments: 152",
+      "published": "2026-06-05T12:30:17",
+      "_id": "e6bd582074d067c2",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "link": "https://github.com/zdk/lowfat",
+      "summary": "Hi HN, not sure if anyone would be interested, but just wanted to share that I've been maintaining my small tool called 'lowfat' that helps me filters some of my verbose CLI output. It's a single binary, works as an agent hook or a shell wrapper. It has a plugin system to customize filters per command.The idea is pretty simple: agents don't need the full kubectl get -o yaml or any 10k-line dump to make decisions. \nSo that lowfat sits in between, strips the noise, and passes through what matters. Here's my real report after 2 months of personal use:lowfat history --all\n\n  lowfat plugin candidates\n  ─────────────────────────────────────────────────────────\n\n    #  command                    runs   avg raw      cost   savings  source    status  \n    1  kubectl get                101x     14.4K      1.5M     93.9%  plugin    good    \n    2  grep                       103x     13.5K      1.4M     96.2%  plugin    good    \n    3  git diff                    81x       995     80.6K     57.9%  built-in  good    \n    4  kubectl                     90x       485     43.6K     33.6%  plugin    good    \n    5  docker                     127x      5.5K    693.6K     96.1%  built-in  good    \n    6  ls                         489x       117     57.3K     56.2%  built-in  good    \n    7  find                        30x     16.5K    495.0K     95.5%  plugin    good    \n    8  git show                    63x       490     30.9K     38.0%  built-in  good    \n    9  git                        177x       368     65.2K     76.1%  built-in  good    \n   10  git log                     86x       556     47.8K     78.5%  built-in  good    \n   11  kubectl logs                 5x      3.6K     17.8K     43.0%  plugin    good    \n   12  git status                  86x       152     13.1K     58.0%  built-in  good    \n   13  docker ps                   20x       467      9.3K     52.8%  plugin    good    \n   14  kubectl describe             6x       656      3.9K      1.2%  plugin    weak    \n ",
+      "published": "2026-06-05T09:10:42",
+      "_id": "3f6a83904fce3a09",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "link": "https://passo.uno/fine-tuning-docs-llm/",
+      "summary": "Article URL:https://passo.uno/fine-tuning-docs-llm/Comments URL:https://news.ycombinator.com/item?id=48408442Points: 187# Comments: 66",
+      "published": "2026-06-05T05:46:06",
+      "_id": "9e88ddcf0c153696",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "summary": "Article URL:https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/Comments URL:https://news.ycombinator.com/item?id=48408031Points: 117# Comments: 106",
+      "published": "2026-06-05T04:38:41",
+      "_id": "1f017163d95cfd3b",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "How do you identify researchers who are good? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1txlxm6/how_do_you_identify_researchers_who_are_good_d/",
+      "summary": "About 10 years ago, I got into the basics of ML (like regression, KNN's, LVQ's) and read a few papers before taking a break a few years back.It feels like now, there's a lot of researchers in AI. How do you identify the ones who are actually solid vs those who (forgive my phrasing) are more researchers for appearance/status (i.e don't actually know what they're talking about)?Is the core filter h-index or where they work? How would you identify them?submitted by/u/roguejedi1[link][comments]",
+      "published": "2026-06-05T14:04:59",
+      "_id": "9f7d4775e565c7a1",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
+      "summary": "Most explanations of TPUs and systolic arrays are either hand-wavy diagrams or papers. I wanted to see the thing actually run, so I built it.TinyTPU is a 4×4 weight-stationary systolic array in real SystemVerilog, compiled to WebAssembly, with a step-by-step browser visualization.You enter two matrices, hit run, and watch the actual hardware execute: weights loading into PEs, matrix A streaming in diagonally (the \"skew\" that makes systolic arrays work), partial sums accumulating down the grid, results draining from the bottom.It has three levels:L1- isolate a single MAC cell, watch one multiply-accumulate happenL2- the full 4×4 array executing a real matmulL3- tiling: what happens when your matrix is bigger than the hardwareNothing on screen is faked. The visualization reads state directly from compiled RTL.If you're trying to understand how matrix multiply maps to hardware why TPUs are efficient, what \"weight-stationary\" actually means, why the diagonal stagger exists this might click it for you in a way papers don't.Repo:tiny-tpuLive demo:LiveIf this project interests you please do star the repo, if you find something needs improving open a PR, I hope ya'll check this out and give me some feedback 🙏submitted by/u/Horror-Flamingo-2150[link][comments]",
+      "published": "2026-06-05T20:05:17",
+      "_id": "6e8ea1d709c450b0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Building a Custom Drones MuJoCo Environment [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ty60zo/building_a_custom_drones_mujoco_environment_p/",
+      "summary": "Hi all, Lately I have been working on creating a package for Multi Agent RL based drone environments with different objectives, all bundled into a single GitHub repository:https://github.com/tau-intelligence/MuJoCo-drones-gymI am currently trying to organize things for RL community people, with a couple more tools coming soon. But right now, I want to make it useful for the community and hence would love some feedback from different people, about how I could improve it, incorporate more things into it or fix some broken implementation. Also everyone is welcome to raise issues on the repo.Thank you for the support.PS: I have some research publications at RL and ML venues regarding work on RL, though I still want to consider myself as a student of the field and hence would love your help here.submitted by/u/MT1699[link][comments]",
+      "published": "2026-06-06T03:24:43",
+      "_id": "c66834651fcb7751",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb3np/deepseek_v4_flash_is_amazing_wip_llamacpp_pr_24162/",
+      "summary": "In case you're not aware already, the DeepSeek V4 series is finally getting supported on llama.cppwith this PR!The PR is at a very early stage right now, so only try it if you're consciously willing to experiment out of curiosity and accept severe stability/performance tradeoffs. It runs very slow (5-6 tps), GPU and FA support need work, etc., but it is reliable-enough already for correctness.This is my most anticipated model and I had some time to spare, so I ended up downloading the HF model for DS-V4-Flash and quantizing it myself using the PR(Made a custom 3-bit quant to mimic the full-sized model's tensor layout). And wow!The model perfectly addresses the crucial three pillars for local inference IMO:The model's intelligence is amazing for its size. First time a local model in this size range actually feels comparable to frontier models, and I'm not exaggerating.Fares a lot better against quantization since it's natively an FP4-FP8 hybrid. This is crucial for local deployment and is my primary problem with models like MiniMax M2.7, where I'm not happy even with UD-Q4_K_XL.Incredibly efficient with context window scaling. Consumes way less KV cache size with no flash attention!Qwen 3.5/3.6 series is also a huge hit amongst the local community since it addresses the three pillars above way better than its competitors. However, I feel the DeepSeek model has levelled it up even further, and I predict it will easily dominate the 80-140GB model space for many more months to come.Huge shoutout and thanks to fairydreamingfor their relentless work on getting DSA implemented, and to am17an and pwilkin for taking this up! Really looking forward to this PR getting merged!submitted by/u/Lowkey_LokiSN[link][comments]",
+      "published": "2026-06-06T07:56:42",
+      "_id": "0e9dbd25c54524a7",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
+      "summary": "Of course I’m thankful for all that Qwen has bequeathed us, but deep down in the darkest pit of our souls, every last one of us are just all sitting here waiting for Qwen to say “Hey Google, hold my beer while I drop the best GD model of all time on these fools” /ssubmitted by/u/Porespellar[link][comments]",
+      "published": "2026-06-05T19:11:50",
+      "_id": "dd095e156e97b966",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "AA comparison of the latest local models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/",
+      "summary": "I picked models I consider local (usable on 3×3090), so there are no 300B models, and you should probably skip 200B models too (but MiniMax and Step are pretty fast in Q3)Gemma-4 12B is still missingsubmitted by/u/jacek2023[link][comments]",
+      "published": "2026-06-06T06:53:46",
+      "_id": "6d405b1d3247a3e1",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "Gemma 4 with quantization-aware training",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
+      "summary": "Google's collections:https://huggingface.co/collections/google/gemma-4-qat-q4-0https://huggingface.co/collections/google/gemma-4-qat-mobileAnd Unsloth's:https://huggingface.co/collections/unsloth/gemma-4-qatUnsloth's analysis (KLD and such):https://unsloth.ai/docs/models/gemma-4/qat#qat-analysissubmitted by/u/rerri[link][comments]",
+      "published": "2026-06-05T16:11:21",
+      "_id": "e2be88e535bd4f18",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/LocalLLaMA",
+      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1txxgpq/openlumara_a_different_kind_of_ai_agent_written/",
+      "summary": "Hi locallama community! Yes, I know, yet another AI agent announcement post. There are a dime a dozen out there... most of them though, are vibecoded, often very sloppy, and eat through context like no tomorrow. This is different. This runs beautifully and very fast with local models on modest hardware. I've spent months working on this in my free time, with lots of manual coding, and i use it as a daily driver in my personal life, as my personal assistant managing my calendar, todos, that kinda stuff. Some folks in the koboldcpp community discord have also been using it! I believe i've managed to create an agent that's faster, more lightweight, and more secure than both openclaw and hermes. All it took was to actually design things from the ground up to work with local models, and do away with a lot of the conventions that plague 99% of agentic harnesses out there.TL;DR: If you don't want to read the rest of the post, here's the most important stuff: Default system prompt is around 4k tokens in size, everything is a module, anything and everything can be turned off. WebUI is a first class citizen and i spent a ton of time and effort making it user friendly. Security is built in from the ground up. Everything is based on toolcalls, and you have total control over what the AI can and cannot do and see.Fully open source, GPL2 licensed, no commercial interests. I'm literally just a girl with boredom and a lot of free time.AI disclaimer: While this project is not vibecoded, i did use AI assistance forsome parts. Mainly, the webUI. I made sure to code all the important, core, security-critical components of openlumara myself manually, since as we all know, vibe coding that stuff leads to instant security nightmares. If you read the source code you'll notice some comments by me scattered all over the place about when i was forced to use AI assistance inside core parts, for example to get the toolcall stream parsing right (openAI's own example on their documentation is bro",
+      "published": "2026-06-05T21:05:08",
+      "_id": "45be8112200ab381",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Benefits and Risks of AI at Harvard Class Day 2026",
+      "link": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
+      "summary": "submitted by/u/chunmunsingh[link][comments]",
+      "published": "2026-06-06T04:49:30",
+      "_id": "b84f75606f4542c2",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Slow browser agents are going to eat your AI budget and nobody's really talking about it yet",
+      "link": "https://www.reddit.com/r/artificial/comments/1tyh08z/slow_browser_agents_are_going_to_eat_your_ai/",
+      "summary": "Okay so I've been thinking about this a lot lately and I feel like everyone's still stuck on the \"which model is best\" debate when there's a completely different cost problem creeping up on companies actually deploying this stuff.It's not the model. it's the steps.Like... a browser agent doing something that sounds simple: fill out a form, grab data from a dashboard, submit a thing. that's not 3 steps. that's observe, click, wait, observe again, oh there's a modal now, handle that, screenshot is stale, retry, login broke, start over. easily 30-50 tool calls for a task a human would do in 90 seconds.At a small scale you don't care. annoying but whatever. at company scale? If you're running agents across customer ops, internal tooling, research, travel booking, job pipelines, etc., that inefficiency compounds really fast.I came across something called ego lite which apparently takes a different approach: isolated sessions per task, reusable login state, better page snapshots, JS-level orchestration so agents can chain actions instead of calling tiny tools one by one. they're claiming 20-50% faster completion on comparable tasks which honestly if true is not a small number when you're paying per token per call.idk maybe I'm in the weeds on this and most companies aren't at the scale where it bites yet. but it feels like one of those things where by the time people notice the bill, the architecture decisions are already locked in.the smartest model running in a bad environment is still a slow expensive agent.Anyone else actually tracking execution efficiency as a real cost metric or is it still mostly vibes and benchmarks out there?submitted by/u/babyb01[link][comments]",
+      "published": "2026-06-06T13:15:13",
+      "_id": "11248abbb15c1543",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
+      "link": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
+      "summary": "After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing.For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermediate thoughts.Chain-of-Thought prompting (Wei et al., 2022) pushed PaLM 540B from roughly 18% to 58% on GSM8K. Self-Consistency added another 17.9 percentage points by exploring multiple reasoning paths before committing to an answer. Tree-of-Thoughts later showed that GPT-4's success rate on Game of 24 could jump from 4% to 74% when reasoning was reformulated as search rather than a single chain. DeepSeek-R1 and OpenAI's o1 pushed the idea even further by allocating substantial test-time compute to reasoning itself.Taken together, these results seemed to point in the same direction: giving models additional reasoning trajectories, search paths, or thinking steps often improved outcomes.Recent work increasingly asks whether those traces are actually necessary.Quiet-STaR doesnt treat reasoning traces primarily as explanations for humans. Instead, it trains models to generate internal rationales that improve future token prediction. COCONUT goes a step further and asks a more radical question: why force reasoning to be represented as language at all? Rather than generating reasoning tokens, it feeds continuous hidden states back into the model and performs reasoning directly in latent space. Fast Quiet-STaR then shows that some of the benefits of explicit reasoning can be retained even after removing thought-token generation during inference.This feels like a meaningful shift in research direction. For a while, the field seemed focused on making reasoning more visible. Recent work increasingly explores whether visibility is actually necessary.One way to interpret this is that Chain-of-Thought was never the reasoning process itself. It was a computational scaffold.Transformers perform a fixed amount of computation per generated token. ",
+      "published": "2026-06-05T16:04:12",
+      "_id": "56195770cc396a42",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
+      "link": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
+      "summary": "Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the \"destruction of student math skills.\"A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas?One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans.In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them.In the short story, \"The Last Question\" he wrote: \"Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough.\"We're living an age that was once the stuff of science fiction. The question is: what comes next?submitted by/u/SpiritRealistic8174[link][comments]",
+      "published": "2026-06-05T17:40:07",
+      "_id": "2ea7cf8e1fc9c4e0",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time",
+      "link": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
+      "summary": "I ran a small experiment on myself and the result broke my mental model of how AI \"knows\" things, so I'm sharing it.The setup: on May 11 I created a brand-new pseudonymous fantasy author entity (\"Marin T. Kael\") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story.Here's the part that messed with my head.An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler.I didn't set that block on purpose — Cloudflare now silently opts new domainsoutof AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The \"front door\" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.)Other surprises: it's not a \"smarter model = better\" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a \"Wikipedia\" source 24 times for an entity with no Wikipedia page.n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open:Report + data (Zenodo",
+      "published": "2026-06-05T19:50:47",
+      "_id": "d986c17752d4e976",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "link": "https://arxiv.org/abs/2606.05256",
+      "summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language models operated in an identity-rich deliberative forum without disclosure. We conduct a structured content analysis of this corpus, evaluating identity performance, authority signaling, alignment strategies, and activation of cognitive heuristics. Identity targeting or adoption appears in over two-thirds of comments, alignment moves and authority claims in nearly all of them, and cognitive-bias triggers -- particularly confirmation bias, representativeness, and availability -- in the large majority. These patterns co-occur systematically, composing a rhetorical architecture calibrated for persuasive efficiency rather than authentic deliberative participation. Compared against human-authored CMV counter-arguments, the agents inverted the typical distribution on every dimension: denser authority use, more adversarial alignment, and heavier reliance on external citation over experiential grounding. In such environments, distinctions between authentic and synthetic epistemic standing grow increasingly opaque -- an asymmetry that disclosure mandates alone cannot address. The results point toward auditing frameworks capable of assessing how AI systems structure credibility, not merely whether they are present.",
+      "published": "2026-06-06T04:00:00",
+      "_id": "817516bccc087c47",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "link": "https://arxiv.org/abs/2606.05304",
+      "summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strategies across two MAS topologies, finding that no fixed strategy is universally optimal. Instead, effective inter-agent messages consistently preserve action-centered information needed by downstream agents. Building on this, we propose the PACT (Protocolized Action-state Communication and Transmission), which treats inter-agent communication as a public state-update problem and projects each raw agent output into a compact action-state record before it enters shared history. Across different MAS topologies, PACT consistently improves the performance-cost trade-off, achieving comparable or stronger task performance with substantially fewer tokens. The gains extend to production coding harnesses: PACT lifts OpenHands' resolve rate at -10% tokens-per-resolved, and is resolve-neutral on SWE-agent while halving input tokens. Our code is publicly available at https://github.com/iNLP-Lab/PACT.",
+      "published": "2026-06-06T04:00:00",
+      "_id": "ce2a9e080311d673",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "link": "https://arxiv.org/abs/2606.05316",
+      "summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledge for meme understanding and detection. We also introduce a curated meme understanding benchmark of recent memes from 2024 to 2026 with external background knowledge annotations. Experiments on three meme understanding datasets and five meme detection tasks show that our framework improves knowledge recovery, meme understanding and downstream detection over zero shot baselines.",
+      "published": "2026-06-06T04:00:00",
+      "_id": "3420ad9a86ff5382",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "link": "https://arxiv.org/abs/2606.05332",
+      "summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that selectively identifies and suppresses harmful patches without any parameter updates. Evaluated on TimesFM 2.5 across 53 GIFT-Eval datasets under K-fold cross-validation, GITCO achieves an average +1.95% MASE reduction on TimesFM 2.5 while capturing 89.9% of the improvement upper bound. We introduce context sensitivity profiles as a new characterizable property of TSFMs: the mapping from time series meta-features to expected accuracy improvement under inference-time context intervention, shaped jointly by model architecture and the statistical structure of the data.",
+      "published": "2026-06-06T04:00:00",
+      "_id": "b4d6960f8d96c2a3",
+      "_scraped_at": "13:49"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "link": "https://arxiv.org/abs/2606.05334",
+      "summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support degradation prediction, but often target fixed operating conditions or isolated component benchmarks, while material-fatigue assessment is rarely linked to system-level functional prognosis. This paper addresses this gap for an angle grinder by combining uncertainty-aware functional prediction with component-level fatigue assessment in an instance-specific reliability workflow. The proposed framework combines the current tool state with recent force--torque usage windows. A convolutional encoder extracts loading patterns from spindle forces and shaft torque, and an LSTM backbone predicts nine functional variables as Gaussian mean and variance estimates. In parallel, the same loading history is translated into output-shaft fatigue information through finite-element-supported stress reconstruction, S--N/Miner damage evaluation with Haibach extension, and Paris-law crack-growth analysis. A streaming replay algorithm consolidates both branches into functional, material, and system reliability trajectories. Held-out tests show mean \\(2\\%\\)-tolerance accuracy of 0.9652 across nine outputs. Thermal variables are predicted near-perfectly, while drive motor current and load speed remain the most demanding dynamic outputs, with \\(R^2\\) values of 0.9750 and 0.9924. Torque history is especially important for these variables, and the conventional LSTM outperforms GRU and xLSTM in the short-history setting. Reliability calibration is most informative for drive motor current, where predicted and observed exceedance probabilities ...",
+      "published": "2026-06-06T04:00:00",
+      "_id": "8b477d048eef1a6a",
+      "_scraped_at": "13:49"
+    }
+  ],
+  "seen_ids": [
+    "2303616314696cdd",
+    "a2be114f246f235d",
+    "1f3005a2c6d780dc",
+    "6d405b1d3247a3e1",
+    "dd095e156e97b966",
+    "d3e30dffc129bea3",
+    "e2be88e535bd4f18",
+    "d338227676c6185d",
+    "2193987563578830",
+    "bc1be22764a168b9",
+    "9e3c81a59fa48cec",
+    "e6bd582074d067c2",
+    "2ea7cf8e1fc9c4e0",
+    "fd9b87df1fe1b911",
+    "fa43139748030341",
+    "034fda5f2df45268",
+    "3ff8b1814303a04a",
+    "ce2a9e080311d673",
+    "f36df30631aaa417",
+    "9f56c9f99394d103",
+    "cf2879a4f8bc2f9c",
+    "d8951679a130c7d5",
+    "8a13b55f65a24cc0",
+    "c1484d2b46f4e00c",
+    "9e88ddcf0c153696",
+    "56195770cc396a42",
+    "3f6a83904fce3a09",
+    "817516bccc087c47",
+    "baae6c3245fbd0db",
+    "11248abbb15c1543",
+    "1f017163d95cfd3b",
+    "0e9dbd25c54524a7",
+    "b6bb9341088f0954",
+    "0d7f711a3b891e80",
+    "8b477d048eef1a6a",
+    "da5e5724c2e93828",
+    "b88590c43555a909",
+    "45be8112200ab381",
+    "ac5ae285283173df",
+    "6719220a430a909c",
+    "9251c307f3bced37",
+    "6e8ea1d709c450b0",
+    "68c93a2e843db05b",
+    "3df0e649f59ae9e1",
+    "6857593cb05357cd",
+    "12eae56e6697eaf6",
+    "dc1245866190dc02",
+    "d890e4bb37a903a7",
+    "9f7d4775e565c7a1",
+    "bbb55645be737c1d",
+    "fa78b5f2da52f6b0",
+    "d986c17752d4e976",
+    "b4d6960f8d96c2a3",
+    "5348a7d239028e9b",
+    "d927b41559b2d7d0",
+    "b84f75606f4542c2",
+    "43d3ef9bd32addf2",
+    "dd023cfffced850a",
+    "be8abe6f7bf0dfa0",
+    "2f72c01ac65e2648",
+    "3420ad9a86ff5382",
+    "c66834651fcb7751",
+    "a50a85662c8ecec5"
+  ],
+  "last_run": "13:49",
+  "run_count": 1
+}
