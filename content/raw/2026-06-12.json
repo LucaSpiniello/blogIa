@@ -1,0 +1,619 @@
+{
+  "date": "2026-06-12",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "link": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "published": "2026-06-12T00:00:00",
+      "_id": "ddc7b24a91dcf271",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Google AI",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "published": "2026-06-11T20:00:00",
+      "_id": "d20d2186d5e0c63f",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+      "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
+      "published": "2026-06-11T13:00:17",
+      "_id": "8d9248f6074cccfc",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "Announcements Claude Fable 5 and Claude Mythos 5 Jun 9, 2026 Today we’re launching Claude Fable 5 : a Mythos-class 1 model that we’ve made safe for general use. Fable 5’s capabilities exceed those of any model we’ve ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5’s lead over our other models. Releasing a model this capable comes with risks. Without safeguards, Fable 5’s capabilities in areas like cybersecurity could be misused to cause serious damage. We’ve therefore launched the model with safeguards that mean queries on some topics will instead receive a response from our next-most-capable model, Claude Opus 4.8. To release the model both safely and quickly, we’ve tuned these safeguards conservatively—they’ll sometimes catch harmless requests, though they trigger, on average, in less than 5% of sessions. With more capable models arriving in the coming months, we’re working to improve our safeguards and reduce false positives as quickly as we can. For a small group of cyberdefenders and infrastructure providers, we’re also launching Claude Mythos 5 . It’s the same underlying model as Fable 5, but with the safeguards lifted in some areas. 2 Mythos 5 will initially be deployed through Project Glasswing , in collaboration with the US government, as an upgrade to Claude Mythos Preview. It has the strongest cybersecurity capabilities of any model in the world. Soon, we intend to expand access to Mythos 5 through a broader trusted access program. The capabilities of models like Fable 5 and Mythos 5 have the potential to do profound good for the world. We’ve seen the beginnings of this in Project Glasswing, where the models have helped cyber defenders secure critically important software. We’ve also seen it in life sciences research, where",
+      "published": "",
+      "_id": "e11fcea9cd94bb20",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "summary": "Announcements Policy Introducing Claude Corps Jun 11, 2026 We’re launching Claude Corps , a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America. We’ll teach 1,000 fellows how to use Claude well, match them with nonprofits across America, and pay them to spend a year—full-time, in-person—helping host organizations to advance their missions. Our goals are twofold: that host organizations are equipped with valuable tools and systems, and fellows build AI skills that will serve them in their careers. The benefits of transformative AI systems could come at the cost of significant disruption. The companies building this technology have a responsibility to make sure the benefits are fully realized and widely shared, and to invest directly in the workers absorbing the change. As such, we’re committing an initial $150m to this program. If Claude Corps works, we'll have a foundation for something much larger: a model for widening AI's benefits during a period of vast economic change. We’re announcing Claude Corps alongside our policy framework for addressing AI's impact on work. How Claude Corps works Claude Corps is set up as a partnership between three organizations. Anthropic will fund the program, lead its overall strategy, and provide Claude expertise. CodePath , an Anthropic nonprofit partner and America’s largest provider of collegiate computer science education, will act as the fellows’ official employer of record and lead programming during the fellowship. Social Finance , a nonprofit and registered investment advisor, will lead measurement and evaluation, and will build a longer-term financial vehicle to enable the program to scale. The fellow experience Each fellowship lasts for 12 months. At the beginning of the program, Anthropic and CodePath will provide intensive training on using Claude in nonprofit settings. After being placed, fellows will receive five hours of ongo",
+      "published": "",
+      "_id": "72c805579f21b6e8",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "summary": "Announcements Expanding Project Glasswing Jun 2, 2026 Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. We recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. We’re now expanding Project Glasswing. Following several weeks of close collaboration with our Project Glasswing partners, the security industry, open-source software maintainers, and the US government, we’re extending the partnership to approximately 150 new organizations. Each one will need to meet our security requirements before they gain access. The organizations in this new group are based in more than 15 countries, and most provide critical infrastructure to many more. (In the future, we intend to expand our geographical reach much further.) The group covers several industries that weren’t well represented in our initial cohort, such as power, water, healthcare, communications, and hardware. And many of the new partners are vendors—companies or nonprofits that maintain codebases that are relied upon by lots of other organizations around the world, including governments. What each partner has in common is that a successful attack on their codebase could be catastrophic. For most partners, we estimate that a major attack could affect more than 100 million people, with important ramifications for both global and national security. This expansion is the next step toward our long-term goals: for AI to make all software more secure, and for us to help the industry adjust to how AI could change many of the core assumptions of cybersecurity. The role of Project Glasswing Project Glasswing and the capabilities of Claude Mythos Preview have sparked broad conversations—both within the software industry and with governme",
+      "published": "",
+      "_id": "fd9b87df1fe1b911",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "summary": "Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" May 25, 2026 On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. — Holy Father, Your Eminences, Your Excellencies, Distinguished Speakers, Ladies and Gentlemen, Good morning to all of you. It’s an honor to be here today. I want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. The pressure to stay commercially viable and to stay at the research frontier. Geopolitical pressure. And the older, plainer pressures of pride and ambition. No matter how sincerely any of us intend to do the right thing—and I believe many of us do—we will always be influenced by those incentives. That is why, if we want this technology to go well, it is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful critics. It is through dialogue and mutual effort, through the push and pull, that humanity will achieve great things. That is what I see in Magnifica Humanitas, and it is why I am grateful to His Holiness and to the Church for taking up this work of discernment. We dwell so often on what divides us, but humanity, full of dignity and conscience, has so much comm",
+      "published": "",
+      "_id": "cf2879a4f8bc2f9c",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "summary": "Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on Jun 11, 2026 We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies. DXC will train tens of thousands of Claude-certified forward-deployed engineers (FDEs)—engineers embedded directly inside customer organizations—to bring Claude into the systems DXC operates for the world’s largest banks, airlines, insurers, manufacturers, and government agencies. These systems, which DXC has run for decades, handle the transactions, claims, and operations businesses depend on, under strict security and compliance requirements. Before bringing Claude to these businesses, DXC worked with Claude inside its own operations, comprising some 115,000 employees across 70 countries, with similarly stringent requirements—including collaborating with Claude to write more than 95% of the code for DXC OASIS, its new AI-native orchestration platform for managed services. DXC is also now part of the Claude Partner Network , our network of consulting and services firms that bring Claude to enterprise clients. Bringing Claude to DXC's own operations DXC worked with Claude in its own systems before rolling it out to clients. For example, in April 2026, DXC launched DXC OASIS, its tool for running customers' IT systems, where AI agents handle much of the routine work. Claude is now the default foundation model powering the platform’s agentic workflows. Claude was also the primary tool DXC used to build the platform. The firm estimates that Claude sped up software development by a factor of 10. More than 95% of the code was generated by Claude, then reviewed by software engineers. OASIS now serves over 50 DXC customers, and the firm plans to roll it out to customers around the world. “DXC helps the world’s largest banks, airlines, insurers, and government agencies put new technology to work,” said Paul Smith, Chief Commercial Offi",
+      "published": "",
+      "_id": "bf5c018b2741ad1d",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX IPO: Everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "published": "2026-06-12T14:08:54",
+      "_id": "bc8e49121b371cbe",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "published": "2026-06-12T04:30:00",
+      "_id": "551d15dff70d291e",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "published": "2026-06-12T01:48:07",
+      "_id": "8ab494d6b198b017",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "published": "2026-06-12T01:04:38",
+      "_id": "2ef95d5029c35f4b",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "published": "2026-06-11T20:33:10",
+      "_id": "7a32c77e372be158",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.  He’ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home […]",
+      "published": "2026-06-12T14:35:48",
+      "_id": "1c3e66acb6180d37",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now […]",
+      "published": "2026-06-12T14:03:39",
+      "_id": "b25b2eec7bd70aba",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Siri won’t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many […]",
+      "published": "2026-06-12T07:00:31",
+      "_id": "3ca94ebb6cedec55",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations […]",
+      "published": "2026-06-11T17:26:57",
+      "_id": "11ba347d6c94a1d8",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
+      "published": "2026-06-11T11:40:43",
+      "_id": "422637a47f4f0eaa",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "published": "2026-06-12T12:10:00",
+      "_id": "7bc6a6fa8da13ca9",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "You do your own time",
+      "link": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+      "published": "2026-06-12T10:00:00",
+      "_id": "167105dd7ad63497",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
+      "published": "2026-06-12T09:00:00",
+      "_id": "a9f4f9ab45b9afac",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
+      "published": "2026-06-12T09:00:00",
+      "_id": "662b4f301698933e",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
+      "published": "2026-06-11T12:10:00",
+      "_id": "33dd283e84e78f23",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Wired",
+      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+      "published": "2026-06-12T09:30:00",
+      "_id": "b1cafcc1f3f7c942",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+      "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+      "published": "2026-06-12T01:00:00",
+      "_id": "3a3d4d9e18b15f99",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "published": "2026-06-11T23:37:49",
+      "_id": "e56431644be639d2",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+      "published": "2026-06-11T21:21:04",
+      "_id": "1baf2a7a1d46167e",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+      "published": "2026-06-11T19:41:01",
+      "_id": "5d052fa633025fcc",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "addyosmani /agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "summary": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │  QA  │ ───▶ │  Go  │\n │Refine│      │  PRD │      │ Impl │      │Debug │      │ Gate │      │ Live │\n └──────┘      └──────┘      └──────┘      └──────┘      └──────┘      └──────┘\n  /spec          /plan          /build        /test         /review       /ship Commands 7 slash commands that map to the development lifecycle. Each one activates the right skills automatically. What you're doing Command Key principle Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove it works /test Tests are proof Review before merge /review Improve code health Simplify the code /code-simplify Clarity over cleverness Ship to production /ship Faster is safer Want fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps. Skills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design , building UI triggers frontend-ui-engineering , and so on. Quick Start Claude Code (recommended) Marketplace install: /plugin marketplace add addyosmani/agent-skills\n/plugin install agent-skills@addy-agent-skills SSH errors? The marketplace clones repos via SSH. If you don't have SSH keys ",
+      "published": "",
+      "_id": "dae9f02535f7c22f",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "music-assistant /server",
+      "link": "https://github.com/music-assistant/server",
+      "summary": "Music Assistant Music Assistant Server Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. Documentation and support Documentation https://music-assistant.io Beta Documentation https://beta.music-assistant.io For issues, please go to the issue tracker . For feature requests, please see feature requests . Running the server Music Assistant can be operated as a complete standalone product but it is actually tailored to use side by side with Home Assistant, it is meant with automation in mind, hence our recommended installation method is to run the server as a Home assistant Add-on. Installation Instructions See here https://music-assistant.io/installation/ Note that although Music Assistant's main code is written in python, it has multiple dependencies on external/OS components such as ffmpeg and custom binaries and it is therefore not possible to run it as standalone pypi package. The only available installation method to run the Music Assistant server is by running the Docker container or the Home Assistant add-on.",
+      "published": "",
+      "_id": "13427024d7bb11af",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattermost /mattermost",
+      "link": "https://github.com/mattermost/mattermost",
+      "summary": "Mattermost is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A new compiled version is released under an MIT license every month on the 16th. Deploy Mattermost on-premises , or try it for free in the cloud . Learn more about the following use cases with Mattermost: DevSecOps Incident Resolution IT Service Desk Other useful resources: Download and Install Mattermost - Install, setup, and configure your own Mattermost instance. Product documentation - Learn how to run a Mattermost instance and take advantage of all the features. Developer documentation - Contribute code to Mattermost or build an integration via APIs, Webhooks, slash commands, Apps, and plugins. Table of contents Install Mattermost Native mobile and desktop apps Get security bulletins Get involved Learn more License Get the latest news Contributing Install Mattermost Download and Install Mattermost Self-Hosted - Deploy a Mattermost Self-hosted instance in minutes via Docker, Ubuntu, or tar. Get started in the cloud to try Mattermost today. Developer machine setup - Follow this guide if you want to write code for Mattermost. Other install guides: Deploy Mattermost on Docker Mattermost Omnibus Install Mattermost from Tar Ubuntu 20.04 LTS Kubernetes Helm Debian Buster RHEL 8 More server install guides Native mobile and desktop apps In addition to the web interface, you can also download Mattermost clients for Android , iOS , Windows PC , macOS , and Linux . Get security bulletins Receive notifications of critical security updates. The sophistication of online attackers is perpetually increasing. If you're deploying Mattermost it's highly recommended you subscribe to the Mattermost Security Bulletin mailing list for updates on critical security releas",
+      "published": "",
+      "_id": "9b84571b54ae6c61",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "apple /container",
+      "link": "https://github.com/apple/container",
+      "summary": "container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and run images from any standard container registry. You can push images that you build to those registries as well, and run the images in any other OCI-compatible application. container uses the Containerization Swift package for low-level container, image, and process management. Get started Requirements You need a Mac with Apple silicon to run container . To build it, see the BUILDING document. container is supported on macOS 26, since it takes advantage of new features and enhancements to virtualization and networking in this release. We do not support older versions of macOS and the container maintainers typically will not address issues that cannot be reproduced on macOS 26. Initial install Download the latest signed installer package for container from the GitHub release page . To install the tool, double-click the package file and follow the instructions. Enter your administrator password when prompted, to give the installer permission to place the installed files under /usr/local . Start the system service with: container system start Upgrade or downgrade For both upgrading and downgrading, you can manually download and install the signed installer package by following the steps from initial install or use the update-container.sh script (installed to /usr/local/bin ). If you're upgrading or downgrading, you must stop your existing container : container system stop To upgrade to the latest release, simply run the command below: /usr/local/bin/update-container.sh To downgrade, you must uninstall your existing container (the -k flag keeps your user data, while -d removes it): /usr/local/bin/uninstall-container.sh -k\n/usr/local/bin/update-container.sh -v 0.3.0 Start the system service with: container s",
+      "published": "",
+      "_id": "e64e90ec67fe8191",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "iptv-org /iptv",
+      "link": "https://github.com/iptv-org/iptv",
+      "summary": "IPTV Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents 🚀 How to use? 📺 Playlists 🗓 EPG 🗄 Database 👨‍💻 API 📚 Resources 💬 Discussions ❓ FAQ 🛠 Contribution ⚖ Legal © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press Open . Playlists The main playlist containing all channels available in the repository can be found at: https://iptv-org.github.io/iptv/index.m3u Links to other playlists can be found in the PLAYLISTS.md file. EPG Electronic Program Guide for most of the channels can be downloaded using utilities published in the iptv-org/epg repository. Database All channel data is taken from the iptv-org/database repository. If you find any errors please open a new issue there. API The API documentation can be found in the iptv-org/api repository. Resources Links to other useful IPTV-related resources can be found in the iptv-org/awesome-iptv repository. Discussions If you have a question or idea, welcome to the Discussions . FAQ The answers to the most popular questions can be found in the FAQ.md file. Contribution Please make sure to read the Contributing Guide before sending an issue or making a pull request. And thank you to everyone who has already contributed! Backers Contributors Legal No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an issue . However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is",
+      "published": "",
+      "_id": "7cee059b5393d0da",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Quickstart Give your agent Superpowers: Claude Code , Codex CLI , Codex App , Factory Droid , Gemini CLI , OpenCode , Cursor , GitHub Copilot CLI . How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Installation differs by harness. If you use more than one, install Superpowers separately for each one. Claude Code Superpowers is available via the official Claude plugin marketplace Official Marketplace Install the plugin from Anthropic's official marketplace: /pl",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "refactoringhq /tolaria",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "summary": "💧 Tolaria Tolaria is a desktop app for macOS, Windows, and Linux for managing markdown knowledge bases . People use it for a variety of use cases: Operate second brains and personal knowledge Organize company docs as context for AI Store OpenClaw/assistants memory and procedures Personally, I use it to run my life (hey 👋 Luca here ). I have a massive workspace of 10,000+ notes, which are the result of my Refactoring work + a ton of personal journaling and second braining . Walkthroughs You can find some Loom walkthroughs below — they are short and to the point: How I Organize My Own Tolaria Workspace My Inbox Workflow How I Save Web Resources to Tolaria Principles 📑 Files-first — Your notes are plain markdown files. They're portable, work with any editor, and require no export step. Your data belongs to you, not to any app. 🔌 Git-first — Every vault is a git repository. You get full version history, the ability to use any git remote, and zero dependency on Tolaria servers. 🛜 Offline-first, zero lock-in — No accounts, no subscriptions, no cloud dependencies. Your vault works completely offline and always will. If you stop using Tolaria, you lose nothing. 🔬 Open source — Tolaria is free and open source. I built this for myself and for sharing it with others. 📋 Standards-based — Notes are markdown files with YAML frontmatter. No proprietary formats, no locked-in data. Everything works with standard tools if you decide to move away from Tolaria. 🔍 Types as lenses, not schemas — Types in Tolaria are navigation aids, not enforcement mechanisms. There's no required fields, no validation, just helpful categories for finding notes. 🪄 AI-first but not AI-only — A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code, Codex CLI, and Gemini CLI setup paths, but you can edit the vault with any AI you want. We provide an AGENTS file for your agents to figure out. ⌨️ Keyboard-first — Tolaria is designed for power-users who",
+      "published": "",
+      "_id": "3ea17c64f01feab4",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "maziyarpanahi /openmed",
+      "link": "https://github.com/maziyarpanahi/openmed",
+      "summary": "Local-first healthcare AI that never leaves the device Turn clinical text into structured insight with one line of code. Entity extraction, PII de-identification, and 1,000+ specialized medical models that run entirely on\nyour own hardware — from a one-liner in Python to a native Swift app on iPhone, powered by Apple MLX.\nNo cloud. No vendor lock-in. No patient data leaving your network. 1,000+ models · 12 languages · 247 PII checkpoints · 100% on-device · Apache-2.0 English · 简体中文 · Español · Français · Deutsch · Italiano · Português · Nederlands · العربية · हिन्दी · తెలుగు · 日本語 · Türkçe · فارسی See it in action OpenMed runs entirely on the device — clinical text never leaves it. Here it is on iPhone, fully offline: On iPhone via OpenMedKit — scan a clinical note, de-identify it, and extract clinical signals, all locally with Apple MLX. Nothing is uploaded. Real-time PII de-identification — the Nemotron Privacy Filter redacting names, addresses, IDs, and billing data from a clinical discharge packet, entirely on-device. (All values shown are synthetic.) 30-second example from openmed import analyze_text result = analyze_text ( \"Patient started on imatinib for chronic myeloid leukemia.\" , model_name = \"disease_detection_superclinical\" ,\n) for entity in result . entities : print ( f\" { entity . label :<12 } { entity . text :<28 } { entity . confidence :.2f } \" ) # DISEASE      chronic myeloid leukemia     0.98 # DRUG         imatinib                     0.95 A state-of-the-art clinical NER model running locally — no API key, no network call. Why OpenMed? OpenMed Cloud medical APIs Runs on your device / servers ✅ ❌ Patient data leaves your network Never Sent to the vendor Cost Free & open-source Per-call pricing Specialized medical models 1,000+ Limited Languages 12+ Varies Offline / air-gapped ✅ ❌ Apple Silicon (MLX) acceleration ✅ n/a Native iOS / macOS apps ✅ via OpenMedKit ❌ Vendor lock-in None — Apache-2.0 Yes Specialized models — 1,000+ curated biomedical & cli",
+      "published": "",
+      "_id": "93fd8aa5cbfd4434",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "LMCache /LMCache",
+      "link": "https://github.com/LMCache/LMCache",
+      "summary": "A KV Cache Management Layer for Scalable LLM Inference Blog | Documentation | Join Slack | Community Meeting | Roadmap Updates [2026/05] 🔥 Agentic workload benchmark on AMD MI300X ( blog ). [2026/04] 🔥 LMCache's new multiprocess(MP) architecture release ( blog ). [2026/03] LMCache at GTC 2026 ( post ). [2026/01] LMCache multi-node P2P CPU memory sharing, from experimental feature to production ( blog ). More [2025/11] LMCache x CoreWeave accelerate efficient LLM inference for Cohere ( blog ). [2025/10] LMCache joins the PyTorch Foundation and Tensormesh unveiled ( blog , PyTorch ). [2025/09] NVIDIA Dynamo integrates LMCache, accelerating LLM inference ( blog ). [2025/08] 🎉 LMCache hits 5,000+ GitHub stars ( blog ). [2025/08] LMCache supports gpt-oss (20B/120B) on day 1 ( blog ). [2025/07] Get faster LLM inference and cheaper responses with LMCache and Redis ( Redis blog ). [2025/07] LMCache extends its turbo-boost to multimodal models in vLLM V1 ( blog ). [2025/06] LLM Production Stack goes cross-hardware: AMD, Arm and Ascend ( blog ). About LMCache is a KV cache management layer for LLM inference. It turns KV cache from a temporary state into reusable AI-native knowledge that can be stored persistently, reused across multiple serving engines, monitored with an observability stack, and transformed for better generation quality. As a result, LMCache reduces TTFT (time-to-first-token) and improves throughput , especially for long-context agentic, multi-turn conversation, and knowledge-augmented workloads (e.g., RAG). LMCache is vendor-neutral . It can be used as a KV cache layer for a range of mainstream open-source serving engines, inference frameworks, hardware vendors, storage systems, and infrastructure providers. The vendor neutrality allows users to freely switch between serving engines and storage vendors, while reusing the stored KV caches. Key features Engine-independent deployment : LMCache, as a standalone daemon process, manages KV cache independently from",
+      "published": "",
+      "_id": "39ee5250ff3b158b",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "phuryn /pm-skills",
+      "link": "https://github.com/phuryn/pm-skills",
+      "summary": "PM Skills Marketplace: The AI Operating System for Better Product Decisions 68 PM skills and 42 chained workflows across 9 plugins. Claude Code, Cowork, and more. From discovery to strategy, execution, launch, growth, and shipping AI-built code. Designed for Claude Code and Cowork. Skills compatible with other AI assistants. Start Here New idea? → /discover Need strategic clarity? → /strategy Writing a PRD? → /write-prd Planning a launch? → /plan-launch Defining metrics? → /north-star If this project helps you, ⭐ the repo. Why PM Skills Marketplace? Generic AI gives you text. PM Skills Marketplace gives you structure. Each skill encodes a proven PM framework — discovery, assumption mapping, prioritization, strategy — and walks you through it step by step. You get the rigor of Teresa Torres, Marty Cagan, and Alberto Savoia built into your daily workflow, not sitting on a bookshelf. The result: better product decisions, not just faster documents. How It Works (Skills, Commands, Plugins) Skills are the building blocks of the marketplace. Each skill gives Claude domain knowledge, analytical frameworks, or a guided workflow for a specific PM task. Some skills also work as reusable foundations that multiple commands share. Skills are loaded automatically when relevant to the conversation — no explicit invocation needed. If needed (e.g., prioritizing skills over general knowledge), you can force loading skills with /plugin-name:skill-name or /skill-name (Claude will add the prefix). Commands are user-triggered workflows invoked with /command-name . They chain one or more skills into an end-to-end process. For example, /discover chains four skills together: brainstorm-ideas → identify-assumptions → prioritize-assumptions → brainstorm-experiments. Plugins group related skills and commands into installable packages. Each plugin covers a PM domain — discovery, strategy, execution, and so on. Installing the marketplace gives you all 9 plugins at once. Commands use skills. Some ",
+      "published": "",
+      "_id": "b92602274d6abd3d",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "summary": "Article URL:https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/Comments URL:https://news.ycombinator.com/item?id=48500012Points: 1109# Comments: 418",
+      "published": "2026-06-12T04:42:53",
+      "_id": "37a356f2d0f05f3a",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Fable is relentlessly proactive",
+      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "Article URL:https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/Comments URL:https://news.ycombinator.com/item?id=48498573Points: 629# Comments: 510",
+      "published": "2026-06-12T01:06:51",
+      "_id": "7874061062f9fdca",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "summary": "https://arxiv.org/pdf/2602.14740Comments URL:https://news.ycombinator.com/item?id=48495575Points: 200# Comments: 188",
+      "published": "2026-06-11T19:54:54",
+      "_id": "012400abadac5358",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "summary": "Article URL:https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hypeComments URL:https://news.ycombinator.com/item?id=48492210Points: 372# Comments: 213",
+      "published": "2026-06-11T16:03:21",
+      "_id": "91c189e7852b52fa",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: How do you get into a flow state when using AI to code?",
+      "link": "https://news.ycombinator.com/item?id=48492118",
+      "summary": "Before agentic coding, I always prided myself on how long I could work in a flow state. I was really good at working deeply.Now, with slow agents like Claude, I find myself no longer working deeply.What are you all doing to stay focused?Comments URL:https://news.ycombinator.com/item?id=48492118Points: 89# Comments: 110",
+      "published": "2026-06-11T15:56:25",
+      "_id": "d7904445d37f2200",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "summary": "Article URL:https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6Comments URL:https://news.ycombinator.com/item?id=48490057Points: 271# Comments: 218",
+      "published": "2026-06-11T13:26:59",
+      "_id": "b8e1a54494837b55",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making a vintage LLM from scratch",
+      "link": "https://crlf.link/log/entries/260525-1/",
+      "summary": "Article URL:https://crlf.link/log/entries/260525-1/Comments URL:https://news.ycombinator.com/item?id=48487829Points: 66# Comments: 18",
+      "published": "2026-06-11T08:38:00",
+      "_id": "ef6782112f9e13cb",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "summary": "Article URL:https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineersComments URL:https://news.ycombinator.com/item?id=48487540Points: 301# Comments: 341",
+      "published": "2026-06-11T07:51:17",
+      "_id": "b766f955e0a1b424",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic walks back policy that could have 'sabotaged' researchers using Claude",
+      "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "summary": "https://archive.ph/yxYhUhttps://web.archive.org/web/20260611033414/https://www.wired...Comments URL:https://news.ycombinator.com/item?id=48485958Points: 71# Comments: 37",
+      "published": "2026-06-11T03:41:06",
+      "_id": "52e3f9c9aa94bca3",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "MICCAI 2026 Results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u3nims/miccai_2026_results_d/",
+      "summary": "Results are almost here. Good luck to everyone waiting for the final decision 🙂submitted by/u/Sea_Muscle_4281[link][comments]",
+      "published": "2026-06-12T06:35:14",
+      "_id": "c36546a309d17c45",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u2tk0i/anthropic_walks_back_policy_on_silent_nerfing_for/",
+      "summary": "From Wired:“We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.”Anthropic now says it’s changing course, and that Claude Fable 5’s safeguards for AI development will be visible to users. If the company suspects a user is trying to use Claude to build a highly capable AI it will alert them that it’s either refusing the request, or rerouting the user to a less capable model.Full article:https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/submitted by/u/goldcakes[link][comments]",
+      "published": "2026-06-11T08:51:10",
+      "_id": "e1c47ea1abb044f1",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/",
+      "summary": "Hey everyone,I am planning out a new open-source infrastructure project and want to get some brutal feedback on the architecture and use-case validity from people running high volume LLM workloads in production.The Problem:Python-based proxies/gateways introduce too much latency overhead for real-time streaming agent steps or fast UI completions. Additionally, centralized semantic caching still suffers from cross-region network latency (e.g., London to us-east-1), and enterprise API costs remain a massive bottleneck for repetitive/predictable user queries (like customer support or structured data extraction).The Proposed Architecture:Instead of a heavy centralized gateway, the goal is to build a lightweight, zero-dependency semantic cache running directly at the CDN Edge using WebAssembly (WASM) compiled from Rust.The flow looks like this:Inbound Prompt:Hits the edge node closest to the user (e.g., Cloudflare Workers / Fastly Compute).Edge Embedding:The Rust/WASM module intercepts the raw text prompt and instantly generates a vector using an edge-native lightweight model (e.g.,bge-small-en-v1.5).Similarity Index Check:It performs a fast cosine similarity check against an edge vector database (like Cloudflare Vectorize) to find the nearest semantic neighbor.Cache Hit:If similarity >= threshold (e.g., 0.88), it pulls the full generated response text from an edge KV store and returns it in ~5ms. The main LLM provider is never billed or touched.Cache Miss:It proxies the streaming request to OpenAI/Anthropic/vLLM, streams it back to the client, and asynchronously updates the edge vector index and KV store.Why Rust/WASM?To achieve sub-millisecond execution overhead on the proxy itself, avoid garbage collection pauses, and maintain a tiny memory footprint suitable for edge runtime constraints where traditional databases or Python scripts cannot run.My Questions for the Community:For those running LLMs in production (especially customer support, internal RAG, or autonomous ",
+      "published": "2026-06-12T09:53:27",
+      "_id": "28e00795d4d27292",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "link": "https://arxiv.org/abs/2606.12451",
+      "summary": "arXiv:2606.12451v1 Announce Type: new \nAbstract: Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture specialized tool semantics, parametric tool retrieval addresses this by encoding each tool as a virtual token appended to the LLM vocabulary, fine-tuned in two stages (memorization then retrieval SFT) to use the LLM as a retriever, achieving strong performance on standard ToolBench retrieval benchmarks. Yet these benchmarks use verbose, fully-specified queries, and their evaluation applies constrained decoding that restricts outputs to valid token paths, neither reveals whether the model actually understands its tools. We introduce \\textbf{ToolSense}, an open-source LLM-powered diagnostic framework that takes any tool catalog as input and automatically generates three benchmarks: a Realistic Retrieval Benchmark (RRB) with queries at three ambiguity tiers, an MCQ probing benchmark, and a QA probing benchmark. Applying ToolSense to ToolBench (~47k tools) and evaluating five parametric model training configurations reveals a knowledge-retrieval dissociation: on RRB queries, several configurations collapse by ~50-64 percentage points compared to fully-specified ToolBench benchmarks, falling below the embedding-model baseline. Additionally, despite strong retrieval performance, some models score near-random on factual probes, suggesting a knowledge-retrieval dissociation. We open-source the ToolSense framework and the ToolBench diagnostic benchmarks at https://github.com/SAP/toolsense.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "9bc16690ccf90e49",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "link": "https://arxiv.org/abs/2606.12563",
+      "summary": "arXiv:2606.12563v1 Announce Type: new \nAbstract: Arbor is a multi-agent framework that introduces structured tree search as a cognition layer for autonomous agents operating in large, stateful action spaces. Prior autonomous optimization systems operate on isolated targets with stateless evaluation. Arbor instead maintains an explicit search tree of scored hypotheses that serves as the shared working memory across agents, evolving with every measurement, treating failures as diagnostic signal that reshapes subsequent exploration, and expanding as prior successes shift the bottleneck distribution.\n  We validate Arbor on full-stack LLM inference optimization, a domain where achieving peak performance has historically required coordinated effort from engineering teams across the application, framework, compiler, kernel, and hardware stack. Arbor pairs an Orchestrator agent, which drives optimization by delegating to Domain Specialists across the inference stack, with a Critic agent that safeguards stability through root-cause analysis, introspection, and measurement validation -- a checks-and-balances architecture where neither agent can unilaterally drive the system. Agent capabilities are decomposed into hard skills (domain expertise) and soft skills (coordination protocols that determine how contributions compose), enabling fully autonomous multi-day campaigns. Arbor achieves up to 193% inference throughput-latency Pareto improvement over vendor-optimized baselines, while a single agent without the harness plateaus at +33% throughput improvement and crashes irrecoverably within hours. Arbor generalizes to multiple generations of hardware platform, and run-to-run variance is within 2 percentage points demonstrating that the method is hardware-agnostic and reproducible.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "0ab3fd1203e5e62c",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Strategic Decision Support for AI Agents",
+      "link": "https://arxiv.org/abs/2606.12587",
+      "summary": "arXiv:2606.12587v1 Announce Type: new \nAbstract: Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic systems, this division of roles is increasingly reversed: AI agents act on behalf of users, while humans and tools becomes support mechanisms around them. This role reversal brings reliability concerns to the forefront, since agentic errors can be consequential and agent behavior must remain aligned with human goals and constraints. Departing from the classical view of decision support, we revisit its two basic principles, the cost--value tradeoff of seeking support and the role of uncertainty quantification, in a setting where AI agents are the central actors. We propose a framework for strategic decision support for AI agents through an optimization problem that minimizes support usage subject to controlling a counterfactual missed-support error: the probability that the agent acts alone on instances where support would have materially improved its output. At the population level, we show that the optimal policy is a threshold rule on the value of support. Building on this structure, we develop an online algorithm that adaptively thresholds such a score and uses randomized exploration to control missed-support error without distributional assumptions. We further introduce a calibration-on-the-fly method that reduces unnecessary support calls online. We instantiate this framework across diverse scenarios, including information gathering, human--AI collaboration, and tool use, showing how each can be modeled through the same strategic decision-support lens. Experiments across these settings show that our method reliably controls the target error while substantially reducing support usage in practice.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "c4d306c82d9bf2d8",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+      "link": "https://arxiv.org/abs/2606.12594",
+      "summary": "arXiv:2606.12594v1 Announce Type: new \nAbstract: Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by scarce verified proof data and the long reasoning traces of formal proof search, making both supervised fine-tuning (SFT) and sampling expensive. We introduce Pythagoras-Prover, a compute-efficient open-source family of Lean theorem provers built for practical compute budgets. The family spans two generation paradigms: autoregressive models at 4B and 32B parameters, and a first proof-of-concept diffusion-based prover (4B) that iteratively refines Lean proofs at inference time. For training efficiency, we build a Lean-verified corpus stratified into easy, medium, and hard problems for curriculum SFT, so models acquire proof skills progressively from shorter, simpler proofs to longer, harder ones. During SFT, a dynamic proof-reasoning filtering scheme preserves informative proof traces while keeping each instance within an 8k-token context budget. We also introduce Augmented Lean Formalisation (ALF), which expands scarce verified corpora into variants of formal statements, populated via self-distillation for extra training signal without formally verifying every mutated instance. By perturbing known problems while preserving their formal character, ALF reduces reliance on any statement's surface form. Empirically, Pythagoras-Prover-4B surpasses DeepSeek-Prover-V2-671B at pass@32 on MiniF2F-Test (86.1% vs 82.4%) with ~167x fewer parameters, while Pythagoras-Prover-32B sets the open-source state of the art at 93.0% on MiniF2F-Test and solves 93 of 672 PutnamBench problems. We release MiniF2F-ALF, an ALF-mutated contamination-sensitive benchmark on which every evaluated model loses accuracy; here our 32B remains strongest and our 4B matches the prior state of the art, Goedel-Prover-V2-32B.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "253efd5c2b806a4f",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+      "link": "https://arxiv.org/abs/2606.12616",
+      "summary": "arXiv:2606.12616v1 Announce Type: new \nAbstract: Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same way, produced either by rule-based traffic managers or by learned models trained toward a single behavioral mode. Recent work introduces style variation through post-hoc labels on observational data or LLM-inferred reward weights, but these signals act as proxies for what a style should reward rather than demonstrations of humans explicitly asked to drive in that style. We introduce PersonaDrive, a pipeline that conditions a vision-language-action (VLA) driving agent on retrieved demonstrations from a style-instructed human driving dataset, in which participants drive CARLA leaderboard routes under aggressive, neutral, and conservative instructions on a driver-in-the-loop rig. The pipeline has three stages: (i) offline triplet mining over per-style human driving data using a combined image-text similarity score; (ii) training a lightweight retrieval head that fuses frozen visual features with a small control encoder over per-style databases; and (iii) fine-tuning a single VLA backbone to treat retrieved context points as in-context behavioral demonstrations during waypoint prediction. At inference, the same backbone is conditioned on any style by swapping which per-style database the retrieval head queries, so selecting a style requires no per-style retraining while enabling human-style, style-diverse non-ego agents for closed-loop simulation. On Bench2Drive, PersonaDrive (no style) improves the driving score by 4.6% over SimLingo and 2.5% over HiP-AD, and under style conditioning attains the highest driving score in every style within a roughly 2% band (its weakest style surpassing the strongest baseline, DMW, by 5.4%), while average speed and acceleration rise by 18% and 25% from the conservative to the aggressive instruction.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "8d4f52058bf09872",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "EDEN: A Large-Scale Corpus of Clinical Notes for Italian",
+      "link": "https://arxiv.org/abs/2606.12569",
+      "summary": "arXiv:2606.12569v1 Announce Type: new \nAbstract: We present EDEN (Emergency Department Electronic Notes), a new and unique large-scale corpus of clinical notes produced in Emergency Departments of Italian hospitals. The corpus, in its current version, is composed of approximately 4 million clinical notes fully anonymized, covering diverse phases of patient care during the stay in the emergency department. In addition, a subset of about six thousand notes has been manually annotated by clinical experts through a structured Case Report Form (CRF) containing 132 items relevant for two patient situations in emergency departments, dyspnea and loss of consciousness. Items may assume numerical values (e.g., for blood saturation), categorical (e.g., for level of consciousness ), binary (e.g., for presence of traumas), and mixed value types. The annotation process involved multiple clinicians and underwent iterative revision to resolve ambiguities in item formulation, resulting in a richly structured (although high imbalanced) resource. The dataset aims to fill a relevant gap of data able to support both the development and the use of Large Language Models in concrete medical applications. We describe the data collection protocol, the on-site anonymisation pipeline, corpus statistics, and the annotation scheme. Finally, we propose CRF-filling as a novel structured information extraction benchmark, and provide zero-shot baseline resulting from Gemma-27B and MedGemma-27B. To the best of our knowledge, the EDEN dataset is the largest freely available corpus of clinical notes existing for the Italian language.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "926d0bf32a23c4c2",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Helping Figures Tell their Story! Paper-Grounded Video Generation Explaining Complex Scientific Figures",
+      "link": "https://arxiv.org/abs/2606.12576",
+      "summary": "arXiv:2606.12576v1 Announce Type: new \nAbstract: Scientific figures compress complex pipelines into a single canvas, yet understanding them requires paper-grounded, step-by-step narration aligned with visual highlights a capability missing from current video generation systems and benchmarks. To address this, we introduce paper-grounded figure-to-video generation: generating narrated, region-grounded walkthrough videos from a figure and its paper. We propose MINARD (Multimodal Interpretation of Narrated Architecture via Region Decomposition), a pipeline that generates paper-grounded narrations and sequentially grounds them to figure regions. We also release FigTalk, a benchmark with new sequential and component-level grounding metrics derived. On FigTalk, MINARD generates humanlike, paper-faithful narrations and outperforms narration-conditioned figure spatial grounding compared to existing approaches in both automatic and human evaluation",
+      "published": "2026-06-12T04:00:00",
+      "_id": "06a03585ccdad847",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "MARD: Mirror-Augmented Reasoning Distillation for Mechanism-Level Drug-Drug Interaction Prediction",
+      "link": "https://arxiv.org/abs/2606.12578",
+      "summary": "arXiv:2606.12578v1 Announce Type: new \nAbstract: Mechanism-level drug-drug interaction (DDI) prediction requires identifying which enzyme or pharmacodynamic axis is implicated, in which direction, and with which evidence -- not merely whether two drugs interact. We introduce a reproducible mechanism-level DDI labelling and evaluation protocol with a structured 7-family/147-subtype taxonomy, leakage-safe cold-split protocols, and auditable reasoning metrics for evaluating pharmacological prediction beyond flat interaction classification. We propose a pipeline that produces a 7B reasoning MARD (Mirror-Augmented Reasoning Distillation), combining three training innovations: a single-token KL divergence on direction tag that ties the model's prediction, per-loss PRM-weighted DPO with programmatic hard negatives, and a leakage-safe mechanism-aware retrieval channel. Process-reward step labels are automatically verifiable against DrugBank-structured fields, requiring no human or LLM judges. On the April-2026 DrugBank release, our MARD-7B is the only system in a 32-system comparison whose accuracy survives drug-pair novelty, beating the best baseline by +13.9 pp and GPT-4o by +6.7 pp at ~1% of frontier API cost. Further analysis reveals an anti-memorisation signature where accuracy improves on rarely seen drugs, suggesting that gain comes from structured pharmacological reasoning rather than drug-frequency memorisation. We release corpus, DDI-PRM, retrieval index, and training code.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "aef599dc71c945a2",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Constrained Semantic Decompression in LLMs through Persian Proverb-Conditioned Story Generation",
+      "link": "https://arxiv.org/abs/2606.12599",
+      "summary": "arXiv:2606.12599v1 Announce Type: new \nAbstract: Transforming a dense, abstract proverb into an engaging and morally faithful narrative requires deep cultural understanding and robust semantic grounding. We frame this problem as a \\emph{constrained semantic decompression} task and study proverb-conditioned story generation as a testbed for abstraction-to-realization in large language models (LLMs). Focusing on Persian, we introduce the Proverb Aligned Narrative Dataset (PAND), pairing proverbs with human-written stories and explicit meanings. By a hybrid evaluation framework that combines human-calibrated LLM-as-a-Judge with structural metrics, we analyze model behavior across multiple prompting regimes. Our findings reveal a persistent \\emph{decompression gap}: current LLMs often achieve strong surface-level fluency while failing to faithfully instantiate the underlying moral and causal structure encoded in proverbs. We further show that explicit reasoning and iterative refinement can partially mitigate these failures, suggesting that many decompression errors arise from difficulties in translating abstract meaning into narrative form rather than a complete lack of relevant knowledge. Our proposed task naturally extends to other forms of compressed cultural knowledge.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "14e59d015f03445c",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Shopping Reasoning Bench: An Expert-Authored Benchmark for Multi-Turn Conversational Shopping Assistants",
+      "link": "https://arxiv.org/abs/2606.12608",
+      "summary": "arXiv:2606.12608v1 Announce Type: new \nAbstract: Conversational shopping assistants now serve hundreds of millions of customers, yet no existing benchmark jointly evaluates the open-ended multi-turn reasoning, domain expertise, and criterion-level quality that real shopping conversations demand. Shopping reasoning is unique among language model applications. Unlike factual question answering or verifiable code generation, it requires balancing subjective preferences, budget constraints, and cross-product trade-offs across multi-turn dialogue, capabilities absent from previous e-commerce and general-purpose benchmarks. We introduce the Shopping Reasoning Bench, an expert-authored benchmark of 525 missions (232 single-turn, 293 multi-turn) with 10863 importance-weighted binary rubrics authored by retail domain experts. These criteria are organized under a taxonomy of five reasoning categories and fifteen subcategories covering diverse demands such as preference refinement, trade-off analysis, and compatibility assessment. An evaluation of nine models across three families (GPT, Claude, Gemini) shows that pass rates reach only 57--77% overall. On multi-turn missions, all models score 13--29 points lower on optional above-and-beyond criteria than on required ones, and performance degrades 4--18 points as conversations progress. These gaps show that current models handle basic shopping assistance but fall short of expert-level advice, making Shopping Reasoning Bench a challenging testbed for future shopping assistant development.",
+      "published": "2026-06-12T04:00:00",
+      "_id": "44af5dd5d1e40fa7",
+      "_scraped_at": "15:20"
+    },
+    {
+      "source": "Y Combinator",
+      "title": "Diana Hu Is YC's Newest Managing Partner",
+      "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+      "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
+      "published": "2026-06-11T17:01:59",
+      "_id": "c91a847006c14ff3",
+      "_scraped_at": "15:20"
+    }
+  ],
+  "seen_ids": [
+    "2ef95d5029c35f4b",
+    "d20d2186d5e0c63f",
+    "fd9b87df1fe1b911",
+    "52e3f9c9aa94bca3",
+    "39ee5250ff3b158b",
+    "167105dd7ad63497",
+    "8d4f52058bf09872",
+    "ef6782112f9e13cb",
+    "33dd283e84e78f23",
+    "e56431644be639d2",
+    "06a03585ccdad847",
+    "aef599dc71c945a2",
+    "b92602274d6abd3d",
+    "a9f4f9ab45b9afac",
+    "9bc16690ccf90e49",
+    "1c3e66acb6180d37",
+    "551d15dff70d291e",
+    "72c805579f21b6e8",
+    "bc8e49121b371cbe",
+    "b8e1a54494837b55",
+    "0ab3fd1203e5e62c",
+    "bf5c018b2741ad1d",
+    "b25b2eec7bd70aba",
+    "e1c47ea1abb044f1",
+    "c91a847006c14ff3",
+    "1baf2a7a1d46167e",
+    "3ca94ebb6cedec55",
+    "7bc6a6fa8da13ca9",
+    "9b84571b54ae6c61",
+    "37a356f2d0f05f3a",
+    "28e00795d4d27292",
+    "b1cafcc1f3f7c942",
+    "c4d306c82d9bf2d8",
+    "8ab494d6b198b017",
+    "7a32c77e372be158",
+    "91c189e7852b52fa",
+    "c36546a309d17c45",
+    "e64e90ec67fe8191",
+    "012400abadac5358",
+    "93fd8aa5cbfd4434",
+    "cf2879a4f8bc2f9c",
+    "7874061062f9fdca",
+    "44af5dd5d1e40fa7",
+    "926d0bf32a23c4c2",
+    "7cee059b5393d0da",
+    "dae9f02535f7c22f",
+    "253efd5c2b806a4f",
+    "b766f955e0a1b424",
+    "d7904445d37f2200",
+    "662b4f301698933e",
+    "13427024d7bb11af",
+    "5d052fa633025fcc",
+    "8d9248f6074cccfc",
+    "8c6014a36ca90e3f",
+    "422637a47f4f0eaa",
+    "11ba347d6c94a1d8",
+    "3a3d4d9e18b15f99",
+    "e11fcea9cd94bb20",
+    "3ea17c64f01feab4",
+    "14e59d015f03445c",
+    "ddc7b24a91dcf271"
+  ],
+  "last_run": "15:20",
+  "run_count": 1
+}
