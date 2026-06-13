@@ -1,0 +1,499 @@
+{
+  "date": "2026-06-13",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "published": "2026-06-12T10:00:00",
+      "_id": "dd73139d2e3dcd4c",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "summary": "",
+      "published": "2026-06-12T15:56:10",
+      "_id": "8f76e67ad854a6c0",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+      "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+      "published": "2026-06-12T21:00:08",
+      "_id": "e5266a56559dbd60",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5AnnouncementsJun 12, 2026The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "summary": "Announcements Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Jun 12, 2026 The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected. We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or “jailbreaking” Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass. Anthropic’s posture with respect to Fable’s safeguards, as laid out in our launch blog post , is the following: We have instituted strong safeguards that greatly reduce the likelihood that Fable is misused for tasks related to cybersecurity (among others). In fact, our safeguards are so strong that many users have complained that they are overly broad. In the weeks leading up to the launch of Fable, Anthropic worked with the US government, the UK AISI, multiple private third-party organizations and internal teams to red-team Fable’s safeguards for thousands of hours in total. These tests showed that Fable’s safeguards are substantially more effective than those of any previously deployed model. No testers have yet been able to find a universal jailbreak —a jailbreak method that can very broadly bypass the model’s safeguards, unblocking a wide range of cyber",
+      "published": "",
+      "_id": "001317287cdd9d97",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "summary": "Announcements Policy Introducing Claude Corps Jun 11, 2026 We’re launching Claude Corps , a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America. We’ll teach 1,000 fellows how to use Claude well, match them with nonprofits across America, and pay them to spend a year—full-time, in-person—helping host organizations to advance their missions. Our goals are twofold: that host organizations are equipped with valuable tools and systems, and fellows build AI skills that will serve them in their careers. The benefits of transformative AI systems could come at the cost of significant disruption. The companies building this technology have a responsibility to make sure the benefits are fully realized and widely shared, and to invest directly in the workers absorbing the change. As such, we’re committing an initial $150m to this program. If Claude Corps works, we'll have a foundation for something much larger: a model for widening AI's benefits during a period of vast economic change. We’re announcing Claude Corps alongside our policy framework for addressing AI's impact on work. How Claude Corps works Claude Corps is set up as a partnership between three organizations. Anthropic will fund the program, lead its overall strategy, and provide Claude expertise. CodePath , an Anthropic nonprofit partner and America’s largest provider of collegiate computer science education, will act as the fellows’ official employer of record and lead programming during the fellowship. Social Finance , a nonprofit and registered investment advisor, will lead measurement and evaluation, and will build a longer-term financial vehicle to enable the program to scale. The fellow experience Each fellowship lasts for 12 months. At the beginning of the program, Anthropic and CodePath will provide intensive training on using Claude in nonprofit settings. After being placed, fellows will receive five hours of ongo",
+      "published": "",
+      "_id": "72c805579f21b6e8",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "summary": "Announcements Expanding Project Glasswing Jun 2, 2026 Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. We recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. We’re now expanding Project Glasswing. Following several weeks of close collaboration with our Project Glasswing partners, the security industry, open-source software maintainers, and the US government, we’re extending the partnership to approximately 150 new organizations. Each one will need to meet our security requirements before they gain access. The organizations in this new group are based in more than 15 countries, and most provide critical infrastructure to many more. (In the future, we intend to expand our geographical reach much further.) The group covers several industries that weren’t well represented in our initial cohort, such as power, water, healthcare, communications, and hardware. And many of the new partners are vendors—companies or nonprofits that maintain codebases that are relied upon by lots of other organizations around the world, including governments. What each partner has in common is that a successful attack on their codebase could be catastrophic. For most partners, we estimate that a major attack could affect more than 100 million people, with important ramifications for both global and national security. This expansion is the next step toward our long-term goals: for AI to make all software more secure, and for us to help the industry adjust to how AI could change many of the core assumptions of cybersecurity. The role of Project Glasswing Project Glasswing and the capabilities of Claude Mythos Preview have sparked broad conversations—both within the software industry and with governme",
+      "published": "",
+      "_id": "fd9b87df1fe1b911",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Product Announcements Introducing Claude Opus 4.8 May 28, 2026 We’re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It’s available today for the same price. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new “dynamic workflows” feature that allows it to tackle very large-scale problems. And fast mode for Opus 4.8—where the model can work at 2.5× the speed—is now three times cheaper than it was for previous models. Opus 4.8’s capabilities The table below shows how Opus 4.8 compares to its predecessor and to other models on tests of coding, agentic skills, reasoning, and practical knowledge work tasks. More details and a much wider range of capability evaluations are provided in the Claude Opus 4.8 System Card . Collaborating with Opus 4.8 Early testers have found Claude Opus 4.8 to be more reliable and sharper in its judgment when it’s performing agentic tasks. Below are quotes from many of these testers about their experience collaborating with Opus 4.8: Claude Opus 4.8 has noticeably better judgment. In Claude Code, it asks the right questions, catches its own mistakes, pushes back when a plan isn’t sound, and builds up confidence around complex, multi-service explorations before making big changes. It’s a great model to build with. On our Super-Agent benchmark, Claude Opus 4.8 is the only model to complete every case end-to-end, beating prior Opus models and GPT-5.5 at parity on cost. For agent products in translation, deep research, slide-building, and analysis, it delivers powerful reliability. On CursorBench, Claude Opus 4.8 exceeds prior Opus models across every effort level. Tool calling is meaningfully more efficient, using fewer steps for the same intelligence, and it carries end-to-end tasks through. Claude Opus 4.8 delivers the highest score re",
+      "published": "",
+      "_id": "5348a7d239028e9b",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsMay 25, 2026Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "summary": "Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" May 25, 2026 On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. — Holy Father, Your Eminences, Your Excellencies, Distinguished Speakers, Ladies and Gentlemen, Good morning to all of you. It’s an honor to be here today. I want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. The pressure to stay commercially viable and to stay at the research frontier. Geopolitical pressure. And the older, plainer pressures of pride and ambition. No matter how sincerely any of us intend to do the right thing—and I believe many of us do—we will always be influenced by those incentives. That is why, if we want this technology to go well, it is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful critics. It is through dialogue and mutual effort, through the push and pull, that humanity will achieve great things. That is what I see in Magnifica Humanitas, and it is why I am grateful to His Holiness and to the Church for taking up this work of discernment. We dwell so often on what divides us, but humanity, full of dignity and conscience, has so much comm",
+      "published": "",
+      "_id": "cf2879a4f8bc2f9c",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "published": "2026-06-13T04:14:19",
+      "_id": "ef03b32d571d872e",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "published": "2026-06-13T02:26:30",
+      "_id": "23f52dc54cf478bd",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "published": "2026-06-12T23:15:14",
+      "_id": "0ddf188da3167b13",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "published": "2026-06-12T23:00:54",
+      "_id": "c351aa7df44b242b",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "published": "2026-06-12T20:38:09",
+      "_id": "f998c275d7032b30",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "The Verge",
+      "title": "My yard is dying, so I made an app for that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
+      "published": "2026-06-13T13:00:00",
+      "_id": "c347bc0b0e7e8cb2",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
+      "published": "2026-06-13T12:55:49",
+      "_id": "c324d96608f563d6",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]",
+      "published": "2026-06-13T12:00:00",
+      "_id": "6cd5ff5f02416bc1",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "The Verge",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of […]",
+      "published": "2026-06-13T11:00:00",
+      "_id": "5283bb1f8652b3a7",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "The Verge",
+      "title": "Siri is good now??",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
+      "published": "2026-06-12T17:17:04",
+      "_id": "1a124fc9f4a7572b",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+      "published": "2026-06-12T19:26:47",
+      "_id": "878ad15444890798",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "published": "2026-06-12T12:10:00",
+      "_id": "7bc6a6fa8da13ca9",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "You do your own time",
+      "link": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+      "published": "2026-06-12T10:00:00",
+      "_id": "167105dd7ad63497",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
+      "published": "2026-06-12T09:00:00",
+      "_id": "a9f4f9ab45b9afac",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
+      "published": "2026-06-12T09:00:00",
+      "_id": "662b4f301698933e",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Wired",
+      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+      "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+      "published": "2026-06-13T09:00:00",
+      "_id": "ec99355c3a725d34",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Wired",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "published": "2026-06-13T02:26:10",
+      "_id": "995c7f22bee2cd27",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "published": "2026-06-12T23:45:26",
+      "_id": "2fbf2784d479a9ec",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Wired",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "published": "2026-06-12T21:16:25",
+      "_id": "ca672108251ffa25",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Wired",
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "published": "2026-06-12T17:17:10",
+      "_id": "561626e925ad03e3",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "iptv-org /iptv",
+      "link": "https://github.com/iptv-org/iptv",
+      "summary": "IPTV Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents 🚀 How to use? 📺 Playlists 🗓 EPG 🗄 Database 👨‍💻 API 📚 Resources 💬 Discussions ❓ FAQ 🛠 Contribution ⚖ Legal © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press Open . Playlists The main playlist containing all channels available in the repository can be found at: https://iptv-org.github.io/iptv/index.m3u Links to other playlists can be found in the PLAYLISTS.md file. EPG Electronic Program Guide for most of the channels can be downloaded using utilities published in the iptv-org/epg repository. Database All channel data is taken from the iptv-org/database repository. If you find any errors please open a new issue there. API The API documentation can be found in the iptv-org/api repository. Resources Links to other useful IPTV-related resources can be found in the iptv-org/awesome-iptv repository. Discussions If you have a question or idea, welcome to the Discussions . FAQ The answers to the most popular questions can be found in the FAQ.md file. Contribution Please make sure to read the Contributing Guide before sending an issue or making a pull request. And thank you to everyone who has already contributed! Backers Contributors Legal No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an issue . However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is",
+      "published": "",
+      "_id": "7cee059b5393d0da",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "addyosmani /agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "summary": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │  QA  │ ───▶ │  Go  │\n │Refine│      │  PRD │      │ Impl │      │Debug │      │ Gate │      │ Live │\n └──────┘      └──────┘      └──────┘      └──────┘      └──────┘      └──────┘\n  /spec          /plan          /build        /test         /review       /ship Commands 7 slash commands that map to the development lifecycle. Each one activates the right skills automatically. What you're doing Command Key principle Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove it works /test Tests are proof Review before merge /review Improve code health Simplify the code /code-simplify Clarity over cleverness Ship to production /ship Faster is safer Want fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps. Skills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design , building UI triggers frontend-ui-engineering , and so on. Quick Start Claude Code (recommended) Marketplace install: /plugin marketplace add addyosmani/agent-skills\n/plugin install agent-skills@addy-agent-skills SSH errors? The marketplace clones repos via SSH. If you don't have SSH keys ",
+      "published": "",
+      "_id": "dae9f02535f7c22f",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "chatwoot /chatwoot",
+      "link": "https://github.com/chatwoot/chatwoot",
+      "summary": "Chatwoot The modern customer support platform, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc. Chatwoot is the modern, open-source, and self-hosted customer support platform designed to help businesses deliver exceptional customer support experience. Built for scale and flexibility, Chatwoot gives you full control over your customer data while providing powerful tools to manage conversations across channels. ✨ Captain – AI Agent for Support Supercharge your support with Captain, Chatwoot’s AI agent. Captain helps automate responses, handle common queries, and reduce agent workload—ensuring customers get instant, accurate answers. With Captain, your team can focus on complex conversations while routine questions are resolved automatically. Read more about Captain here . 💬 Omnichannel Support Desk Chatwoot centralizes all customer conversations into one powerful inbox, no matter where your customers reach out from. It supports live chat on your website, email, Facebook, Instagram, Twitter, WhatsApp, Telegram, Line, SMS etc. 📚 Help center portal Publish help articles, FAQs, and guides through the built-in Help Center Portal. Enable customers to find answers on their own, reduce repetitive queries, and keep your support team focused on more complex issues. 🗂️ Other features Collaboration & Productivity Private Notes and @mentions for internal team discussions. Labels to organize and categorize conversations. Keyboard Shortcuts and a Command Bar for quick navigation. Canned Responses to reply faster to frequently asked questions. Auto-Assignment to route conversations based on agent availability. Multi-lingual Support to serve customers in multiple languages. Custom Views and Filters for better inbox organization. Business Hours and Auto-Responders to manage response expectations. Teams and Automation tools for scaling support workflows. Agent Capacity Management to balance workload across the team. Customer Data & Segmentation Contact Mana",
+      "published": "",
+      "_id": "6ea562cffa653c96",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Quickstart Give your agent Superpowers: Claude Code , Codex CLI , Codex App , Factory Droid , Gemini CLI , OpenCode , Cursor , GitHub Copilot CLI . How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for Claude to be able to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Sponsorship If Superpowers has helped you do stuff that makes money and you are so inclined, I'd greatly appreciate it if you'd consider sponsoring my opensource work . Thanks! Jesse Installation Installation differs by harness. If you use more than one, install Superpowers separately for each one. Claude Code Superpowers is available via the official Claude plugin marketplace Official Marketplace Install the plugin from Anthropic's official marketplace: /pl",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "apple /container",
+      "link": "https://github.com/apple/container",
+      "summary": "container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and run images from any standard container registry. You can push images that you build to those registries as well, and run the images in any other OCI-compatible application. container uses the Containerization Swift package for low-level container, image, and process management. Get started Requirements You need a Mac with Apple silicon to run container . To build it, see the BUILDING document. container is supported on macOS 26, since it takes advantage of new features and enhancements to virtualization and networking in this release. We do not support older versions of macOS and the container maintainers typically will not address issues that cannot be reproduced on macOS 26. Initial install Download the latest signed installer package for container from the GitHub release page . To install the tool, double-click the package file and follow the instructions. Enter your administrator password when prompted, to give the installer permission to place the installed files under /usr/local . Start the system service with: container system start Upgrade or downgrade For both upgrading and downgrading, you can manually download and install the signed installer package by following the steps from initial install or use the update-container.sh script (installed to /usr/local/bin ). If you're upgrading or downgrading, you must stop your existing container : container system stop To upgrade to the latest release, simply run the command below: /usr/local/bin/update-container.sh To downgrade, you must uninstall your existing container (the -k flag keeps your user data, while -d removes it): /usr/local/bin/uninstall-container.sh -k\n/usr/local/bin/update-container.sh -v 0.3.0 Start the system service with: container s",
+      "published": "",
+      "_id": "e64e90ec67fe8191",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "music-assistant /server",
+      "link": "https://github.com/music-assistant/server",
+      "summary": "Music Assistant Music Assistant Server Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. Documentation and support Documentation https://music-assistant.io Beta Documentation https://beta.music-assistant.io For issues, please go to the issue tracker . For feature requests, please see feature requests . Running the server Music Assistant can be operated as a complete standalone product but it is actually tailored to use side by side with Home Assistant, it is meant with automation in mind, hence our recommended installation method is to run the server as a Home assistant Add-on. Installation Instructions See here https://music-assistant.io/installation/ Note that although Music Assistant's main code is written in python, it has multiple dependencies on external/OS components such as ffmpeg and custom binaries and it is therefore not possible to run it as standalone pypi package. The only available installation method to run the Music Assistant server is by running the Docker container or the Home Assistant add-on.",
+      "published": "",
+      "_id": "13427024d7bb11af",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "kenn-io /agentsview",
+      "link": "https://github.com/kenn-io/agentsview",
+      "summary": "agentsview Browse, search, and track costs across all your AI coding agents. One binary, no\naccounts, everything local. Install # macOS / Linux curl -fsSL https://agentsview.io/install.sh | bash # Windows powershell -ExecutionPolicy ByPass -c \" irm https://agentsview.io/install.ps1 | iex \" Or download the desktop app (macOS / Windows) from GitHub Releases or via\nhomebrew: brew install --cask agentsview Or run the published Docker image: docker run --rm -p 127.0.0.1:8080:8080 \\\n  -v agentsview-data:/data \\\n  -v \" $HOME /.claude/projects:/agents/claude:ro \" \\\n  -v \" $HOME /.forge:/agents/forge:ro \" \\\n  -e CLAUDE_PROJECTS_DIR=/agents/claude \\\n  -e FORGE_DIR=/agents/forge \\\n  ghcr.io/kenn-io/agentsview:latest Quick Start agentsview serve # start server, open web UI agentsview usage daily # print daily cost summary On first run, agentsview discovers sessions from every supported agent on your\nmachine, syncs them into a local SQLite database, and opens a web UI at http://127.0.0.1:8080 . Remote / forwarded access agentsview binds to loopback and validates the request Host header to guard\nagainst DNS-rebinding attacks. When you reach it through SSH port-forwarding, a\nreverse proxy, or a remote dev environment (exe.dev, Codespaces, Coder, WSL2),\nthe browser sends a Host that the server does not recognize, so API requests\nsuch as /api/v1/settings are rejected with 403 Forbidden . To fix this, restart the server with --public-url set to the exact origin you\nopen in the browser: # Browser opens http://127.0.0.1:18080 via `ssh -L 18080:127.0.0.1:8080 host` agentsview serve --public-url http://127.0.0.1:18080 # Browser opens a forwarded hostname agentsview serve --public-url https://your-workspace.exe.dev Use --public-origin (repeatable or comma-separated) to trust additional\nbrowser origins. If you expose the UI beyond loopback, also enable --require-auth . Docker The container image defaults to local agentsview serve . Set PG_SERVE=1 to\nswitch the startup command to agentsview",
+      "published": "",
+      "_id": "68551dc8cb2a5ed6",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "LMCache /LMCache",
+      "link": "https://github.com/LMCache/LMCache",
+      "summary": "A KV Cache Management Layer for Scalable LLM Inference Blog | Documentation | Join Slack | Community Meeting | Roadmap Updates [2026/05] 🔥 Agentic workload benchmark on AMD MI300X ( blog ). [2026/04] 🔥 LMCache's new multiprocess(MP) architecture release ( blog ). [2026/03] LMCache at GTC 2026 ( post ). [2026/01] LMCache multi-node P2P CPU memory sharing, from experimental feature to production ( blog ). More [2025/11] LMCache x CoreWeave accelerate efficient LLM inference for Cohere ( blog ). [2025/10] LMCache joins the PyTorch Foundation and Tensormesh unveiled ( blog , PyTorch ). [2025/09] NVIDIA Dynamo integrates LMCache, accelerating LLM inference ( blog ). [2025/08] 🎉 LMCache hits 5,000+ GitHub stars ( blog ). [2025/08] LMCache supports gpt-oss (20B/120B) on day 1 ( blog ). [2025/07] Get faster LLM inference and cheaper responses with LMCache and Redis ( Redis blog ). [2025/07] LMCache extends its turbo-boost to multimodal models in vLLM V1 ( blog ). [2025/06] LLM Production Stack goes cross-hardware: AMD, Arm and Ascend ( blog ). About LMCache is a KV cache management layer for LLM inference. It turns KV cache from a temporary state into reusable AI-native knowledge that can be stored persistently, reused across multiple serving engines, monitored with an observability stack, and transformed for better generation quality. As a result, LMCache reduces TTFT (time-to-first-token) and improves throughput , especially for long-context agentic, multi-turn conversation, and knowledge-augmented workloads (e.g., RAG). LMCache is vendor-neutral . It can be used as a KV cache layer for a range of mainstream open-source serving engines, inference frameworks, hardware vendors, storage systems, and infrastructure providers. The vendor neutrality allows users to freely switch between serving engines and storage vendors, while reusing the stored KV caches. Key features Engine-independent deployment : LMCache, as a standalone daemon process, manages KV cache independently from",
+      "published": "",
+      "_id": "39ee5250ff3b158b",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /PowerToys",
+      "link": "https://github.com/microsoft/PowerToys",
+      "summary": "Microsoft PowerToys Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks. Installation · Documentation · Blog · Release notes 🔨 Utilities PowerToys includes over 30 utilities to help you customize and optimize your Windows experience: Advanced Paste Always on Top Awake Color Picker Command Not Found Command Palette Crop And Lock Environment Variables FancyZones File Explorer Add-ons File Locksmith Grab And Move Hosts File Editor Image Resizer Keyboard Manager Light Switch Mouse Utilities Mouse Without Borders New+ Peek PowerDisplay PowerRename PowerToys Run Quick Accent Registry Preview Screen Ruler Shortcut Guide Text Extractor Workspaces ZoomIt 📦 Installation For detailed installation instructions and system requirements, visit the installation docs . But to get started quickly, choose one of the installation methods below: Download the .exe file from GitHub Go to the PowerToys GitHub releases , scroll down and select Assets to reveal the installation files, and choose the one that matches your architecture and install scope. For most devices, that would be x64 per-user . Microsoft Store You can easily install PowerToys from the Microsoft Store: WinGet Download PowerToys from [WinGet]( https://github.com/microsoft/winget-cli#installing-the-client ). Updating PowerToys via winget will respect the current PowerToys installation scope. To install PowerToys, run the following command from the command line / PowerShell: User scope installer (default) winget install Microsoft.PowerToys - s winget Machine-wide scope installer winget install -- scope machine Microsoft.PowerToys - s winget Other methods There are [community driven install methods]( https://learn.microsoft.com/windows/powertoys/install#community-driven-install-tools ) such as Chocolatey and Scoop. If these are your preferred install solutions, you can find the install instructions there. ✨ What's new? To see what's new, check out the release notes . ",
+      "published": "",
+      "_id": "b9e9024e7c05556f",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "GitHub",
+      "title": "andrewyng /aisuite",
+      "link": "https://github.com/andrewyng/aisuite",
+      "summary": "OpenCoworker An AI agent that lives on your desktop, built on aisuite. OpenCoworker is a desktop AI agent that can not only chat, but also do deep research and carry out tasks for\nyou on your computer. It can read files (with permission) to gain context, read/send messages (slack, email, etc.),\nand create real deliverables like PDF reports, documents, spreadsheets. It also supports scheduled automations,\nsuch as providing you a daily news summary. Requires bringing your own API key (OpenAI, Anthropic, Google) or run fully local with Ollama. Your data stays on your machine. ⬇ Download for macOS macOS 13+ (Apple Silicon) ⬇ Download for Windows Windows 10/11 (x64)  · Quickstart: — install, connect a model, first tasks, automations. Its source lives in this repository under platform/ — a working reference for building your own agent harness on aisuite. aisuite aisuite is a lightweight Python library for building with LLMs, in two layers: a unified Chat Completions API across providers, and an Agents API with tools and toolkits on top. This repo is also home to OpenCoworker , a desktop AI coworker built using aisuite: ┌───────────────────────────────────────────────┐\n│                 OpenCoworker                  │   agent harness for doing everyday tasks\n├───────────────────────────────────────────────┤\n│        Agents API  ·  Toolkits  ·  MCP        │   build agents across multiple LLMs\n├───────────────────────────────────────────────┤\n│             Chat Completions API              │   one API across multiple LLM providers\n├────────┬───────────┬────────┬────────┬────────┤\n│ OpenAI │ Anthropic │ Google │ Ollama │ Others │\n└────────┴───────────┴────────┴────────┴────────┘ Chat Completions API — a unified, OpenAI-style interface for OpenAI, Anthropic, Google, Mistral, Hugging Face, AWS, Cohere, Ollama, OpenRouter , and more. Swap providers by changing one string. Agents API · Toolkits · MCP — give models real Python functions as tools, run multi-turn loops, attach ready",
+      "published": "",
+      "_id": "a7a73112040f91fa",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "link": "https://github.com/tensorzero/tensorzero",
+      "summary": "Article URL:https://github.com/tensorzero/tensorzeroComments URL:https://news.ycombinator.com/item?id=48516504Points: 53# Comments: 24",
+      "published": "2026-06-13T12:10:47",
+      "_id": "ae1b8461caeba44b",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "link": "https://github.com/Paca-AI/paca",
+      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free foreverComments URL:https://news.ycombinator.com/item?id=48515385Points: 59# Comments: 23",
+      "published": "2026-06-13T09:44:25",
+      "_id": "28be9ca5c1438ec3",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "summary": "Article URL:https://koenvangilst.nl/lab/claude-fable-shepherds-dogComments URL:https://news.ycombinator.com/item?id=48513728Points: 114# Comments: 95",
+      "published": "2026-06-13T05:44:46",
+      "_id": "0583f3a48b55852a",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open source AI must win",
+      "link": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "Article URL:https://opensourceaimustwin.com/?share=v2Comments URL:https://news.ycombinator.com/item?id=48511908Points: 1202# Comments: 378",
+      "published": "2026-06-13T02:14:24",
+      "_id": "81122a35696eee98",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "link": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "summary": "Article URL:https://status.claude.com/incidents/s9w82lp9dcn9Comments URL:https://news.ycombinator.com/item?id=48511121Points: 250# Comments: 5",
+      "published": "2026-06-13T00:58:06",
+      "_id": "26f04deac62bbda8",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "link": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+      "summary": "I haven't found a way to delete all chats in bulk like you can on Chatgpt. With Claude, you have to scroll to the bottom, select everything, and delete. The problem is, if you have a lot of chats, it becomes impossible. I created this script. It does it alone. I hope it helps someone.(conversations disappear from the UI slowly, over several minutes, and remember to keep the tab open until the console shows \"Finished\", refreshing away from the page can stop the deletion process.)Comments URL:https://news.ycombinator.com/item?id=48505161Points: 56# Comments: 18",
+      "published": "2026-06-12T15:08:59",
+      "_id": "c06d676a5580a50c",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "summary": "Article URL:https://envs.net/~volpe/blog/posts/reduce-slop.htmlComments URL:https://news.ycombinator.com/item?id=48504912Points: 208# Comments: 125",
+      "published": "2026-06-12T14:48:38",
+      "_id": "7bfbcbe46d6537e3",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "summary": "Article URL:https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/Comments URL:https://news.ycombinator.com/item?id=48500012Points: 1424# Comments: 517",
+      "published": "2026-06-12T04:42:53",
+      "_id": "37a356f2d0f05f3a",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Unprofessional Coauthor Behavior with Hallucinated References [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u4m3lz/unprofessional_coauthor_behavior_with/",
+      "summary": "Just thought I'd highlight this issue to the ML community, since I recently had this problem arise and it might be useful for some.I had a coauthor who I knew was somewhat untrustworthy when it came to LLM use. This coauthor added some last-minute new references to the paper. The deadline was near, and I had a ton of other stuff to take care of. I asked them to ensure the references were correct. This coauthor confirmed that all references were correct. I trusted them. I submitted the paper.Turns out, I made a critical mistake in trusting them. All of these newly added references had hallucinations in them. The reviewer pointed out the hallucinated references and we withdrew the paper. Besides this reviewer, we had all accept scores: the scientific content of our paper was strong. Of course, this damages my reputation and the reputations of the rest of the coauthors.I was the first author and did >90% of the work on this paper over 2.5 years. This coauthor did maybe 5% of the work.The takeaway is: check *all* references added to the paper, unless you are absolutely certain you can trust someone to not use LLMs. Hopefully this helps someone avoid this issue, because I worked tirelessly on this paper, in a very high pressure lab environment, and this whole situation has caused me a lot of grief.submitted by/u/treeman0469[link][comments]",
+      "published": "2026-06-13T09:07:27",
+      "_id": "5d884939b026a417",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "PaddleOCR (v3/v4/v5/v6) implemented in C++ with ncnn [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u4hy2x/paddleocr_v3v4v5v6_implemented_in_c_with_ncnn_p/",
+      "summary": "Hi,About a year ago I shared my PaddleOCR implementation here. Since then I've made many improvements, and it now supports PP-OCR v3 through thelatest v6models.The official Paddle C++ runtime has a lot of dependencies and is very complex to deploy. To keep things simple I use ncnn for inference, it's much lighter (and faster in my task), makes deployment easy.Hope it's helpful to some of you, and feedback welcome!https://github.com/Avafly/PaddleOCR-ncnn-CPPsubmitted by/u/Knok0932[link][comments]",
+      "published": "2026-06-13T05:06:31",
+      "_id": "a49e85916c803fb6",
+      "_scraped_at": "14:04"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Anomaly Detection vs Classification for Visually Similar Cancer vs Mimics? [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u4obgy/anomaly_detection_vs_classification_for_visually/",
+      "summary": "I'm working on a paper and would love some input on model choice.Suppose you're trying to detect a specific type of cancer, but the negative samples are visually and morphologically very similar (i.e., “mimics” of the cancer). In this setting, would it make more sense to approach the problem as:Anomaly detection(treating the cancer as the target distribution and everything else as out-of-distribution), orSupervised classification(explicitly learning to distinguish cancer vs. mimics)?submitted by/u/DryHat3296[link][comments]",
+      "published": "2026-06-13T11:18:43",
+      "_id": "cce6605567e12351",
+      "_scraped_at": "14:04"
+    }
+  ],
+  "seen_ids": [
+    "c06d676a5580a50c",
+    "cf2879a4f8bc2f9c",
+    "dd73139d2e3dcd4c",
+    "5283bb1f8652b3a7",
+    "ca672108251ffa25",
+    "b9e9024e7c05556f",
+    "37a356f2d0f05f3a",
+    "fd9b87df1fe1b911",
+    "7bc6a6fa8da13ca9",
+    "8f76e67ad854a6c0",
+    "167105dd7ad63497",
+    "ec99355c3a725d34",
+    "26f04deac62bbda8",
+    "001317287cdd9d97",
+    "561626e925ad03e3",
+    "f998c275d7032b30",
+    "5d884939b026a417",
+    "e64e90ec67fe8191",
+    "28be9ca5c1438ec3",
+    "a7a73112040f91fa",
+    "e5266a56559dbd60",
+    "0ddf188da3167b13",
+    "6cd5ff5f02416bc1",
+    "2fbf2784d479a9ec",
+    "cce6605567e12351",
+    "5348a7d239028e9b",
+    "39ee5250ff3b158b",
+    "0583f3a48b55852a",
+    "c347bc0b0e7e8cb2",
+    "c324d96608f563d6",
+    "dae9f02535f7c22f",
+    "ef03b32d571d872e",
+    "6ea562cffa653c96",
+    "a9f4f9ab45b9afac",
+    "c351aa7df44b242b",
+    "662b4f301698933e",
+    "13427024d7bb11af",
+    "878ad15444890798",
+    "8c6014a36ca90e3f",
+    "7cee059b5393d0da",
+    "72c805579f21b6e8",
+    "23f52dc54cf478bd",
+    "1a124fc9f4a7572b",
+    "995c7f22bee2cd27",
+    "ae1b8461caeba44b",
+    "81122a35696eee98",
+    "68551dc8cb2a5ed6",
+    "7bfbcbe46d6537e3",
+    "a49e85916c803fb6"
+  ],
+  "last_run": "14:04",
+  "run_count": 1
+}
