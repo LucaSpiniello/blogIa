@@ -223,5 +223,50 @@
     "categoria": "regulacion",
     "importancia": 2,
     "rank": 15
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "published": "2026-06-19T16:08:17",
+    "_id": "a72532f8748ceb52",
+    "_scraped_at": "22:40",
+    "title_es": "Gobierno de EE.UU. prohíbe modelos Fable 5 y Mythos 5 de Anthropic",
+    "bajada": "El gobierno estadounidense obligó a Anthropic a retirar sus dos últimos modelos por preocupaciones de seguridad nacional, tras descobrirse vulnerabilidades en Fable 5. Investigadores de ciberseguridad critican la decisión, argumentando que fallas similares existen en otros modelos.",
+    "bajada_en": "The US government forced Anthropic to pull its two latest models over national security concerns after vulnerabilities were discovered in Fable 5. Cybersecurity researchers criticize the decision, arguing similar flaws exist in competing models.",
+    "categoria": "regulacion",
+    "importancia": 4,
+    "rank": 1
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "published": "2026-06-19T22:40:14",
+    "_id": "0b42675c02c010f6",
+    "_scraped_at": "22:40",
+    "title_es": "Control de exportaciones de IA: ¿Por qué no funciona?",
+    "bajada": "Un análisis de TechCrunch examina cómo 30 años de restricciones a software de ciberseguridad han fracasado históricamente. Con el modelo Mythos de Anthropic bajo fuego, expertos cuestionan si esta estrategia de control es viable en la era de la IA.",
+    "bajada_en": "A TechCrunch analysis examines how 30 years of restrictions on cybersecurity software have historically failed. With Anthropic's Mythos model under fire, experts question whether this control strategy is viable in the AI era.",
+    "categoria": "regulacion",
+    "importancia": 3,
+    "rank": 2
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "published": "2026-06-19T16:01:03",
+    "_id": "8859f4a246e730f2",
+    "_scraped_at": "22:40",
+    "title_es": "La prohibición de Anthropic no afecta el mercado, según métricas",
+    "bajada": "A pesar de la prohibición gubernamental de Fable 5 y Mythos 5, los datos de mercado sugieren que la restricción tiene poco impacto real en la tracción de Anthropic. El episodio plantea preguntas sobre la efectividad de los controles de exportación.",
+    "bajada_en": "Despite the government ban on Fable 5 and Mythos 5, market metrics suggest the restriction has minimal real impact on Anthropic's traction. The episode raises questions about the effectiveness of export controls.",
+    "categoria": "negocio",
+    "importancia": 2,
+    "rank": 3
   }
 ]
