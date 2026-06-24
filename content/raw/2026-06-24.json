@@ -1,0 +1,609 @@
+{
+  "date": "2026-06-24",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "published": "2026-06-24T06:00:00",
+      "_id": "855db08b75f6ecde",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "published": "2026-06-23T13:00:00",
+      "_id": "aec47bf765565a42",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "published": "2026-06-23T17:00:00",
+      "_id": "072c0c3973379946",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "summary": "",
+      "published": "2026-06-23T12:51:55",
+      "_id": "0b690c5df303dfe7",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+      "link": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]",
+      "published": "2026-06-24T00:05:37",
+      "_id": "e7cad40fb53bcdfe",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How Businesses Are Building Specialized AI They Can Trust",
+      "link": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+      "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help.  Now, specialized agents — systems of models that can reason, use tools and […]",
+      "published": "2026-06-23T13:00:07",
+      "_id": "75c7b56bd53e5c38",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+      "link": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+      "summary": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
+      "published": "2026-06-23T09:00:38",
+      "_id": "9d1d47ec4b50ed0a",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "link": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy.  The […]",
+      "published": "2026-06-23T06:00:09",
+      "_id": "0acdbe015ce097c6",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5AnnouncementsJun 12, 2026The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "summary": "Announcements Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Jun 12, 2026 The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected. We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or “jailbreaking” Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass. Anthropic’s posture with respect to Fable’s safeguards, as laid out in our launch blog post , is the following: We have instituted strong safeguards that greatly reduce the likelihood that Fable is misused for tasks related to cybersecurity (among others). In fact, our safeguards are so strong that many users have complained that they are overly broad. In the weeks leading up to the launch of Fable, Anthropic worked with the US government, the UK AISI, multiple private third-party organizations and internal teams to red-team Fable’s safeguards for thousands of hours in total. These tests showed that Fable’s safeguards are substantially more effective than those of any previously deployed model. No testers have yet been able to find a universal jailbreak —a jailbreak method that can very broadly bypass the model’s safeguards, unblocking a wide range of cyber",
+      "published": "",
+      "_id": "001317287cdd9d97",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "summary": "Product Introducing Claude Tag Jun 23, 2026 Claude Tag is a new way for teams to work with Claude. We’re starting on Slack, which Claude can join as a team member. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you choose. Then, anyone in the channel can tag @Claude in, and delegate tasks to it while they focus on other work. Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future. We see Claude Tag as the beginning of an evolution of Claude Code: it makes the model even more proactive, and it works better with a full team. Tagging @Claude is now one of the main ways we get things done at Anthropic. Today, 65% of our product team’s code is created by our internal version of Claude Tag. The same pattern is now spreading well beyond engineering—we’re tagging Claude to chase down product metrics and data, work through support tickets, or even help find the root cause of tricky bugs. We’re launching Claude Tag on Slack, since it’s a natural home for collaborative work between teams and AI, and where much of Anthropic’s day-to-day work already happens. It’s available today in beta for Claude Enterprise and Team customers. Our goal is to expand where it’s available more widely, so that teams can tag @Claude in the many other places they work. Working with @Claude If you’ve worked with Claude Code or Cowork before, Claude Tag will feel familiar. Tag @Claude with a request in simple terms and it’ll break its task down into stages and then work through them in turn, using the tools it has access to. Once it’s done, it’ll respond in a Slack thread with what it’s created. But tagging Claude comes with a few new advantages: @Claude is multiplayer. Within a given Slack channel, there’s one Claude that interacts with everyone. This means that anyone can see what it’s working on, and can pick up the conversation from where the last person left off. Th",
+      "published": "",
+      "_id": "64748ac3266300d1",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 11, 2026Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "summary": "Announcements Policy Introducing Claude Corps Jun 11, 2026 We’re launching Claude Corps , a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America. We’ll teach 1,000 fellows how to use Claude well, match them with nonprofits across America, and pay them to spend a year—full-time, in-person—helping host organizations to advance their missions. Our goals are twofold: that host organizations are equipped with valuable tools and systems, and fellows build AI skills that will serve them in their careers. The benefits of transformative AI systems could come at the cost of significant disruption. The companies building this technology have a responsibility to make sure the benefits are fully realized and widely shared, and to invest directly in the workers absorbing the change. As such, we’re committing an initial $150m to this program. If Claude Corps works, we'll have a foundation for something much larger: a model for widening AI's benefits during a period of vast economic change. We’re announcing Claude Corps alongside our policy framework for addressing AI's impact on work. How Claude Corps works Claude Corps is set up as a partnership between three organizations. Anthropic will fund the program, lead its overall strategy, and provide Claude expertise. CodePath , an Anthropic nonprofit partner and America’s largest provider of collegiate computer science education, will act as the fellows’ official employer of record and lead programming during the fellowship. Social Finance , a nonprofit and registered investment advisor, will lead measurement and evaluation, and will build a longer-term financial vehicle to enable the program to scale. The fellow experience Each fellowship lasts for 12 months. At the beginning of the program, Anthropic and CodePath will provide intensive training on using Claude in nonprofit settings. After being placed, fellows will receive five hours of ongo",
+      "published": "",
+      "_id": "72c805579f21b6e8",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 2, 2026Expanding Project GlasswingWe’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "summary": "Announcements Expanding Project Glasswing Jun 2, 2026 Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. We recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. We’re now expanding Project Glasswing. Following several weeks of close collaboration with our Project Glasswing partners, the security industry, open-source software maintainers, and the US government, we’re extending the partnership to approximately 150 new organizations. Each one will need to meet our security requirements before they gain access. The organizations in this new group are based in more than 15 countries, and most provide critical infrastructure to many more. (In the future, we intend to expand our geographical reach much further.) The group covers several industries that weren’t well represented in our initial cohort, such as power, water, healthcare, communications, and hardware. And many of the new partners are vendors—companies or nonprofits that maintain codebases that are relied upon by lots of other organizations around the world, including governments. What each partner has in common is that a successful attack on their codebase could be catastrophic. For most partners, we estimate that a major attack could affect more than 100 million people, with important ramifications for both global and national security. This expansion is the next step toward our long-term goals: for AI to make all software more secure, and for us to help the industry adjust to how AI could change many of the core assumptions of cybersecurity. The role of Project Glasswing Project Glasswing and the capabilities of Claude Mythos Preview have sparked broad conversations—both within the software industry and with governme",
+      "published": "",
+      "_id": "fd9b87df1fe1b911",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductMay 28, 2026Introducing Claude Opus 4.8An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Product Announcements Introducing Claude Opus 4.8 May 28, 2026 We’re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It’s available today for the same price. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new “dynamic workflows” feature that allows it to tackle very large-scale problems. And fast mode for Opus 4.8—where the model can work at 2.5× the speed—is now three times cheaper than it was for previous models. Opus 4.8’s capabilities The table below shows how Opus 4.8 compares to its predecessor and to other models on tests of coding, agentic skills, reasoning, and practical knowledge work tasks. More details and a much wider range of capability evaluations are provided in the Claude Opus 4.8 System Card . Collaborating with Opus 4.8 Early testers have found Claude Opus 4.8 to be more reliable and sharper in its judgment when it’s performing agentic tasks. Below are quotes from many of these testers about their experience collaborating with Opus 4.8: Claude Opus 4.8 has noticeably better judgment. In Claude Code, it asks the right questions, catches its own mistakes, pushes back when a plan isn’t sound, and builds up confidence around complex, multi-service explorations before making big changes. It’s a great model to build with. On our Super-Agent benchmark, Claude Opus 4.8 is the only model to complete every case end-to-end, beating prior Opus models and GPT-5.5 at parity on cost. For agent products in translation, deep research, slide-building, and analysis, it delivers powerful reliability. On CursorBench, Claude Opus 4.8 exceeds prior Opus models across every effort level. Tool calling is meaningfully more efficient, using fewer steps for the same intelligence, and it carries end-to-end tasks through. Claude Opus 4.8 delivers the highest score re",
+      "published": "",
+      "_id": "5348a7d239028e9b",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "published": "2026-06-24T14:00:00",
+      "_id": "49711f4f6cd0dcbd",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "published": "2026-06-23T23:30:00",
+      "_id": "ccbe4d356160d514",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "published": "2026-06-23T17:00:00",
+      "_id": "c4b83b4a74b98172",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "published": "2026-06-23T14:00:00",
+      "_id": "6d1b6a1ecab0ee2d",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "published": "2026-06-23T13:00:00",
+      "_id": "bbcba71ce335108a",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't […]",
+      "published": "2026-06-24T13:00:00",
+      "_id": "66427f009c2941d2",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google Home will soon get better at recognizing you",
+      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces […]",
+      "published": "2026-06-23T22:28:19",
+      "_id": "d824c317124983b4",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "The Verge",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem […]",
+      "published": "2026-06-23T22:03:18",
+      "_id": "111f44f8de8d7b14",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "The Verge",
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's […]",
+      "published": "2026-06-23T17:00:00",
+      "_id": "bf129b615f4b182f",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "The Verge",
+      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal […]",
+      "published": "2026-06-23T15:56:35",
+      "_id": "ae67da9a03a72dc4",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "published": "2026-06-23T22:30:57",
+      "_id": "b05d0a886a5ee1e0",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "published": "2026-06-23T20:17:38",
+      "_id": "71f308253a322d41",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: introducing the Engineering issue",
+      "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new…",
+      "published": "2026-06-24T12:10:00",
+      "_id": "496105660ee86f96",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
+      "published": "2026-06-24T12:00:00",
+      "_id": "572ef33e5fd7dfef",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of the web itself. The web was not designed…",
+      "published": "2026-06-24T11:59:54",
+      "_id": "9fca72dbae7dafd3",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.  Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin…",
+      "published": "2026-06-24T09:00:00",
+      "_id": "14de5b78db6d0933",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "All challenges big and small",
+      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and…",
+      "published": "2026-06-24T09:00:00",
+      "_id": "a304962ed0149faa",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Wired",
+      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+      "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+      "published": "2026-06-24T12:36:07",
+      "_id": "1a64360034f5d910",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "calesthio /OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Providers · Agent Guide Follow The Build Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition. Important distinction: OpenMontage can make image-based videos, but it can also make a real video video for free/open-source workflows: the agent builds a corpus from free stock footage and open archives, retrieves actual motion clips, edits them into a timeline, and renders a finished piece. That is not the usual \"animate a handful of stills and call it video\" trick. signal-from-tomorrow_final_with_music_upload_v2.mp4 \"SIGNAL FROM TOMORROW\" — a cinematic sci-fi trailer fully produced through OpenMontage: concept, script, scene plan, Veo-generated motion clips, soundtrack, and Remotion composition. the_last_banana_v3_github.mp4 \"THE LAST BANANA\" — a 60-second Pixar-style animated short about a lonely banana who finds friendship with a kiwi. 6 Kling v3-generated motion clips (via fal.ai), Google Chirp3-HD narration, royalty-free piano music, TikTok-style word-level captions, and Remotion composition. Total cost: $1.33 . void-linkedin.mp4 \"VOID — Neural Interface\" — a product ad produced with just one API key (OpenAI). 4 AI-generated images (gpt-image-1), TTS narration, auto-sourced royalty-free music, word-level subtitles via WhisperX, and Remotion data visualizations. Total cost: $0.69 . Zero manual asset work. candyland.mp4 \"Afternoon in Candyland\" — a Ghibli-style anime animation. A little girl's whimsical afternoon adventure through candy gates, gumdrop rivers, and lollipop gardens. 12 FLUX-generated images with multi-image crossfade, cinematic camera motion (zoom, pan, Ken Burns), sparkle/petal/firefly particle overlays, and ambient music with auto-detected energy offset. Total cost:",
+      "published": "",
+      "_id": "6d3bd03b49986330",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "ZhuLinsen /daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 | English | 繁體中文 💖 赞助商 (Sponsors) 🖥️ 产品预览 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 A股、港股、美股、ETF：行情、K 线、技术指标、资金流、筹码、新闻、公告和基本面；日股/韩股（ .T / .KS / .KQ ）：YFinance 日线与基础行情、技术指标可用， capital_flow 、 dragon_tiger 、 boards 与部分高阶区块会按市场边界降级为 not_supported （见 市场支持边界 ） Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API 智能导入与补全 图片、CSV/Excel、剪贴板导入；股票代码/名称/拼音/别名补全 自动化与推送 GitHub Actions、Docker、本地定时任务、FastAPI 服务和企业微信/飞书/Telegram/Discord/Slack/邮件推送 功能细节、字段契约、基本面 P0 超时语义、交易纪律、数据源优先级、Web/API 行为请看 完整配置与部署指南 。 技术栈与数据来源 类型 支持 AI 模型 Anspire 、 AIHubMix 、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等 行情数据 TickFlow 、AkShare、Tushare、Pytdx、Baostock、YFinance、Longbridge 新闻搜索 Anspire 、 SerpAPI 、 Tavily 、 Bocha 、 Brave 、 MiniMax 、SearXNG 社交舆情 Stock Sentiment API （Reddit / X / Polymarket，仅美股，可选） 完整规则见 数据源配置 。 🚀 快速开始 方式一： GitHub Actions（推荐） 5 分钟完成部署，零成本，无需服务器。 1. Fork 本仓库 点击右上角 Fork 按钮（顺便点个 Star⭐ 支持一下） 2. 配置 Secrets Settings → Secrets and variables → Actions → New repository secret AI 模型配置（至少配置一个） 默认先选一个模型服务商并填写 API Key；需要多模型、图片识别、本地模型或高级路由时，再参考 LLM 配置指南 。 Secret 名称 说明 必填 ANSPIRE_API_KEYS Anspire API Key，一Key同时启用全球热门大模型和联网搜索，无需科学上网，含免费额度 推荐 AIHUBMIX_KEY AIHubMix API Key，一Key切换使用全系模型，无需科学上网，本项目可享 10% 优惠 推荐 GEMINI_API_KEY Google Gemini API Key 可选 ANTHROPIC_API_KEY Anthropic Claude API Key 可选 OPENAI_API_KEY OpenAI 兼容 API Key（支持 DeepSeek、通义千问等） 可选 OPENAI_BASE_URL / OPENAI_MODEL 使用 OpenAI 兼容服务时填写 可选 Ollama 更适合本地 / Docker 部署，GitHub Actions 推荐使用云端 API。 通知渠道配置（至少配置一个） Secret 名称 说明 WECHAT_WEBHOOK_URL 企业微信机器人 FEISHU_WEBHOOK_URL 飞书机器人 TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID Telegram DISCORD_WEBHOOK_URL Discord Webhook SLACK_BOT_TOKEN + SLACK_CHANNEL_ID Slack Bot EMAIL_SENDER + EMAIL_PASSWORD 邮件推送 更多渠道、签名校验、分组邮件、Markdown 转图片等配置见 通知渠道详细配置 。 自选股配置（必填） Secret 名称 说明 必填 STOCK_LIST",
+      "published": "",
+      "_id": "8703b76429c37137",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "apple /container",
+      "link": "https://github.com/apple/container",
+      "summary": "container container is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces OCI-compatible container images , so you can pull and run images from any standard container registry. You can push images that you build to those registries as well, and run the images in any other OCI-compatible application. container uses the Containerization Swift package for low-level container, image, and process management. Get started Requirements You need a Mac with Apple silicon to run container . To build it, see the BUILDING document. container is supported on macOS 26, since it takes advantage of new features and enhancements to virtualization and networking in this release. We do not support older versions of macOS and the container maintainers typically will not address issues that cannot be reproduced on macOS 26. Initial install Download the latest signed installer package for container from the GitHub release page . To install the tool, double-click the package file and follow the instructions. Enter your administrator password when prompted, to give the installer permission to place the installed files under /usr/local . Start the system service with: container system start Upgrade or downgrade For both upgrading and downgrading, you can manually download and install the signed installer package by following the steps from initial install or use the update-container.sh script (installed to /usr/local/bin ). If you're upgrading or downgrading, you must stop your existing container : container system stop To upgrade to the latest release, simply run the command below: /usr/local/bin/update-container.sh To downgrade, you must uninstall your existing container (the -k flag keeps your user data, while -d removes it): /usr/local/bin/uninstall-container.sh -k\n/usr/local/bin/update-container.sh -v 0.3.0 Start the system service with: container s",
+      "published": "",
+      "_id": "e64e90ec67fe8191",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "interviewstreet /hiring-agent",
+      "link": "https://github.com/interviewstreet/hiring-agent",
+      "summary": "Hiring Agent Resume-to-Score pipeline that extracts structured data from PDFs, enriches with GitHub signals, and outputs a fair, explainable evaluation. Contents Overview Architecture Installation and Setup Prerequisites Quick setup with pip Ollama models Configuration How it works CLI usage Directory layout Provider details Contributing License Overview Hiring Agent parses a resume PDF to Markdown, extracts sectioned JSON using a local or hosted LLM, augments the data with GitHub profile and repository signals, then produces an objective evaluation with category scores, evidence, bonus points, and deductions. You can run fully local with Ollama or use Google Gemini. Architecture Flow pymupdf_rag.py converts PDF pages to Markdown-like text. pdf.py calls the LLM per section using Jinja templates under prompts/templates . github.py fetches profile and repos, classifies projects, and asks the LLM to select the top 7. evaluator.py runs a strict-scored evaluation with fairness constraints. score.py orchestrates everything end to end and writes CSV when development mode is on. Key modules models.py Pydantic schemas and LLM provider interfaces. llm_utils.py Provider initialization and response cleanup. transform.py Normalization from loose LLM JSON to JSON Resume style. prompts/ All Jinja templates for extraction and scoring. Installation and Setup Prerequisites Python 3.11+ The repository pins .python-version to 3.11.13. One LLM backend (either of them) Ollama for local models\nInstall from the official site , then run ollama serve . Google Gemini if you have an API key, get it from here . Quick setup with pip $ git clone https://github.com/interviewstreet/hiring-agent\n$ cd hiring-agent\n\n$ python -m venv .venv # Linux or macOS $ source .venv/bin/activate # Windows # .venv\\Scripts\\activate $ pip install -r requirements.txt Ollama Models Pull the model you want to use. For example: $ ollama pull gemma3:4b If you want different results, you can pull other models such as: # Fo",
+      "published": "",
+      "_id": "55bda1aed5a8659b",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "JCodesMore /ai-website-cloner-template",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "summary": "AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.7 for best results — but works with a variety of AI coding agents. Point it at a URL, run /clone-website , and your AI agent will inspect the site, extract design tokens and assets, write component specs, and dispatch parallel builders to reconstruct every section. Demo Click the image above to watch the full demo on YouTube. Quick Start Important: Start by making your own copy with GitHub's Use this template button. Do not clone this template repository directly for your website project, and do not open pull requests here with your generated website. Create your own repository from this template On the GitHub page for this project, click Use this template , then click Create a new repository . Give your new repository a name, choose whether it should be public or private, then click Create repository . If GitHub shows an Include all branches option, you can leave it off. This gives you your own separate project to work in, so your website changes stay in your account instead of coming back to the main template. Open your new repository on your computer After GitHub creates your copy, open that new repository. Click Code and open or clone your new repository with your preferred coding tool. If you use the terminal, the command will look like this: git clone https://github.com/YOUR-USERNAME/YOUR-NEW-REPOSITORY.git cd YOUR-NEW-REPOSITORY Install dependencies npm install Start your AI agent — Claude Code recommended: claude --chrome Run the skill : /clone-website <target-url1> [<target-url2> ...] Customize (optional) — after the base clone is built, modify as needed Using a different agent? Open AGENTS.md for project instructions — most agents pick it up automatically. Supported Platforms Agent Status Claude Code Recommended — Opus 4.7 Codex CLI Supported OpenCode Supported GitHub Copilot S",
+      "published": "",
+      "_id": "624efc8fafcad404",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "revfactory /harness",
+      "link": "https://github.com/revfactory/harness",
+      "summary": "Harness — The Team-Architecture Factory for Claude Code English | 한국어 | 日本語 Harness is a team-architecture factory for Claude Code. Say \"build a harness for this project\" (English) or \"하네스 구성해줘\" (한국어) or \"ハーネスを構成して\" (日本語), and the plugin turns your domain description into an agent team and the skills they use — picked from six pre-defined team-architecture patterns. Overview Harness leverages Claude Code's agent team system to decompose complex tasks into coordinated teams of specialized agents. Say \"build a harness for this project\" and it automatically generates agent definitions ( .claude/agents/ ) and skills ( .claude/skills/ ) tailored to your domain. Category — Where Harness Sits Harness lives at the L3 Meta-Factory layer of the Claude Code ecosystem — the layer that generates other harnesses rather than being one. Inside L3, we pick a specific sub-layer: Team-Architecture Factory . Layer What it does Neighbors we coexist with L3 — Meta-Factory / Team-Architecture Factory (us) Domain sentence → agent team + skills, via 6 pre-defined team patterns — L3 — Meta-Factory / Runtime-Configuration Factory Deterministic, repeatable runtime configurations coleam00/Archon L3 — Meta-Factory / Codex Runtime Port Same concept, Codex runtime SaehwanPark/meta-harness L2 — Cross-Harness Workflow Standardize skills/rules/hooks across multiple harnesses affaan-m/ECC Archon generates deterministic runtime configurations. Harness generates team architectures (pipeline, fan-out/fan-in, expert pool, producer-reviewer, supervisor, hierarchical delegation) plus the skills agents use. Different sub-layers of the same L3. Pick Archon for runtime determinism, Harness for team architecture, or combine them. Star History Key Features Agent Team Design — 6 architectural patterns: Pipeline, Fan-out/Fan-in, Expert Pool, Producer-Reviewer, Supervisor, and Hierarchical Delegation Skill Generation — Auto-generates skills with Progressive Disclosure for efficient context management Orchestration ",
+      "published": "",
+      "_id": "7def51b1549aee4a",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "flutter /flutter",
+      "link": "https://github.com/flutter/flutter",
+      "summary": "Flutter is Google's SDK for crafting beautiful, fast user experiences for\nmobile, web, and desktop from a single codebase. Flutter works with existing\ncode, is used by developers and organizations around the world, and is free and\nopen source. Documentation Install Flutter Flutter documentation Development wiki Contributing to Flutter For release and other announcements, join the flutter-announce mailing list. Our documentation also tracks breaking\nchanges across releases. Terms of service The Flutter tool may occasionally download resources from Google servers. By\ndownloading or using the Flutter SDK, you agree to the Google Terms of Service: https://policies.google.com/terms For example, when installed from GitHub (as opposed to from a prepackaged\narchive), the Flutter tool will download the Dart SDK from Google servers\nimmediately when first run, as it is used to execute the flutter tool itself.\nThis will also occur when Flutter is upgraded (e.g. by running the flutter upgrade command). About Flutter We think Flutter will help you create beautiful, fast apps, with a productive,\nextensible and open development model, whether you're targeting iOS or Android,\nweb, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of\nyour choice. Beautiful user experiences We want to enable designers to deliver their full creative vision without being\nforced to water it down due to limitations of the underlying framework.\nFlutter's layered architecture gives you control over every pixel on the\nscreen and its powerful compositing capabilities let you overlay and animate\ngraphics, video, text, and controls without limitation. Flutter includes a full set of widgets that deliver pixel-perfect experiences whether\nyou're building for iOS ( Cupertino ) or other platforms ( Material ), along with\nsupport for customizing or creating entirely new visual components. Fast results Flutter is fast. It's powered by hardware-accelerated 2D graphics\nlibraries like Skia (which und",
+      "published": "",
+      "_id": "5105295ea407ae5a",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "andreknieriem /headunit-revived",
+      "link": "https://github.com/andreknieriem/headunit-revived",
+      "summary": "Headunit Revived Headunit Revived is an Android app that allows you to turn your Android tablet or phone into an Android Auto receiver. This project is a revived version of the original headunit project by the great Michael Reid. The original project can be found here: https://github.com/mikereidis/headunit Screenshots How to use Check out the Wiki for detailed documentation, setup guides and troubleshooting! Wired USB Connection Connect your Android device (phone) to the tablet running Headunit Revived via USB cable. Make sure that Android Auto is installed on your phone. Set your phone to Host-Mode if nescessary and select Android Auto Click the USB Button in Headunit Revived, find your phone and click the right button to allow connection Click on your phone in the list and wait for Android Auto to start Wireless Helper (Recommended) This is the most reliable way to connect wirelessly. It uses our companion app on your phone to trigger the connection. Download: Wireless Helper on Google Play Store Features: Minimal configuration, supports NSD, Wi-Fi Direct Auto-Connect, and Bluetooth Auto-Start. Setup: In Headunit Revived Settings: Set Wireless Mode to Helper Mode . Ensure both devices are in the same network (Hotspot or WiFi). Open the Wireless Helper app on your phone and start the service. The helper will find your headunit and initiate the connection automatically. Legacy Wireless Options Wireless Launcher: You can still use the original Wireless Launcher by Emil Borconi. Manual / Native: Uses the native \"Headunit Server\" built into Android Auto developer settings (may fail on 10.x.x.x networks). Connect Wirelessly via Intent (Power Users) You can trigger a wireless connection attempt using an Android Intent. This is useful for automation tools like Tasker , MacroDroid , or via ADB . URI Scheme: headunit://connect?ip=<PHONE_IP> Example ADB Command: adb shell am start -a android.intent.action.VIEW -d \" headunit://connect?ip=192.168.1.25 \" Known Issues Google Ma",
+      "published": "",
+      "_id": "3a56a9bb84c06fc4",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "stablyai /orca",
+      "link": "https://github.com/stablyai/orca",
+      "summary": "Orca Español · 中文 · 日本語 · 한국어 The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from your phone — get notified when an agent finishes and send follow-ups from anywhere. iOS App Store · Android APK · Docs → Parallel Worktrees Fan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner. Docs → Terminal Splits Ghostty-class terminals with WebGL rendering, infinite splits, and scrollback that survives restarts. Docs → Design Mode Click any UI element in a real Chromium window to send its HTML, CSS, and a cropped screenshot straight into your agent's prompt. Docs → GitHub & Linear, Native Browse PRs, issues, and project boards in-app — open a worktree from any task and review without a context switch. Docs → SSH Worktrees Run agents on a beefy remote box with full file editing, git, and terminals — auto-reconnect and port forwarding included. Docs → Annotate AI Diffs Drop comments on any diff line and ship them back to the agent — review, edit, and commit without leaving Orca. Docs → Drag Files to Agents VS Code's editor with autosave everywhere — drag files or images straight into an agent prompt. Docs → Orca CLI Agents drive Orca too — script every workflow with orca worktree create , snapshot , click , and fill . Docs → Also in the box: Quick open — Search across worktrees, files, agents, commands, and repo context without leaving your flow. Account switcher & usage tracking — See Claude and Codex usage and rate-limit resets, and hot-swap accounts without re-logging in. Rich repo previews — Preview Markdown, images, PDFs, and repo docs in the workspace. Computer Use — Let agents operate desktop apps and visible UI when a workflow needs real interaction. Notifications and unread state — Know when an agent finishes or needs attention, then mark threads unrea",
+      "published": "",
+      "_id": "0a8884baa5f55aa6",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-labs-code /design.md",
+      "link": "https://github.com/google-labs-code/design.md",
+      "summary": "DESIGN.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. The Format A DESIGN.md file combines machine-readable design tokens (YAML front matter) with human-readable design rationale (markdown prose). Tokens give agents exact values. Prose tells them why those values exist and how to apply them. --- name : Heritage colors : primary : \" #1A1C1E \" secondary : \" #6C7278 \" tertiary : \" #B8422E \" neutral : \" #F7F5F2 \" typography : h1 : fontFamily : Public Sans fontSize : 3rem body-md : fontFamily : Public Sans fontSize : 1rem label-caps : fontFamily : Space Grotesk fontSize : 0.75rem rounded : sm : 4px md : 8px spacing : sm : 8px md : 16px --- ## Overview Architectural Minimalism meets Journalistic Gravitas. The UI evokes a\npremium matte finish — a high-end broadsheet or contemporary gallery. ## Colors The palette is rooted in high-contrast neutrals and a single accent color. - ** Primary (#1A1C1E): ** Deep ink for headlines and core text. - ** Secondary (#6C7278): ** Sophisticated slate for borders, captions, metadata. - ** Tertiary (#B8422E): ** \"Boston Clay\" — the sole driver for interaction. - ** Neutral (#F7F5F2): ** Warm limestone foundation, softer than pure white. An agent that reads this file will produce a UI with deep ink headlines in Public Sans, a warm limestone background, and Boston Clay call-to-action buttons. Getting Started Validate a DESIGN.md against the spec, catch broken token references, check WCAG contrast ratios, and surface structural findings — all as structured JSON that agents can act on. npx @google/design.md lint DESIGN.md { \"findings\" : [\n    { \"severity\" : \" warning \" , \"path\" : \" components.button-primary \" , \"message\" : \" textColor (#ffffff) on backgroundColor (#1A1C1E) has contrast ratio 15.42:1 — passes WCAG AA. \" }\n  ], \"summary\" : { \"errors\" : 0 , \"warnings\" : 1 , \"info\" : 1 }\n} Compare two versions of a design system to detec",
+      "published": "",
+      "_id": "c5d3fe2948643ba0",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "summary": "Article URL:https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/Comments URL:https://news.ycombinator.com/item?id=48658647Points: 112# Comments: 110",
+      "published": "2026-06-24T12:23:59",
+      "_id": "c153df969ced0457",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "summary": "Article URL:https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/Comments URL:https://news.ycombinator.com/item?id=48657518Points: 55# Comments: 41",
+      "published": "2026-06-24T09:57:10",
+      "_id": "eab6637d40286573",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI's Affordability Crisis",
+      "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "summary": "Article URL:https://blog.dshr.org/2026/06/ais-affordability-crisis.htmlComments URL:https://news.ycombinator.com/item?id=48646276Points: 303# Comments: 397",
+      "published": "2026-06-23T15:11:17",
+      "_id": "af5dcc7138d115b2",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Low-Tech AI of Elden Ring",
+      "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "summary": "Article URL:https://nega.tv/posts/low-tech-ai-of-elden-ring.htmlComments URL:https://news.ycombinator.com/item?id=48643489Points: 155# Comments: 90",
+      "published": "2026-06-23T11:40:50",
+      "_id": "91e6f6c097451093",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Built a Nuke and Still Lost",
+      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "summary": "Article URL:https://www.lwilko.com/blog/i-gave-an-ai-a-civilizationComments URL:https://news.ycombinator.com/item?id=48641927Points: 87# Comments: 96",
+      "published": "2026-06-23T08:16:45",
+      "_id": "f7d92884af087196",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+      "link": "https://news.ycombinator.com/item?id=48641160",
+      "summary": "After using Claude Code at work for months I wanted to use it on my own projects too. Most probably because my vpn was on I got banned after 1 hour of usage. I got my 120$ back. 1 month later I signed up with vpn off. But this time probably because I used the same credit cart (and that's the only card I can use) they banned me again.Even after I contacted support I got a generic \"we have determined that we cannot reinstate your account at this time due to a violation of our Usage Policy\" answer.I'm not using it for anything unusal. \"Summarize that markdown file\", \"how can i refactor payment module\" kind of questions mostly. I couldn't even move to real coding because 1 hour was only enough for investigation.My last chance is HN to get some visibility on my case. My Boris sees it or some other Anthropic employee.Do you guys have any tips on getting my account back?Comments URL:https://news.ycombinator.com/item?id=48641160Points: 75# Comments: 86",
+      "published": "2026-06-23T06:33:52",
+      "_id": "4816c89864438948",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
+      "summary": "DeepSWE delivers four advances over existing public benchmarks:Contamination free: Tasks are written from scratch, not adapted from existing commits or PRs, so no model has seen the solution during pretraining.High diversity: Tasks span a broad pool of 91 repositories across 5 languages.Real-world complexity: Prompts are ~half the length of SWE-bench Pro's, yet solutions require 5.5x more code and ~2x more output tokens.Reliable verification: Verifiers are hand-written to test software behavior rather than implementation details.The result is a benchmark that reflects how today's frontier coding agents actually perform in software engineering work.https://preview.redd.it/lacvagyr159h1.png?width=1373&format=png&auto=webp&s=6514340a15d51d7f03da733f08fb3f6a302cac75It's open-source:https://github.com/datacurve-ai/deep-swesubmitted by/u/we_are_mammals[link][comments]",
+      "published": "2026-06-24T02:03:34",
+      "_id": "25637dc583d3c332",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Best ML Online courses recommendations[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uee9q6/best_ml_online_courses_recommendationsd/",
+      "summary": "Hey everyone! New to the subreddit so please forgive if I have broken some rules.I am approaching ML and wanted to ask what the community thinks the best online courses are. Could you please recommed who offers the best overall programs and maybe some advantages and disadvantages of the various platforms teaching these topics?Thank you so much!submitted by/u/Life-Relationship126[link][comments]",
+      "published": "2026-06-24T13:57:39",
+      "_id": "c5065fbd4690c324",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
+      "summary": "I've been comparing GPU/LLM providers for a side project and ended up with way too many browser tabs and spreadsheets.So I decided to pull the public pricing data into one sheet and compare it side by side.A quick disclaimer: this isnot benchmark data. I didn't run latency tests or throughput measurements. Everything comes from public pricing pages and APIs (OpenRouter, DeepSeek, Together AI, Fireworks, Groq, etc.).The spreadsheet currently tracks:Input/output token pricingContext windowsCached input pricing (where available)Supported modelsProvider-specific pricing differencesThe thing that surprised me most was caching.For example, when looking at DeepSeek V4 Pro pricing across providers, cached input costs vary dramatically. In some cases a cache hit is tens of times cheaper than a cache miss.That made me realize that if you're running:Agents with large system promptsRAG pipelines with reusable contextMulti-turn conversationsRepeated prompt templates...the \"headline\" token price can be a lot less important than the caching policy.A few other interesting things I noticed:The same model can vary by multiple times in cost depending on provider.Some providers expose caching clearly, while others barely document it.Model availability and context windows aren't always consistent across providers.It's surprisingly hard to find all of this information in one place.A few things I haven't figured out how to compare yet:Real throughput (tokens/sec)Cold-start / queue timesWhether providers are serving FP16, FP8, quantized variants, etc.Egress/network costsReliability/uptimeI'm curious how others evaluate providers.When you're choosing between OpenRouter, Together, Fireworks, Groq, DeepSeek, etc., what metrics actually matter to you beyond token pricing?https://preview.redd.it/4vj50mvhu79h1.png?width=1615&format=png&auto=webp&s=6c6c084927f83bfdadb5ed8e4378f520a1da6766Am I missing any important data points that should be included in a v2?submitted by/u/Technomadlyf[link][comme",
+      "published": "2026-06-24T11:28:51",
+      "_id": "96a11acf16ac1508",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "link": "https://arxiv.org/abs/2606.23927",
+      "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming that enables unified evaluations across diverse agentic architectures. Building on a novel hierarchical representation, RIFT-Bench operates in two automated phases: Discovery, which extracts system structure, and Scanning, which deploys adaptive adversarial attacks and produces a comprehensive evaluation report. It evaluates the examined system itself, leveraging a broad set of dynamically adaptable adversarial probes across diverse attack vectors and objectives. We demonstrate the effectiveness of the proposed evaluation pipeline across 45 agentic systems spanning a diverse range of implementations, showing that the approach generalizes effectively to heterogeneous agentic architectures. Beyond systems and attacks, RIFT-Bench also supports direct evaluation of mitigation strategies. These key capabilities make RIFT-Bench a scalable foundation for security evaluation of agentic AI systems.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "fcf5750dd7cf15d2",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "link": "https://arxiv.org/abs/2606.23938",
+      "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded reasoning traces extracted directly from classical rule-based planners. Our key observation is that rule-based planners are symbolic AI systems that already function as executable reasoning engines: they reason about active safety constraints, search over candidate maneuvers, and select a final trajectory. We instrument these planners in simulation to capture both the executed trajectory and the internal decision trace at each rule-evaluation step. Each trace is serialized into structured rule-grounded reasoning and paired with the trajectory to fine-tune Qwen3.5-4B as a driving VLA. Because these traces are derived directly from the planner states that determine the action, they ensure reasoning is structurally coupled to motion generation by construction, rather than by post-hoc alignment. On our simulator-generated benchmark, detailed rule-grounded reasoning reduces ADE@3s from 0.47 to 0.26 and miss rate from 8.30% to 6.40% under three-camera perception, and from 0.54 to 0.26 and 10.13% to 5.99% under eight-camera perception. Neuro-Symbolic Drive thus converts neuro-symbolic planning logic into structured supervision. Code base: https://github.com/XiangboGaoBarry/Neural-Symbolic-Drive.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "2d8d29aa6086259b",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Critique of Agent Model",
+      "link": "https://arxiv.org/abs/2606.23991",
+      "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both for building capable systems and for understanding whether and what to fear. Drawing on Descartes' grounding of agency in independent thought, and on portrayals of autonomous beings in science fiction, we survey the current landscape of AI agents, and analyze agent architectures along five dimensions: goal, identity, decision-making, self-regulation, and learning. Specifically, we argue that genuine agency requires these structures to be \\emph{internalized within the system itself} rather than assembled through external scaffolding. This distinction between \\emph{agentic} systems, whose competence resides in engineered workflows, and \\emph{agentive} systems, whose capabilities (including social interaction) arise endogenously, defines the boundary between systems designed for prescribed tasks, and those capable of operating in the open world with true autonomy. Building on this analysis, we propose the Goal-Identity-Configurator (GIC) architecture for a general-purpose agent model, combining hierarchical goal decomposition, identity evolution, simulative reasoning grounded in a separately trained world model, learned self-regulation, and self-directed learning from both real and simulated experience. Furthermore, we share insight on the auditability, controllability, and safety of agentive systems that possess greater autonomy and ``agency\", but remain under human oversight.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "ea94375e47039676",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "link": "https://arxiv.org/abs/2606.24010",
+      "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement learning framework that enforces hard safety constraints under mild assumptions at low level via a constraint manifold, while enabling effective coordination through high-level policy learning. Our approach provides theoretical safety guarantees in the multi-agent setting and yields stationary learning dynamics, thereby enabling stable and efficient training. Empirically, our method achieves competitive performance while maintaining nearly perfect safety rates, and generalizes effectively to varying numbers of agents and obstacles.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "6ae936f6adb195af",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "link": "https://arxiv.org/abs/2606.24014",
+      "summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent alignment generalization beyond the training distribution. We construct a dataset of realistic situations designed to measure and train beneficial traits, such as truthfulness, fairness, risk awareness, and corrigibility, spanning varied domains, including health, science, and education. We then train models with RL on this dataset and evaluate them on more than 50 independent benchmarks of alignment and beneficial behavior. Compared to a compute-matched baseline, beneficial trait RL improves performance on over 80% of these out-of-distribution benchmarks. We observe substantial out-of-distribution alignment transfer: a beneficial-behavior RL intervention entirely limited to one domain, health, produces broad improvements on non-health alignment evaluations, including reduced reward hacking, deception, and general misalignment. Finally, we study alignment persistence: whether behavior remains robustly aligned under attempts to steer models towards misalignment. Models trained with beneficial trait RL show improved persistence, including greater resistance to adversarial prompting and harmful finetuning; further work is required to isolate the sources of these effects. These results suggest that RL to reinforce beneficial behavior in realistic domains can produce models that are more robustly aligned with human flourishing.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "2920c71a88f67f85",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "EXPO-SQL: Execution-based Clause-level Policy Optimization for Text-to-SQL",
+      "link": "https://arxiv.org/abs/2606.23693",
+      "summary": "arXiv:2606.23693v1 Announce Type: new \nAbstract: Text-to-SQL enables users to query databases using natural language by generating executable SQL queries. Recent methods have increasingly adopted Large Language Models based reinforcement learning (RL) to leverage execution feedback for training. However, existing RL methods assign uniform query-level rewards to all clauses in a SQL query, treating correct and incorrect clauses equally. This coarse-grained reward design leads to insufficient learning signals for correct SQL generation. To address this issue, we propose EXPO-SQL (EXecution-based clause-level Policy Optimization for Text-to-SQL) which provides fine-grained supervision through clause-level rewards. To assign clause-level rewards, our method identifies erroneous clauses by analyzing execution results, including error messages and clause-wise incremental execution. Experiments on widely-used Text-to-SQL benchmarks demonstrate that EXPO-SQL significantly outperforms existing supervised fine-tuning, prompting, and RL-based methods through fine-grained clause-level learning. Our code is available at https://github. com/jhn25/EXPO-SQL.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "286ddc04ce25276c",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "ModTGCN: Modularity-aware Graph Neural Networks for Text Classification",
+      "link": "https://arxiv.org/abs/2606.23694",
+      "summary": "arXiv:2606.23694v1 Announce Type: new \nAbstract: Graph-based text classification models typically rely on local neighborhood aggregation and overlook global community structure, despite semantic document graphs exhibiting strong class-consistent clustering. Ignoring this can blur class boundaries and lead to over-smoothing. We propose ModTGCN, a modularity-aware graph neural network for text classification that jointly optimizes cross-entropy and a modularity-based auxiliary objective to promote class-coherent document communities while preserving discriminative representations. The modularity term is computed on a document-document similarity graph derived from transformer embeddings (pretrained or fine-tuned). To improve scalability, we decouple the original heterogeneous TextGCN graph into separate document-word and word-word components, achieving 2x-10x faster training. We further study graph construction strategies, label-aware edge reweighting, and supervision choices for modularity optimization. Experiments on five benchmarks show consistent gains, with larger improvements on complex, low homophily datasets such as Ohsumed and 20NG.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "e96e409569307d61",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Quantifying Prior Dominance in RAG Systems",
+      "link": "https://arxiv.org/abs/2606.23695",
+      "summary": "arXiv:2606.23695v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) grounds Large Language Models in external knowledge, yet current evaluations rely on discrete heuristics that suffer from ''epistemic blindness'' - failing to distinguish genuine contextual information extraction from parametric memory recall. To address this, we introduce the Normalized Context Utilization (NCU) metric, leveraging continuous token log-probabilities across zero-shot, oracle, and adversarial conditions to strictly quantify contextual information gain. Evaluating architectures ranging from 1.5B to 72B parameters alongside a proprietary commercial API reveals that for strict factual extraction (without Chain-of-Thought reasoning), traditional scaling laws exhibit extreme diminishing returns: highly efficient Small Language Models (SLMs) match or outperform high-capacity architectures. Furthermore, we demonstrate that ``Prior Dominance'' correlates with model scale and proprietary alignments. The evaluated commercial API not only overrode explicit external evidence in nearly half of adversarial conflicts, but also frequently suffered from systemic confidence collapse (Negative Transfer) when its parametric priors were contradicted. Our findings highlight the structural epistemic advantage and superior contextual adherence of SLMs in strict extraction workflows.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "9afc82d1942edeaf",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment",
+      "link": "https://arxiv.org/abs/2606.23700",
+      "summary": "arXiv:2606.23700v1 Announce Type: new \nAbstract: Emergent misalignment (EM) has been linked to the activation of misaligned persona vectors and evil character traits, suggesting that EM operates through disruption of the model's aligned character rather than direct learning of harmful content. Motivated by this connection, we study self-generated text recognition (SGTR) finetuning as a character-targeted intervention that is distinct from existing in-training defenses. We conduct two-stage finetuning experiments across three models (GPT-4.1, Qwen2.5-32B-Instruct, Seed-OSS-36B-Instruct) and multiple EM datasets to compare SGTR finetuning against benign finetuning baselines (correct domain-specific data, general knowledge, and word counting) to find it an effective defense in both reversal and prevention settings. We find that all interventions produce comparable EM reversal, but only when restoring capabilities that EM had degraded. For prevention, only SGTR finetuning consistently reduces misalignment without exacerbating any individual metric, suggesting that character fortification specifically drives prevention. We provide further evidence for EM's relation to the LLM's default character by showing that EM finetuning induces diversity into the LLM's identity self-reports, artificially corrupting self-recognition exacerbates misalignment caused by EM finetuning, and that removing the model's identity-bearing system prompt substantially reduces the effect of EM finetuning. Together, these findings reframe EM not as the adoption of a coherent misaligned persona but as the destabilization of aligned character.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "8e4f193bdb19a265",
+      "_scraped_at": "14:36"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Evaluating LLM Usage for Efficient and Explainable Numerical and Classified Implicit Sentiment Analysis of Product Desirability",
+      "link": "https://arxiv.org/abs/2606.23701",
+      "summary": "arXiv:2606.23701v1 Announce Type: new \nAbstract: Qualitative product feedback can reveal nuanced user experiences, but its implicit sentiment is difficult to measure. This paper presents a scalable and interpretable framework that uses large language models (LLMs) to quantify product desirability from such data. Using two Product Desirability Toolkit (PDT) datasets from ZORQ and CARMA comprising 106 respondent term groupings with gold-standard human annotation, zero-shot continuous numerical sentiment scoring and categorical sentiment classification are evaluated without relying on explicit review scores. Across the datasets, LLMs generated numerical sentiment scores directly from qualitative responses and closely matched expert labels, achieving Pearson correlations up to 0.97 and classification accuracy up to 94%. LLMs maintained robustness even when handling data presented in multiple forms and consistently expressed high confidence. In contrast, lexicon-based and transformer baselines did not produce statistically significant results. Among the models tested, GPT-4o-mini achieved performance comparable to larger models at 94% lower cost, supporting scalable deployment.\n  The framework also incorporates model confidence ratings and human-readable rationale explanations (xAI), improving interpretability, transparency, and trust while supporting practical use in product satisfaction assessment. In general, using the PDT tool as a survey method along with a cost efficient LLM for sentiment analysis has the potential to provide for product evaluation with results that are rich in terms of sentiment scores (both numerical and classified sentiment) and in terms of the high-level user impressions of the product that can be used to identify ideas for product development and improvement, as well as marketing ideas for target audiences.",
+      "published": "2026-06-24T04:00:00",
+      "_id": "9e76266c1371c76a",
+      "_scraped_at": "14:36"
+    }
+  ],
+  "seen_ids": [
+    "496105660ee86f96",
+    "5348a7d239028e9b",
+    "855db08b75f6ecde",
+    "66427f009c2941d2",
+    "c153df969ced0457",
+    "eab6637d40286573",
+    "ea94375e47039676",
+    "a304962ed0149faa",
+    "111f44f8de8d7b14",
+    "6ae936f6adb195af",
+    "5105295ea407ae5a",
+    "8e4f193bdb19a265",
+    "9e76266c1371c76a",
+    "49711f4f6cd0dcbd",
+    "2920c71a88f67f85",
+    "0a8884baa5f55aa6",
+    "001317287cdd9d97",
+    "072c0c3973379946",
+    "fd9b87df1fe1b911",
+    "d824c317124983b4",
+    "aec47bf765565a42",
+    "72c805579f21b6e8",
+    "624efc8fafcad404",
+    "0b690c5df303dfe7",
+    "9fca72dbae7dafd3",
+    "ccbe4d356160d514",
+    "0acdbe015ce097c6",
+    "8703b76429c37137",
+    "e64e90ec67fe8191",
+    "2d8d29aa6086259b",
+    "b05d0a886a5ee1e0",
+    "9afc82d1942edeaf",
+    "75c7b56bd53e5c38",
+    "ae67da9a03a72dc4",
+    "6d3bd03b49986330",
+    "9d1d47ec4b50ed0a",
+    "c4b83b4a74b98172",
+    "91e6f6c097451093",
+    "572ef33e5fd7dfef",
+    "f7d92884af087196",
+    "55bda1aed5a8659b",
+    "bf129b615f4b182f",
+    "25637dc583d3c332",
+    "7def51b1549aee4a",
+    "64748ac3266300d1",
+    "6d1b6a1ecab0ee2d",
+    "c5d3fe2948643ba0",
+    "4816c89864438948",
+    "c5065fbd4690c324",
+    "14de5b78db6d0933",
+    "3a56a9bb84c06fc4",
+    "af5dcc7138d115b2",
+    "286ddc04ce25276c",
+    "96a11acf16ac1508",
+    "1a64360034f5d910",
+    "fcf5750dd7cf15d2",
+    "71f308253a322d41",
+    "e7cad40fb53bcdfe",
+    "bbcba71ce335108a",
+    "e96e409569307d61"
+  ],
+  "last_run": "14:36",
+  "run_count": 1
+}
