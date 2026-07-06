@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "source": "Hugging Face",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "summary": "",
+      "published": "2026-07-07T00:00:00",
+      "_id": "bf55a61637b6dda9",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "PRX Part 4: Our Data Strategy",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "summary": "",
+      "published": "2026-07-06T15:30:55",
+      "_id": "1dc5824027254506",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "summary": "",
+      "published": "2026-07-06T00:00:00",
+      "_id": "e998906a376bd21c",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How Nations Are Deploying AI for Strategic Priorities",
+      "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so […]",
+      "published": "2026-07-06T15:00:25",
+      "_id": "1573c2cb36b94c42",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Redeploying Fable 5AnnouncementsJun 30, 2026Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "summary": "Product Introducing Claude Tag Jun 23, 2026 Claude Tag is a new way for teams to work with Claude. We’re starting on Slack, which Claude can join as a team member. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you choose. Then, anyone in the channel can tag @Claude in, and delegate tasks to it while they focus on other work. Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future. We see Claude Tag as the beginning of an evolution of Claude Code: it makes the model even more proactive, and it works better with a full team. Tagging @Claude is now one of the main ways we get things done at Anthropic. Today, 65% of our product team’s code is created by our internal version of Claude Tag. The same pattern is now spreading well beyond engineering—we’re tagging Claude to chase down product metrics and data, work through support tickets, or even help find the root cause of tricky bugs. We’re launching Claude Tag on Slack, since it’s a natural home for collaborative work between teams and AI, and where much of Anthropic’s day-to-day work already happens. It’s available today in beta for Claude Enterprise and Team customers. Our goal is to expand where it’s available more widely, so that teams can tag @Claude in the many other places they work. Working with @Claude If you’ve worked with Claude Code or Cowork before, Claude Tag will feel familiar. Tag @Claude with a request in simple terms and it’ll break its task down into stages and then work through them in turn, using the tools it has access to. Once it’s done, it’ll respond in a Slack thread with what it’s created. But tagging Claude comes with a few new advantages: @Claude is multiplayer. Within a given Slack channel, there’s one Claude that interacts with everyone. This means that anyone can see what it’s working on, and can pick up the conversation from where the last person left off. Th",
+      "published": "",
+      "_id": "64748ac3266300d1",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "summary": "Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework Jul 2, 2026 Claude Fable 5 has been re-deployed and is now available globally for all users. We’re taking this opportunity to share further information in two areas. First, we provide more information on the cybersecurity safeguards —specifically, the safety classifiers —that we launched with the model. These are the AI systems that accompany the model that detect and block dangerous (or potentially dangerous) cybersecurity uses. Here, we provide a detailed list of the types of harms Fable 5’s classifiers are, and are not, designed to prevent. Second, we lay out an early draft version of our proposed AI jailbreak severity framework , on which we’ve been working with our Glasswing partners. AI jailbreaks are unusual ways of prompting an AI model to bypass its safeguards, thus unblocking the behaviors (like dangerous or potentially dangerous cybersecurity tasks) we seek to prevent. Jailbreaks vary in severity: sometimes they only unblock minor undesirable behaviors, and sometimes they unblock a wide range of harmful outputs, making a model much more dangerous. Yet there is no agreed-upon framework for describing a given jailbreak’s severity. Such a framework would allow AI developers to speak to governments (and vice versa) in consistent terms about the risks posed by each jailbreak. What we’re sharing today reflects our current thinking. Our hope is to spark a helpful discussion across academia, industry, civil society, and government about how and where these lines should be drawn. We welcome feedback and critique on this framework at cyber-safeguards@anthropic.com . We’ve also launched a HackerOne program where security researchers can submit potential cyber jailbreaks they discover in Fable 5 for our review. We believe that by working together, we can establish a standard that enables the defensive uses of this technology while preventing its misuse. Fable 5’s cyber safeguards Are",
+      "published": "",
+      "_id": "aaef033dfabe2831",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "published": "2026-07-06T15:32:43",
+      "_id": "432c3ecf1f6e1a7c",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "published": "2026-07-06T13:00:00",
+      "_id": "9cde332f81ea52ac",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "published": "2026-07-05T17:43:36",
+      "_id": "d1a423c649102322",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft is laying off 4,800 employees",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. […]",
+      "published": "2026-07-06T13:30:00",
+      "_id": "3b35e07d1ddd6387",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "The Verge",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha […]",
+      "published": "2026-07-05T22:30:54",
+      "_id": "62797d7741b41a29",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "The Verge",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to […]",
+      "published": "2026-07-05T14:23:11",
+      "_id": "de9adfa52a186630",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
+      "published": "2026-07-06T13:00:00",
+      "_id": "9c3f22df66cb8edd",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
+      "published": "2026-07-06T09:00:00",
+      "_id": "d148dec2e623441e",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "asgeirtj /system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "As seen in The Washington Post: See the hidden rules behind AI. Then use them to rewrite this article. (May 11, 2026) System Prompts Leaks The purpose of this repo is to document the System Prompt instructions for all the AI chatbots out there - Claude, ChatGPT, Gemini etc. 🆕 Diff: Claude Opus 4.8 → Claude Fable 5 — see exactly what changed in the claude.ai system prompt for Anthropic's newest model Recently Updated What Date Link Claude Sonnet 5 July 1, 2026 System prompt Claude Design (Opus 4.8 — full prompt + 48 tools + 16 skills + 9 starter sources) June 26, 2026 System prompt GitHub Copilot for macOS (app) June 18, 2026 System prompt GPT-5.5 Codex (full prompt) June 18, 2026 System prompt Claude Fable 5 June 9, 2026 System prompt · Diff vs Opus 4.8 Claude Opus 4.8 June 9, 2026 System prompt · Official Claude Code Glob & Grep tools June 9, 2026 Glob · Grep Claude Code (Opus 4.8) May 28, 2026 System prompt Claude Code & Cowork May 28, 2026 Claude Code · Cowork · Cowork Dispatch GPT-5.5 May 24, 2026 Thinking · Instant · API · Pro API Perplexity Computer May 21, 2026 System prompt VS Code Copilot Agent May 21, 2026 System prompt Docker Gordon AI May 21, 2026 System prompt Gemini 3.5 Flash May 20, 2026 System prompt · AI Studio · Tools Antigravity CLI May 20, 2026 System prompt Zed AI May 16, 2026 System prompt Grok Expert May 11, 2026 System prompt Anthropic — Claude Model Prompt Claude Fable 5 System prompt Claude Opus 4.8 System prompt Claude Sonnet 5 System prompt Claude Code (Opus 4.8) System prompt Claude Opus 4.7 System prompt Claude Code (Opus 4.6) System prompt Claude Opus 4.6 System prompt Claude Sonnet 4.6 System prompt Claude.ai Anthropic Reminders Integrations, official prompts & older versions Integrations Cowork · Cowork Dispatch · Desktop Code · Design · Mobile iOS · In Chrome · For Excel · For Word · In PowerPoint · Default Styles Claude Code extras Glob tool · Grep tool · Deferred tools · Docs assistant · Bundled skills Published ( claude_behavior ",
+      "published": "",
+      "_id": "716cf9e2237ac9db",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "addyosmani /agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "summary": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │  QA  │ ───▶ │  Go  │\n │Refine│      │  PRD │      │ Impl │      │Debug │      │ Gate │      │ Live │\n └──────┘      └──────┘      └──────┘      └──────┘      └──────┘      └──────┘\n  /spec          /plan          /build        /test         /review       /ship Commands 8 slash commands that map to the development lifecycle. Each one activates the right skills automatically. What you're doing Command Key principle Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove it works /test Tests are proof Review before merge /review Improve code health Audit web performance /webperf Measure before you optimize Simplify the code /code-simplify Clarity over cleverness Ship to production /ship Faster is safer Want fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps. Skills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design , building UI triggers frontend-ui-engineering , and so on. Quick Start Claude Code (recommended) Marketplace install: /plugin marketplace add addyosmani/agent-skills\n/plugin install agent-skills@addy-agent-skills SSH errors? The ma",
+      "published": "",
+      "_id": "dae9f02535f7c22f",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "Zackriya-Solutions /meetily",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "summary": "Privacy-First AI Meeting Assistant Open Source • Privacy-First • Enterprise-Ready Get latest Product updates Website • LinkedIn • Meetily Discord • Privacy-First AI • Reddit A privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your infrastructure. Built by expert AI engineers passionate about data sovereignty and open source solutions. Perfect for enterprises that need advanced meeting intelligence without compromising on privacy, compliance, or control. View full Demo Video Meetily PRO Upgrade Offer - Meetily PRO is available for users who need enhanced accuracy, advanced exports, custom summary workflows, and team-ready features. Use coupon code LAUNCH20 for 20% off until the next Meetily Community Edition release. Speaker diarization is also planned for PRO in mid-June. Explore Meetily PRO → Table of Contents Introduction Why Meetily? Features Installation Key Features in Action System Architecture For Developers Meetily PRO Contributing License Introduction Meetily is a privacy-first AI meeting assistant that runs entirely on your local machine. It captures your meetings, transcribes them in real-time, and generates summaries, all without sending any data to the cloud. This makes it the perfect solution for professionals and enterprises who need to maintain complete control over their sensitive information. Why Meetily? While there are many meeting transcription tools available, this solution stands out by offering: Privacy First: All processing happens locally on your device. Cost-Effective: Uses open-source AI models instead of expensive APIs. Flexible: Works offline and supports multiple meeting platforms. Customizable: Self-host and modify for your specific needs. The Privacy Problem Meeting AI tools create significant privacy and compliance risks across all sectors: $4.4M average cost per data breach (IBM 2024) €5.88 billion in GDPR fines issued by 2025 400+ unlawful recording cases filed in California this ye",
+      "published": "",
+      "_id": "2e124a6790ad32c3",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "ruvnet /RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "summary": "π RuView See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics. Works natively with the four major smart-home ecosystems: Home Assistant via the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install with one --mqtt flag. Or pair into Apple Home / Google Home / Alexa / SmartThings as a Matter Bridge. Ships 21 entities per node (11 raw signals + 10 inferred semantic states: someone-sleeping, possible-distress, room-active, elderly-inactivity-anomaly, meeting-in-progress, bathroom-occupied, fall-risk-elevated, bed-exit, no-movement, multi-room-transition) plus 3 starter HA Blueprints. See docs/integrations/home-assistant.md · ADR-115 . π RuView is a WiFi sensing platform that turns radio signals into spatial intelligence. Every WiFi router already fills your space with radio waves. When people move, breathe, or even sit still, they disturb those waves in measurable ways. RuView captures these disturbances using Channel State Information (CSI) from low-cost ESP32 sensors and turns them into actionable data: who's there, what they're doing, and whether they're okay. What it senses: Presence and occupancy — detect people through walls, count them, track entries and exits Vital signs — breathing rate and heart rate, contactless, while sleeping or sitting Activity recognition — walking, sitting, gestures, falls — from temporal CSI patterns Environment mapping — RF fingerprinting identifies rooms, detects moved furniture, spots new objects Sleep quality — overnight monitoring with sleep stage classification and apnea screening Built on RuVector and Cognitu",
+      "published": "",
+      "_id": "b303b1e4141446e6",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "Leonxlnx /taste-skill",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "Taste Skill The Anti-Slop Frontend Framework for AI Agents Sponsors Emil Kowalski · animations.dev Become a sponsor Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes image-generation skills for reference boards (web, mobile, brand kits). Pair them with ChatGPT Images or similar generators, then hand the frames to Codex, Cursor, or Claude Code for implementation. Disclaimer Taste Skill has no official token, coin, or crypto project. Any token using my name, image, or project is unaffiliated and not endorsed by me. Disclaimer · Install · Skills · Settings · Examples · Sponsors · Research · FAQ · License Feedback & Contributions We would love your feedback. Suggestions and bug reports: Open a Pull Request or Issue on GitHub DM @lexnlin or @blueemi99 Email us at hello@tasteskill.dev Installing The npx skills add CLI scans the skills/ folder in this repo, so all skills below (code and image-generation) install the same way. npx skills add https://github.com/Leonxlnx/taste-skill Install a single skill by its install name (the name: field inside the SKILL frontmatter, not the folder name): npx skills add https://github.com/Leonxlnx/taste-skill --skill \" design-taste-frontend \" You can also copy any SKILL.md into your project or paste it into ChatGPT / Codex conversations. Updating from the previous version The default taste-skill (install name design-taste-frontend ) is now v2 (experimental) , a substantial rewrite of the original v1. If you already have v1 installed, just re-run the install command and you will be upgraded: npx skills add https://github.com/Leonxlnx/taste-skill --skill \" design-taste-frontend \" The install name did not change, so no script updates are needed. The newer SKILL.md replaces the older one in place. If you depend on the exact behavior of v1 and want to pin to it explicitly: npx skills add https://github.com/Leonxlnx/taste-skill --s",
+      "published": "",
+      "_id": "291d5eb46511b79f",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "alirezarezvani /claude-skills",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "summary": "Claude Code Skills & Plugins — Agent Skills for Every Coding Tool 355 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools. The most comprehensive open-source library of Claude Code skills and agent plugins — also works with OpenAI Codex, Gemini CLI, Cursor, and 9 more coding agents. Reusable expertise packages covering engineering, DevOps, marketing (incl. AEO — Answer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs:* slash commands), productivity (capture/email/reflect), an academic research stack (litreview/grants/dossier/patent/syllabus/pulse/notebooklm/deep-research + hybrid router), and enterprise Research Operations (clinical-research/research-finance/market-research/product-research, v2.9.0). Works with: Claude Code · OpenAI Codex · Gemini CLI · OpenClaw · Hermes Agent 1 · Mistral Vibe 2 · Cursor · Aider · Windsurf · Kilo Code · OpenCode · Augment · Antigravity 5,200+ GitHub stars — the most comprehensive open-source Claude Code skills & agent plugins library. What Are Claude Code Skills & Agent Plugins? Claude Code skills (also called agent skills or coding agent plugins) are modular instruction packages that give AI coding agents domain expertise they don't have out of the box. Each skill includes: SKILL.md — structured instructions, workflows, and decision frameworks Python tools — 602 CLI scripts (all stdlib-only, zero pip installs) Reference docs — 711 templates, checklists, and domain-specific knowledge files One repo, thirteen platforms. Works natively as Claude Code plugins, Codex agent skills, Gemini CLI skills, Hermes Agent skills, Mistral Vibe skills, and converts to more tools via scripts/convert.sh . All 602 Python tools run anywhere Python runs. Skills vs Agents vs Personas Skills Agents Personas Purpose How to execute a task What task to do Who is thinking Scope Single domain ",
+      "published": "",
+      "_id": "3cb7ff1cdcf97c6b",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "openai /codex-plugin-cc",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "summary": "Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow\nthey already have. What You Get /codex:review for a normal read-only Codex review /codex:adversarial-review for a steerable challenge review /codex:rescue , /codex:transfer , /codex:status , /codex:result , and /codex:cancel to delegate work, hand off sessions, and manage background jobs Requirements ChatGPT subscription (incl. Free) or OpenAI API key. Usage will contribute to your Codex usage limits. Learn more . Node.js 18.18 or later Install Add the marketplace in Claude Code: /plugin marketplace add openai/codex-plugin-cc Install the plugin: /plugin install codex@openai-codex Reload plugins: /reload-plugins Then run: /codex:setup /codex:setup will tell you whether Codex is ready. If Codex is missing and npm is available, it can offer to install Codex for you. If you prefer to install Codex yourself, use: npm install -g @openai/codex If Codex is installed but not logged in yet, run: ! codex login After install, you should see: the slash commands listed below the codex:codex-rescue subagent in /agents One simple first run is: /codex:review --background\n/codex:status\n/codex:result Usage /codex:review Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly. Note Code review especially for multi-file changes might take a while. It's generally recommended to run it in the background. Use it when you want: a review of your current uncommitted changes a review of your branch compared to a base branch like main Use --base <ref> for branch review. It also supports --wait and --background . It is not steerable and does not take custom focus text. Use /codex:adversarial-review when you want to challenge a specific decision or risk area. Examples: /codex:review\n/codex:review --base main\n/codex",
+      "published": "",
+      "_id": "0c13739dbedc7f32",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvanhorn /last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "/last30days An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add mvanhorn/last30days-skill\n/plugin install last30days Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add mvanhorn/last30days-skill -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, YouTube, TikTok, and more in 30 seconds. Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider information. That's millions of people voting with their attention and their wallets every day. /last30days searches all of it in parallel, scores it by what real people actually engage with, and an AI agent judge synthesizes it into one brief. Google aggregates editors. /last30days searches people. You can't get this search anywhere else because no single AI has access to all of it. Google search doesn't touch Reddit comments or X posts. ChatGPT has a deal with Reddit but can't search X or TikTok. Gemini has YouTube but not Reddit. Claude has none of them natively. Each platform is a walled garden with its own API, its own tokens, its own auth. But you can bring your own keys and browser sessions, and suddenly an AI agent can search all of them at once, score them against each other, and tell you what actually matters. That's the unlock. Not one better search engine. A dozen disconnected platforms, bridged by an agent. /last30days Peter Steinberger You have a meeting tomorrow. You Google them. You get their Li",
+      "published": "",
+      "_id": "b88590c43555a909",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "ogulcancelik /herdr",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "summary": "herdr herdr.dev · install · quick start · supported agents · docs · socket api · sponsor v.0.4.0.mp4 run all your coding agents in one terminal. see who's blocked, working, or done at a glance. run your agents where they already run; your machine, a server, anywhere you can ssh. each one gets its own real terminal, not an app's imitation of one, so even full-screen TUIs render right. click, drag, and split panes into workspaces and tabs, and watch each agent go blocked, working, done. close the laptop and nothing dies; reattach from another terminal, or from your phone over ssh. one local rust binary, not an app: no gui, no electron, no mac-only wrapper, no account, no telemetry. (if you've used tmux: it's that, rebuilt for agents.) what you get a real terminal per agent. you see each agent's own screen, not an app's imitation of one, so even full-screen TUIs render right. agent state at a glance. the sidebar rolls every agent up to 🔴 blocked, 🟡 working, 🔵 done, or 🟢 idle, so you always know who needs you. zero config, no hooks required. workspaces, tabs, panes. organize by repo or folder, click, drag, and split, mouse-native throughout. nothing dies on detach. a background server keeps panes and agents alive; detach and reattach from any terminal, including your phone over ssh. runs anywhere. single ~10MB rust binary, linux and macos (windows beta), no dependencies, runs inside the terminal you already use. scriptable. a local socket api and cli that agents can drive, plus plugins you can write in any language. how it compares tmux gui managers herdr persistent sessions ✓ — ✓ detach / reattach ✓ — ✓ runs anywhere, over ssh ✓ — ✓ panes, tabs, workspaces ✓ ✓ ✓ agent awareness — ✓ ✓ lives in your terminal ✓ — ✓ real terminal views ✓ — ✓ mouse-native — ✓ ✓ lightweight binary ✓ — ✓ agents can orchestrate ? ? ✓ tmux gives you persistence and panes, but it was built before agents existed. it has no idea which pane is blocked, working, or done; you can bolt a bell characte",
+      "published": "",
+      "_id": "c87b77df69f1bb71",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "GitHub",
+      "title": "bradautomates /claude-video",
+      "link": "https://github.com/bradautomates/claude-video",
+      "summary": "/watch Give Claude the ability to watch any video. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add bradautomates/claude-video -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, manual) in the Install section below. Zero config to start — yt-dlp and ffmpeg install on first run via brew on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions. Claude can read a webpage, run a script, browse a repo. What it can't do, out of the box, is watch a video . You paste a YouTube link and it has to either guess from the title or pull a transcript that's missing 90% of what's on screen. With Claude Video /watch you can paste a URL or a local path, ask a question, and Claude fetches captions first, downloads only what it needs, extracts frames (scene-aware, or fast keyframes at efficient detail), pulls a timestamped transcript (free captions when available, Whisper API as fallback), and Read s every frame as an image. By the time it answers, it has seen the video and heard the audio. /watch https://youtu.be/dQw4w9WgXcQ what happens at the 30 second mark? What people actually use it for Analyze someone else's content. /watch https://youtu.be/<viral-video> what hook did they open with? Claude looks at the first frames, reads the opening transcript, breaks down the structure. Same for ad creative, competitor launches, podcast intros, anything where the how matters as much as the what . Diagnose a bug from a video. Someone sends you a screen recording of something broken. /watch bug-repro.mov what's going wrong? Claude watches the recording, finds the frame where the issue appears, describes what's on screen, often catches the",
+      "published": "",
+      "_id": "cc2152070c02e2ab",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
+      "link": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat",
+      "summary": "Article URL:https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flatComments URL:https://news.ycombinator.com/item?id=48803711Points: 74# Comments: 45",
+      "published": "2026-07-06T12:33:09",
+      "_id": "e2ea85592deac735",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "When AI Costs More Than the Engineer",
+      "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "summary": "Article URL:https://tomtunguz.com/ai-spend-breakeven-2029/Comments URL:https://news.ycombinator.com/item?id=48801493Points: 120# Comments: 103",
+      "published": "2026-07-06T07:05:25",
+      "_id": "60b7d6d8d16487ec",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "summary": "https://x.com/haider1/status/2073695124220006575,https://xcancel.com/haider1/status/2073695124220006575Comments URL:https://news.ycombinator.com/item?id=48799614Points: 376# Comments: 326",
+      "published": "2026-07-06T01:04:03",
+      "_id": "63fb9999dc2f39ec",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "summary": "Article URL:https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldntComments URL:https://news.ycombinator.com/item?id=48799256Points: 162# Comments: 72",
+      "published": "2026-07-06T00:04:48",
+      "_id": "3195de05c749f2a7",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+      "link": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+      "summary": "Article URL:https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/Comments URL:https://news.ycombinator.com/item?id=48798330Points: 50# Comments: 29",
+      "published": "2026-07-05T21:58:20",
+      "_id": "c92dfa805d29c960",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "Article URL:https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdfComments URL:https://news.ycombinator.com/item?id=48796817Points: 173# Comments: 107",
+      "published": "2026-07-05T18:47:43",
+      "_id": "9013c9ce63145737",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "link": "https://arxiv.org/abs/2602.09239",
+      "summary": "Article URL:https://arxiv.org/abs/2602.09239Comments URL:https://news.ycombinator.com/item?id=48795830Points: 83# Comments: 67",
+      "published": "2026-07-05T17:05:57",
+      "_id": "9af39ffde2107ceb",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "Article URL:https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/Comments URL:https://news.ycombinator.com/item?id=48795826Points: 133# Comments: 2",
+      "published": "2026-07-05T17:05:35",
+      "_id": "8aafbde5522c666a",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Design System Prompt",
+      "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "summary": "Article URL:https://github.com/Trystan-SA/claude-design-system-promptComments URL:https://news.ycombinator.com/item?id=48792399Points: 120# Comments: 31",
+      "published": "2026-07-05T08:43:37",
+      "_id": "685b3e87a0b96587",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Hacker News",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "summary": "Article URL:https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/Comments URL:https://news.ycombinator.com/item?id=48791708Points: 64# Comments: 79",
+      "published": "2026-07-05T06:19:34",
+      "_id": "687d6a8d4c778844",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am hallucinating.A non-FAANG/non-Deepmind/.../non-Anthropic industrial automation company is hiring people to work on ML for robots (the latest hot topic). Fine. But then I saw their laundry list of job requirements (\"you must meet these\"), which include:Deep expertise in LLM, VLA, VLM, action transformersDeep expertise in robot dynamic and kinematic modelling (forward, inverse kinematics, trajectory generation, planning), sensor fusion, model predictive control, reinforcement learningDeep expertise in CUDA GPU programming, FPGA hardware accelerationFamiliarity with latest software engineering best practices in Python3 and C++23Familiarity in one or more of popular ML frameworkHave top publications in one or more typical ML and robotics conferencesThis is before they go off listing familiarity with a set of standard softwares/simulators, one of which is called RLib, something I've never heard of. Oh and of course they had these 3+, 5+ \"non-academic\" experience requirements. I forgot which is which.I was just sitting there confused. Then I checked several more jobs, and it was more of the same (except for some banks).I remember there was a talk by Terence Tao where he divided mathematician into two camps, the analysts and algebraists. He said even among top mathematicians, it is exceedingly rare to find someone who possess deep expertise in both, as each tends to require a different mode of thinking and each is infinitely deep in terms of specialization, theory and insights.And here we have a bunch of ML companies treating these infinitely deep academic fields ranging from robot dynamic and kinematic modelling to large language models like some bizarre MMORPG video-game scenario where you need to be a warrior archer who is also a priest mage.Who are they even hiring, lol?sub",
+      "published": "2026-07-06T11:57:00",
+      "_id": "490acf4b823ac7ed",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), specifically the EventQA accurate-retrieval task.Its a pypi package:pip install trace-memoryResults (F1):• TRACE (gpt-oss-20B): 82.5%• TRACE (gpt-oss-120B): 83.8%• Mem0 (GPT-4o-mini, paper’s official number): 37.5%• MemGPT/Letta (GPT-4o-mini, paper’s official number): 26.2%Ran gpt-oss locally, so this is an open-weights model against MemGPT/Mem0 on GPT-4o-mini, not an apples-to-apples same-backbone test (I don’t have the money for open ai tokens).I tried to get Mem0 running on gpt-oss-20B directly for fairness, but its fact-extraction step needs strict JSON output and gpt-oss’s responses didn’t parse cleanly (known issue, not gpt-oss specific. Same bug shows up with Gemini/Mistral too). Letta needs a full server setup so I skipped it.Full JSON logs from both runs are in the repo if you want to dig into the methodology yourselves. GitHub:https://github.com/husain34/TRACEsubmitted by/u/PsychologicalDot7749[link][comments]",
+      "published": "2026-07-06T14:35:56",
+      "_id": "d418e23042642c0d",
+      "_scraped_at": "15:38"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others in the field and I hadn't seen a head-to-head with it yet.Models:Kokoro 82M (PyTorch and ONNX Runtime, StyleTTS2-inspired)Supertonic 3 at 2 and 5 flow-matching steps (Vector Estimator backbone)Inflect-Nano-v1 (4.6M param FastSpeech-style, tiny end of the spectrum)Pocket TTS (~100M param streaming LM over Kyutai's Mimi neural audio codec)Setup:Intel Xeon 8272CL, 4 cores, 15.6GB RAM. CUDA disabled at env level. ONNX sessions pinned to CPUExecutionProvider. Six configs, six text lengths (12 to 1712 chars), five timed reps per cell after a discarded warmup. 180 total runs. Every saved WAV scored with UTMOS (utmos22_strong) for objective MOS.Aggregate results:ConfigMean RTFUTMOSSupertonic 3 (2-step)0.1211.53Inflect-Nano-v10.1453.48Supertonic 3 (5-step)0.2404.32Kokoro 82M (ONNX)0.6414.44Kokoro 82M (PyTorch)0.6654.46Pocket TTS0.7144.10Findings I think are actually interesting:1. Streaming LM architecture produces flat RTF scaling.Pocket TTS's RTF is 0.69 to 0.76 across the entire text length range. Because it emits audio tokens autoregressively at a steady rate, cost is linear in output length with no fixed overhead to amortize. Compare to Kokoro PyTorch, which climbs from 0.49 on tiny to 0.83 on long inputs, or Supertonic which goes the other way (0.36 on tiny down to 0.20 on medium) because of high per-call fixed overhead. If you're budgeting worst-case latency for an interactive system, flat is worth a lot.2. UTMOS has a known failure mode on small vocoders.Inflect-Nano-v1 scored 3.48, which reads mid-pack. By ear it's buzzy and robotic. This is a documented issue: UTMOS rewards HiFi-GAN outputs for being clean even when they lack prosodic naturalness. Pocket TTS scored similarly (4.10) but sounds legitimately natural. The point isn't that UTMOS is broken, it's that a single",
+      "published": "2026-07-06T15:17:36",
+      "_id": "d04d41cbba44e0e3",
+      "_scraped_at": "15:38"
+    }
+  ],
+  "seen_ids": [
+    "432c3ecf1f6e1a7c",
+    "a577f205a73beafc",
+    "9013c9ce63145737",
+    "d04d41cbba44e0e3",
+    "aaef033dfabe2831",
+    "2e124a6790ad32c3",
+    "bf55a61637b6dda9",
+    "1573c2cb36b94c42",
+    "1dc5824027254506",
+    "b88590c43555a909",
+    "685b3e87a0b96587",
+    "3cb7ff1cdcf97c6b",
+    "716cf9e2237ac9db",
+    "9cde332f81ea52ac",
+    "b303b1e4141446e6",
+    "3195de05c749f2a7",
+    "62797d7741b41a29",
+    "e2ea85592deac735",
+    "8aafbde5522c666a",
+    "fdd9745edc3aad4e",
+    "de9adfa52a186630",
+    "e998906a376bd21c",
+    "d418e23042642c0d",
+    "c87b77df69f1bb71",
+    "3b35e07d1ddd6387",
+    "9af39ffde2107ceb",
+    "687d6a8d4c778844",
+    "60b7d6d8d16487ec",
+    "cc2152070c02e2ab",
+    "64748ac3266300d1",
+    "490acf4b823ac7ed",
+    "d1a423c649102322",
+    "c92dfa805d29c960",
+    "0c13739dbedc7f32",
+    "291d5eb46511b79f",
+    "dae9f02535f7c22f",
+    "63fb9999dc2f39ec",
+    "d148dec2e623441e",
+    "4307222bc7e5f2e4",
+    "9c3f22df66cb8edd"
+  ],
+  "last_run": "15:38",
+  "run_count": 1
+}
