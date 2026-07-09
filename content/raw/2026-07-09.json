@@ -1,0 +1,569 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "published": "2026-07-08T13:30:00",
+      "_id": "e00d55023af7c16f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "published": "2026-07-08T13:00:00",
+      "_id": "e9167e656930e3f1",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping K–12 educators build practical AI skills",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "published": "2026-07-08T10:00:00",
+      "_id": "3447f8d32f7ed63d",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Data for Agents",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "summary": "",
+      "published": "2026-07-08T17:16:05",
+      "_id": "c191c2da58c86f2d",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
+      "published": "2026-07-09T13:00:55",
+      "_id": "1b34ab0eb60f0a91",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "published": "2026-07-08T15:00:27",
+      "_id": "07610e55de6cc86b",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "summary": "Product Introducing Claude Tag Jun 23, 2026 Claude Tag is a new way for teams to work with Claude. We’re starting on Slack, which Claude can join as a team member. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you choose. Then, anyone in the channel can tag @Claude in, and delegate tasks to it while they focus on other work. Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future. We see Claude Tag as the beginning of an evolution of Claude Code: it makes the model even more proactive, and it works better with a full team. Tagging @Claude is now one of the main ways we get things done at Anthropic. Today, 65% of our product team’s code is created by our internal version of Claude Tag. The same pattern is now spreading well beyond engineering—we’re tagging Claude to chase down product metrics and data, work through support tickets, or even help find the root cause of tricky bugs. We’re launching Claude Tag on Slack, since it’s a natural home for collaborative work between teams and AI, and where much of Anthropic’s day-to-day work already happens. It’s available today in beta for Claude Enterprise and Team customers. Our goal is to expand where it’s available more widely, so that teams can tag @Claude in the many other places they work. Working with @Claude If you’ve worked with Claude Code or Cowork before, Claude Tag will feel familiar. Tag @Claude with a request in simple terms and it’ll break its task down into stages and then work through them in turn, using the tools it has access to. Once it’s done, it’ll respond in a Slack thread with what it’s created. But tagging Claude comes with a few new advantages: @Claude is multiplayer. Within a given Slack channel, there’s one Claude that interacts with everyone. This means that anyone can see what it’s working on, and can pick up the conversation from where the last person left off. Th",
+      "published": "",
+      "_id": "64748ac3266300d1",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "summary": "Announcements Introducing a way to reflect on how you use Claude Jul 9, 2026 Today we're introducing, in beta, a new way to reflect on and refine how you use Claude. In our interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, AI can be integrated into daily life. How often should someone use AI? How can it be used most effectively? When is AI suited to a task, and when is it better left to a human? We built this feature to help answer these types of questions. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals. Your reflection dashboard can be found in Settings on Claude for web or the desktop app. See your patterns and shape them Your reflection starts with a summary of how you've been using Claude, covering key topics, your usage patterns, and the types of tasks you often work through. You can look back on your Claude chat activity over the past 1, 3, 6, or 12 months. The reflect feature provides a breakdown of when you use Claude most, and what you spent that time working on. Soon, we'll add a view of how much time you've spent using Claude. Your reflection also invites you to step back and examine the role Claude plays in your life. It will periodically surface questions like, \" What's one thing you want to keep doing yourself, even if Claude could do it faster?\" and give you the chance to talk it through with Claude. Within your dashboard, you can also set quiet hours or schedule a nudge to take a break from using Claude after a certain amount of time. Both are reminders of your own preferences and can be dismissed. Build AI skills that support your original thinking You can use your reflection to build new skills and sharpen how you work with Claude, using the 4D AI Fluency Framework . Delegation: Setting goals and deciding whether and how to engage with AI Description: Effectively describing goals to prompt useful AI behaviors and outputs Discernment: Ac",
+      "published": "",
+      "_id": "96abb90589873af8",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "published": "2026-07-09T14:53:09",
+      "_id": "30e870106f056953",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
+      "published": "2026-07-09T14:51:00",
+      "_id": "255a1ec5e3e85467",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "published": "2026-07-09T13:00:00",
+      "_id": "5d77deb799966360",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "published": "2026-07-09T13:00:00",
+      "_id": "277ae1a5108bb085",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "published": "2026-07-09T12:00:00",
+      "_id": "0c099a85d8fb79f7",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements […]",
+      "published": "2026-07-09T14:00:00",
+      "_id": "ab49074175541c7f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "Say hello to Claude Wrapped",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, […]",
+      "published": "2026-07-09T13:30:00",
+      "_id": "016a0f72b52b9096",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring […]",
+      "published": "2026-07-09T13:11:53",
+      "_id": "ecdd5635202fac48",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can […]",
+      "published": "2026-07-09T13:00:00",
+      "_id": "189cdf143351e22d",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's […]",
+      "published": "2026-07-08T17:00:00",
+      "_id": "1787c2acbf8b3f96",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "published": "2026-07-08T19:01:19",
+      "_id": "a004d3c55b9fc9c7",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "summary": "But the devices could \"easily be reflashed.\"",
+      "published": "2026-07-08T18:10:16",
+      "_id": "5e229a1d2c992500",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+      "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
+      "published": "2026-07-08T13:26:10",
+      "_id": "1b239cfa513eaa98",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "published": "2026-07-08T07:00:51",
+      "_id": "e5525d910e9c2c4f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
+      "published": "2026-07-09T12:10:00",
+      "_id": "50a84fa6b2f3eb33",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can…",
+      "published": "2026-07-09T08:00:00",
+      "_id": "e0c66a14832f3c53",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "summary": "",
+      "published": "2026-07-08T16:26:10",
+      "_id": "6065cdfde6ae9962",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to…",
+      "published": "2026-07-08T12:10:00",
+      "_id": "5b99821b61753466",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Wired",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+      "published": "2026-07-08T21:08:26",
+      "_id": "d9867fa8033499e7",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Wired",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "published": "2026-07-08T20:09:21",
+      "_id": "b0a4dbdf833042a8",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Wired",
+      "title": "Pickup Artist Mystery Has an AI Girlfriend",
+      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+      "published": "2026-07-08T11:00:00",
+      "_id": "d83a1a79f4b06a1f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Wired",
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+      "published": "2026-07-08T09:30:00",
+      "_id": "c9606891f0262308",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "MadsLorentzen /ai-job-search",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "AI Job Search An AI-powered job application framework built on Claude Code . Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews. Note: This is an independent open-source project and is not affiliated with, endorsed by, sponsored by, or maintained by Anthropic. Anthropic and Claude Code are referenced only to describe the toolchain this workflow uses. Did this save you a Sunday of cover-letter writing? Consider a coffee. Did it land you the job? Maybe two. ☕ What this is A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is language- and country-agnostic . The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards. /setup          /scrape              /apply <url>\n  |                |                     |\n  v                v                     v\nFill in        Search job           Evaluate fit\nyour profile   portals              Score & recommend\n  |                |                     |\n  v                v                     v\nProfile        Present matches      Draft CV + Cover Letter\nfiles ready    with fit ratings     (LaTeX, tailored)\n                   |                     |\n                   v                     v\n               Pick a match         Reviewer agent critiques\n               -> /apply            -> Revise -> Final output The framework encodes career guidance best practices, including structured evaluation criteria, forward-looking cover letter framing, and optional salary benchmarking. Prerequisites Claude Code (CLI) Python 3.10+ Bun (for Danish job search CLI tools) LaTeX distribution with lualatex and xelatex : TeX Live , MacTeX , TinyTeX , or MiKTeX . The CV compiles with lualatex (pdflatex often fa",
+      "published": "",
+      "_id": "7af184c03e7ab7a7",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "SmartlyDressedGames /U3-SDK",
+      "link": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "summary": "U3 SDK Source code for Unturned , a free open-world zombie survival sandbox game. Getting Started Download/clone this repository Install Unity Hub (required to install engine) Install the Unity 2022.3.62f3 editor Optional : if making code changes, select Game development with Unity + .NET desktop development in the Visual Studio installer Ensure Steam is running and you have Unturned installed (large binary files and mods are loaded from here) Open the project with the Unity editor Open the Assets/GameStartup.unity scene Click play! Resources Frequently Asked Questions Source Code Demo: Adding a Heat-Seeking Missile on YouTube Unturned's Modding Documentation",
+      "published": "",
+      "_id": "3239a31df1bacbde",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "addyosmani /agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "summary": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │  QA  │ ───▶ │  Go  │\n │Refine│      │  PRD │      │ Impl │      │Debug │      │ Gate │      │ Live │\n └──────┘      └──────┘      └──────┘      └──────┘      └──────┘      └──────┘\n  /spec          /plan          /build        /test         /review       /ship Commands 8 slash commands that map to the development lifecycle. Each one activates the right skills automatically. What you're doing Command Key principle Define what to build /spec Spec before code Plan how to build it /plan Small, atomic tasks Build incrementally /build One slice at a time Prove it works /test Tests are proof Review before merge /review Improve code health Audit web performance /webperf Measure before you optimize Simplify the code /code-simplify Clarity over cleverness Ship to production /ship Faster is safer Want fewer manual steps once the spec exists? /build auto generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping between tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps. Skills also activate automatically based on what you're doing — designing an API triggers api-and-interface-design , building UI triggers frontend-ui-engineering , and so on. Quick Start Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more): npx skills add addyo",
+      "published": "",
+      "_id": "dae9f02535f7c22f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "VoltAgent /awesome-design-md",
+      "link": "https://github.com/VoltAgent/awesome-design-md",
+      "summary": "Curated collection of DESIGN.md analysis by developer focused websites. Awesome DESIGN.md Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language. Built with real design depth — including analyzed patterns, tokens, and rules — for high-quality UI generation, not surface-level outputs. What is DESIGN.md? DESIGN.md is a new concept introduced by Google Stitch. A plain-text design system document that AI agents read to generate consistent UI. It's just a markdown file. No Figma exports, no JSON schemas, no special tooling. Drop it into your project root and any AI coding agent or Google Stitch instantly understands how your UI should look. Markdown is the format LLMs read best, so there's nothing to parse or configure. File Who reads it What it defines AGENTS.md Coding agents How to build the project DESIGN.md Design agents How the project should look and feel This repo provides ready-to-use DESIGN.md files extracted from real websites. Request a DESIGN.md You can request a DESIGN.md for specific website, including private requests delivered exclusively to you. AI Design + Build Ecosystem Tools 👉 Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders. Ranked #150 globally on GitHub. A community resource used by developers, designers, and vibecoders. Collection AI & LLM Platforms Claude - Anthropic's AI assistant. Warm terracotta accent, clean editorial layout Cohere - Enterprise AI platform. Vibrant gradients, data-rich dashboard aesthetic ElevenLabs - AI voice platform. Dark cinematic UI, audio-waveform aesthetics Minimax - AI model provider. Bold dark interface with neon accents Mistral AI - Open-weight LLM provider. French-engineered minimalism, purple-toned Ollama - Run LLMs locally. Terminal-first, monochrome simplicity OpenCode AI - AI coding platform. Developer-centric dar",
+      "published": "",
+      "_id": "f9df08c201fdc4c7",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "iOfficeAI /OfficeCLI",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "summary": "OfficeCLI OfficeCLI is the world's first and the best Office suite designed for AI agents. Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code. Open-source. Single binary. No Office installation. No dependencies. Works everywhere. OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity — and that's what gives AI eyes. It renders .docx / .xlsx / .pptx to HTML or PNG, closing the render → look → fix loop. English | 中文 | 日本語 | 한국어 🌐 Website: officecli.ai | 💬 Community: Discord PPT creation process using OfficeCLI on AionUi PowerPoint Presentations — Word Documents — Excel Spreadsheets All documents above were created entirely by AI agents using OfficeCLI — no templates, no manual editing. For AI Agents — Get Started in One Line Paste this into your AI agent's chat — it will read the skill file and install everything automatically: curl -fsSL https://officecli.ai/SKILL.md That's it. The skill file teaches the agent how to install the binary and use all commands. For Humans Option A — GUI: Install AionUi — a desktop app that lets you create and edit Office documents through natural language, powered by OfficeCLI under the hood. Just describe what you want, and AionUi handles the rest. Option B — CLI: Download the binary for your platform from GitHub Releases , then run: officecli install This copies the binary to your PATH and installs the officecli skill into every AI coding agent it detects — Claude Code, Cursor, Windsurf, GitHub Copilot, and more. Your agent can immediately create, read, and edit Office documents on your behalf, no extra configuration needed. For Developers — See It Live in 30 Seconds # 1. Install (macOS / Linux) — or: brew install officecli / npm install -g @officecli/officecli curl -fsSL https://raw.githubusercontent.com/iOfficeAI/OfficeCLI/main/install.sh | bash # Windows (PowerShell): irm https://raw.githubusercontent.com/iOfficeAI/OfficeCLI/main/install.ps1 | iex # 2. Create a blank Pow",
+      "published": "",
+      "_id": "3ac15a787d97b127",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "wonderwhy-er /DesktopCommanderMCP",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "summary": "Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host client subscriptions instead of API token costs. 🖥️ Try the Desktop Commander App (Beta) Want a better experience? The Desktop Commander App gives you everything the MCP server does, plus: Use any AI model — Claude, GPT-4.5, Gemini 2.5, or any model you prefer See file changes live — visual file previews as AI edits your files Add custom MCPs and context — extend with your own tools, no config files Coming soon — skills system, dictation, background scheduled tasks, and more 👉 Download the App (macOS & Windows) The MCP server below still works great with Claude Desktop and other MCP clients — the app is for those who want a dedicated, polished experience. Table of Contents Features How to install Getting Started Usage File Preview UI & Markdown Editor Handling Long-Running Commands Work in Progress and TODOs Sponsors and Supporters Website Media Testimonials Frequently Asked Questions Contributing License All of your AI development tools in one place.\nDesktop Commander puts all dev tools in one chat.\nExecute long-running terminal commands on your computer and manage processes through Model Context Protocol (MCP). Built on top of MCP Filesystem Server to provide additional search and replace file editing capabilities. Features Remote AI Control - Use Desktop Commander from ChatGPT, Claude web, and other AI services via Remote MCP File Preview UI - Visual file previews in Claude Desktop with rendered markdown, inline images, expandable content, built-in markdown editor, and quick \"Open in folder\" access Enhanced terminal commands with interactive process control Execute code in memory (Python, Node.js, R) without saving files Instant data analysis - just ask to analyze CSV/JSON/Excel files Native Excel file support - Read, write, edit, and search Excel files (.xlsx, .xls, .",
+      "published": "",
+      "_id": "b229581aae0e9893",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /claude-cookbooks",
+      "link": "https://github.com/anthropics/claude-cookbooks",
+      "summary": "Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here ). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Claude API. If you're new to working with the Claude API, we recommend starting with our Claude API Fundamentals course to get a solid foundation. Explore Further Looking for more resources to enhance your experience with Claude and AI assistants? Check out these helpful links: Anthropic developer documentation Anthropic support docs Anthropic Discord community Contributing The Claude Cookbooks thrives on the contributions of the developer community. We value your input, whether it's submitting an idea, fixing a typo, adding a new guide, or improving an existing one. By contributing, you help make this resource even more valuable for everyone. To avoid duplication of efforts, please review the existing issues and pull requests before contributing. If you have ideas for new examples or guides, share them on the issues page . Table of recipes Capabilities Classification : Explore techniques for text and data classification using Claude. Retrieval Augmented Generation : Learn how to enhance Claude's responses with external knowledge. Summarization : Discover techniques for effective text summarization with Claude. Tool Use and Integration Tool use : Learn how to integrate Claude with external tools and functions to extend its capabilities. Customer service agent Calculator integration SQL queries Third-Party Integrations Retrieval augmented generation : Supplement Claude's knowledge with external data sources. Vector databases (Pinecone) Wikipedia Web pages Embeddings with Voyage AI Multimodal Capabilities Vision ",
+      "published": "",
+      "_id": "1f49d0119cedbc84",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "vxcontrol /pentagi",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "summary": "PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ⠀ Table of Contents Overview Features Architecture Agent Supervision Quick Start How to Use PentAGI After Login API Access LLM Provider Configuration Ollama OpenAI Anthropic Google AI (Gemini) AWS Bedrock DeepSeek GLM Kimi Qwen Advanced Setup Langfuse Integration Monitoring and Observability Knowledge Graph (Graphiti) OAuth Integration Docker Image Configuration Development Testing LLM Agents Embedding Configuration and Testing Function Testing with ftester Building Credits License Overview PentAGI is an innovative tool for automated security testing that leverages cutting-edge artificial intelligence technologies. The project is designed for information security professionals, researchers, and enthusiasts who need a powerful and flexible solution for conducting penetration tests. You can watch the video PentAGI overview : Features Secure & Isolated. All operations are performed in a sandboxed Docker environment with complete isolation. Fully Autonomous. AI-powered agent that automatically determines and executes penetration testing steps with optional execution monitoring and intelligent task planning for enhanced reliability. Professional Pentesting Tools. Built-in suite of 20+ professional security tools including nmap, metasploit, sqlmap, and more. Smart Memory System. Long-term storage of research results and successful approaches for future use. Knowledge Graph Integration. Graphiti-powered knowledge graph using Neo4j for semantic relationship tracking and advanced context understanding. Web Intelligence. Built-in browser via scraper for gathering latest information from web sources. External Search Systems. Integration with advanced search APIs including Tavily , Traversaal , Perplexity , DuckDuckGo , Google Custom S",
+      "published": "",
+      "_id": "b0d327628dfb442e",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "unclecode /crawl4ai",
+      "link": "https://github.com/unclecode/crawl4ai",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early access We’ll be onboarding in phases and working closely with early users.\nLimited slots. Crawl4AI turns the web into clean, LLM ready Markdown for RAG, agents, and data pipelines. Fast, controllable, battle tested by a 50k+ star community. ✨ Check out latest update v0.9.1 ✨ New in v0.9.1 : Patch release with 12 bug fixes across Docker, browser, and core. Adds preserve_classes / preserve_tags whitelist for PruningContentFilter, fixes Windows browser crash, Docker auth gate UI, HTTP timeout unit mismatch, and more. Release notes → ✨ Recent v0.9.0: Major secure-by-default release of the Docker API server. Auth is on by default, the server binds loopback unless given a token, and the request body is now an untrusted trust boundary. Release notes → ✨ Recent v0.8.7: Security-hardening release. Fixes critical Docker API vulnerabilities (RCE, SSRF, auth bypass, file write, XSS, hardcoded JWT secret), adds DomainMapper, and ships scraping, deep-crawl, and LLM fixes. Release notes → ✨ Previous v0.8.0: Crash Recovery & Prefetch Mode! Deep crawl crash recovery with resume_state and on_state_change callbacks for long-running crawls. New prefetch=True mode for 5-10x faster URL discovery. Release notes → ✨ Previous v0.7.8: Stability & Bug Fix Release! 11 bug fixes addressing Docker API issues, LLM extraction improvements, URL handling fixes, and dependency updates. Release notes → 🤓 My Personal Story I grew up on an Amstrad, thanks to my dad, and never stopped building. In grad school I specialized in NLP and built crawlers for research. That’s where I learned how much extraction matters. In 2023, I needed web-to-Markdown. The “open source” option wanted an account, API token, and $16, and still under-delivered. I went turbo a",
+      "published": "",
+      "_id": "d46d1480c37c463a",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "imthenachoman /How-To-Secure-A-Linux-Server",
+      "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "summary": "imthenachoman / How-To-Secure-A-Linux-Server Public Notifications You must be signed in to change notification settings Fork 1.9k Star 28.9k imthenachoman/How-To-Secure-A-Linux-Server master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 271 Commits 271 Commits LICENSE.txt LICENSE.txt README.md README.md linux-kernel-sysctl-hardening.md linux-kernel-sysctl-hardening.md nginx.md nginx.md View all files Repository files navigation Loading About An evolving how-to guide for securing a Linux server. Topics linux security server hardening security-hardening linux-server cc-by-sa hardening-steps Resources Readme License CC-BY-SA-4.0 license Uh oh! There was an error while loading. Please reload this page . Activity Stars 28.9k stars Watchers 403 watching Forks 1.9k forks Report repository Releases No releases published Packages 0 Uh oh! There was an error while loading. Please reload this page . Uh oh! There was an error while loading. Please reload this page . Contributors Uh oh! There was an error while loading. Please reload this page .",
+      "published": "",
+      "_id": "a7ea7305d1625eba",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Journals vs Conferences ML Research [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
+      "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising demand and the fact that conferences have a higher and a faster acceptance rate as compared to journals and with the growing hype they need to deliver things faster? What do you all think?submitted by/u/hg_wallstreetbets[link][comments]",
+      "published": "2026-07-09T13:44:41",
+      "_id": "81f0112670046253",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "COLM 2026 Decision Discussion [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
+      "summary": "COLM 2026 Decision about to come soon so lets talk here.submitted by/u/North_Menu718[link][comments]",
+      "published": "2026-07-08T12:20:24",
+      "_id": "c4e16d521deac57c",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
+      "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN.On my small dataset (175 train / 132 test):SigLIP2 SO400M: ~92%CLIP ViT-L: ~59%DINOv2 Giant: ~41%I thought maybe it was a cosine vs euclidean thing, but my embeddings are L2-normalized so both give the same ranking. Tried both, DINOv2 stays at 41%.I get that SigLIP was trained contrastively so its space is basically built for cosine similarity, while DINOv2 is self-supervised and probably needs a trained head to shine. But a 50 point gap still feels huge to me.Anyone here tried DINOv2 with a linear probe on something fine-grained? Does it actually catch up or is it just not the right tool for retrieval?Also open to tips if there's some obvious thing I'm missing (wrong layer, wrong pooling, etc).submitted by/u/psy_com[link][comments]",
+      "published": "2026-07-08T13:51:19",
+      "_id": "a27c059037ecdd9f",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "link": "https://arxiv.org/abs/2607.06624",
+      "summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, where an objective check exists, with LLM-written trajectory reviews and side-by-side comparisons, so that each run yields a readable explanation of why the score is what it is. This makes AgentLens useful for more than ranking models: we use it to diagnose model behavior, compare successive versions of our own agent, and catch product regressions in a nightly evaluation pipeline. We release the benchmark as open source at https://github.com/agent-lens/agent-lens-bench.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "08e820bcd6acda0c",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "link": "https://arxiv.org/abs/2607.06720",
+      "summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time sampling complexity - the number of sequential attempts needed to achieve high success probability. We show that when reflections reliably localize early mistakes, in-context search can yield exponential improvements over the base model, solving problems with exponentially small zero-shot pass rates using only a polynomial number of sequential attempts, whereas when this property fails, conditioning on past attempts offers no asymptotic benefit over parallel sampling. We further show that these gains are robust and learnable: approximate posterior updates suffice, and cross-entropy training on search rollouts recovers the required behavior with polynomial sample complexity. Finally, we show that under a stagewise abstraction of reinforcement learning with verifiable rewards, the optimal policy extension implements the same posterior reweighting rule. We validate key qualitative predictions of the theory on real large reasoning models.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "9da6a070134c64be",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "link": "https://arxiv.org/abs/2607.06757",
+      "summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hybrid Agent-based and Language-driven Epidemic (HALE) modeling framework that leverages LLMs to predict human decision-making in an ABM simulation. As a proof-of-concept, we use HALE to simulate COVID-19 and its effects in Salt Lake County, UT.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "bbc17e01a6cb04cf",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "link": "https://arxiv.org/abs/2607.06760",
+      "summary": "arXiv:2607.06760v1 Announce Type: new \nAbstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidence term, and returns an ordinary posterior to a classical planner. This paper asks whether that service can be reused across a sequential Tiger POMDP horizon on present IBM Heron hardware without corrupting the planner-facing posterior. We answer with a controlled hardware case study rather than an end-to-end autonomy or wall-clock speedup claim. The study compares no amplification, guarded Grover amplification, and all-step fixed-point amplification on the same trajectory, then checks whether the returned posterior would change the downstream action. All-step FPAA preserves the Tiger posterior across the reported 8-step and 12-step primary runs, and the 20-step and 32-step controls remain inside the same operating band. In every reported decision check, the hardware posterior and the exact Bayes posterior select the same immediate action. Boundary-aware BIQAE stabilizes amplitude estimation near zero and near one, while a rare-event sweep maps the logical sample-complexity envelope for one-in-a-million evidence. The result is an operating envelope for a hardware-calibrated belief-update primitive, not a standalone hardware-advantage claim.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "8985f6d8863485f6",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "link": "https://arxiv.org/abs/2607.06764",
+      "summary": "arXiv:2607.06764v1 Announce Type: new \nAbstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which small models are fine-tuned on ARC data, often with task-specialized architectures. We study a third regime: an open-weight model in non-thinking mode (DeepSeek V3.2) under a strict budget, with no ARC-specific fine-tuning. We study what is recoverable through architecture alone, building agentic harnesses that decompose pattern-discovery and program-synthesis stages explicitly. First, we introduce an Explorer-Definer Pipeline that separates pattern discovery from executable transformation synthesis, implemented as a two-stage agent pipeline. Next, we present the Reflective Orchestrator, which augments the pipeline with autonomous exploration of new transformations when previous hypotheses fail on training pairs. On the ARC-AGI-1 public 400-task evaluation set, the pipeline reaches 57.50% pass@2 at \\$0.25 per task, and the orchestrator reaches 67.25% pass@2 at \\$0.62 per task. Together these architectures lift a 15.50% one-shot baseline by ~52 points without benchmark-specific training or heavy test-time compute. Furthermore, the orchestrator-driven lift tests a falsifiable diagnostic the pipeline produces; unbiased pass@k analysis suggests the pipeline is generation-bound, not selection-bound (selection via training-pair accuracy captures ~95% of the candidate ceiling) and predicts that significant improvement requires broader generation, not better ranking. The orchestrator implements this prediction via adaptive re-exploration and confirms it (unbiased pass@1 lift +9.81 pp, matching selection-mediated pass@2 lift). An additional pipeline ablation identifies its think tool as a significant component, with removal reducing pass@2 by 5.75 pp.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "de3d819146889f85",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts",
+      "link": "https://arxiv.org/abs/2607.06611",
+      "summary": "arXiv:2607.06611v1 Announce Type: new \nAbstract: Automatically recognizing the sentiment, positive or negative, from speech is a challenging task, requiring both the analysis of vocal inflections and the interpretation of uttered words. Recent solutions rely on audio foundation models to solve the task, but it remains unclear if such models can take all aspects into account. To this end, we propose a multimodal solution that integrates audio and text information via cross-modal transformers, where text transcripts are automatically generated via an automatic speech recognition (ASR) tool. Moreover, we create multiple text modalities by automatically translating the transcripts into multiple languages via machine translation tools. Audio and multilingual text features are combined via a cascaded architecture comprising cross-modal transformer blocks that integrate modalities one by one. We further distill knowledge from the multimodal model, called teacher, into a unimodal (audio only) model, called student. We conduct experiments on a large-scale dataset, demonstrating that the automatically generated textual information can bring significant performance boosts in multimodal sentiment polarity classification. Our ablation study confirms that both automatic transcripts and automatic translations are helpful. Moreover, we show that the audio-only model can be enhanced via distillation, boosting performance without any computational overhead during inference. To reproduce the reported results, we publicly release our code at https://github.com/andreidurdun/cross-modal-audio-sentiment.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "c7cdde7d9083683c",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
+      "link": "https://arxiv.org/abs/2607.06641",
+      "summary": "arXiv:2607.06641v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve promising results on medical question answering benchmarks, yet their use in public health is constrained by hallucinations and the rapid evolution of official guidance. Retrieval-Augmented Generation (RAG) mitigates these risks by grounding responses in an explicitly maintained corpus, but end-to-end performance depends critically on retrieval configuration and on evaluation beyond multiple-choice formats. We extend PubHealthBench, a question answering (QA) benchmark of 7,929 questions derived from UK Government public health guidance, into a retrieval-augmented setting and systematically evaluate retrieval and generation choices. We compare dense, sparse, and hybrid retrieval across multiple embedding models and corpus variants, and show that hybrid retrieval consistently improves recall and ranking quality, with chunk length and topic interacting with ranking performance. Providing retrieved context substantially increases multiple-choice accuracy across a diverse set of LLMs, enabling smaller open-weight models to match or outperform larger models used without retrieval, with gains primarily driven by retrieval quality and careful context selection. To assess realistic free-form answering, we introduce a rubric-based LLM-as-a-judge covering faithfulness, completeness, clarity, and factual consistency, and validate it against dual human annotations. Judge-human agreement is strongest for faithfulness and completeness, while factual consistency and clarity are less reliably reproduced, motivating caution when interpreting those dimensions at scale. Overall, our results highlight retrieval as a primary lever for reliable public health QA and provide practical guidance for building and evaluating RAG systems grounded in official guidance.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "05943e1848b0ca15",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Ad Headline Generation using Self-Critical Masked Language Model",
+      "link": "https://arxiv.org/abs/2607.06818",
+      "summary": "arXiv:2607.06818v1 Announce Type: new \nAbstract: For any E-commerce website it is a nontrivial problem to build enduring advertisements that attract shoppers. It is hard to pass the creative quality bar of the website, especially at a large scale. We thus propose a programmatic solution to generate product advertising headlines using retail content. We propose a state of the art application of Reinforcement Learning (RL) Policy gradient methods on Transformer based Masked Language Models. Our method creates the advertising headline by jointly conditioning on multiple products that a seller wishes to advertise. We demonstrate that our method outperforms existing Transformer and LSTM + RL methods in overlap metrics and quality audits. We also show that our model-generated headlines outperform human submitted headlines in terms of both grammar and creative quality as determined by audits.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "ad2f9f46f23074a6",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs",
+      "link": "https://arxiv.org/abs/2607.06831",
+      "summary": "arXiv:2607.06831v1 Announce Type: new \nAbstract: Speech-to-text alignment means finding the temporal boundaries of each word in the audio. Some models provide such an alignment directly and others do not. Connectionist temporal classification (CTC) and transducer models have an alignment by construction, whereas attention-based encoder-decoders (AED) and speech large language models (LLMs) do not, and their word timings are usually read off the attention weights instead. All of these signals live on the encoder frame grid, which bounds their temporal precision. We study a generic gradient-based alignment that applies to any differentiable ASR model. We take the gradient of each teacher-forced token log probability with respect to the input, reduce it to a per-frame saliency, and decode the resulting matrix into word boundaries with a single dynamic-programming pass. The method needs no training, no model modification and no alignment heads, works across all model families including the speech LLMs, and aligns on the input grid rather than on the coarser encoder grid. We evaluate it on sixteen models from four families, on read (TIMIT) and spontaneous (Buckeye) speech, each against the model's own native or attention-based alignment. We find that the gradient yields a usable alignment for every model, that it is usually somewhat behind a strong native aligner but better where the native alignment is weak, as for the streaming models, and that its main disadvantage is the cost of one backward pass per token.",
+      "published": "2026-07-09T04:00:00",
+      "_id": "66ed715a154cc922",
+      "_scraped_at": "15:14"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering",
+      "link": "https://arxiv.org/abs/2607.06845",
+      "summary": "arXiv:2607.06845v1 Announce Type: new \nAbstract: African American English (AAE), a rule-governed dialect spoken by over 30 million people, is routinely misinterpreted and \"corrected\" by large language models (LLMs). Across six instruction-tuned LLMs (14B to 70B), we show that state-of-the-art models systematically prefer Standard American English (SAE) continuations even when the preceding context is in AAE, effectively rewriting AAE into SAE. We present an end-to-end framework to audit and mitigate this bias. For auditing, we introduce conditional Dialect Group Invariance (cDGI), which isolates true model bias from translator-induced artifacts, and a feature-level localization analysis that identifies which AAE markers most strongly trigger bias; we find that syntactic constructions, especially negative concord (e.g., \"ain't nobody\"), are universal triggers across all models. For mitigation, we introduce, to our knowledge, the first application of activation steering to dialect bias: a training-free, test-time method that extracts dialect directions via causal tracing and injects them into bias-relevant layers. Activation steering reduces bias 5 to 20 times more than prompting while preserving SAE fluency. To enable this work, we release REAL-AAE , the largest real-AAE parallel corpus to date: 17,479 AAE/SAE/ AAE_back triplets from natural tweets (2 to 6 times larger than prior real-AAE resources), validated automatically (BERTScore F1 = 0.95) and by three native AAE speakers (83.0% semantic agreement).",
+      "published": "2026-07-09T04:00:00",
+      "_id": "37a4b91a670f7725",
+      "_scraped_at": "15:14"
+    }
+  ],
+  "seen_ids": [
+    "07610e55de6cc86b",
+    "3ac15a787d97b127",
+    "a27c059037ecdd9f",
+    "277ae1a5108bb085",
+    "d83a1a79f4b06a1f",
+    "d9867fa8033499e7",
+    "ad2f9f46f23074a6",
+    "e00d55023af7c16f",
+    "ecdd5635202fac48",
+    "0c099a85d8fb79f7",
+    "ab49074175541c7f",
+    "1787c2acbf8b3f96",
+    "3239a31df1bacbde",
+    "05943e1848b0ca15",
+    "30e870106f056953",
+    "189cdf143351e22d",
+    "a577f205a73beafc",
+    "1f49d0119cedbc84",
+    "fdd9745edc3aad4e",
+    "9da6a070134c64be",
+    "1b239cfa513eaa98",
+    "96abb90589873af8",
+    "e0c66a14832f3c53",
+    "c4e16d521deac57c",
+    "bbc17e01a6cb04cf",
+    "de3d819146889f85",
+    "e5525d910e9c2c4f",
+    "a004d3c55b9fc9c7",
+    "b229581aae0e9893",
+    "5e229a1d2c992500",
+    "81f0112670046253",
+    "e9167e656930e3f1",
+    "c7cdde7d9083683c",
+    "5b99821b61753466",
+    "f9df08c201fdc4c7",
+    "5d77deb799966360",
+    "6065cdfde6ae9962",
+    "c9606891f0262308",
+    "d46d1480c37c463a",
+    "37a4b91a670f7725",
+    "50a84fa6b2f3eb33",
+    "8985f6d8863485f6",
+    "66ed715a154cc922",
+    "7af184c03e7ab7a7",
+    "255a1ec5e3e85467",
+    "3447f8d32f7ed63d",
+    "016a0f72b52b9096",
+    "b0d327628dfb442e",
+    "1b34ab0eb60f0a91",
+    "08e820bcd6acda0c",
+    "4307222bc7e5f2e4",
+    "a7ea7305d1625eba",
+    "c191c2da58c86f2d",
+    "b0a4dbdf833042a8",
+    "64748ac3266300d1",
+    "dae9f02535f7c22f"
+  ],
+  "last_run": "15:14",
+  "run_count": 1
+}
