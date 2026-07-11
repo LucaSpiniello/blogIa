@@ -1,0 +1,479 @@
+{
+  "date": "2026-07-11",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "published": "2026-07-10T07:00:00",
+      "_id": "521cb8f5727237af",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "summary": "Case Study UST is bringing Claude to physical AI Jul 9, 2026 Before a factory commits to manufacturing millions of chips, engineers stress-test the design in the fab. Before a product ships, a fault on the assembly line has to be caught before it becomes a recall. When AI does this kind of work, it’s called physical AI: intelligence built into the equipment and engineering processes that produce the things people use. We’re partnering with UST , a technology and engineering services company that builds and runs the engineering environments its clients depend on to get chips, cars, and connected devices to market. UST is putting Claude to work inside those environments, and training 20,000 of its engineers, architects, and consultants on Claude worldwide. How UST is putting Claude into the production processes behind physical products UST works alongside semiconductor, automotive, manufacturing, telecom, embedded, and IoT companies. It builds the systems those companies use to verify their designs, validate their chips, run their factories, and service their products once they’re out in the world. These are long, multi-step processes where an early mistake gets more expensive with every step that follows. A design flaw caught during verification costs an engineer an afternoon; the same flaw caught after a factory has committed to manufacturing costs a production run. UST is bringing Claude into this work. Claude Code reads the schematics and pinouts an engineer works from, then writes and runs the tests that check the design. It carries that task across many steps, holding the context of a design through hours-long tasks. UST is aiming to catch design flaws earlier, speed up chip validation, and bring hardware and software together in a single system. The clearest example is a UST platform called iDEC, which its engineers use to validate hardware and silicon before it goes to production. Validation is the work of proving a chip actually behaves the way its designers ",
+      "published": "",
+      "_id": "2421a78a2bf886f8",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "published": "2026-07-10T23:55:07",
+      "_id": "5fdf7a2e04f494e8",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "published": "2026-07-10T21:00:29",
+      "_id": "3daaf068f42c7ccb",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+      "published": "2026-07-10T19:00:00",
+      "_id": "80680bdb66aba36a",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "published": "2026-07-10T17:17:12",
+      "_id": "215c84d847ed7459",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+      "published": "2026-07-10T14:00:00",
+      "_id": "9dcf2f1655207657",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. […]",
+      "published": "2026-07-10T23:49:50",
+      "_id": "6d85e2e3be1c0774",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]",
+      "published": "2026-07-10T21:36:51",
+      "_id": "7231fadcded6e901",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "The Verge",
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know […]",
+      "published": "2026-07-10T13:45:02",
+      "_id": "e52e7a22c645fc08",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "The Verge",
+      "title": "Would you host part of an AI data center in your home?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes […]",
+      "published": "2026-07-10T13:20:25",
+      "_id": "b9d1e982c843e2ba",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+      "published": "2026-07-10T12:10:00",
+      "_id": "7c72cfe98840606a",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Sperm donors need limits, says a European fertility group",
+      "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
+      "published": "2026-07-10T09:00:00",
+      "_id": "847eb9d643bc1858",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "published": "2026-07-11T01:07:26",
+      "_id": "3a346861aeec3b22",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "published": "2026-07-10T20:44:05",
+      "_id": "297b5e8a868dde97",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Wired",
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "published": "2026-07-10T10:30:00",
+      "_id": "b7070a03a1d7c7ef",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Wired",
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+      "published": "2026-07-10T06:00:00",
+      "_id": "05a591ebd38124d9",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "catchorg /Catch2",
+      "link": "https://github.com/catchorg/Catch2",
+      "summary": "What is Catch2? Catch2 is mainly a unit testing framework for C++, but it also\nprovides basic micro-benchmarking features, and simple BDD macros. Catch2's main advantage is that using it is both simple and natural.\nTest names do not have to be valid identifiers, assertions look like\nnormal C++ boolean expressions, and sections provide a nice and local way\nto share set-up and tear-down code in tests. Example unit test # include < catch2/catch_test_macros.hpp > # include < cstdint > uint32_t factorial ( uint32_t number ) { return number <= 1 ? number : factorial (number- 1 ) * number;\n} TEST_CASE ( \" Factorials are computed \" , \" [factorial] \" ) { REQUIRE ( factorial ( 1 ) == 1 ); REQUIRE ( factorial ( 2 ) == 2 ); REQUIRE ( factorial ( 3 ) == 6 ); REQUIRE ( factorial ( 10 ) == 3'628'800 );\n} Example microbenchmark # include < catch2/catch_test_macros.hpp > # include < catch2/benchmark/catch_benchmark.hpp > # include < cstdint > uint64_t fibonacci ( uint64_t number) { return number < 2 ? number : fibonacci (number - 1 ) + fibonacci (number - 2 );\n} TEST_CASE ( \" Benchmark Fibonacci \" , \" [!benchmark] \" ) { REQUIRE ( fibonacci ( 5 ) == 5 ); REQUIRE ( fibonacci ( 20 ) == 6'765 ); BENCHMARK ( \" fibonacci 20 \" ) { return fibonacci ( 20 );\n    }; REQUIRE ( fibonacci ( 25 ) == 75'025 ); BENCHMARK ( \" fibonacci 25 \" ) { return fibonacci ( 25 );\n    };\n} Note that benchmarks are not run by default, so you need to run it explicitly\nwith the [!benchmark] tag. Catch2 v3 has been released! You are on the devel branch, where the v3 version is being developed.\nv3 brings a bunch of significant changes, the big one being that Catch2\nis no longer a single-header library. Catch2 now behaves as a normal\nlibrary, with multiple headers and separately compiled implementation. The documentation is slowly being updated to take these changes into\naccount, but this work is currently still ongoing. For migrating from the v2 releases to v3, you should look at our\ndocumentation . It provides a sim",
+      "published": "",
+      "_id": "7ed1b98f5f1bc9da",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "abseil /abseil-cpp",
+      "link": "https://github.com/abseil/abseil-cpp",
+      "summary": "Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source\ncollection of C++ code (compliant to C++17) designed to augment the C++\nstandard library. Table of Contents About Abseil Quickstart Building Abseil Support Codemap Releases License Links About Abseil Abseil is an open-source collection of C++ library code designed to augment\nthe C++ standard library. The Abseil library code is collected from Google's\nown C++ code base, has been extensively tested and used in production, and\nis the same code we depend on in our daily coding lives. In some cases, Abseil provides pieces missing from the C++ standard; in\nothers, Abseil provides alternatives to the standard for special needs\nwe've found through usage in the Google code base. We denote those cases\nclearly within the library code we provide you. Abseil is not meant to be a competitor to the standard library; we've\njust found that many of these utilities serve a purpose within our code\nbase, and we now want to provide those resources to the C++ community as\na whole. Quickstart If you want to just get started, make sure you at least run through the Abseil Quickstart . The Quickstart\ncontains information about setting up your development environment, downloading\nthe Abseil code, running tests, and getting a simple binary working. Building Abseil Bazel and CMake are the official\nbuild systems for Abseil.\nSee the quickstart for more information\non building Abseil using the Bazel build system.\nIf you require CMake support, please check the CMake build\ninstructions and CMake\nQuickstart . Support Abseil follows Google's Foundational C++ Support\nPolicy . See this\ntable for a list of currently supported versions compilers, platforms, and build\ntools. Codemap Abseil contains the following C++ library components: base The base library contains initialization code and other code which\nall other Abseil code depends on. Code within base may not depend on any\nother code (other than ",
+      "published": "",
+      "_id": "ce29cb40ae4778f3",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "davila7 /claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "summary": "🧪 NEW: Dashboard — Explore components, manage collections, and track installations at www.aitmpl.com . Currently in beta — feedback welcome! Claude Code Templates ( aitmpl.com ) Ready-to-use configurations for Anthropic's Claude Code. A comprehensive collection of AI agents, custom commands, settings, hooks, external integrations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks, and MCPs. 🚀 Quick Installation # Install a complete development stack npx claude-code-templates@latest --agent development-team/frontend-developer --command testing/generate-tests --mcp development/github-integration --yes # Browse and install interactively npx claude-code-templates@latest # Install specific components npx claude-code-templates@latest --agent development-tools/code-reviewer --yes\nnpx claude-code-templates@latest --command performance/optimize-bundle --yes\nnpx claude-code-templates@latest --setting performance/mcp-timeouts --yes\nnpx claude-code-templates@latest --hook git/pre-commit-validation --yes\nnpx claude-code-templates@latest --mcp database/postgresql-integration --yes What You Get Component Description Examples 🤖 Agents AI specialists for specific domains Security auditor, React performance optimizer, database architect ⚡ Commands Custom slash commands /generate-tests , /optimize-bundle , /check-security 🔌 MCPs External service integrations GitHub, PostgreSQL, Stripe, AWS, OpenAI ⚙️ Settings Claude Code configurations Timeouts, memory settings, output styles 🪝 Hooks Automation triggers Pre-commit validation, post-completion actions 🎨 Skills Reusable capabilities with progressive disclosure PDF processing, Excel automation, custom workflows 🛠️ Additional Tools Beyond the template catalog, Claude Code Templates includes powerful development tools: 📊 Claude Code Analytics Monitor your AI-powered develop",
+      "published": "",
+      "_id": "25bff0b4a0ece6bc",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-labs-code /stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, and Cursor. Quick Start 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. Codex Add the Stitch Skills marketplace, then install the plugins you need. Via CLI (recommended) codex plugin marketplace add google-labs-code/stitch-skills --ref main \\\n  --sparse .agents/plugins \\\n  --sparse plugins/stitch-design \\\n  --sparse plugins/stitch-build \\\n  --sparse plugins/stitch-utilities [!TIP]\nThe --sparse flags are optional — they limit the checkout to only the\nlisted paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate to Settings → Plugin Marketplaces → Add and fill in: Field Value Source https://github.com/google-labs-code/stitch-skills Git ref main Sparse paths (optional) .agents/plugins , plugins/stitch-design , plugins/stitch-build , plugins/stitch-utilities Once the marketplace is registered, install any combination of: stitch-design — design-focused skills stitch-build — build and component skills stitch-utilities — utility and helper skills Claude Code & Cursor # Claude Code — installs into the current project npx plugins add google-labs-code/stitch-skills --scope project --target claude-code # Cursor — installs into the current workspace npx plugins add google-labs-code/stitch-skills --scope workspace --target cursor 2. Install Skills Selectively Choose only the specific skills you need. Important Stitch Design Skills often have inter-dependencies. If you choose to install skills selectively, ensure you include all required dependencies. npx skills add google-labs-code/stitch-skills You can run the following commands to see the help documentation for plugins and skills: npx plugins --help\n\nnpx skills --help Prerequisites These skills require the Stitch MCP server to be configu",
+      "published": "",
+      "_id": "c87cd13d69aef691",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "hashicorp /terraform",
+      "link": "https://github.com/hashicorp/terraform",
+      "summary": "Terraform Website: https://developer.hashicorp.com/terraform Forums: HashiCorp Discuss Documentation: https://developer.hashicorp.com/terraform/docs Tutorials: HashiCorp's Learn Platform Certification Exam: HashiCorp Certified: Terraform Associate Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. The key features of Terraform are: Infrastructure as Code : Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used. Execution Plans : Terraform has a \"planning\" step where it generates an execution plan. The execution plan shows what Terraform will do when you call apply. This lets you avoid any surprises when Terraform manipulates infrastructure. Resource Graph : Terraform builds a graph of all your resources, and parallelizes the creation and modification of any non-dependent resources. Because of this, Terraform builds infrastructure as efficiently as possible, and operators get insight into dependencies in their infrastructure. Change Automation : Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what Terraform will change and in what order, avoiding many possible human errors. For more information, refer to the What is Terraform? page on the Terraform website. Getting Started & Documentation Documentation is available on the Terraform website : Introduction Documentation If you're new to Terraform and want to get started creating infrastructure, please check out our Getting Started guides on HashiCorp's learning platform. There are also additional guides to continue your learning. Show off your Terraform knowledge by passing a certification ",
+      "published": "",
+      "_id": "75267d807e2f909d",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "zeux /meshoptimizer",
+      "link": "https://github.com/zeux/meshoptimizer",
+      "summary": "🐇 meshoptimizer Purpose When a GPU renders triangle meshes, various stages of the GPU pipeline have to process vertex and index data. The efficiency of these stages depends on the data you feed to them; this library provides algorithms to help optimize meshes for these stages, as well as algorithms to reduce the mesh complexity and storage overhead. The library provides a C and C++ interface for all algorithms; you can use it from C/C++ or from other languages via FFI (such as P/Invoke). If you want to use this library from Rust, you should use meshopt crate . JavaScript interface for some algorithms is available through meshoptimizer.js . Two companion projects are developed and distributed alongside the library: gltfpack , a command-line tool that automatically optimizes glTF files, and clusterlod.h , a single-header C/C++ library for continuous level of detail using clustered simplification. Installing meshoptimizer is hosted on GitHub; you can download the latest release using git: git clone -b v1.2 https://github.com/zeux/meshoptimizer.git Alternatively you can download the .zip archive from GitHub . The library is also available as a Linux package in several distributions ( ArchLinux , Debian , FreeBSD , Nix , Ubuntu ), as well as a Vcpkg port (see installation instructions ) and a Conan package . gltfpack is available as a pre-built binary on Releases page or via npm package . Native binaries are recommended since they are more efficient and support texture compression. Building meshoptimizer is distributed as a C/C++ header ( src/meshoptimizer.h ) and a set of C++ source files ( src/*.cpp ). To include it in your project, you can use one of two options: Use CMake to build the library (either as a standalone project or as part of your project) Add source files to your project's build system The source files are organized in such a way that you don't need to change your build-system settings, and you only need to add the source files for the algorithms you use",
+      "published": "",
+      "_id": "1654b63eff725da1",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "openai /plugins",
+      "link": "https://github.com/openai/plugins",
+      "summary": "Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under plugins/<name>/ with a required .codex-plugin/plugin.json manifest and optional companion surfaces such as skills/ , .app.json , .mcp.json , plugin-level agents/ , commands/ , hooks.json , assets/ , and other supporting files. The default marketplace lives at .agents/plugins/marketplace.json and points\nat the standard plugins/ directory. API key login users have a separate\nmarketplace at .agents/plugins/api_marketplace.json . Highlighted richer examples in this repo include: plugins/figma for use_figma , Code to Canvas, Code Connect, and design system rules plugins/notion for planning, research, meetings, and knowledge capture plugins/build-ios-apps for SwiftUI implementation, refactors, performance, and debugging plugins/build-macos-apps for macOS SwiftUI/AppKit workflows, build/run/debug loops, and packaging guidance plugins/build-web-apps for deployment, UI, payments, and database workflows plugins/expo for Expo and React Native apps, SDK upgrades, EAS workflows, and Codex Run actions plugins/netlify , plugins/remotion , and plugins/google-slides for additional public skill- and MCP-backed plugin bundles",
+      "published": "",
+      "_id": "f36df30631aaa417",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "wonderwhy-er /DesktopCommanderMCP",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "summary": "Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI editors - while using host client subscriptions instead of API token costs. 🖥️ Try the Desktop Commander App (Beta) Want a better experience? The Desktop Commander App gives you everything the MCP server does, plus: Use any AI model — Claude, GPT-4.5, Gemini 2.5, or any model you prefer See file changes live — visual file previews as AI edits your files Add custom MCPs and context — extend with your own tools, no config files Coming soon — skills system, dictation, background scheduled tasks, and more 👉 Download the App (macOS & Windows) The MCP server below still works great with Claude Desktop and other MCP clients — the app is for those who want a dedicated, polished experience. Table of Contents Features How to install Getting Started Usage File Preview UI & Markdown Editor Handling Long-Running Commands Work in Progress and TODOs Sponsors and Supporters Website Media Testimonials Frequently Asked Questions Contributing License All of your AI development tools in one place.\nDesktop Commander puts all dev tools in one chat.\nExecute long-running terminal commands on your computer and manage processes through Model Context Protocol (MCP). Built on top of MCP Filesystem Server to provide additional search and replace file editing capabilities. Features Remote AI Control - Use Desktop Commander from ChatGPT, Claude web, and other AI services via Remote MCP File Preview UI - Visual file previews in Claude Desktop with rendered markdown, inline images, expandable content, built-in markdown editor, and quick \"Open in folder\" access Enhanced terminal commands with interactive process control Execute code in memory (Python, Node.js, R) without saving files Instant data analysis - just ask to analyze CSV/JSON/Excel files Native Excel file support - Read, write, edit, and search Excel files (.xlsx, .xls, .",
+      "published": "",
+      "_id": "b229581aae0e9893",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "chriskohlhoff /asio",
+      "link": "https://github.com/chriskohlhoff/asio",
+      "summary": "chriskohlhoff / asio Public Notifications You must be signed in to change notification settings Fork 1.5k Star 6.1k chriskohlhoff/asio master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 3,762 Commits 3,762 Commits .github/ workflows .github/ workflows asio asio include include src src .appveyor.yml .appveyor.yml .gitignore .gitignore COPYING COPYING INSTALL INSTALL LICENSE_1_0.txt LICENSE_1_0.txt Makefile.am Makefile.am README README asio.manifest asio.manifest asio.pc.in asio.pc.in autogen.sh autogen.sh boost_asio.manifest boost_asio.manifest boostify.pl boostify.pl configure.ac configure.ac release.pl release.pl tsify.pl tsify.pl View all files Repository files navigation asio version 1.38.1\nReleased Thursday, 14 May 2026.\n\nVisit https://think-async.com/ or see packaged doc/index.html for API\ndocumentation and a tutorial. About Asio C++ Library think-async.com/Asio Resources Readme License Unknown, BSL-1.0 licenses found Licenses found Unknown COPYING BSL-1.0 LICENSE_1_0.txt Uh oh! There was an error while loading. Please reload this page . Activity Stars 6.1k stars Watchers 292 watching Forks 1.5k forks Report repository Uh oh! There was an error while loading. Please reload this page . Contributors Uh oh! There was an error while loading. Please reload this page . Languages C++ 96.9% XSLT 1.1% Makefile 1.0% Perl 0.7% HTML 0.2% M4 0.1%",
+      "published": "",
+      "_id": "0e54e6748edc83f8",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "GitHub",
+      "title": "oven-sh /bun",
+      "link": "https://github.com/oven-sh/bun",
+      "summary": "Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun . At its core is the Bun runtime , a fast JavaScript runtime designed as a drop-in replacement for Node.js . It's written in Rust and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage. bun run index.tsx # TS and JSX supported out-of-the-box The bun command-line tool also implements a test runner, script runner, and Node.js-compatible package manager. Instead of 1,000 node_modules for development, you only need bun . Bun's built-in tools are significantly faster than existing options and usable in existing Node.js projects with little to no changes. bun test # run tests bun run start # run the `start` script in `package.json` bun install < pkg > # install a package bunx cowsay ' Hello, world! ' # execute a package Install Bun supports Linux (x64 & arm64), macOS (x64 & Apple Silicon), and Windows (x64 & arm64). Linux users — Kernel version 5.6 or higher is strongly recommended, but the minimum is 5.1. x64 users — if you see \"illegal instruction\" or similar errors, check our CPU requirements # with install script (recommended) curl -fsSL https://bun.com/install | bash # on windows powershell -c \" irm bun.sh/install.ps1 | iex \" # with npm npm install -g bun # with Homebrew brew tap oven-sh/bun\nbrew install bun # with Docker docker pull oven/bun\ndocker run --rm --init --ulimit memlock=-1:-1 oven/bun Upgrade To upgrade to the latest version of Bun, run: bun upgrade Bun automatically releases a canary build on every commit to main . To upgrade to the latest canary build, run: bun upgrade --canary View canary build Quick links Intro What is Bun? Installation Quickstart TypeScript TypeScript 6 Templating bun init bun create Runtime bun run File types (Loaders) JSX Environment variables Bun APIs Web APIs Node.js compatibility Plugins Watch mode / Hot ",
+      "published": "",
+      "_id": "1f8d61fe04f2cb52",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A font that humans can read but AI cannot",
+      "link": "https://www.mixfont.com/ghost-font",
+      "summary": "Article URL:https://www.mixfont.com/ghost-fontComments URL:https://news.ycombinator.com/item?id=48870381Points: 70# Comments: 64",
+      "published": "2026-07-11T09:36:53",
+      "_id": "d25a187a89eb6dd7",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "summary": "Article URL:https://www.bbc.com/news/articles/c2dy6e8klw0oComments URL:https://news.ycombinator.com/item?id=48867233Points: 52# Comments: 20",
+      "published": "2026-07-11T00:40:36",
+      "_id": "1ef63a9df8cf5b16",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "summary": "Article URL:https://www.tryai.dev/blog/gpt-5.6-build-off-12-modelsComments URL:https://news.ycombinator.com/item?id=48865093Points: 148# Comments: 82",
+      "published": "2026-07-10T20:52:28",
+      "_id": "24fd53f66cfcc1c6",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Please don't discontinue Gemini 2.5 Flash",
+      "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "summary": "Article URL:https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246Comments URL:https://news.ycombinator.com/item?id=48864507Points: 125# Comments: 82",
+      "published": "2026-07-10T20:00:28",
+      "_id": "f530ca46d4fb4fbb",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "link": "https://casp.ac/reports/ai-enabled-terrorism",
+      "summary": "Article URL:https://casp.ac/reports/ai-enabled-terrorismComments URL:https://news.ycombinator.com/item?id=48863707Points: 213# Comments: 181",
+      "published": "2026-07-10T18:49:26",
+      "_id": "47d40526e3a168ed",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805,https://xcancel.com/__eknight__/status/2075643450196971805Prompt:https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...Comments URL:https://news.ycombinator.com/item?id=48863490Points: 483# Comments: 392",
+      "published": "2026-07-10T18:29:19",
+      "_id": "66bbdd7828c6eff6",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "summary": "Article URL:https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspxComments URL:https://news.ycombinator.com/item?id=48861833Points: 50# Comments: 43",
+      "published": "2026-07-10T16:06:38",
+      "_id": "8565c5c55de9c932",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "link": "https://nevo-project.epfl.ch/",
+      "summary": "Article URL:https://nevo-project.epfl.ch/Comments URL:https://news.ycombinator.com/item?id=48856904Points: 279# Comments: 232",
+      "published": "2026-07-10T07:39:11",
+      "_id": "df1fe051b58f9e41",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Withdraw from ACL ARR and resubmit to a workshop? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uth7j8/withdraw_from_acl_arr_and_resubmit_to_a_workshop_d/",
+      "summary": "Hey guys,I received mediocre scores for my EMNLP paper during the May ACL ARR cycle: 2.5/3, 3/4, 2.5/4. The paper is in the Interpretability track. The reviewers had no larger issue with the methodology or the paper in general, but it seemed like they didn't fully get the so what of my paper. I've tried to clarify everything in my rebuttal, but I don't assume that the reviewers will engage in the discussion. With the current scores, I won't make it to the conference and likely not even into findings. Hence, I was thinking of withdrawing the paper, if scores don't improve, improve the presentation of my paper, and submit it to the BlackboxNLP workshop by the end of next week.As I'm a first year PhD student, I'm not so familiar with ACL ARR, and how best to approach this. Hence, I wanted to ask you guys. Should I keep the paper in the cycle and hope for the best (or switch to the conference at a later stage) or should I withdraw it directly, adjust it slightly, and head directly to the workshop?submitted by/u/H4RZ3RK4S3[link][comments]",
+      "published": "2026-07-11T11:09:15",
+      "_id": "5aadde2c2b774b28",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
+      "summary": "Hey! I'm looking for ways to predict human preference for a project I'm building. (imagebench.ai)I've tryedHPSv3,https://github.com/MizzenAI/HPSv3and made post about it here:https://imagebench.ai/blog/does-the-score-match-your-eyeIt looks ok, but have many limitation as you can see in my post.My question. Have you tried other human preference model and found one that would be better thenHPSv3?submitted by/u/dh7net[link][comments]",
+      "published": "2026-07-11T07:36:36",
+      "_id": "d57ea5890721f249",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+      "summary": "I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affecting review quality (as we are seeing in the recent ARR cycles).I am wondering what the reasoning is for not limiting the number of submissions per author?This practice has been successfully used in other research areas for years, such as Security (e.g., CCS) or Computer Architecture (e.g., DAC), to help keep workloads manageable. Is there a particular cultural reason why the ML community chooses a different approach?submitted by/u/alafaya101[link][comments]",
+      "published": "2026-07-10T14:59:23",
+      "_id": "2c66d2d9c6e7018e",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "link": "https://arxiv.org/abs/2607.07721",
+      "summary": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities, their relationships, and state transitions over time. Built on this graph, we define a Delta Detection Engine that continuously monitors state changes, a Proactivity Scorer that ranks candidate insights by urgency, relevance, and persona-fit, and a Surfacing Layer powered by an LLM that delivers ranked notifications with grounded explanations. We formalize each component, derive a unified Proactivity Score function, and provide a complete end-to-end Python implementation using NetworkX and the Anthropic Claude API. Evaluation across three generic enterprise case studies (contract lifecycle management, engineering incident response, and sales pipeline hygiene) demonstrates that context-graph-driven proactivity achieves Precision@5 of 0.83, a false positive rate of 0.11, and reduces mean time to surface from 47 minutes (reactive baseline) to under 30 second.",
+      "published": "2026-07-11T04:00:00",
+      "_id": "bb805b098fda17ee",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "link": "https://arxiv.org/abs/2607.07759",
+      "summary": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
+      "published": "2026-07-11T04:00:00",
+      "_id": "dc404ea6dad175cc",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "link": "https://arxiv.org/abs/2607.07760",
+      "summary": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena are not adequately captured by familiar descriptions of epistemic bubbles, echo chambers, or misinformation diffusion. What requires explanation is how communicative agents exploit the commitments and entitlements that normally make scaffolded assertions trustworthy. We provide language that delivers the requisite analysis, outline mechanisms that subvert trust in scaffolded public communications, and outline machinery for auditing and redressing trust breaches arising from subverting the auditability of inferential chains, drawing on epistemic networks, enriched with an inferentialist semantics for interpreting assertions.",
+      "published": "2026-07-11T04:00:00",
+      "_id": "a3c336c85b325b49",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "link": "https://arxiv.org/abs/2607.07761",
+      "summary": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing from knowledge recall to dynamic case management. On the computational side, we link deductive, inductive, and abductive reasoning patterns to common medical goals and tasks. We also introduce a benchmark dataset spanning five levels of medical reasoning capability and report results on 18 state-of-the-art models, revealing that medical specialist models excel in diagnosis-centric tasks while general models lead in decision support and dialogue. We conclude by discussing current progress and open challenges, including data limitations, hallucination, and grounding issues, and outline directions toward safer, more reliable, and workflow-ready systems.",
+      "published": "2026-07-11T04:00:00",
+      "_id": "e38ea9a7b8acaaee",
+      "_scraped_at": "13:24"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "link": "https://arxiv.org/abs/2607.07766",
+      "summary": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychological support often requires. Developers' safety responses have been largely reactive, addressing the most visible and acute harms while subtler, longer-term patterns of risk (e.g., dependency, boundary erosion, the amplification of distorted beliefs) receive less attention. We contend that making LLMs structurally safe requires alignment organised at three levels that mirror how society assures the safety of human clinical practice: 1) explicit value specification grounded in the codified normative commitments of clinical practice; 2) training that embeds those values in the model; and 3) oversight that detects drift and longer-term harm during deployment, much as clinical supervision does for human practice. Organising alignment in this way yields a construct we call alignment plausibility - a structured demonstration that a system's values, training regime, and oversight mechanisms are together consistent with safe and positive outcomes. We propose alignment plausibility as a regulatory construct (by drawing analogy to the established construct of biological plausibility) for AI in health: a principled way to argue for, or against, trust that systems are aligned to positive health outcomes, will cause no harm even where capable of doing so, and will ultimately lead to patient benefit.",
+      "published": "2026-07-11T04:00:00",
+      "_id": "e0eaaa235049b5f4",
+      "_scraped_at": "13:24"
+    }
+  ],
+  "seen_ids": [
+    "7c72cfe98840606a",
+    "f36df30631aaa417",
+    "a577f205a73beafc",
+    "d57ea5890721f249",
+    "3a346861aeec3b22",
+    "1ef63a9df8cf5b16",
+    "a3c336c85b325b49",
+    "3daaf068f42c7ccb",
+    "dc404ea6dad175cc",
+    "7ed1b98f5f1bc9da",
+    "e0eaaa235049b5f4",
+    "5aadde2c2b774b28",
+    "8dbb2238c30b71eb",
+    "0e54e6748edc83f8",
+    "fdd9745edc3aad4e",
+    "d25a187a89eb6dd7",
+    "24fd53f66cfcc1c6",
+    "b229581aae0e9893",
+    "b7070a03a1d7c7ef",
+    "75267d807e2f909d",
+    "b9d1e982c843e2ba",
+    "80680bdb66aba36a",
+    "7231fadcded6e901",
+    "215c84d847ed7459",
+    "9dcf2f1655207657",
+    "6d85e2e3be1c0774",
+    "1f8d61fe04f2cb52",
+    "c87cd13d69aef691",
+    "8565c5c55de9c932",
+    "bb805b098fda17ee",
+    "847eb9d643bc1858",
+    "f530ca46d4fb4fbb",
+    "297b5e8a868dde97",
+    "4307222bc7e5f2e4",
+    "df1fe051b58f9e41",
+    "05a591ebd38124d9",
+    "25bff0b4a0ece6bc",
+    "66bbdd7828c6eff6",
+    "2c66d2d9c6e7018e",
+    "e38ea9a7b8acaaee",
+    "521cb8f5727237af",
+    "47d40526e3a168ed",
+    "2421a78a2bf886f8",
+    "1654b63eff725da1",
+    "ce29cb40ae4778f3",
+    "5fdf7a2e04f494e8",
+    "e52e7a22c645fc08"
+  ],
+  "last_run": "13:24",
+  "run_count": 1
+}
