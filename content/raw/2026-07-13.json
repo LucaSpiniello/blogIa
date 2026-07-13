@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-13",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 9, 2026Case StudyUST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "summary": "Case Study UST is bringing Claude to physical AI Jul 9, 2026 Before a factory commits to manufacturing millions of chips, engineers stress-test the design in the fab. Before a product ships, a fault on the assembly line has to be caught before it becomes a recall. When AI does this kind of work, it’s called physical AI: intelligence built into the equipment and engineering processes that produce the things people use. We’re partnering with UST , a technology and engineering services company that builds and runs the engineering environments its clients depend on to get chips, cars, and connected devices to market. UST is putting Claude to work inside those environments, and training 20,000 of its engineers, architects, and consultants on Claude worldwide. How UST is putting Claude into the production processes behind physical products UST works alongside semiconductor, automotive, manufacturing, telecom, embedded, and IoT companies. It builds the systems those companies use to verify their designs, validate their chips, run their factories, and service their products once they’re out in the world. These are long, multi-step processes where an early mistake gets more expensive with every step that follows. A design flaw caught during verification costs an engineer an afternoon; the same flaw caught after a factory has committed to manufacturing costs a production run. UST is bringing Claude into this work. Claude Code reads the schematics and pinouts an engineer works from, then writes and runs the tests that check the design. It carries that task across many steps, holding the context of a design through hours-long tasks. UST is aiming to catch design flaws earlier, speed up chip validation, and bring hardware and software together in a single system. The clearest example is a UST platform called iDEC, which its engineers use to validate hardware and silicon before it goes to production. Validation is the work of proving a chip actually behaves the way its designers ",
+      "published": "",
+      "_id": "2421a78a2bf886f8",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "published": "2026-07-13T14:18:16",
+      "_id": "767ce2a3551a9883",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "The Verge",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, […]",
+      "published": "2026-07-13T09:00:00",
+      "_id": "49e268ec4efd02cb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "The Verge",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. […]",
+      "published": "2026-07-12T20:10:19",
+      "_id": "1dbb10ceec9d2e3e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]",
+      "published": "2026-07-12T16:27:06",
+      "_id": "8b32daa86337d052",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "The Verge",
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power […]",
+      "published": "2026-07-12T12:00:00",
+      "_id": "3343e363d4b95ce8",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
+      "published": "2026-07-13T12:10:00",
+      "_id": "bf0389e8fc991442",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Wired",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "published": "2026-07-12T10:00:00",
+      "_id": "3de368bdef5b54c9",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "OpenCut-app /OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "summary": "OpenCut A free and open source video editor for web, desktop, and mobile. Status OpenCut is being rewritten from the ground up. What's coming: An Editor API First-class third party plugins (made possible by a plugin-first architecture) Desktop, mobile, and browser from one codebase (Rust core) MCP server (for AI agents) Headless mode (automation, batch rendering) A scripting tab directly in the editor You can still find the previous version at opencut-app/opencut-classic , which is the one to reach for today. opencut.app still runs the classic version. The rewrite will live at new.opencut.app until it's ready to take over. Development Install proto if you haven't already: bash <( curl -fsSL https://moonrepo.dev/install/proto.sh ) From the repo root: proto use # installs the tools pinned in .prototools moon run web:dev # localhost:5173 moon run api:dev # localhost:8787 moon run desktop:dev # see apps/desktop/README.md Contributing We're not set up to take outside contributions yet while the architecture is being designed. If you want to follow along, ask questions, or just hang out, join the Discord or open an issue . Sponsors OpenCut is supported by companies that believe in open source creator tools. fal.ai : Generative image, video, and audio models all in one place. Want your logo here? Reach out at sponsor@opencut.app . License MIT",
+      "published": "",
+      "_id": "78df88887d30244e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "Dicklesworthstone /destructive_command_guard",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "summary": "dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting your work from accidental deletion across Claude Code, Codex CLI, Gemini CLI, Copilot CLI, VS Code Copilot Chat, Cursor, Hermes Agent, Grok (xAI), and related tools. Supported: Claude Code , Codex CLI 0.125.0+ , Gemini CLI , GitHub Copilot CLI , VS Code Copilot Chat , Cursor IDE , Hermes Agent , Grok (xAI) (native ~/.grok/hooks/ plus Claude compatibility layer), Antigravity CLI ( agy ) (native ~/.gemini/config/hooks.json via dcg install --agy ), OpenCode (via community plugin ), Pi (via extension recipe ), Aider (limited—git hooks only), Continue (detection only) Quick Install curl -fsSL \" https://raw.githubusercontent.com/Dicklesworthstone/destructive_command_guard/main/install.sh? $( date +%s ) \" | bash -s -- --easy-mode Works on Linux, macOS, and Windows via WSL. Auto-detects your platform, downloads the right binary, and configures supported agent hooks including Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI, VS Code Copilot Chat (through VS Code's Claude-hook compatibility), Cursor IDE, Hermes Agent, and Grok (xAI) (via dcg install --grok for a native ~/.grok/hooks/dcg.json , or via the Claude compatibility layer automatically picked up by Grok). For native Windows, use the PowerShell installer below. Windows (native, PowerShell) & ([ scriptblock ]::Create((irm \" https://raw.githubusercontent.com/Dicklesworthstone/destructive_command_guard/main/install.ps1 \" ))) - EasyMode - Verify Installs native dcg.exe , verifies the SHA256 checksum (and the Sigstore/cosign signature when cosign is present), adds it to your User PATH ( -EasyMode ), runs a self-test ( -Verify ), and configures detected agent hooks for Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI, Cursor IDE, and Hermes Agent. Copilot is configured at the user level under %COPILOT_HOME%\\hooks (or %USERPROFILE%\\.copilot\\hooks ) so every workspace is pro",
+      "published": "",
+      "_id": "cd8ee8d2ebf27dfe",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "HKUDS /Vibe-Trading",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "summary": "English | 中文 | 日本語 | 한국어 | العربية Vibe-Trading: Your Personal Trading Agent One Command to Empower Your Agent with Comprehensive Trading Capabilities Website · Docs · News · Features · Shadow Account · Demo · Quick Start · Examples · API / MCP · Roadmap · Contributing 📰 News ⚠️ Security warning: The X account VibeTrading_HKU , Virtuals project 101845 , and token contract 0x640BDBF77b6447E8b7DB7894cED84BD1c40571f4 are not official Vibe-Trading assets. We have never launched or endorsed any token or memecoin. Do not buy, connect a wallet, or sign anything. Details . 2026-07-13 🔒 Security hardening: all 10 external-audit findings closed + contributor batch : every finding from the 2026-07-10 external security audit (issue #476 , discussion #468 ) is now addressed on main — Docker multi-stage rebuild with digest-pinned images, an AST-hardened backtest sandbox blocking network/subprocess/eval/os.environ/unsafe-open (including inside nested function bodies), short-lived single-use SSE auth tickets, hardened Compose (read-only rootfs, dropped capabilities, resource limits), auth + rate limiting on /correlation , security headers, hash-locked dependencies, and more. Also merged: opt-in TAP mode for Alpaca key isolation ( #377 , thanks @0xZKnw), realized portfolio turnover surfaced in backtest metrics ( #478 , thanks @Robin1987China), a Frazzini-Pedersen betting-against-beta academic factor (Alpha Zoo → 461, #480 , thanks @YogeshModi24), a look-ahead-bias fix across all 5 portfolio optimizers ( #487 , thanks @YZY0108), and two preflight/provider-config fixes ( #479 / #484 , closes #477 / #482 , thanks @ananaymital/@Bortlesboat). 2026-07-12 🧪 Strategy Development Manager + contributor fix batch : the new strategy-dev-manager skill (#87) turns academic papers and broker research into registered factors/strategies with a persistent artifact store and automated IC/Sharpe decay monitoring — sdm_register / sdm_status / sdm_decay_scan drive an active → monitoring → decayed → disab",
+      "published": "",
+      "_id": "1b56cc9447a6475c",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "moeru-ai /airi",
+      "link": "https://github.com/moeru-ai/airi",
+      "summary": "Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本語 ] [ Русский ] [ Tiếng Việt ] [ Français ] [ 한국어 ] Heavily inspired by Neuro-sama Tip On Windows, you can also install AIRI with winget : winget install MoeruAI.AIRI Or install AIRI with Scoop : scoop bucket add airi https: // github.com / moeru - ai / airi\nscoop install airi / airi On macOS, you can install AIRI with Homebrew Cask without adding a custom tap: brew install --cask airi Warning Attention: We do not have any officially minted cryptocurrency or token associated with this project. Please check the information and proceed with caution. Note We've got a whole dedicated organization @proj-airi for all the sub-projects born from Project AIRI. Check it out! RAG, memory system, embedded database, icons, Live2D utilities, and more! Tip We have a translation project on Crowdin . If you find any inaccurate translations, feel free to contribute improvements there. Have you dreamed about having a cyber living being (cyber waifu, digital pet) or digital companion that could play with and talk to you? With the power of modern large language models like ChatGPT and famous Claude , asking a virtual being to roleplay and chat with us is already easy enough for everyone. Platforms like Character.ai (a.k.a. c.ai) and JanitorAI as well as local playgrounds like SillyTavern are already good-enough solutions for a chat based or visual adventure game like experience. But, what about the abilities to play games? And see what you are coding at? Chatting while playing games, watching videos, and is capable of doing many other things. Perhaps you know Neuro-sama already. She is currently the best virtual streamer capable of playing games, chatting, and interacting with you and the participants. Some also call this kind of being \"digital human.\" Sadly, as it's not open sourced, you cannot interact with her after her l",
+      "published": "",
+      "_id": "8d6a4b13c5d73cd6",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "Shubhamsaboo /awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 🌟 Awesome LLM Apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. AI Agents · Always-on Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning Free step-by-step tutorials on Unwind AI Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama 🚀 Quick Start 📂 Browse Templates 📚 Step-by-Step Tutorials 💡 Why this exists You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integration from scratch every time you start a new LLM project. Awesome LLM Apps is a cookbook of ready-to-run templates - starter code you can fork, customize, and ship as a production LLM app. Every template here is self-contained with full source code, not collected from elsewhere. 🛠️ Hand-built, not curated - every template is original work, tested end-to-end before it ships. 🧪 Runs in 3 commands - no broken requirements.txt , no \"figure it out yourself\" scaffolding. 🧠 Covers the modern AI stack - AI Agents, Always-on Agents, Multi-agent Teams, MCP Agents, Voice AI Agents, RAG, Agent Skills, Fine-tuning. 🌐 Provider-agnostic - switch between Claude, Gemini, GPT, Llama, Qwen, xAI and others with a config change. 📚 Step-by-step tutorials - every featured template has a free walkthrough on Unwind AI . 💸 Apache-2.0 - fork it, ship it, sell it. No paywall, no signup, no telemetry. ⭐ If this saves you time, star the repo - that's how the next developer discovers it. 🚀 Quick Start Run your first agent in 30 seconds : git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git cd awesome-llm-apps/starter_ai_agents/ai_travel_agent\npip install -r requirements.txt\nstreamlit run travel_agent.py 🔥 Featured This Month Template What it does Stack ⚰️ Project Graveyard Skill Finds your dead side projects, tells you why each one died, and helps you finish the one worth going back to Agent Skill · Runs locally 📰 Always-on Hacker News Briefing Agent Scheduled Hacker News ",
+      "published": "",
+      "_id": "fae31da6c227cfde",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "Nutlope /hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "summary": "Hallmark A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated. Live demo → ·  twenty themes  ·  four verbs  ·  press T to cycle. Made by Together AI. Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pre-emit self-critique, and refuses the on-distribution defaults every LLM was trained into. Two pages by Hallmark for two different briefs feel like different sites, not colour-swaps of the same template. Four verbs Verb What it does (default) Build new UI. Picks a macrostructure, applies the rule-set, runs the slop test before handing back. hallmark audit <target> Score existing code against the anti-patterns. Punch list, no edits. hallmark redesign <target> Throw out the structure, keep copy + IA + brand, rebuild with a different fingerprint. hallmark study <screenshot | URL> Extract the DNA from a design you admire: macrostructure, type-pairing, colour anchor. Refuses pixel-clones and paid templates. Optionally emits a portable design.md for handoff to other AI tools. Different briefs, different shapes Each generated from a different brief. The skill picks the theme, structure, and craft to fit each one, not from a template. Bubble Sourdough app · Hum Distil Extraction API · Cobalt Cold Snap Record label · Carnival Cinder AI tool · Lumen Ferns & Fathom Tea menu · Custom Hollowback Apiary Honey farm · Garden Off-Register Print fair · Riso Press Quaternary Type studio · Custom Tally SaaS · modern-minimal Wayfare Travel · atmospheric NAJM Fashion brand Hyperlane Dev infrastructure Each page is self-contained HTML + CSS, stamped with its macrostructure in the CSS comment. Browse the full set at usehallmark.com or under site/_tests/ . Custom NEW When a brief carries creative intent that no catalog theme fits, Hallmark switches to Custom and designs the page from scratch: a made-to-measure palette, type, and layout. Same 57 slop-test gates, no template underneath. The C",
+      "published": "",
+      "_id": "56ed6f5b1a23b5b5",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "Raphire /Win11Debloat",
+      "link": "https://github.com/Raphire/Win11Debloat",
+      "summary": "Win11Debloat Win11Debloat is a lightweight, easy to use PowerShell script that allows you to quickly declutter and customize your Windows experience, no installation required! You can use it to remove pre-installed apps, disable telemetry, remove intrusive interface elements and much more. No need to painstakingly go through all the settings yourself or remove apps one by one. Win11Debloat makes the process quick and easy! The script also includes many features that system administrators and power users will enjoy. Such as a powerful command-line interface, support for Windows Audit mode and the ability to make changes to other Windows users. You can also easily export & import your preferred settings, allowing you to quickly apply the same settings on all your systems. Please refer to our wiki for more details. Did this script help you? Please consider buying me a cup of coffee to support my work Usage Warning Great care went into making sure this script does not unintentionally break any OS functionality, but use at your own risk! If you run into any issues, please report them here . Quick method Download & run the script automatically via PowerShell. Open PowerShell or Terminal. Copy and paste the command below into PowerShell: & ([ scriptblock ]::Create((irm \" https://debloat.raphi.re/ \" ))) Wait for the script to automatically download and launch Win11Debloat. Carefully read through and follow the on-screen instructions. This method supports command-line parameters to customize the behaviour of the script. Please click here for more information. Traditional method Manually download & run the script. Download the latest version of the script , and extract the .ZIP file to your desired location. Navigate to the Win11Debloat folder Double click the Run.bat file to start the script. NOTE: If the console window immediately closes and nothing happens, try the advanced method below. Accept the Windows UAC prompt to run the script as administrator, this is required for",
+      "published": "",
+      "_id": "b9173cf1419dedca",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "Graphify-Labs /graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "summary": "Read this in other languages 🇺🇸 English | 🇨🇳 简体中文 | 🇯🇵 日本語 | 🇰🇷 한국어 | 🇩🇪 Deutsch | 🇫🇷 Français | 🇪🇸 Español | 🇮🇳 हिन्दी | 🇧🇷 Português | 🇷🇺 Русский | 🇸🇦 العربية | 🇮🇷 فارسی | 🇮🇹 Italiano | 🇵🇱 Polski | 🇳🇱 Nederlands | 🇹🇷 Türkçe | 🇺🇦 Українська | 🇻🇳 Tiếng Việt | 🇮🇩 Bahasa Indonesia | 🇸🇪 Svenska | 🇬🇷 Ελληνικά | 🇷🇴 Română | 🇨🇿 Čeština | 🇫🇮 Suomi | 🇩🇰 Dansk | 🇳🇴 Norsk | 🇭🇺 Magyar | 🇹🇭 ภาษาไทย | 🇺🇿 Oʻzbekcha | 🇹🇼 繁體中文 | 🇵🇭 Filipino | 🇮🇱 עברית Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query instead of grepping through files. Code maps for free, fully local. Code is parsed with tree-sitter AST: deterministic, no LLM, nothing leaves your machine. (Docs, PDFs, images and video use your assistant's model, or a configured API key, for a semantic pass.) Every edge is explained. Each connection is tagged EXTRACTED (explicit in the source) or INFERRED (resolved by graphify), so you can tell what was read directly from what was inferred. Not a vector index. No embeddings, no vector store: a real graph you traverse. Ask a question, trace the path between two things, or explain one concept. The FastAPI codebase mapped by graphify. Every node is a concept, colors are detected communities, and the whole thing is clickable in graph.html. Get started (30 seconds): uv tool install graphifyy # install the CLI (or: pipx install graphifyy) graphify install # register the skill with your AI assistant Then, in your AI assistant: /graphify . That's it. You get three files : graphify-out/\n├── graph.html       open in any browser — click nodes, filter, search\n├── GRAPH_REPORT.md  the highlights: key concepts, surprising connections, suggested questions\n└── graph.json       the full graph — query it anytime without re-reading your files Works in Claude Code, Cursor, Codex, Gemini CLI, GitHub Copilot, and 15+ more — pick your platform . See it in action Once the graph is built you query it instead of r",
+      "published": "",
+      "_id": "c290a2acf859c75b",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "hasaneyldrm /exercises-dataset",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "summary": "💪 Exercises Dataset A comprehensive, ready-to-use fitness exercise dataset with 1,324 exercises — each with an animation GIF, 180×180 thumbnail image, category, body-part, equipment, target and muscle-group data, and step-by-step instructions in 9 languages (English, Spanish, Italian, Turkish, Russian, Chinese, Hindi, Polish, Korean). 📱 Powers the LogPress app — an AI-assisted workout tracker; this dataset is its exercise data layer. Building your own fitness app? Drop it straight into your backend. 📦 Data Source This repository provides: 1,324 exercises with category, body-part, equipment, target and muscle-group data an animation GIF + 180×180 thumbnail for every exercise (media © Gym visual — see License ) step-by-step instructions in 9 languages (🇬🇧 English, 🇪🇸 Spanish, 🇮🇹 Italian, 🇹🇷 Turkish, 🇷🇺 Russian, 🇨🇳 Chinese, 🇮🇳 Hindi, 🇵🇱 Polish, 🇰🇷 Korean) the interactive browser ( index.html ) and developer setup guide ( setup.html ) 📋 Table of Contents Data Source Overview Interactive Browser & Developer Setup File Structure Statistics Data Schema Sample Exercises Usage Examples License & Use 🔍 Overview This dataset is a curated collection of 1,324 fitness exercises for educational and research purposes. It covers a wide range of muscle groups, equipment types, and exercise categories — making it ideal for: Building fitness or workout planning applications Machine learning projects involving exercise recognition or recommendation Health and wellness research Educational demonstrations and prototypes Each exercise entry contains: Field Description Unique ID Numeric identifier (e.g. \"0001\" ) Name Full descriptive exercise name Category Primary muscle group targeted Target Specific target muscle Muscle Group Supporting / synergist muscles Equipment Equipment required (or body weight for bodyweight) Instructions Step-by-step instructions for each exercise Available Languages 🇬🇧 English · 🇪🇸 Spanish · 🇮🇹 Italian · 🇹🇷 Turkish · 🇷🇺 Russian · 🇨🇳 Chinese · 🇮🇳 Hindi · 🇵🇱 Polish",
+      "published": "",
+      "_id": "afba96f60b5ba9cc",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "github /spec-kit",
+      "link": "https://github.com/github/spec-kit",
+      "summary": "🌱 Spec Kit Build high-quality software faster. An open source toolkit that allows you to focus on product scenarios and predictable outcomes instead of vibe coding every piece from scratch. Table of Contents 🤔 What is Spec-Driven Development? ⚡ Get Started 📽️ Video Overview 🌍 Community 🤖 Supported AI Coding Agent Integrations 🔧 Specify CLI Reference 🧩 Making Spec Kit Your Own: Extensions & Presets 📦 Bundles: Role-Based Setups 📚 Core Philosophy 🌟 Development Phases 🎯 Experimental Goals 🔧 Prerequisites 📖 Learn More 📋 Detailed Process 💬 Support 🙏 Acknowledgements 📄 License 🤔 What is Spec-Driven Development? Spec-Driven Development flips the script on traditional software development. For decades, code has been king — specifications were just scaffolding we built and discarded once the \"real work\" of coding began. Spec-Driven Development changes this: specifications become executable , directly generating working implementations rather than just guiding them. ⚡ Get Started 1. Install Specify CLI Requires uv ( install uv ). Replace vX.Y.Z with the latest tag from Releases : uv tool install specify-cli --from git+https://github.com/github/spec-kit.git@vX.Y.Z See the Installation Guide for alternative methods, verification, upgrade, and troubleshooting. 2. Initialize a project specify init my-project --integration copilot cd my-project To check for updates or upgrade the installed CLI, use the self-management commands. See the Upgrade Guide for detailed scenarios and customization options. # Check whether a newer release is available (read-only — does not modify anything) specify self check # Preview what would run, without actually upgrading specify self upgrade --dry-run # Upgrade in place to the latest stable release (auto-detects uv tool vs pipx install) specify self upgrade # Or pin a specific release tag (replace vX.Y.Z[suffix] with your desired release tag) specify self upgrade --tag vX.Y.Z[suffix] Bare specify self upgrade executes immediately, matching the no-prom",
+      "published": "",
+      "_id": "f4e0adf84666b0c9",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "link": "https://news.ycombinator.com/item?id=48886741",
+      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.Open questions:1. Why is the regular voting system not enough?2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.Comments URL:https://news.ycombinator.com/item?id=48886741Points: 846# Comments: 372",
+      "published": "2026-07-13T01:24:20",
+      "_id": "6e8afa87e2257b6a",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The One-Step Trap (In AI Research)",
+      "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "summary": "Article URL:http://incompleteideas.net/IncIdeas/OneStepTrap.htmlComments URL:https://news.ycombinator.com/item?id=48883415Points: 52# Comments: 10",
+      "published": "2026-07-12T18:41:15",
+      "_id": "74ab8f0715de05b2",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.Comments URL:https://news.ycombinator.com/item?id=48883275Points: 662# Comments: 342",
+      "published": "2026-07-12T18:25:51",
+      "_id": "398431a5f118d841",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "summary": "Article URL:https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6Comments URL:https://news.ycombinator.com/item?id=48882716Points: 234# Comments: 109",
+      "published": "2026-07-12T17:13:07",
+      "_id": "6340c21e25cd51fb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "summary": "Article URL:https://spectrum.ieee.org/ai-science-research-flattens-discoveryComments URL:https://news.ycombinator.com/item?id=48881043Points: 151# Comments: 103",
+      "published": "2026-07-12T13:26:13",
+      "_id": "5a7c527e84b4a1e5",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Prompt-engineering paper accepted to ICML [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+      "summary": "\"Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity\"This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: \"changing the prompt this way led to more diverse sampling\". Naturally, it is difficult to provide a rigorous theoretical analysis for something like this.Even if it works, I’m not sure this kind of prompt engineering belongs at a top-tier machine learning conference. Some people seems to call this kind of work “modern machine learning”, but I think it should be categorized as less technical venues.How do you think? Am I being too rigid?submitted by/u/Mean_Revolution1490[link][comments]",
+      "published": "2026-07-13T05:00:07",
+      "_id": "714a8bc1adc930d3",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+      "summary": "Left: Telegram digest (optional); Right: detailed digest on HTMLLike probably everyone here, my to-read list only grows. Skimming arXiv listings or my feeds takes 30-60 minutes a day, 95% of it is irrelevant to what I actually work on, and newsletters don't really help: they surface what'spopular, not what's relevant tomyresearch.So I builtResearch Radar, a daily cron job that:Fetchesevery new paper in your arXiv categories (RSS + API, deduped)Scoresevery abstract 1-10 against a markdown file describing your research interests (cheap model, batched)Deep-readsthe top scorers: downloads the PDF, extracts full text, and a strong model writes a summary, key insights, limitations, andhow it relates to your own workDeliversa morning HTML digest + optional Telegram ping with the must-readsDesign decisions:Nothing domain-specific in the code. Your interests live in one markdown file. Edit it and the same pipeline works for ML, physics, bio, econ, whateverOnly the two scoring passes touch a model. Fetching, dedup, PDF extraction, and rendering are deterministic PythonModel-agnostic backend layer: Claude Code / Codex CLIs run it on the subscription you already pay for (no API key), or any OpenAI-compatible endpoint, including fully local via Ollama / vLLM. Backends mix per pass: cheap model for skimming, strong one for the 5-10 deep readsApproximate costs, benchmarked in the repo (tokens, cost, latency, quality grades per model). Rough sizing: a 10-abstract scoring batch is ~18k input tokens with a small JSON out; a deep read sends the whole paper, 40-70k input tokens.I've been using it daily for about a month and it's been genuinely useful in my field. The repo is a generalization of my personal setup to any domain, and I haven't deeply tested fields other than mine, so feedback and GitHub issues are very welcome.The model has to say \"not relevant, 3/10\" a lot without drifting toward score inflation, and the whole scoring is just prompt + markdown context. So I'm curious how",
+      "published": "2026-07-13T13:59:17",
+      "_id": "34b6b74c6dafa198",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
+      "summary": "Anthropic’s Jacobian Lens work introduced a way to inspect verbalizable representations inside language models. Follow-up experiments suggested that entropy in this internal “workspace” might help identify confidently incorrect answers.I tested that hypothesis on Qwen3-4B across ~11,400 examples from seven distinct datasets, including TriviaQA, PopQA, NQ-Open, TruthfulQA, HotpotQA, GSM8K, and CommonSenseQA.Three main findings:It can complement output confidence on factual retrieval.On datasets such as PopQA, workspace entropy sometimes improved error-routing precision at low review budgets, particularly among answers that were already high-confidence.It does not reliably detect internalized misconceptions.On TruthfulQA, workspace entropy was substantially weaker than output confidence. Incorrect answers could still have a clean, low-entropy internal representation.Its calibration is highly task-dependent.A threshold calibrated on TriviaQA failed on GSM8K because correct mathematical reasoning had much higher baseline entropy. Multiple-choice formatting also weakened the signal substantially on CommonSenseQA.The overall result is narrower than “internal entropy detects hallucinations”: it may be a useful complementary routing signal for confidently incorrect factual answers, but it does not behave like a task-general error detector.This is currently a single-model study, so cross-model validation is the most important next step. The repository contains the full methodology, limitations, raw data, metrics, plots, and reproducible notebook:https://github.com/dasjoms/jspace-hallucination-evalI‘d be interested in feedback on the experimental design if anyone feels like giving their thoughts.Note: I already posted this tor/LocalLLaMayesterday but think this might also fit here.submitted by/u/dasjomsyeet[link][comments]",
+      "published": "2026-07-13T08:27:09",
+      "_id": "384afaa35e73922c",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "link": "https://arxiv.org/abs/2607.08773",
+      "summary": "arXiv:2607.08773v1 Announce Type: new \nAbstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal problem. Each element of this lattice corresponds to an interval, i.e., an axis-aligned hyper-rectangle, containing an input point $\\mathbf{x}$. Consider a multilayered perceptron classifier (MLP). An interval $I$ constitutes a sound certification if $\\mathbf{x} \\in I$ and $\\mathbf{x}$ can be freely perturbed in $I$ without changing the MLP's prediction. Complementarily, an interval $I$ constitutes a complete certification if $\\mathbf{x} \\in I$ and when $\\mathbf{x}$ moves outside of $I$ the MLP's prediction is guaranteed to change. While the sound certification problem corresponds to the well-studied adversarial robustness, complete certifications have not been examined in the literature. We develop lattice traversal operators, which we apply in a refine & verify iterative scheme. Using formal MLP verifiers, sound maximality and complete minimality are guaranteed. Moreover, we examine objective optimization problems. There we discover some interesting asymmetries. For complete certifications, the minimum solution is obtained in polynomial oracle calls. This does not hold for sound certifications, where we prove strong intractability results. Additionally, we examine optimization problems in symmetric intervals (i.e., $\\ell_\\infty$-spheres), where we provide logarithmic algorithms. Finally, we present an empirical evaluation, using the novel ParallelepipedoNN system.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "af1432abcf281b9b",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "link": "https://arxiv.org/abs/2607.08774",
+      "summary": "arXiv:2607.08774v1 Announce Type: new \nAbstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inference-time control} -- the computational layer governing task framing and context selection. We introduce \\emph{CogniConsole}, an architectural instantiation that externalizes this control into a structured interface combining programmatic coordination with bounded prompt-based reasoning. Through \\emph{controllability-oriented probes} ($N=489$) in a multi-step interactive environment, we show that increasing structural scaffolding -- from unstructured to fully scaffolded -- \\textbf{systematically reduces output variance and failure rates under a fixed model architecture}. Our results indicate that many observed failure modes, such as context drift and inconsistent constraint adherence, arise from under-specified control rather than insufficient capability. This work provides an empirical basis for treating inference-time control as a first-class abstraction, opening new directions for designing and evaluating LLM systems beyond scaling alone.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "2b8a3969fdcf3211",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "link": "https://arxiv.org/abs/2607.08894",
+      "summary": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We present \\textbf{GATS} (Graph-Augmented Tree Search), a planning framework that combines systematic UCB1-based tree search with a layered world model to eliminate LLM calls during inference while achieving superior planning performance. Our three-layer world model integrates: (L1) exact symbolic action matching, (L2) statistics learned from execution logs, and (L3) LLM-based prediction for unknown actions. On synthetic planning tasks with branching paths and dead-ends, GATS achieves \\textbf{100\\% success rate} compared to 92 % for LATS and 64\\% for ReAct. On a comprehensive stress test spanning 12 challenging scenarios -- including coding workflows, web navigation, and long-horizon tasks -- GATS maintains \\textbf{100\\% success} while LATS drops to 88.9 % and ReAct to 23.9%. GATS requires \\textbf{zero LLM calls per task} during planning (vs. 37 per task for LATS) and produces deterministic plans with zero variance across runs. Our results demonstrate that systematic search with learned world models can substantially outperform LLM-guided exploration for agent planning.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "519af78e3b7d195e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "link": "https://arxiv.org/abs/2607.08964",
+      "summary": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-horizon tasks spanning nine categories, including experiment reproduction, software engineering, multimodal analysis, interactive games, and scientific computing. Each task follows a Terminal-Bench-style setup with a reference solution or simulation engine, but is further decomposed into fine-grained graded subtasks. This design enables dense intermediate rewards and partial credit, allowing evaluation to capture not only whether an agent reaches the final goal, but also how far it progresses on open-ended workflows. Tasks in Long-Horizon-Terminal-Bench typically require hundreds of episodes and minutes to hours of execution, stressing long-horizon planning, long-context management, and iterative debugging rather than one-shot problem solving. We evaluate 15 frontier models and find that agents consume on average 9.9M tokens per task, with roughly 231 episodes and 85.3 minutes of execution time per run, making Long-Horizon-Terminal-Bench more demanding than prior terminal-based benchmarks. Even the strongest tested model achieves 15.2% pass@1 at a partial-reward threshold of 0.95 and 10.9% at a perfect-reward threshold of 1.0, while the mean pass rate across models is 4.3% and 1.7% under the two thresholds, respectively. These results reveal headroom for improvement. We further analyze failure modes and error patterns, and release Long-Horizon-Terminal-Bench to support future progress on long-horizon terminal agents.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "488a941237acaf4c",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "link": "https://arxiv.org/abs/2607.08986",
+      "summary": "arXiv:2607.08986v1 Announce Type: new \nAbstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is to turn a LaTeX document into Lean. The game is won when the development compiles, contains no sorry, and a machine check shows the target theorems rest on Lean's foundational axioms alone. Reuse is a second check, by a definition we introduce: whether the development yields a self-contained layer of general mathematics the wider library could absorb. The case study is a complete, axiom-clean formalization of well-posedness for the nonlinear Vlasov equation via Dobrushin's mean-field route -- existence, uniqueness, the stability estimate and mean-field limit, and a short-window superposition principle (weak solutions are Lagrangian). The human's role was to direct, not to write proofs: to scope the definitions, steer the decompositions, and triage the library's gaps; the AI agent executed. The formalization certifies the proof of each statement as written; whether the written statement is the intended theorem stays the mathematician's judgment. The optimal-transport machinery that fell out of the build (in particular, properties of the Wasserstein-1 metric and the Kantorovich-Rubinstein duality theorem) separates into a self-contained layer that compiles against Mathlib alone: about a sixth of the development (49 of 299 declarations), behind a 22-declaration interface with no reverse dependency. The headline theorems ran in about a week, the full development in about a month. We report the quantitative claims as observations of one game, not as general laws. The game's rules name no particular system, so the methodological framing is meant to outlast the tools of any one run.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "d6c4f756c2964e35",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "HALO: Hybrid Adaptive Latent Reasoning for Language Models",
+      "link": "https://arxiv.org/abs/2607.08775",
+      "summary": "arXiv:2607.08775v1 Announce Type: new \nAbstract: We study how to improve a frozen pretrained language model with a small amount of adaptive extra computation. A simple approach is to add additional refinement steps on top of the backbone hidden states, but fixed extra refinement can be wasteful: a one-step refinement head may be too weak, while forcing a second full-sequence refinement step everywhere can increase compute without improving transfer. We introduce HALO, a hybrid adaptive latent-refinement method that combines a coarse refinement stage with selective second-stage latent refinement on a subset of tokens chosen by token scoring and monotonic token halting. On the main public benchmark comparison built from MMLU-Pro and GPQA-Diamond, HALO achieves the best overall average among the paper-facing methods, outperforming the frozen backbone, fixed-1, and fixed-2. Internal analysis further shows that HALO reaches nearly the same token-accuracy level as fixed-2 while using fewer average applied refine steps than fixed-1 and far fewer than fixed-2. These results suggest that the key advantage is not simply more refinement, but a better allocation of refinement: HALO achieves the strongest paper-facing result while also using less measured controller compute than either fixed baseline.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "7da7efd46b92886f",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "An Emergent Mirage: Is Emergent Misalignment and Realignment Indeed a Robust Phenomenon?",
+      "link": "https://arxiv.org/abs/2607.09053",
+      "summary": "arXiv:2607.09053v1 Announce Type: new \nAbstract: Recent work has reported Emergent Misalignment (EM), where language models fine-tuned on narrow, domain-specific misaligned datasets abruptly acquire broadly misaligned behavior, alongside evidence that this behavior can be reversed through limited realignment. We systematically study repeated alignment and misalignment cycles using controlled fine-tuning loops while tracking behavioral performance, and LoRA representations throughout training. Although we reproduce EM, we find that both misalignment and realignment are highly sensitive to superficial dataset characteristics, with apparent rapid realignment largely disappearing after controlling for response-length differences. We further find that previously reported mechanistic signatures, including representational phase transitions in LoRA space, do not consistently correlate with behavioral misalignment across training. Our results suggest that current evidence for EM is less robust than previously claimed and highlight the need for evaluation protocols that carefully control for these surface level dataset artifacts to identify the robustness of the EM phenomenon.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "a3192b8394edb1fa",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2607.09092",
+      "summary": "arXiv:2607.09092v1 Announce Type: new \nAbstract: Knowledge graphs (KGs) are often automatically constructed from large-scale corpora, but they inevitably contain factual errors due to noisy sources and extraction failures, and verifying them reliably at industrial scale remains a critical challenge. To address this, we propose AgentKGV, the Agentic LLM-RAG framework for KG fact Verification, that integrates dynamic routing and iterative query rewriting, which handles surface-form mismatch in document-level retrieval. To make this framework more accurate and cost-efficient for industrial deployment, we further introduce a two-stage training strategy: turn-level distillation-based SFT that transfers reasoning ability from a large teacher model into a small model for stable query rewriting and reasoning, and trajectory-level GRPO that optimizes the search policy to reduce unnecessary retrieval at scale. On the long-tail-predicate split of the open-domain T-REx benchmark, our framework improves macro-F1 over single-turn RAG by 5.5 \\%p, and two-stage training does it further by 9.4 \\%p. GRPO also cuts the average number of search calls from 3.24 to 1.63 without lowering accuracy.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "ca3b5bde6fb9caac",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation",
+      "link": "https://arxiv.org/abs/2607.09094",
+      "summary": "arXiv:2607.09094v1 Announce Type: new \nAbstract: Legal precedent retrieval is a fundamental task in legal case preparation, planning, litigation strategy, and legal research. Current approaches for automatic precedent retrieval map legal documents to a low-dimensional semantic space and compute similarity based on the proximity of their representations. These approaches treat legal documents as monolithic texts, ignoring the rhetorical organization of the legal technicalities. Ergo, they overlook nuanced legal meanings and fail to distinguish the contextual significance of legal entities and concepts that vary based on their rhetorical roles within the document.\n  To address this insufficiency, we propose the PRecG pipeline that computes the similarity between pairs of legal judgments by hierarchically learning their representations. The process begins by decomposing each document into distinct semantic units (segments) based on the rhetorical roles of sentences. For each rhetorical segment, a knowledge graph is constructed to capture the legal entities and their relationships within the segment. Contextual representations of the entities are then learned and aggregated to derive segment-level embeddings. These embeddings are further integrated to produce a unified document-level representation, and finally, the semantic similarity between a pair of documents is computed. We validate the performance of the proposed approach through extensive experiments on a benchmark Indian legal dataset, comparing it against state-of-the-art baselines to demonstrate its effectiveness.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "af5ecb8e9661fc7e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs",
+      "link": "https://arxiv.org/abs/2607.09121",
+      "summary": "arXiv:2607.09121v1 Announce Type: new \nAbstract: In this study, we examine the opportunities brought by Large Language Models (LLMs) to various aspects of fundamental analysis of companies based on their reports as well as data and documents describing macroeconomic situation like GDP and inflation changes as well as documents filled to the U.S. Securities and Exchange Commission (SEC) which can be found in EDGAR. We were preprocessing those data and than sending via API to gpt-4o model in a Retrieval-Augmented Generation (RAG) like regime. We prepared as well a document describing an exemplar investor knowledge based on Kitchin cycles. We were scanning data important for analysis of 9 companies for 4 weeks. Using LLM we were producing automatic briefs about them. They were sent to nine participants who are individual investors to evaluate usefulness of such approach to data analysis.",
+      "published": "2026-07-13T04:00:00",
+      "_id": "2f469f52cf81bc95",
+      "_scraped_at": "14:39"
+    }
+  ],
+  "seen_ids": [
+    "2421a78a2bf886f8",
+    "6340c21e25cd51fb",
+    "74ab8f0715de05b2",
+    "384afaa35e73922c",
+    "488a941237acaf4c",
+    "767ce2a3551a9883",
+    "ca3b5bde6fb9caac",
+    "fae31da6c227cfde",
+    "49e268ec4efd02cb",
+    "56ed6f5b1a23b5b5",
+    "1dbb10ceec9d2e3e",
+    "c290a2acf859c75b",
+    "afba96f60b5ba9cc",
+    "519af78e3b7d195e",
+    "d6c4f756c2964e35",
+    "8d6a4b13c5d73cd6",
+    "2f469f52cf81bc95",
+    "b9173cf1419dedca",
+    "fdd9745edc3aad4e",
+    "34b6b74c6dafa198",
+    "a3192b8394edb1fa",
+    "8dbb2238c30b71eb",
+    "a577f205a73beafc",
+    "af1432abcf281b9b",
+    "3343e363d4b95ce8",
+    "bf0389e8fc991442",
+    "cd8ee8d2ebf27dfe",
+    "3de368bdef5b54c9",
+    "7da7efd46b92886f",
+    "398431a5f118d841",
+    "2b8a3969fdcf3211",
+    "714a8bc1adc930d3",
+    "4307222bc7e5f2e4",
+    "8b32daa86337d052",
+    "f4e0adf84666b0c9",
+    "6e8afa87e2257b6a",
+    "af5ecb8e9661fc7e",
+    "5a7c527e84b4a1e5",
+    "1b56cc9447a6475c",
+    "78df88887d30244e"
+  ],
+  "last_run": "14:39",
+  "run_count": 1
+}
