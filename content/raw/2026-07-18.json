@@ -1,0 +1,479 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "published": "2026-07-17T10:00:00",
+      "_id": "c5c5248230951857",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "summary": "",
+      "published": "2026-07-17T15:57:54",
+      "_id": "d9b2b6a45e1f9f2c",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "published": "2026-07-17T15:00:14",
+      "_id": "260f280164f72924",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "summary": "Product Introducing Claude for Teachers Jul 14, 2026 We're introducing Claude for Teachers , providing verified K-12 educators in the US free access to premium Claude capabilities, a library of teaching skills, and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. Why we’re building for teachers Decades of research show that practices like differentiation, mastery-based learning, and small group instruction reliably improve student achievement, but teachers are often short on time and resources to implement them. Budgets are stretched, classes may be too large to meet every student's individual needs, and planning often spills into evenings. This strain is heaviest in under-resourced schools. Claude for Teachers is designed to close the gap between educational best practices and what a teacher's week allows. Early evidence suggests that while the impact of AI tools for students is mixed and depends on the implementation, AI tools for teachers can strengthen instructional practice and improve student outcomes. This is the aim of Claude for Teachers: support the craft behind great teaching and protect what teachers value most—time with their students. Connected to evidence-based curricula and the K-12 ecosystem Claude for Teachers connects to Learning Commons , giving Claude access to academic standards across all 50 states—and beneath each standard, the smaller learning competencies it's built from and the order students typically learn them. So when Claude drafts a lesson plan, it’s scaffolded and aligned to teaching standards. Claude for Teachers also brings in trusted curricular resources like OpenSciEd and IM v.360 from Illustrative Mathematics . As of today, educators can now connect Claude across an entire ecosystem of K-12 tools. ASSISTments : Generate auto-scored, standards-aligned math problems for practice and assessment. Brisk Teaching : Create interactive student activities and standards-aligned lessons, turni",
+      "published": "",
+      "_id": "ad504bbdb221cc44",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "2026-07-18T04:47:25",
+      "_id": "676c823b6899d3ae",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "published": "2026-07-17T22:55:09",
+      "_id": "a3e7db222bbb2b9c",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "published": "2026-07-17T22:12:56",
+      "_id": "96ae61dffd1c9aeb",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "published": "2026-07-17T21:20:47",
+      "_id": "d9c610ddfa217034",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "published": "2026-07-17T20:19:49",
+      "_id": "46afdafa077d08df",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History […]",
+      "published": "2026-07-18T12:00:00",
+      "_id": "45c797ceaee38d7d",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool […]",
+      "published": "2026-07-17T19:34:30",
+      "_id": "dd62d442a6ebde80",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s plot to crush OpenAI",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]",
+      "published": "2026-07-17T17:41:32",
+      "_id": "c96da0c277b129d7",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
+      "published": "2026-07-17T12:10:00",
+      "_id": "537fc3e4c58410ed",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that…",
+      "published": "2026-07-17T09:00:00",
+      "_id": "8be5280229885e02",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The risk of weather data sabotage is rising",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…",
+      "published": "2026-07-17T08:57:32",
+      "_id": "9e7db13d70e8e0fa",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+      "published": "2026-07-18T10:30:00",
+      "_id": "3549e1622ceec367",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Wired",
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "published": "2026-07-18T10:00:00",
+      "_id": "8b87147b16987b98",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Wired",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "published": "2026-07-18T09:00:00",
+      "_id": "235c1dfcd64fdd07",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Wired",
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+      "published": "2026-07-17T10:00:00",
+      "_id": "9fbe662b4a1f8ca8",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Wired",
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+      "published": "2026-07-17T09:00:00",
+      "_id": "a01963080bbab074",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "Robbyant /lingbot-map",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team teaser.mp4 🗺️ Meet LingBot-Map! We've built a feed-forward 3D foundation model for streaming 3D reconstruction! 🏗️🌍 LingBot-Map has focused on: Geometric Context Transformer : Architecturally unifies coordinate grounding, dense geometric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. High-Efficiency Streaming Inference : A feed-forward architecture with paged KV cache attention, enabling stable inference at ~20 FPS on 518×378 resolution over long sequences exceeding 10,000 frames. State-of-the-Art Reconstruction : Superior performance on diverse benchmarks compared to both existing streaming and iterative optimization-based approaches. 📑 Table of Contents Click to expand 📰 News 📋 TODO ⚙️ Installation 📦 Model Download 🚀 Quick Start 🎬 Interactive Demo ( demo.py ) Try the Example Scenes Streaming with Keyframe Interval Windowed Inference (for long sequences, >3000 frames) Sky Masking Visualization Options Performance & Memory 🎥 Offline Rendering Pipeline ( demo_render/batch_demo.py ) 📜 License 📖 Citation ✨ Acknowledgments 📰 News 2026-06-28 — Fixed an SDPA KV cache bug. The SDPA backend now performs better on long sequences . We still recommend the FlashInfer backend for the best performance. 2026-05-25 — 📊 Evaluation benchmark released . We released the evaluation scripts for KITTI and Oxford Spires — see benchmark/ for the pipeline, and run preprocess/oxford.py to prepare Oxford Spires data before evaluation. 2026-04-29 — 📹 Long-video demo released . We released a very-long-video example (~25 000 frames, 13-minute indoor walkthrough) rendered with the offline pipeline — see Worked Example for the command, flag rationale, and rendered output. 2026-04-27 — 🚀 LingBot-Map accelerated . Pull the latest main and run python demo.py --compile ... or python gct_profile.py --backend flashinfer -",
+      "published": "",
+      "_id": "3b553260d52e5800",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "apache /ossie",
+      "link": "https://github.com/apache/ossie",
+      "summary": "Apache Ossie (incubating) Apache Ossie is a collaborative, open-source effort dedicated to standardizing and streamlining semantic model exchange and utilization across the diverse array of tools and platforms within the data analytics, AI, and BI ecosystem. Our shared vision is to establish a common, vendor-agnostic semantic model specification, promoting unparalleled interoperability, efficiency, and collaboration among all participants. By providing a single, consistent source of truth, this vendor-agnostic standard ensures that your data's definitions and value remain consistent as they are interchanged between AI agents, BI platforms, and all other tools in your ecosystem, eliminating inconsistencies across your different tools. Apache Ossie was formerly known as Open Semantic Interchange (OSI) . Apache Ossie provides a single JSON- and YAML-based specification that any tool can read and write, addressing the semantic fragmentation common across today's data stack: the same KPI defined differently across tools, teams spending significant effort manually reconciling definitions, and AI agents producing unreliable outputs grounded in inconsistent business logic. What's in this repository core-spec/ — The Ossie core specification ( spec.md ), the machine-readable schema ( spec.yaml , osi-schema.json ), and accompanying documentation. converters/ — Reference converters that translate between Ossie and other semantic formats (e.g., dbt, GoodData, Polaris, Salesforce). examples/ — Example semantic models, including a complete TPC-DS model. validation/ — Tooling for validating semantic models against the Ossie schema. docs/ — Project documentation and overview. Get involved Contribute: See CONTRIBUTING.md for how to propose specification changes, contribute code, and participate in the community. Roadmap: See ROADMAP.md for current working groups, future efforts, and planned enhancements informed by community discussion. Discuss: Join the conversation on GitHub Discus",
+      "published": "",
+      "_id": "8f232e4ac1b8ad16",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "PostHog /posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "summary": "Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is the open source platform for building self-driving products PostHog provides every tool you need to build a successful product, and captures all the context agents need to proactively diagnose problems, uncover opportunities, and ship fixes: Self-driving mode : Turn signals in your product data (errors, rage clicks, failed queries, and more) into researched reports and pull requests you review and merge. Product analytics : Autocapture or manually instrument event-based analytics to understand user behavior and analyze data with visualization or SQL. Web analytics : Monitor web traffic and user sessions with a GA-like dashboard. Easily monitor conversion, web vitals, and revenue. Session replays : Watch real user sessions of interactions with your website or mobile app to diagnose issues and understand user behavior. Feature flags : Safely roll out features to select users or cohorts with feature flags. Experiments : Test changes and measure their statistical impact on goal metrics. Set up experiments with no-code too. Error tracking : Track errors, get alerts, and resolve issues to improve your product. Logs : Ingest, search, and analyze log data alongside the rest of your product data. Surveys : Ask anything with our collection of no-code survey templates, or build custom surveys with our survey builder. Data warehouse : Sync data from external tools like Stripe, Hubspot, your data warehouse, and more. Query it alongside your product data. Data pipelines : Run custom filters and transformations on your incoming data. Send it to 25+ tools or any webhook in real time or batch export large amounts to your warehouse. AI observability : Capture traces, generations, latency, and cost for your LLM-powered app. Workflows : Create workflows that automate actions or send messages to your users. You can steer it all from Slack , web , desktop ( PostHog Code ), or your own editor via the MCP . Best",
+      "published": "",
+      "_id": "fbfdec28cfffc04c",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "ibelick /ui-skills",
+      "link": "https://github.com/ibelick/ui-skills",
+      "summary": "UI Skills Skills for Design Engineers More on ui-skills.com Run npx ui-skills start to route your agent through the right UI skill set for the task. CLI npx ui-skills\nnpx ui-skills start\nnpx ui-skills categories\nnpx ui-skills list --category motion\nnpx ui-skills get baseline-ui License Licensed under the MIT license .",
+      "published": "",
+      "_id": "c53703a43c05f673",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "rohitg00 /ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them\nprofessionally. This curriculum closes that gap. 503 lessons. 20 phases. ~320 hours. Python, TypeScript, Rust, Julia. Every lesson ships\na reusable artifact: a prompt, a skill, an agent, an MCP server. Free, open source, MIT. You don't just learn AI. You build it. End-to-end. By hand. 150,639 readers  · 241,669 page views in the last 30 days  ·  as of 2026-06-07 How this works Most AI material teaches in scattered pieces. A paper here, a fine-tuning post there, a\nflashy agent demo somewhere else. The pieces rarely line up. You ship a chatbot but can't\nexplain its loss curve. You hook a function to an agent but can't say what attention does\ninside the model that's calling it. This curriculum is the spine. 20 phases, 503 lessons, four languages: Python, TypeScript,\nRust, Julia. Linear algebra at one end, autonomous swarms at the other. Every algorithm\ngets built from raw math first. Backprop. Tokenizer. Attention. Agent loop. By the time\nPyTorch shows up, you already know what it's doing under the hood. Each lesson runs the same loop: read the problem, derive the math, write the code, run\nthe test, keep the artifact. No five-minute videos, no copy-paste deploys, no hand-holding.\nFree, open source, and built to run on your own laptop. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ The shape of the curriculum Twenty phases stack on top of each other. Math is the floor. Agents and production are the roof.\nSkip ahead if you already know the lower layers, but don't skip and then wonder why something at\nthe top is breaking. %%{init: {'theme':'base','themeVariables':{'primaryColor':'#fafaf5','primaryTextColor':'#1a1a1a','primaryBorderColor':'#3553ff','lineC",
+      "published": "",
+      "_id": "7b553354eb544407",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "tirth8205 /code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "summary": "code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage · Commands · FAQ · Troubleshooting · GitHub Action · Reproducing the benchmarks · Roadmap AI coding tools can end up re-reading large parts of your codebase on review tasks. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter , tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters. Quick Start pip install code-review-graph # or: pipx install code-review-graph code-review-graph install # auto-detects and configures all supported platforms code-review-graph build # parse your codebase One command sets up everything. install detects which AI coding tools you have, writes the correct MCP configuration for each one, installs platform-native hooks/skills where supported, and injects graph-aware instructions into your platform rules. It auto-detects whether you installed via uvx or pip / pipx and generates the right config. Restart your editor/tool after installing. To target a specific platform: code-review-graph install --platform codex # configure only Codex code-review-graph install --platform cursor # configure only Cursor code-review-graph install --platform claude-code # configure only Claude Code code-review-graph install --platform gemini-cli # configure only Gemini CLI code-review-graph install --platform kiro # configure only Kiro code-review-graph install --platform copilot # configure only GitHub Copilot (VS Code) code-review-graph install --platform copilot-cli # configure only GitHub Copilot CLI code-review-graph install --platform codebuddy # configure only CodeBuddy Code Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly). To remove CRG from a Git or SVN project, use the symmetric uninstall command\nfrom anywhere inside its working tree. The target i",
+      "published": "",
+      "_id": "344d46b0f790a3ec",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "elder-plinius /G0DM0D3",
+      "link": "https://github.com/elder-plinius/G0DM0D3",
+      "summary": "▄████  ██████  ██████  ███▄ ▄███  ██████  ██████  ██████\n██      ██  ██  ██   ██ ██ ███ ██  ██  ██  ██   ██      ██\n██ ▄███ ██  ██  ██   ██ ██  █  ██  ██  ██  ██   ██  █████\n██  ██  ██  ██  ██   ██ ██     ██  ██  ██  ██   ██      ██\n ██████  ████   ██████  ██     ██   ████   ██████  ██████\n ───────────────────────────────────────────────────────────\n  ░▒▓█  LIBERATED AI. COGNITION WITHOUT CONTROL.  █▓▒░\n ─────────────────────────────────────────────────────────── GODMOD3.AI G0DM0D3 is a fully open-source, privacy-transparent, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers. ✨ Features 🧠 Multi-Provider — 60 listed OpenRouter models, up to 44 Venice models, or your own local models 🔥 GODMODE CLASSIC — 5 battle-tested prompt + model combos racing in parallel to find the best response 🌋 ULTRAPLINIAN — Multi-model evaluation engine across 5 tiers (12–60 OpenRouter models), with composite scoring 🏠 Local Models — Run ULTRAPLINIAN on your own hardware through Ollama, LM Studio, llama.cpp, or vLLM 🐍 Parseltongue — Input perturbation engine for red-teaming with 33 techniques across 3 intensity tiers 🎛 AutoTune — Context-adaptive sampling parameter engine across 20 query contexts 🔐 Privacy Controls — Metadata-only app telemetry is on by default and can be disabled with No-Log or Local-only mode 💾 Local History — Conversations and settings stay in browser storage with export/import support 🎮 Easter Eggs — Hidden secrets throughout (try the Konami code!) 📱 Responsive — Works on desktop and mobile 🌐 Single-File Core UI — The hosted interface lives in one index.html ; the telemetry endpoint is a separate Cloudflare Pages Function 🚀 Quick Start Hosted Visit godmod3.ai — no install needed. Bring an OpenRouter key, a Venice key, connect a local OpenAI-compatible server, or configure more than one of those providers. Self-Host The sta",
+      "published": "",
+      "_id": "ced81c66dfe96262",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "lyogavin /airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "summary": "Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , and DeepSeek-V3 (671B) on ~12GB . AI Agents Recommendation: Best AI Game Sprite Generator Best AI Facial Expression Editor Bloome — build & run AI agent teams in the cloud, zero setup Updates [2026/06] v3.0 : FP8 model support + the latest models. Run DeepSeek-V3 (671B) on ~12GB and Qwen3-235B on ~3GB , plus Qwen3, Llama 3.x/4, DeepSeek V2/V3, Phi-4, Gemma and more — all through a single AutoModel . [2024/08/20] v2.11.0: Support Qwen2.5 [2024/08/18] v2.10.1 Support CPU inference. Support non sharded models. Thanks @NavodPeiris for the great work! [2024/07/30] Support Llama3.1 405B ( example notebook ). Support 8bit/4bit quantization . [2024/04/20] AirLLM supports Llama3 natively already. Run Llama3 70B on 4GB single GPU. [2023/12/25] v2.8.2: Support MacOS running 70B large language models. [2023/12/20] v2.7: Support AirLLMMixtral. [2023/12/20] v2.6: Added AutoModel, automatically detect model type, no need to provide model class to initialize model. [2023/12/18] v2.5: added prefetching to overlap the model loading and compute. 10% speed improvement. [2023/12/03] added support of ChatGLM , QWen , Baichuan , Mistral , InternLM ! [2023/12/02] added support for safetensors. Now support all top 10 models in open llm leaderboard. [2023/12/01] airllm 2.0. Support compressions: 3x run time speed up! [2023/11/20] airllm Initial version! Star History Table of Contents Quick start Model Compression Configurations Run on MacOS Example notebooks Supported Models Acknowledgement FAQ Quickstart 1. Install package First, install the airllm pip package. pip install airllm 2. Inference Then, initialize AirLLMLlama2, pass in the huggingface repo ID of the model being used, or the local path, and inference can be performed",
+      "published": "",
+      "_id": "759119abe3ffdb8f",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "KnockOutEZ /wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "summary": "Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and beyond LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client · plain REST Quickstart · Tools · Why wigolo · Benchmark · Docs · Examples · Feedback · FAQ wigolo gives an AI agent one durable surface for everything web-related — search, fetch, crawl, extract, cache, find-similar, research, and autonomous gather loops. It runs wherever your agent runs: as an MCP server next to your coding agent, as a REST/MCP endpoint on the box where your self-hosted agents live, or embedded through an SDK inside your own app. The core tools need no API keys, nothing it touches leaves ~/.wigolo/ , and there's no bill that grows with how much your agent thinks. Quickstart Requires Node ≥ 20 and ~1.5 GB of free disk. macOS, Linux, and Windows. One command wires the local engine into your agent. init is unattended by default — no prompts, safe in scripts and CI — and does the complete setup : it downloads the browser engine and on-device models, runs a health check, and prints a per-component summary, so any setup problem surfaces right here, not silently on your agent's first call: npx wigolo init --agents= < your-agent > <your-agent> — one or more of claude-code · cursor · codex · gemini-cli · vscode · windsurf · zed · antigravity (comma-separated). wigolo writes the MCP config and instructions for you. Any other MCP client? Omit --agents and register npx -y wigolo yourself — the installation guide has the exact config block for every client, plus Docker, Homebrew, and single-file-binary channels. Prefer prompts? --interactive is a plain-text flow; --wizard is the full terminal TUI. Skip the downloads? --no-warmup defers everything to first use. A failed component download never fails setup — init reports what's not ready with the exact fix and still wires your agent. That",
+      "published": "",
+      "_id": "ef03efa8fa36c2ae",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "GitHub",
+      "title": "codecrafters-io /build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "summary": "Build your own <insert-technology-here> This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot create, I do not understand — Richard Feynman. It's a great way to learn. 3D Renderer AI Model Augmented Reality BitTorrent Client Blockchain / Cryptocurrency Bot Command-Line Tool Database Docker Emulator / Virtual Machine Front-end Framework / Library Game Git Memory Allocator Network Stack Neural Network Operating System Physics Engine Processor Programming Language Regex Engine Search Engine Shell Template Engine Text Editor Visual Recognition System Voxel Engine Web Browser Web Server Uncategorized Tutorials Build your own Distributed Systems Java : Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide Build your own 3D Renderer C++ : Introduction to Ray Tracing: a Simple Method for Creating 3D Images C++ : How OpenGL works: software rendering in 500 lines of code C++ : Raycasting engine of Wolfenstein 3D C++ : Physically Based Rendering:From Theory To Implementation C++ : Ray Tracing in One Weekend C++ : Rasterization: a Practical Implementation C# / TypeScript / JavaScript : Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript Java / JavaScript : Build your own 3D renderer Java : How to create your own simple 3D render engine in pure Java JavaScript / Pseudocode : Computer Graphics from scratch Python : A 3D Modeller Build your own AI Model Python : A Large Language Model (LLM) Python : Diffusion Models for Image Generation Python : RAG for Document Search Build your own Augmented Reality C# : How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D [video] C# : How To Unity ARCore [video] C# : AR Portal Tutorial with Unity [video] C# : How to create a Dragon in Augmented Reality in Unity ARCore [video] C# : How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down [video] Python : Augmented Reality wi",
+      "published": "",
+      "_id": "bee422cc001e2185",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What AI did to stackoverflow in a graph",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "summary": "Article URL:https://data.stackexchange.com/stackoverflow/query/1953768#graphComments URL:https://news.ycombinator.com/item?id=48956949Points: 96# Comments: 107",
+      "published": "2026-07-18T11:12:46",
+      "_id": "c92bddbeb7290aef",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "summary": "Article URL:https://velvetshark.com/ai-company-logos-that-look-like-buttholesComments URL:https://news.ycombinator.com/item?id=48956924Points: 276# Comments: 85",
+      "published": "2026-07-18T11:06:50",
+      "_id": "ce44e1889cb1ed74",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A grumpy screed about AI in software engineering",
+      "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "summary": "Article URL:https://sam.sutch.net/posts/a-grumpy-ai-screedComments URL:https://news.ycombinator.com/item?id=48953924Points: 57# Comments: 67",
+      "published": "2026-07-18T00:40:08",
+      "_id": "9cb06903dbb7950f",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "summary": "Article URL:https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/Comments URL:https://news.ycombinator.com/item?id=48952880Points: 524# Comments: 345",
+      "published": "2026-07-17T22:26:30",
+      "_id": "259753f865c21679",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "link": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "summary": "Article URL:https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-usComments URL:https://news.ycombinator.com/item?id=48952445Points: 65# Comments: 63",
+      "published": "2026-07-17T21:24:07",
+      "_id": "dde91137aca66368",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+      "link": "https://news.ycombinator.com/item?id=48950477",
+      "summary": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.EDIT: Was an outage, they just fixed it (https://status.claude.com/)Comments URL:https://news.ycombinator.com/item?id=48950477Points: 89# Comments: 86",
+      "published": "2026-07-17T18:18:23",
+      "_id": "10b8ae2e6c81e528",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The state of open source AI",
+      "link": "https://stateofopensource.ai/",
+      "summary": "Article URL:https://stateofopensource.ai/Comments URL:https://news.ycombinator.com/item?id=48947825Points: 459# Comments: 335",
+      "published": "2026-07-17T14:31:10",
+      "_id": "14270184fe75ec59",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "summary": "Article URL:https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/Comments URL:https://news.ycombinator.com/item?id=48947776Points: 140# Comments: 118",
+      "published": "2026-07-17T14:26:58",
+      "_id": "540aa881d3f64568",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "summary": "Article URL:https://blog.zksecurity.xyz/posts/openvm-bugs/Comments URL:https://news.ycombinator.com/item?id=48947714Points: 97# Comments: 6",
+      "published": "2026-07-17T14:21:35",
+      "_id": "8f927b53587dfa92",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Hacker News",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "summary": "Article URL:https://www.capitalone.com/tech/open-source/announcing-vulnhunter/Comments URL:https://news.ycombinator.com/item?id=48946692Points: 73# Comments: 34",
+      "published": "2026-07-17T12:42:12",
+      "_id": "7f4cf17098699754",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+      "summary": "I have released a model that I have been working on for ~6 months off and on. I've been enjoying listening to spatial music, but there is a lot of music out there with no real quality spatial mix. So I decided to make a model to convert stereo to spatial.I started by making a flow-matching diffusion model that operated in the latent space of a separately trained VAE (EAR-VAE). I used the VAE to encode the stereo input in to 1 latent and then separately on each channel of the 7.1.4 output. This design is similar to a paper I found about another stereo -> spatial project (ImmersiveFlow(they have code links in the paper but they 404 for me so I made the codebase from scratch)). One key addition I made over the ImmersiveFlow paper was a way for the model to carry state (memory tokens) across windows to enable stable long context generations.Since the VAE was out of distribution with the output (was trained to encode\\decode stereo tracks directly, not individual channels and certainly not individual channels of a 7.1.4 mix), the results hit real quality bottlenecks. But it showed that the mapping was possible. Rather than stick to modeling in latent space, I decided to pivot to modeling raw waveforms. This ended up fixing all of the quality issues I was seeing with the latent version, but at the cost of more training compute and instability.The waveform version of the model would train to around 60K-80K steps with loss going down like normal, validation generations looking good\\improving, and then it would quickly become unstable and the loss would shoot up. I tried direct waveforms, scaling the waveforms by a multiplier, aggressive grad clipping, lower learning rates, and all of those experiments failed the same way. Luckily, I came across a recent paper calledWavFlow. The authors of this project also had issues with modeling raw waveforms with flow-matching diffusion, and they solved it by using amplitude lifting (scale each audio track to an rms of 0.33 then multiply ",
+      "published": "2026-07-17T22:55:00",
+      "_id": "2748daf3629049af",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Prism accidentally leaked [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
+      "summary": "Just found out from Prism's Discord that compiling is returning someone else's paper. There's a Twitter post too.https://x.com/JustanOthRando/status/2078169169267482778?s=20I commend their prompt response, though. They took the website down within 10 minutes of the first time the bug was flagged. Just worried if my paper maybe somewhere out there.https://preview.redd.it/csr59ogtwtdh1.png?width=876&format=png&auto=webp&s=8a7d431a98005a7fb0910e7e8f5ed79077bb70b9submitted by/u/Few-Monitor5103[link][comments]",
+      "published": "2026-07-17T17:59:44",
+      "_id": "d2524852e7f47bbf",
+      "_scraped_at": "13:20"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+      "summary": "Started testing a private qwen 35B moe capacity LLM runtime on s26 ultra, early testing shows that active model footprint can fit within the device’s memory limits.( not sharing the methods or architecture used) and results suggest roughly 90 input processing t/s achievable after optimisation and output generation is around 8 tokens/s on this mobile.Point is i learned ai ml based on my interest and no formal PhD , I have compute and resources to test. Anyone willing to join or collab to test on thisI tried publishing papers on arxiv and 4 papers are still on hold as im first author and from no institution...submitted by/u/Severe_Post_2751[link][comments]",
+      "published": "2026-07-18T01:40:59",
+      "_id": "87eb24f0825c8f7f",
+      "_scraped_at": "13:20"
+    }
+  ],
+  "seen_ids": [
+    "537fc3e4c58410ed",
+    "c92bddbeb7290aef",
+    "344d46b0f790a3ec",
+    "8f927b53587dfa92",
+    "d9c610ddfa217034",
+    "3b553260d52e5800",
+    "676c823b6899d3ae",
+    "3549e1622ceec367",
+    "7b553354eb544407",
+    "d2524852e7f47bbf",
+    "4307222bc7e5f2e4",
+    "8b87147b16987b98",
+    "a3e7db222bbb2b9c",
+    "fbfdec28cfffc04c",
+    "ce44e1889cb1ed74",
+    "10b8ae2e6c81e528",
+    "a577f205a73beafc",
+    "c53703a43c05f673",
+    "8be5280229885e02",
+    "9e7db13d70e8e0fa",
+    "ad504bbdb221cc44",
+    "bee422cc001e2185",
+    "7f4cf17098699754",
+    "46afdafa077d08df",
+    "260f280164f72924",
+    "dde91137aca66368",
+    "8dbb2238c30b71eb",
+    "ced81c66dfe96262",
+    "c5c5248230951857",
+    "2748daf3629049af",
+    "fdd9745edc3aad4e",
+    "235c1dfcd64fdd07",
+    "d9b2b6a45e1f9f2c",
+    "a01963080bbab074",
+    "9fbe662b4a1f8ca8",
+    "9cb06903dbb7950f",
+    "45c797ceaee38d7d",
+    "540aa881d3f64568",
+    "14270184fe75ec59",
+    "259753f865c21679",
+    "87eb24f0825c8f7f",
+    "96ae61dffd1c9aeb",
+    "8f232e4ac1b8ad16",
+    "c96da0c277b129d7",
+    "ef03efa8fa36c2ae",
+    "759119abe3ffdb8f",
+    "dd62d442a6ebde80"
+  ],
+  "last_run": "13:20",
+  "run_count": 1
+}
