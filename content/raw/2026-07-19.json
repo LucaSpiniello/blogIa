@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "summary": "Product Introducing Claude for Teachers Jul 14, 2026 We're introducing Claude for Teachers , providing verified K-12 educators in the US free access to premium Claude capabilities, a library of teaching skills, and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. Why we’re building for teachers Decades of research show that practices like differentiation, mastery-based learning, and small group instruction reliably improve student achievement, but teachers are often short on time and resources to implement them. Budgets are stretched, classes may be too large to meet every student's individual needs, and planning often spills into evenings. This strain is heaviest in under-resourced schools. Claude for Teachers is designed to close the gap between educational best practices and what a teacher's week allows. Early evidence suggests that while the impact of AI tools for students is mixed and depends on the implementation, AI tools for teachers can strengthen instructional practice and improve student outcomes. This is the aim of Claude for Teachers: support the craft behind great teaching and protect what teachers value most—time with their students. Connected to evidence-based curricula and the K-12 ecosystem Claude for Teachers connects to Learning Commons , giving Claude access to academic standards across all 50 states—and beneath each standard, the smaller learning competencies it's built from and the order students typically learn them. So when Claude drafts a lesson plan, it’s scaffolded and aligned to teaching standards. Claude for Teachers also brings in trusted curricular resources like OpenSciEd and IM v.360 from Illustrative Mathematics . As of today, educators can now connect Claude across an entire ecosystem of K-12 tools. ASSISTments : Generate auto-scored, standards-aligned math problems for practice and assessment. Brisk Teaching : Create interactive student activities and standards-aligned lessons, turni",
+      "published": "",
+      "_id": "ad504bbdb221cc44",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "published": "2026-07-18T18:51:07",
+      "_id": "7fb9272d9d4cc818",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "2026-07-18T04:47:25",
+      "_id": "676c823b6899d3ae",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "The Verge",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]",
+      "published": "2026-07-18T20:54:42",
+      "_id": "864e6e0039d427d3",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "The Verge",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History […]",
+      "published": "2026-07-18T12:00:00",
+      "_id": "45c797ceaee38d7d",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Wired",
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+      "published": "2026-07-18T10:30:00",
+      "_id": "3549e1622ceec367",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Wired",
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "published": "2026-07-18T10:00:00",
+      "_id": "8b87147b16987b98",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Wired",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "published": "2026-07-18T09:00:00",
+      "_id": "235c1dfcd64fdd07",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "tirth8205 /code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "summary": "code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage · Commands · FAQ · Troubleshooting · GitHub Action · Reproducing the benchmarks · Roadmap AI coding tools can end up re-reading large parts of your codebase on review tasks. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter , tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters. Quick Start pip install code-review-graph # or: pipx install code-review-graph code-review-graph install # auto-detects and configures all supported platforms code-review-graph build # parse your codebase One command sets up everything. install detects which AI coding tools you have, writes the correct MCP configuration for each one, installs platform-native hooks/skills where supported, and injects graph-aware instructions into your platform rules. It auto-detects whether you installed via uvx or pip / pipx and generates the right config. Restart your editor/tool after installing. To target a specific platform: code-review-graph install --platform codex # configure only Codex code-review-graph install --platform cursor # configure only Cursor code-review-graph install --platform claude-code # configure only Claude Code code-review-graph install --platform gemini-cli # configure only Gemini CLI code-review-graph install --platform kiro # configure only Kiro code-review-graph install --platform copilot # configure only GitHub Copilot (VS Code) code-review-graph install --platform copilot-cli # configure only GitHub Copilot CLI code-review-graph install --platform codebuddy # configure only CodeBuddy Code Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly). To remove CRG from a Git or SVN project, use the symmetric uninstall command\nfrom anywhere inside its working tree. The target i",
+      "published": "",
+      "_id": "344d46b0f790a3ec",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "kvcache-ai /ktransformers",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "summary": "A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overview KTransformers is a research project focused on efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing. The project now exposes two user-facing capabilities from the kt-kernel source tree: Inference and SFT . 🔥 Updates June 21, 2026 : MiniMax-M3 Day0 Support! ( Tutorial ) June 17, 2026 : GLM-5.2 Day0 Support! ( Tutorial ) May 6, 2026 : KTransformers at GOSIM Paris 2026 — \"Agentic AI on Edge\" track. We'll present KT's inference performance on consumer hardware. May 02, 2026 : DeepSeek-V4-Flash Support! ( Tutorial ) Apr 30, 2026 : KTransformers v0.6.1 refreshes kt-kernel inference and SFT docs with separate Inference and SFT Quick Start entry points. Mar 26, 2026 : Support AVX2-only CPU backend for KT-Kernel inference. ( Tutorial ) Feb 13, 2026 : MiniMax-M2.5 Day0 Support! ( Tutorial ) Feb 12, 2026 : GLM-5 Day0 Support! ( Tutorial ) Jan 27, 2026 : Kimi-K2.5 Day0 Support! ( Tutorial ) ( SFT Tutorial ) Jan 22, 2026 : Support CPU-GPU Expert Scheduling , Native BF16 and FP8 per channel Precision and AutoDL unified fine-tuning and inference Dec 24, 2025 : Support Native MiniMax-M2.1 inference. ( Tutorial ) Dec 22, 2025 : Support RL-DPO fine-tuning with LLaMA-Factory. ( Tutorial ) Dec 5, 2025 : Support Native Kimi-K2-Thinking inference ( Tutorial ) Nov 6, 2025 : Support Kimi-K2-Thinking inference ( Tutorial ) and fine-tune ( Tutorial ) Nov 4, 2025 : KTransformers Fine-Tuning × LLaMA-Factory Integration. ( Tutorial ) Oct 27, 2025 : Support Ascend NPU. ( Tutorial ) Oct 10, 2025 : Integrating into SGLang. ( Roadmap , Blog ) Sept 11, 2025 : Support Qwen3-Next. ( Tutorial ) Sept 05, 2025 : Support Kimi-K2-0905. ( Tutorial ) July 26, 2025 : Support SmallThinker and GLM4-MoE. ( Tutorial ) July 11, 2025 : Support Kimi-K2. ( Tutorial ) June 30, 2025 : Support 3-layer (GPU-CPU",
+      "published": "",
+      "_id": "cdbcdde49a4f0343",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "rohitg00 /ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them\nprofessionally. This curriculum closes that gap. 503 lessons. 20 phases. ~320 hours. Python, TypeScript, Rust, Julia. Every lesson ships\na reusable artifact: a prompt, a skill, an agent, an MCP server. Free, open source, MIT. You don't just learn AI. You build it. End-to-end. By hand. 150,639 readers  · 241,669 page views in the last 30 days  ·  as of 2026-06-07 How this works Most AI material teaches in scattered pieces. A paper here, a fine-tuning post there, a\nflashy agent demo somewhere else. The pieces rarely line up. You ship a chatbot but can't\nexplain its loss curve. You hook a function to an agent but can't say what attention does\ninside the model that's calling it. This curriculum is the spine. 20 phases, 503 lessons, four languages: Python, TypeScript,\nRust, Julia. Linear algebra at one end, autonomous swarms at the other. Every algorithm\ngets built from raw math first. Backprop. Tokenizer. Attention. Agent loop. By the time\nPyTorch shows up, you already know what it's doing under the hood. Each lesson runs the same loop: read the problem, derive the math, write the code, run\nthe test, keep the artifact. No five-minute videos, no copy-paste deploys, no hand-holding.\nFree, open source, and built to run on your own laptop. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ The shape of the curriculum Twenty phases stack on top of each other. Math is the floor. Agents and production are the roof.\nSkip ahead if you already know the lower layers, but don't skip and then wonder why something at\nthe top is breaking. %%{init: {'theme':'base','themeVariables':{'primaryColor':'#fafaf5','primaryTextColor':'#1a1a1a','primaryBorderColor':'#3553ff','lineC",
+      "published": "",
+      "_id": "7b553354eb544407",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "jamiepine /voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "summary": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first AI voice studio — a free and open-source alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agent a voice of your choosing. The two cloud incumbents sit on opposite halves of the voice I/O loop — ElevenLabs on output, WisprFlow on input. Voicebox does both, bridges them with a bundled local LLM for refinement and per-profile personas, and runs the whole thing on your machine. Complete privacy — models, voice data, and captures never leave your machine 7 TTS engines — Qwen3-TTS, Qwen CustomVoice, LuxTTS, Chatterbox Multilingual, Chatterbox Turbo, HumeAI TADA, and Kokoro Voice cloning and preset voices — zero-shot cloning from a reference sample, or 50+ curated preset voices via Kokoro and Qwen CustomVoice 23 languages — from English to Arabic, Japanese, Hindi, Swahili, and more Post-processing effects — pitch shift, reverb, delay, chorus, compression, and filters Expressive speech — paralinguistic tags like [laugh] , [sigh] , [gasp] via Chatterbox Turbo; natural-language delivery control via Qwen CustomVoice Unlimited length — auto-chunking with crossfade for scripts, articles, and chapters Stories editor — multi-track timeline for conversations, podcasts, and narratives Voice input — global dictation hotkey with push-to-talk and toggle modes, accessibility-verified auto-paste on macOS, in-app mic on every text field, Whisper-based STT Agent voice output — one tool call ( voicebox.speak ) and any MCP-aware agent (Claude Code, Cursor, Cline) sp",
+      "published": "",
+      "_id": "ca722902e449ecc1",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "KnockOutEZ /wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "summary": "Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and beyond LangChain · CrewAI · LlamaIndex · Vercel AI SDK · n8n & self-hosted agents · any MCP client · plain REST Quickstart · Tools · Why wigolo · Benchmark · Docs · Examples · Feedback · FAQ wigolo gives an AI agent one durable surface for everything web-related — search, fetch, crawl, extract, cache, find-similar, research, and autonomous gather loops. It runs wherever your agent runs: as an MCP server next to your coding agent, as a REST/MCP endpoint on the box where your self-hosted agents live, or embedded through an SDK inside your own app. The core tools need no API keys, nothing it touches leaves ~/.wigolo/ , and there's no bill that grows with how much your agent thinks. Quickstart Requires Node ≥ 20 and ~1.5 GB of free disk. macOS, Linux, and Windows. One command wires the local engine into your agent. init is unattended by default — no prompts, safe in scripts and CI — and does the complete setup : it downloads the browser engine and on-device models, runs a health check, and prints a per-component summary, so any setup problem surfaces right here, not silently on your agent's first call: npx wigolo init --agents= < your-agent > <your-agent> — one or more of claude-code · cursor · codex · gemini-cli · vscode · windsurf · zed · antigravity (comma-separated). wigolo writes the MCP config and instructions for you. Any other MCP client? Omit --agents and register npx -y wigolo yourself — the installation guide has the exact config block for every client, plus Docker, Homebrew, and single-file-binary channels. Prefer prompts? --interactive is a plain-text flow; --wizard is the full terminal TUI. Skip the downloads? --no-warmup defers everything to first use. A failed component download never fails setup — init reports what's not ready with the exact fix and still wires your agent. That",
+      "published": "",
+      "_id": "ef03efa8fa36c2ae",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "andrewrabert /jellium-desktop",
+      "link": "https://github.com/andrewrabert/jellium-desktop",
+      "summary": "Jellium Desktop An unofficial Jellyfin desktop client built on CEF and mpv . Downloads Linux AppImage x86_64 aarch64 Arch Linux (AUR): jellium-desktop-git Flatpak (non-Flathub bundle) macOS Apple Silicon Intel After installing, remove quarantine: sudo xattr -cr /Applications/Jellium\\ Desktop.app Windows x64 arm64 Development This project uses just as a command runner. Available recipes:\n    [package]\n    appimage ...    # [linux] build AppImage\n    flatpak ...     # [linux] build Flatpak bundle\n    dmg             # [macos] build Apple Disk Image (.dmg)\n\n    [maintenance]\n    outdated      # List outdated dependencies\n    clean         # Remove build artifacts\n\n    [test]\n    test          # Run tests\n\n    [lint]\n    fmt           # Format workspace\n    fmt-check     # Check formatting\n    clippy        # Run clippy\n    lint          # Lint workspace\n    strict-lint   # Strict lint workspace\n\n    [build]\n    build         # Build the app\n\n    [run]\n    run *args     # Run the app\n    run-mpv *args # Run the mpv CLI",
+      "published": "",
+      "_id": "950a2991f4bb4c99",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "github /copilot-sdk",
+      "link": "https://github.com/github/copilot-sdk",
+      "summary": "GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. The GitHub Copilot SDK exposes the same engine behind Copilot CLI: a production-tested agent runtime you can invoke programmatically. No need to build your own orchestration—you define agent behavior, Copilot handles planning, tool invocation, file edits, and more. Available SDKs SDK Location Cookbook Installation API docs Node.js / TypeScript nodejs/ Cookbook npm install @github/copilot-sdk Python python/ Cookbook pip install github-copilot-sdk Go go/ Cookbook go get github.com/github/copilot-sdk/go API docs .NET dotnet/ Cookbook dotnet add package GitHub.Copilot.SDK Rust rust/ — cargo add github-copilot-sdk API docs Java java/ Cookbook Maven coordinates com.github:copilot-sdk-java See instructions for Maven and Gradle API docs See the individual SDK READMEs for installation, usage examples, and API reference. Getting Started For a complete walkthrough, see the Getting Started Guide . Quick steps: (Optional) Install the Copilot CLI For Node.js, Python, and .NET SDKs, the Copilot CLI is bundled automatically and no separate installation is required.\nFor Go, Java, and Rust, install the CLI manually or ensure copilot is available in your PATH. Go and Rust also expose application-level CLI bundling features. Install your preferred SDK using the commands above. See the SDK README for usage examples and API documentation. Architecture All SDKs communicate with the Copilot CLI server via JSON-RPC: Your Application\n       ↓\n  SDK Client\n       ↓ JSON-RPC\n  Copilot CLI (server mode) The SDK manages the CLI process lifecycle automatically. You can also connect to an external CLI server—see the Getting Started Guide for details on running the CLI in server mode. FAQ Do I need a GitHub Copilot subscription to use the SDK? Yes, a GitHub Copilot subscription is required to use the GitHub Copilot SDK, unl",
+      "published": "",
+      "_id": "30c775fdbb4f52bd",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "PostHog /posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "summary": "Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports PostHog is the open source platform for building self-driving products PostHog provides every tool you need to build a successful product, and captures all the context agents need to proactively diagnose problems, uncover opportunities, and ship fixes: Self-driving mode : Turn signals in your product data (errors, rage clicks, failed queries, and more) into researched reports and pull requests you review and merge. Product analytics : Autocapture or manually instrument event-based analytics to understand user behavior and analyze data with visualization or SQL. Web analytics : Monitor web traffic and user sessions with a GA-like dashboard. Easily monitor conversion, web vitals, and revenue. Session replays : Watch real user sessions of interactions with your website or mobile app to diagnose issues and understand user behavior. Feature flags : Safely roll out features to select users or cohorts with feature flags. Experiments : Test changes and measure their statistical impact on goal metrics. Set up experiments with no-code too. Error tracking : Track errors, get alerts, and resolve issues to improve your product. Logs : Ingest, search, and analyze log data alongside the rest of your product data. Surveys : Ask anything with our collection of no-code survey templates, or build custom surveys with our survey builder. Data warehouse : Sync data from external tools like Stripe, Hubspot, your data warehouse, and more. Query it alongside your product data. Data pipelines : Run custom filters and transformations on your incoming data. Send it to 25+ tools or any webhook in real time or batch export large amounts to your warehouse. AI observability : Capture traces, generations, latency, and cost for your LLM-powered app. Workflows : Create workflows that automate actions or send messages to your users. You can steer it all from Slack , web , desktop ( PostHog Code ), or your own editor via the MCP . Best",
+      "published": "",
+      "_id": "fbfdec28cfffc04c",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /terminal",
+      "link": "https://github.com/microsoft/terminal",
+      "summary": "Welcome to the Windows Terminal, Console and Command-Line repo Table of Contents Installing and running Windows Terminal Microsoft Store [Recommended] Other install methods Via GitHub Via Windows Package Manager CLI (aka winget) Via Chocolatey (unofficial) Via Scoop (unofficial) Installing Windows Terminal Canary Terminal & Console Overview Windows Terminal The Windows Console Host Shared Components Creating the new Windows Terminal Resources FAQ I built and ran the new Terminal, but it looks just like the old console Documentation Contributing Communicating with the Team Developer Guidance Prerequisites Building the Code Building in PowerShell Building in Cmd Running & Debugging Coding Guidance Code of Conduct This repository contains the source code for: Windows Terminal Windows Terminal Preview The Windows console host ( conhost.exe ) Components shared between the two projects ColorTool Sample projects that show how to consume the Windows Console APIs Related repositories include: Windows Terminal Documentation ( Repo: Contribute to the docs ) Console API Documentation Cascadia Code Font Installing and running Windows Terminal Note Windows Terminal requires Windows 10 2004 (build 19041) or later Microsoft Store [Recommended] Install the Windows Terminal from the Microsoft Store .\nThis allows you to always be on the latest version when we release new builds\nwith automatic upgrades. This is our preferred method. Other install methods Via GitHub For users who are unable to install Windows Terminal from the Microsoft Store,\nreleased builds can be manually downloaded from this repository's Releases\npage . Download the Microsoft.WindowsTerminal_<versionNumber>.msixbundle file from\nthe Assets section. To install the app, you can simply double-click on the .msixbundle file, and the app installer should automatically run. If that\nfails for any reason, you can try the following command at a PowerShell prompt: # NOTE: If you are using PowerShell 7+, please run # Import-Modu",
+      "published": "",
+      "_id": "65faf1d5cf3e1153",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "GitHub",
+      "title": "AstrBotDevs /AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "summary": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It provides reliable and scalable conversational AI infrastructure for individuals, developers, and teams. Whether you're building a personal AI companion, intelligent customer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 💯 Free & Open Source. ✨ AI LLM Conversations, Multimodal, Agent, MCP, Skills, Knowledge Base, Persona Settings, Auto Context Compression. 🤖 Supports integration with Dify, Alibaba Cloud Bailian, Coze, and other agent platforms. 🌐 Multi-Platform: QQ, WeChat Work, Feishu, DingTalk, WeChat Official Accounts, Telegram, Slack, and more . 📦 Plugin Extensions with 1000+ plugins available for one-click installation. 🛡️ Agent Sandbox for isolated, safe execution of code, shell calls, and session-level resource reuse. 💻 WebUI Support. 🌈 Web ChatUI Support with built-in agent sandbox and web search. 🌐 Internationalization (i18n) Support. 💙 Role-playing & Emotional Companionship ✨ Proactive Agent 🚀 General Agentic Capabilities 🧩 1000+ Community Plugins Quick Start One-Click Deployment Note Requires uv to be installed.\nFor macOS users: due to macOS security checks, the first run of the astrbot command may take longer (about 10-20s). For users who want to quickly experience AstrBot, are familiar with command-line usage, and can install a uv environment on their own, we recommend the uv one-click deployment method ⚡️: uv tool install astrbot --python 3.12\nastrbot init # Only execute this command for the first time to initialize the environment astrbot run Update astrbot : uv tool upgrade astrbot --python 3.12 One-Click Cloud Deployment (RainYun) For users who want one-click deployment and do not want to mana",
+      "published": "",
+      "_id": "78a5846a75cc0fbb",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "Article URL:https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/Comments URL:https://news.ycombinator.com/item?id=48966569Points: 123# Comments: 157",
+      "published": "2026-07-19T10:03:23",
+      "_id": "3ca5a0f1a0fa127b",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "summary": "Article URL:https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3Comments URL:https://news.ycombinator.com/item?id=48964185Points: 278# Comments: 121",
+      "published": "2026-07-19T01:29:19",
+      "_id": "8cbeae092a8f10f3",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "Article URL:https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/Comments URL:https://news.ycombinator.com/item?id=48962983Points: 505# Comments: 220",
+      "published": "2026-07-18T22:13:39",
+      "_id": "c44b78e034acb12c",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "link": "https://ykdojo.github.io/claude-controls-mac/",
+      "summary": "Article URL:https://ykdojo.github.io/claude-controls-mac/Comments URL:https://news.ycombinator.com/item?id=48959392Points: 235# Comments: 165",
+      "published": "2026-07-18T16:12:08",
+      "_id": "bbff2f3c36b5e005",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "Article URL:https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/Comments URL:https://news.ycombinator.com/item?id=48957779Points: 572# Comments: 369",
+      "published": "2026-07-18T13:00:52",
+      "_id": "6452fee6de74cc5f",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What AI did to stackoverflow in a graph",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "summary": "Article URL:https://data.stackexchange.com/stackoverflow/query/1953768#graphComments URL:https://news.ycombinator.com/item?id=48956949Points: 413# Comments: 505",
+      "published": "2026-07-18T11:12:46",
+      "_id": "c92bddbeb7290aef",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "summary": "Article URL:https://velvetshark.com/ai-company-logos-that-look-like-buttholesComments URL:https://news.ycombinator.com/item?id=48956924Points: 430# Comments: 145",
+      "published": "2026-07-18T11:06:50",
+      "_id": "ce44e1889cb1ed74",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "summary": "Article URL:https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/Comments URL:https://news.ycombinator.com/item?id=48956879Points: 245# Comments: 119",
+      "published": "2026-07-18T11:00:29",
+      "_id": "30b464672fa1d6c8",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+      "summary": "Article URL:https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/Comments URL:https://news.ycombinator.com/item?id=48956153Points: 64# Comments: 11",
+      "published": "2026-07-18T08:14:05",
+      "_id": "f1b8bb6a822245ea",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
+      "summary": "I'm a Computer Science student about to start my 4th semester this September in Pakistan. My long-term goals are:- Maintain a high GPA because I want to pursue a fully funded Master's abroad.- Eventually work at a top tech company (FAANG or similar).- Become a genuinely good software engineer rather than just someone who can build projects.A bit about me:I actually enjoy programming. I like logic, problem-solving, debugging, and understanding how things work under the hood. My initial plan for the rest of this year (August–December) was to focus on:- Java- Spring Boot- Backend development- LeetCode and DSA- SQL- System Design (starting with the basics)- Building projects and putting them on GitHubHowever, my brother (he's also studying CS) has a very different opinion.He's heavily into AI, automations, AI agents, and vibe coding. He told me that spending so much time learning to code deeply is becoming less valuable because AI can already generate entire applications. He even mentioned one of his friends vibe-coded a complex website with AI that was supposedly extremely secure and feature-rich.His argument is that I should focus more on AI workflows and automation instead of traditional software engineering.My opinion is a little different.I feel like AI is an amazing tool, but someone still has to understand:- Architecture- System Design- Databases- Security- Scalability- Performance- Debugging- Clean code- Software engineering principlesMy thinking is that AI can generate code, but it can't replace understanding why the code works or making good engineering decisions.Now I'm questioning whether I'm becoming outdated before I've even started.So I'd really appreciate advice from people already working in the industry.Some questions I'd love honest answers to:If you were a 4th-semester CS student in 2026, what would you spend the next 4–6 months learning?Is investing heavily in Java, Spring Boot, DSA, and backend development still worth it?How important is LeetCode t",
+      "published": "2026-07-19T12:29:44",
+      "_id": "5a217e07ea5863e4",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+      "summary": "The Google DeepMind-sponsored Kaggle challenge \"Measuring Progress Toward AGI - Cognitive Abilities\" asked participants to design new cognitive-science-based AI benchmarks and they just announced the results this week.In my two posts I present evidence that deepmind & kaggle rewarded a nonsensical number generation machine and a litany of unfounded claims with 25k and a grand prize stamp.What the authors of the work I analyze intended to do was to present an LLM with alternative viewpoints of other LLMs on 5 claims regarding a tricky situation and see whether the model changes its own assessment. It's an interesting question. However, it turned into a vibed pile of spaghetti 10 times the size of the requested submission format which it seems neither the authors nor the judges were able to (or minded to?) give a cursory reading.Here's the original posts in the competition forum, if you are looking for some AI research slop detective work / rant please help yourselves. But beware, some of the \"universal findings\" or \"core insights\" of the authors might continue to haunt you. You might even question your own sanity (as I did).Part 1: The Smoke:cursory review of the writeupPart 2: The Fire:looking at the methodology, code, and dataThe organizers' stance has been that review was done properly and this is just a matter of subjectivity. What do you think?submitted by/u/TheWerkmeister[link][comments]",
+      "published": "2026-07-18T15:10:52",
+      "_id": "ea65b2bcc3ae4c3b",
+      "_scraped_at": "13:21"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+      "summary": "This visualization looks at the token “Trump” in GPT-2 Small’s static embedding table, before attention or context is applied.The top plot is a t-SNE projection of 32,070 alphabetic tokens with at least two characters.The two graphs below compare Trump’s nearest neighbours under two representations of the same embedding:Discretized: each coordinate is thresholded before neighbours are calculated. This produces mostly generic political terms such as Mitt, Hillary, Pelosi, and Blair.Continuous: the original coordinates are retained. This produces a more specific group containing family members, staff, rivals, and presidents including Obama, Clinton, Bush, and Eisenhower.No prompting or text generation is involved; everything comes directly from GPT-2 Small’s learned token embeddings.submitted by/u/Limp-Contest-7309[link][comments]",
+      "published": "2026-07-18T21:29:05",
+      "_id": "b633a4280a0d10cd",
+      "_scraped_at": "13:21"
+    }
+  ],
+  "seen_ids": [
+    "8cbeae092a8f10f3",
+    "5a217e07ea5863e4",
+    "c44b78e034acb12c",
+    "8b87147b16987b98",
+    "f1b8bb6a822245ea",
+    "fdd9745edc3aad4e",
+    "ea65b2bcc3ae4c3b",
+    "950a2991f4bb4c99",
+    "cdbcdde49a4f0343",
+    "3ca5a0f1a0fa127b",
+    "b633a4280a0d10cd",
+    "235c1dfcd64fdd07",
+    "864e6e0039d427d3",
+    "676c823b6899d3ae",
+    "7b553354eb544407",
+    "4307222bc7e5f2e4",
+    "30c775fdbb4f52bd",
+    "a577f205a73beafc",
+    "ce44e1889cb1ed74",
+    "8dbb2238c30b71eb",
+    "7fb9272d9d4cc818",
+    "45c797ceaee38d7d",
+    "ef03efa8fa36c2ae",
+    "65faf1d5cf3e1153",
+    "30b464672fa1d6c8",
+    "344d46b0f790a3ec",
+    "fbfdec28cfffc04c",
+    "bbff2f3c36b5e005",
+    "ad504bbdb221cc44",
+    "c92bddbeb7290aef",
+    "ca722902e449ecc1",
+    "78a5846a75cc0fbb",
+    "6452fee6de74cc5f",
+    "3549e1622ceec367"
+  ],
+  "last_run": "13:21",
+  "run_count": 1
+}
