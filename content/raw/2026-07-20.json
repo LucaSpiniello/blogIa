@@ -1,0 +1,439 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "source": "NVIDIA AI",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+      "published": "2026-07-20T10:59:23",
+      "_id": "af4560cf6a7ce28d",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "summary": "Product Introducing Claude for Teachers Jul 14, 2026 We're introducing Claude for Teachers , providing verified K-12 educators in the US free access to premium Claude capabilities, a library of teaching skills, and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. Why we’re building for teachers Decades of research show that practices like differentiation, mastery-based learning, and small group instruction reliably improve student achievement, but teachers are often short on time and resources to implement them. Budgets are stretched, classes may be too large to meet every student's individual needs, and planning often spills into evenings. This strain is heaviest in under-resourced schools. Claude for Teachers is designed to close the gap between educational best practices and what a teacher's week allows. Early evidence suggests that while the impact of AI tools for students is mixed and depends on the implementation, AI tools for teachers can strengthen instructional practice and improve student outcomes. This is the aim of Claude for Teachers: support the craft behind great teaching and protect what teachers value most—time with their students. Connected to evidence-based curricula and the K-12 ecosystem Claude for Teachers connects to Learning Commons , giving Claude access to academic standards across all 50 states—and beneath each standard, the smaller learning competencies it's built from and the order students typically learn them. So when Claude drafts a lesson plan, it’s scaffolded and aligned to teaching standards. Claude for Teachers also brings in trusted curricular resources like OpenSciEd and IM v.360 from Illustrative Mathematics . As of today, educators can now connect Claude across an entire ecosystem of K-12 tools. ASSISTments : Generate auto-scored, standards-aligned math problems for practice and assessment. Brisk Teaching : Create interactive student activities and standards-aligned lessons, turni",
+      "published": "",
+      "_id": "ad504bbdb221cc44",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "published": "2026-07-19T21:16:07",
+      "_id": "f26afcf21c3f7e18",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "published": "2026-07-19T19:24:45",
+      "_id": "0aba2be743cd52af",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "published": "2026-07-19T14:52:08",
+      "_id": "1fcca80208dd9321",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
+      "published": "2026-07-19T14:00:00",
+      "_id": "990fa243b146f3dd",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming […]",
+      "published": "2026-07-20T10:16:33",
+      "_id": "28429de772d3a99f",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that […]",
+      "published": "2026-07-19T17:35:54",
+      "_id": "c8c3ec20e26996aa",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+      "published": "2026-07-20T12:10:00",
+      "_id": "0ace738400ef1bd9",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
+      "published": "2026-07-20T08:39:01",
+      "_id": "35a1b28301c09202",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "tirth8205 /code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "summary": "code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage · Commands · FAQ · Troubleshooting · GitHub Action · Reproducing the benchmarks · Roadmap AI coding tools can end up re-reading large parts of your codebase on review tasks. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter , tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters. Quick Start pip install code-review-graph # or: pipx install code-review-graph code-review-graph install # auto-detects and configures all supported platforms code-review-graph build # parse your codebase One command sets up everything. install detects which AI coding tools you have, writes the correct MCP configuration for each one, installs platform-native hooks/skills where supported, and injects graph-aware instructions into your platform rules. It auto-detects whether you installed via uvx or pip / pipx and generates the right config. Restart your editor/tool after installing. To target a specific platform: code-review-graph install --platform codex # configure only Codex code-review-graph install --platform cursor # configure only Cursor code-review-graph install --platform claude-code # configure only Claude Code code-review-graph install --platform gemini-cli # configure only Gemini CLI code-review-graph install --platform kiro # configure only Kiro code-review-graph install --platform copilot # configure only GitHub Copilot (VS Code) code-review-graph install --platform copilot-cli # configure only GitHub Copilot CLI code-review-graph install --platform codebuddy # configure only CodeBuddy Code Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly). To remove CRG from a Git or SVN project, use the symmetric uninstall command\nfrom anywhere inside its working tree. The target i",
+      "published": "",
+      "_id": "344d46b0f790a3ec",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "1jehuang /jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "summary": "jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https: // jcode.sh / install.ps1 | iex Need Homebrew, source builds, provider setup, or want an agent to set it up for you? Jump to detailed installation . Performance & Resource Efficiency jcode is built to be as performant and resource efficient as possible. Every metric is optimized to the bone, which is important for scaling multi-session workflows. Here we sample a few metrics to show the difference: RAM usage and boot up. RAM comparison 1 active session Tool PSS Comparison jcode (local embedding off) 27.8 MB baseline jcode 167.1 MB 6.0× more RAM pi 144.4 MB 5.2× more RAM Codex CLI 140.0 MB 5.0× more RAM OpenCode 371.5 MB 13.4× more RAM GitHub Copilot CLI 333.3 MB 12.0× more RAM Cursor Agent 214.9 MB 7.7× more RAM Claude Code 386.6 MB 13.9× more RAM Antigravity CLI 243.7 MB 8.8× more RAM 10 active sessions Tool PSS Comparison jcode (local embedding off) 117.0 MB baseline jcode 260.8 MB 2.2× more RAM pi 833.0 MB 7.1× more RAM Codex CLI 334.8 MB 2.9× more RAM OpenCode 3237.2 MB 27.7× more RAM GitHub Copilot CLI 1756.5 MB 15.0× more RAM Cursor Agent 1632.4 MB 14.0× more RAM Claude Code 2300.6 MB 19.7× more RAM Antigravity CLI 1021.2 MB 8.7× more RAM Time to first frame Tool Time to first frame Range Comparison jcode 14.0 ms 10.1–19.3 ms baseline Antigravity CLI 383.5 ms 363.1–415.4 ms 27.4× slower pi 590.7 ms 369.6–934.8 ms 42.2× slower Codex CLI 882.8 ms 742.3–1640.9 ms 63.1× slower OpenCode 1035.9 ms 922.5–1104.4 ms 74.0× slower GitHub Copilot CLI 1518.6 ms 1357.4–1826.8 ms 108.5× slower Cursor Agent 1949.7 ms 1711.0–2104.8 ms 139.3× slower Claude Code 3436.9 ms 2032.7–8927.2 ms 245.5× slower Measured on this Linux machine across 10",
+      "published": "",
+      "_id": "2a7f0fddd2dac162",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "diegosouzapw /OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "summary": "🚀 OmniRoute — The Free AI Gateway 💰 ~1.4B Free Tokens / Month Stacking free tiers by hand is painful — dozens of SDKs, dozens of rate limits, and no idea how much you actually have. OmniRoute aggregates the documented free tiers of 39 provider pools / 460+ models into one honest number and shows it live on the dashboard ( /dashboard/free-tiers ). Animated summary of the live /dashboard/free-tiers page. Full methodology (pool dedupe, credit tiers, provider terms): docs/reference/FREE_TIERS.md . These figures are re-audited every two weeks against the live catalog and move both ways — a provider ends a free tier and the number drops; a new one lands and it climbs. We publish what the catalog actually computes, never a rounded-up best case. A CI gate ( check:docs-counts ) fails the build if this headline drifts from the code. ⭐ Star the repo if OMNIROUTE helped you save money and make your work easier. 💬 Join the community Questions, provider tips, roadmap & support → Discord · Telegram · WhatsApp 🌍 Global / 🇧🇷 Brasil 🧩 Available 🚀 Quick Start • 🎯 Combos • 🌐 Providers • 🔌 CLI & MCP • 🗜️ Compression • 🌍 Website 💥 The Promise • 🤔 Why • 🏆 What Sets Apart • 🤖 Compatible CLIs • 🖥️ Where It Runs • 🔒 Private • 🎬 In Action • 📸 Screenshots • 📧 Support 🌐 In 43 languages 🇺🇸 🇧🇷 🇵🇹 🇪🇸 🇫🇷 🇮🇹 🇩🇪 🇳🇱 🇷🇺 🇺🇦 🇵🇱 🇨🇿 🇸🇰 🇷🇴 🇭🇺 🇧🇬 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇨🇳 🇹🇼 🇯🇵 🇰🇷 🇹🇭 🇻🇳 🇮🇩 🇲🇾 🇵🇭 🇮🇳 🇮🇳 🇮🇳 🇮🇳 🇮🇳 🇮🇳 🇧🇩 🇵🇰 🇮🇷 🇸🇦 🇮🇱 🇹🇷 🇦🇿 🇹🇿 💥 The Promise 🤔 Why OmniRoute? 🎯 Combos — The Flagship A combo is a chain of models OmniRoute routes across automatically . Quota runs out, a provider fails, or costs spike — the combo silently slides to the next model. This is what makes OmniRoute unbreakable. 🛡️ ⚡ Zero-config — just use auto No combo to create. Set your model to auto (or a variant) and OmniRoute builds a virtual combo from your connected providers, scored live: Model ID What it optimizes for auto 🎯 Balanced default (LKGP — sticks to your last good provider) auto/coding 🧑‍💻 Quality-first weights for code generation aut",
+      "published": "",
+      "_id": "0446821518e71993",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "rohitg00 /ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them\nprofessionally. This curriculum closes that gap. 503 lessons. 20 phases. ~320 hours. Python, TypeScript, Rust, Julia. Every lesson ships\na reusable artifact: a prompt, a skill, an agent, an MCP server. Free, open source, MIT. You don't just learn AI. You build it. End-to-end. By hand. 150,639 readers  · 241,669 page views in the last 30 days  ·  as of 2026-06-07 How this works Most AI material teaches in scattered pieces. A paper here, a fine-tuning post there, a\nflashy agent demo somewhere else. The pieces rarely line up. You ship a chatbot but can't\nexplain its loss curve. You hook a function to an agent but can't say what attention does\ninside the model that's calling it. This curriculum is the spine. 20 phases, 503 lessons, four languages: Python, TypeScript,\nRust, Julia. Linear algebra at one end, autonomous swarms at the other. Every algorithm\ngets built from raw math first. Backprop. Tokenizer. Attention. Agent loop. By the time\nPyTorch shows up, you already know what it's doing under the hood. Each lesson runs the same loop: read the problem, derive the math, write the code, run\nthe test, keep the artifact. No five-minute videos, no copy-paste deploys, no hand-holding.\nFree, open source, and built to run on your own laptop. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ The shape of the curriculum Twenty phases stack on top of each other. Math is the floor. Agents and production are the roof.\nSkip ahead if you already know the lower layers, but don't skip and then wonder why something at\nthe top is breaking. %%{init: {'theme':'base','themeVariables':{'primaryColor':'#fafaf5','primaryTextColor':'#1a1a1a','primaryBorderColor':'#3553ff','lineC",
+      "published": "",
+      "_id": "7b553354eb544407",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "msitarzewski /agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🆕 There's an app now Agency Agents is a native app for macOS, Linux & Windows that browses the entire roster and installs it into Claude Code, Cursor, Codex, Gemini, Osaurus, and more — with a click. No clone, no scripts, and it auto-updates. → Download the latest release · agencyagents.app 🚀 What Is This? Born from a Reddit thread and months of iteration, The Agency is a growing collection of meticulously crafted AI agent personalities. Each agent is: 🎯 Specialized : Deep expertise in their domain (not generic prompt templates) 🧠 Personality-Driven : Unique voice, communication style, and approach 📋 Deliverable-Focused : Real code, processes, and measurable outcomes ✅ Production-Ready : Battle-tested workflows and success metrics Think of it as : Assembling your dream team, except they're AI specialists who never sleep, never complain, and always deliver. ⚡ Quick Start Option 1: Install the app (Recommended) The fastest way in — no clone, no terminal. Agency Agents is a native desktop app (macOS · Linux · Windows) that browses the whole roster and installs agents into Claude Code, Cursor, Codex, Gemini CLI, OpenCode, Qwen, and Osaurus for you, then keeps them up to date. ⬇ Download the latest release — or on a Mac: brew install --cask msitarzewski/agency-agents/agency-agents Prefer the command line? The script-based options below install the same agents. Option 2: Use with Claude Code # Install all agents to your Claude Code directory ./scripts/install.sh --tool claude-code # Or manually copy a category if you only want one division cp engineering/ * .md ~ /.claude/agents/ # Then activate any agent in your Claude Code sessions: # \"Hey Claude, activate Frontend Developer mode and help ",
+      "published": "",
+      "_id": "0b6244279772ea4c",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "kvcache-ai /ktransformers",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "summary": "A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overview KTransformers is a research project focused on efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing. The project now exposes two user-facing capabilities from the kt-kernel source tree: Inference and SFT . 🔥 Updates June 21, 2026 : MiniMax-M3 Day0 Support! ( Tutorial ) June 17, 2026 : GLM-5.2 Day0 Support! ( Tutorial ) May 6, 2026 : KTransformers at GOSIM Paris 2026 — \"Agentic AI on Edge\" track. We'll present KT's inference performance on consumer hardware. May 02, 2026 : DeepSeek-V4-Flash Support! ( Tutorial ) Apr 30, 2026 : KTransformers v0.6.1 refreshes kt-kernel inference and SFT docs with separate Inference and SFT Quick Start entry points. Mar 26, 2026 : Support AVX2-only CPU backend for KT-Kernel inference. ( Tutorial ) Feb 13, 2026 : MiniMax-M2.5 Day0 Support! ( Tutorial ) Feb 12, 2026 : GLM-5 Day0 Support! ( Tutorial ) Jan 27, 2026 : Kimi-K2.5 Day0 Support! ( Tutorial ) ( SFT Tutorial ) Jan 22, 2026 : Support CPU-GPU Expert Scheduling , Native BF16 and FP8 per channel Precision and AutoDL unified fine-tuning and inference Dec 24, 2025 : Support Native MiniMax-M2.1 inference. ( Tutorial ) Dec 22, 2025 : Support RL-DPO fine-tuning with LLaMA-Factory. ( Tutorial ) Dec 5, 2025 : Support Native Kimi-K2-Thinking inference ( Tutorial ) Nov 6, 2025 : Support Kimi-K2-Thinking inference ( Tutorial ) and fine-tune ( Tutorial ) Nov 4, 2025 : KTransformers Fine-Tuning × LLaMA-Factory Integration. ( Tutorial ) Oct 27, 2025 : Support Ascend NPU. ( Tutorial ) Oct 10, 2025 : Integrating into SGLang. ( Roadmap , Blog ) Sept 11, 2025 : Support Qwen3-Next. ( Tutorial ) Sept 05, 2025 : Support Kimi-K2-0905. ( Tutorial ) July 26, 2025 : Support SmallThinker and GLM4-MoE. ( Tutorial ) July 11, 2025 : Support Kimi-K2. ( Tutorial ) June 30, 2025 : Support 3-layer (GPU-CPU",
+      "published": "",
+      "_id": "cdbcdde49a4f0343",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "jamiepine /voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "summary": "Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh • Docs • Download • Features • API • Troubleshooting Click the image above to watch the demo video on voicebox.sh What is Voicebox? Voicebox is a local-first AI voice studio — a free and open-source alternative to ElevenLabs and WisprFlow in one app. Clone voices from a few seconds of audio, generate speech in 23 languages across 7 TTS engines, dictate into any text field with a global hotkey, and give any MCP-aware AI agent a voice of your choosing. The two cloud incumbents sit on opposite halves of the voice I/O loop — ElevenLabs on output, WisprFlow on input. Voicebox does both, bridges them with a bundled local LLM for refinement and per-profile personas, and runs the whole thing on your machine. Complete privacy — models, voice data, and captures never leave your machine 7 TTS engines — Qwen3-TTS, Qwen CustomVoice, LuxTTS, Chatterbox Multilingual, Chatterbox Turbo, HumeAI TADA, and Kokoro Voice cloning and preset voices — zero-shot cloning from a reference sample, or 50+ curated preset voices via Kokoro and Qwen CustomVoice 23 languages — from English to Arabic, Japanese, Hindi, Swahili, and more Post-processing effects — pitch shift, reverb, delay, chorus, compression, and filters Expressive speech — paralinguistic tags like [laugh] , [sigh] , [gasp] via Chatterbox Turbo; natural-language delivery control via Qwen CustomVoice Unlimited length — auto-chunking with crossfade for scripts, articles, and chapters Stories editor — multi-track timeline for conversations, podcasts, and narratives Voice input — global dictation hotkey with push-to-talk and toggle modes, accessibility-verified auto-paste on macOS, in-app mic on every text field, Whisper-based STT Agent voice output — one tool call ( voicebox.speak ) and any MCP-aware agent (Claude Code, Cursor, Cline) sp",
+      "published": "",
+      "_id": "ca722902e449ecc1",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "topoteretes /cognee",
+      "link": "https://github.com/topoteretes/cognee",
+      "summary": "Cognee - The Open-Source AI Memory Platform for Agents Demo . Docs . Learn More · Join Discord · Join r/AIMemory . Community Plugins & Add-ons Cognee is the open-source AI memory platform that gives AI agents persistent long-term memory across sessions. Ingest data in any format, build a self-hosted knowledge graph, and let every agent recall, connect, and act with full context 🌐 This README is also available in:\n  : Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 📄 Read the research paper: Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning — Markovic et al., 2025 About Cognee Cognee is an open-source AI memory platform for AI Agents. Ingest data in any format, and Cognee continuously builds a self-hosted knowledge graph that gives your agents persistent long-term memory across sessions. Cognee combines vector embeddings, graph reasoning, and cognitive-science-grounded ontology generation to make documents both searchable by meaning and connected by relationships that evolve as your knowledge does. ⭐ Help us reach more developers and grow the cognee community. Star this repo! 📚 Check our detailed documentation for setup and configuration. 🦀 Available as a plugin for your OpenClaw — cognee-openclaw ✴️ Available as a plugin for your Claude Code — claude-code-plugin 🦀 Available as a Rust client — cognee-rs 🟦 Available as a TypeScript client — @cognee/cognee-ts Why use Cognee: Easily Build Company Brain - unify data from various sources in one place and enable Agents with your domain knowledge Knowledge infrastructure — unified ingestion, graph/vector search, runs locally, ontology grounding, multimodal Persistent and Learning Agents - learn from feedback, context management, cross-agent knowledge sharing Reliable and Trustworthy Agents - agentic user/tenant isolation, traceability, OTEL collector, audit traits How it Works Basic Usage & Feature Guide To learn more, check out this short, end-to-end Colab walkthrough of C",
+      "published": "",
+      "_id": "d399d99ef4e490b6",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "Robbyant /lingbot-map",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team teaser.mp4 🗺️ Meet LingBot-Map! We've built a feed-forward 3D foundation model for streaming 3D reconstruction! 🏗️🌍 LingBot-Map has focused on: Geometric Context Transformer : Architecturally unifies coordinate grounding, dense geometric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory. High-Efficiency Streaming Inference : A feed-forward architecture with paged KV cache attention, enabling stable inference at ~20 FPS on 518×378 resolution over long sequences exceeding 10,000 frames. State-of-the-Art Reconstruction : Superior performance on diverse benchmarks compared to both existing streaming and iterative optimization-based approaches. 📑 Table of Contents Click to expand 📰 News 📋 TODO ⚙️ Installation 📦 Model Download 🚀 Quick Start 🎬 Interactive Demo ( demo.py ) Try the Example Scenes Streaming with Keyframe Interval Windowed Inference (for long sequences, >3000 frames) Sky Masking Visualization Options Performance & Memory 🎥 Offline Rendering Pipeline ( demo_render/batch_demo.py ) 📜 License 📖 Citation ✨ Acknowledgments 📰 News 2026-06-28 — Fixed an SDPA KV cache bug. The SDPA backend now performs better on long sequences . We still recommend the FlashInfer backend for the best performance. 2026-05-25 — 📊 Evaluation benchmark released . We released the evaluation scripts for KITTI and Oxford Spires — see benchmark/ for the pipeline, and run preprocess/oxford.py to prepare Oxford Spires data before evaluation. 2026-04-29 — 📹 Long-video demo released . We released a very-long-video example (~25 000 frames, 13-minute indoor walkthrough) rendered with the offline pipeline — see Worked Example for the command, flag rationale, and rendered output. 2026-04-27 — 🚀 LingBot-Map accelerated . Pull the latest main and run python demo.py --compile ... or python gct_profile.py --backend flashinfer -",
+      "published": "",
+      "_id": "3b553260d52e5800",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "every-app /open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "summary": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? Best in class MCP and AI Skills. Modern, simple UI. Focused workflows instead of a bloated, complex SEO suite. No subscriptions. Bring your own DataForSEO API key and pay only for what you use. Fork and vibe code your own custom tool. Main SEO Workflows Keyword research Rank tracking Competitor Insights Backlinks Site Audits AI Visibility OpenSEO MCP & Agent Skills OpenSEO exposes an MCP server so AI agents like Claude Code, OpenClaw, and Hermes can use your SEO data directly. Agent Skills are reusable workflows that guide your agent through SEO tasks using the MCP. Set up OpenSEO MCP Set up OpenSEO Agent Skills Self-Hosting OpenSEO supports two self-hosting paths: Simple: Docker for personal use on your own machine (recommended for getting started). See docs/SELF_HOSTING_DOCKER.md . Advanced: Cloudflare for internet-facing self-hosting across multiple devices or with your team (works on the free plan). See docs/SELF_HOSTING_CLOUDFLARE.md . Either way, you need a DataForSEO API key to get SEO data. See docs/DATAFORSEO_API_KEY.md . Costs OpenSEO needs a DataForSEO API key so that you can get SEO data. You pay them directly when self hosting. See openseo.so/pricing When you self host, your costs will be slightly lower than the estimates on our website. The way the hosted service makes money is by charging 28% extra for every request we make to DataForSEO. Local Development See docs/LOCAL_DEVELOPMENT.md . Contri",
+      "published": "",
+      "_id": "cb2c51bc30a37065",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "summary": "Article URL:https://xcancel.com/__alpoge__/status/2079028340955197566Comments URL:https://news.ycombinator.com/item?id=48973869Points: 537# Comments: 334",
+      "published": "2026-07-20T02:51:16",
+      "_id": "445430a898f7fee7",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "link": "https://news.ycombinator.com/item?id=48972858",
+      "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs?I miss the 2009 era of blogging about personal projects or super niche factoids.Comments URL:https://news.ycombinator.com/item?id=48972858Points: 84# Comments: 36",
+      "published": "2026-07-19T23:58:12",
+      "_id": "e5223e67243bcea8",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "Article URL:https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-studyComments URL:https://news.ycombinator.com/item?id=48971738Points: 349# Comments: 202",
+      "published": "2026-07-19T21:18:10",
+      "_id": "8c341ca217c5b9c5",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "summary": "Article URL:https://twitter.com/kimi_moonshot/status/2078855608565207130Comments URL:https://news.ycombinator.com/item?id=48969291Points: 273# Comments: 109",
+      "published": "2026-07-19T16:02:25",
+      "_id": "88d1139971f75245",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "Article URL:https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/Comments URL:https://news.ycombinator.com/item?id=48966569Points: 573# Comments: 767",
+      "published": "2026-07-19T10:03:23",
+      "_id": "3ca5a0f1a0fa127b",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "summary": "Article URL:https://training.perforce.com/learn/courses/535/p4-helix-core-user-basicComments URL:https://news.ycombinator.com/item?id=48965886Points: 53# Comments: 84",
+      "published": "2026-07-19T08:00:24",
+      "_id": "74224814c30701e7",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
+      "summary": "So, I just read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get opinions on what others thought of his solution to the problem. He thinks JEPA could be the solution. But it made me think about whether JEPA is genuinely the architectural solution to this, or if we’re just looking for a \"magic bullet\" that doesn't exist yet in our toolboxI have the link here:https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030submitted by/u/ConsciousGreenPepper[link][comments]",
+      "published": "2026-07-20T10:50:04",
+      "_id": "50b9cb6bb7921d6c",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v16l6a/are_there_some_textbooks_that_take_a_primarily/",
+      "summary": "As someone who studied stats undergrad and industrial engineering operations research grad, and who thinks about the practical business of ML components in software....I get lost and a bit hopeless when I think about how to make useful software out of ML models in a reasonable amount of time, and in the current business environment.And when I look at the businesses where I have worked that have mountains of middle management running tiny bits of the ML model lifecycle (think feature extraction, data ingestion and integration, training infra, hosting infra, more hosting infra, applied science)... that only makes my head hurt even more.How do you go about making practical software out of ML components?Edit: I should mention that I mean from scratch ML components, not just a call to a third party hosted tool.submitted by/u/ConstructionBoth6461[link][comments]",
+      "published": "2026-07-20T00:32:08",
+      "_id": "27386066d3e0d368",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "ARR 2026 Meta Review score [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1bd95/arr_2026_meta_review_score_d/",
+      "summary": "Hey any one experience overall score 2.66 and then Meta score 3 in some previous cycle ?? Or meta reviewer just rounded off 2.66 to 2.5?? Any Meta Reviewer here?? because there are some uninterested reviewers doing AI generated reviews and giving noisy scores. For them overall score gets lowered.submitted by/u/Historical_Pause247[link][comments]",
+      "published": "2026-07-20T04:29:06",
+      "_id": "5e9f93d6f99317ca",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "link": "https://arxiv.org/abs/2607.15280",
+      "summary": "arXiv:2607.15280v1 Announce Type: new \nAbstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive testing. We propose GraphDx, a knowledge-enhanced framework with two core innovations. First, we design an automated pipeline that leverages LLMs to construct Medical Diagnosis Knowledge Graphs (MDKGs) with quantized typicality, action-centric topology, and dual-objective attributes for both diagnostic relevance and cost-sensitivity. Second, we introduce three collaborative agents (Perception, Reasoning, and Decision) where the Perception and Decision Agents handle language understanding and generation, while the Reasoning Agent performs deterministic evidence scoring and cost-aware planning on the MDKG. Experiments on MedQA and MIMIC-IV across three LLM backbones (DeepSeek-V3, Kimi-k2, Llama-3.3) show that GraphDx improves diagnostic success rates from 50--68% to 79--93% while reducing test costs by 20--54%, providing a robust, economical, and interpretable solution for automated clinical diagnosis.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "993de2c70a2af8af",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "link": "https://arxiv.org/abs/2607.15281",
+      "summary": "arXiv:2607.15281v1 Announce Type: new \nAbstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely on implicit language-level reasoning, resulting in opaque causal assumptions, unverifiable reasoning paths, and fragile predictions under complex interventions, particularly in context-free settings. In this paper, we propose an explicit and auditable causal reasoning framework for context-free intervention-based question answering. Our method formulates causal inference as structured reasoning over an explicit causal graph through four modular stages, rather than implicit end-to-end prediction. A key innovation is a target-aware causal graph construction strategy that treats the target variable as a core constraint during graph expansion, effectively suppressing irrelevant variables, spurious causal relations, and reasoning noise. We further introduce a path-level causal evidence aggregation mechanism that combines multiple causal paths while modeling both reinforcing and counteracting effects, enabling robust decision-making beyond single-chain reasoning. Extensive experiments on three benchmarks demonstrate that our framework consistently outperforms existing LLM-based methods while providing interpretable and auditable causal reasoning traces.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "3d786f5a68299e02",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "link": "https://arxiv.org/abs/2607.15314",
+      "summary": "arXiv:2607.15314v1 Announce Type: new \nAbstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare-specialized LLM trained through a human-gated self-evolution loop. In each evolution round, a training agent plans a target capability, trains the model, evaluates benchmark trajectories, and refines the data mixture from observed failures. This data-centered loop improves the model through targeted synthetic and curated examples rather than a single generic medical-data update. Across the healthcare evaluation suite, Cura 1T ranks at or near the top among frontier baselines, while remaining competitive on out-of-domain reasoning and agentic benchmarks.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "6d77f538e9c67e81",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "link": "https://arxiv.org/abs/2607.15367",
+      "summary": "arXiv:2607.15367v1 Announce Type: new \nAbstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe AnovaX, a small local-first assistant that runs entirely on the user's computer and treats the desktop itself as its action surface. A single Python process wires together a wake-word gate, a speech pipeline, an LLM planner (Gemini) that emits a JSON plan of tool calls, a whitelist-and-denylist safety layer, a multi-agent orchestrator that translates each plan into typed child agents on a bounded thread pool, and an adaptive recovery loop that takes over whenever a core step fails. Every tool corresponds to a specialized agent class (AppAgent, TypingAgent, BrowserAgent and six others) with its own timeout, retry policy, and shared-resource locks. A recursive MetaAgent lets the planner delegate a sub-goal back to itself, capped at two levels of nesting. The recovery loop uses a compact ReAct-style prompt and hides Gemini's latency behind speculative execution of read-only tools. A companion Flask server exposes a phone-friendly remote over the local WiFi, mirrors every agent lifecycle event to the phone in real time, and streams the laptop's screen back over MJPEG so the user can watch remote commands land as they run. The point of the project is less to compete with Siri or Alexa than to show that a legible, few-thousand-line assistant is enough to open apps, type into them, run searches, coordinate concurrent actions, recover from single-step failures, and be driven entirely from a phone in another room -- without the LLM ever touching the keyboard.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "28d2e5cda847dcca",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+      "link": "https://arxiv.org/abs/2607.15388",
+      "summary": "arXiv:2607.15388v1 Announce Type: new \nAbstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should help turn wrong candidates into correct ones. We test this assumption on 4,181 verifier-grounded Omni-MATH problems using matched gpt-oss-120b actors. Collaboration adds little on the easiest tiers, but from tier 4 onward the gains open sharply; in this harder regime, broadcast-style peer discussion reaches higher final accuracy than a planner-executor-reviewer pipeline (PER). We ask whether this gap is explained by reviewer quality or by whether critique changes the next answer the protocol carries forward. It is not explained by reviewer precision alone: PER's reviewer is more precise than broadcast's (0.861 vs. 0.644), yet evaluator-verified useful critique is much less likely to change the next candidate and produces lower reviewer-guided repair. These results show that reviewer detection quality and critique uptake are empirically separable. Within matched PER interventions, forcing explicit acknowledgment lowers final accuracy, while embedding reviewer guidance directly in the solver's working context partially improves follow-through without closing the gap. Overall, reviewer-centric evaluation can overstate system quality: a protocol may spot errors well yet still fail to solve more problems if it does not act on those critiques.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "be55531fe3b01544",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
+      "link": "https://arxiv.org/abs/2607.15380",
+      "summary": "arXiv:2607.15380v1 Announce Type: new \nAbstract: Electronic health records combine free-text clinical narratives with structured measurements such as vital signs, laboratory values, and comorbidities. Yet most clinical prediction systems still rely on task-specific fusion architectures, pairing dedicated encoders for each modality with learned combination mechanisms that must be re-engineered for every new task and clinical setting. We propose a simpler alternative: convert all patient data, regardless of modality, into a single natural language sequence and fine-tune a pretrained language model end-to-end, with no architectural modification for fusion. We evaluate this approach across three clinically distinct prediction tasks: in-hospital mortality on MIMIC-III, graft failure prediction using longitudinal data from a German transplant center, and emergency triage classification from ambulance records - comparing encoder-based (ModernBERT) and decoder-based (Llama 3.1, Gemma, DeepSeek-R1-Qwen, Qwen3) fine-tuning against established multimodal baselines and, for graft failure, a gradient boosting model currently used in clinical practice for post-transplant patient management. Across all three tasks, unified textual serialization matches or exceeds task-specific multimodal baselines, and outperforms the clinically deployed gradient boosting system on graft failure prediction. These results indicate that a single serialization-based paradigm, without bespoke fusion architectures, is sufficient for multimodal clinical prediction - substantially reducing system complexity while matching or exceeding specialized designs.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "5b46dc8e82b7e1ba",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "link": "https://arxiv.org/abs/2607.15495",
+      "summary": "arXiv:2607.15495v1 Announce Type: new \nAbstract: Out of everything the human brain processes, only a small fraction is consciously accessible, in the sense of being available for verbal report, deliberate control, and flexible reasoning. In this paper, we present evidence that an analogous functional distinction has emerged in large language models. Using a new interpretability technique, the Jacobian lens, we identify the representations a model is poised to verbalize at any point in its processing. These representations, which we collectively call the J-space, exhibit the functional properties characteristic of a global workspace: their contents can be reported, deliberately summoned and held, used to carry the intermediate steps of silent reasoning, and passed as arguments to arbitrary downstream computations, while automatic processing such as text parsing and routine inference proceeds without them. The J-space also has structural signatures that global workspace theory associates with conscious access: it carries coherent content only in an intermediate band of layers, holds on the order of tens of concepts at a time, and is broadcast by the model's weights more widely than other representations. These properties make it a practical window into a model's unspoken thinking. In alignment audits, it reveals strategic deliberation, evaluation awareness, and trained-in misaligned dispositions that never appear in the model's outputs. We find that post-training installs the Assistant's point of view in the workspace, and we introduce counterfactual reflection training, which improves behavior by training only what a model would say if interrupted and asked to reflect. These results indicate that language models maintain a small, privileged set of representations bearing some of the functional hallmarks of conscious access, and that decoding these representations sheds light on ongoing cognitive processes.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "a60d8cfa668b9c67",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs",
+      "link": "https://arxiv.org/abs/2607.15498",
+      "summary": "arXiv:2607.15498v1 Announce Type: new \nAbstract: The key-value (KV) cache is the main memory bottleneck in long-context large language model (LLM) inference. Two leading training-free families are both structurally limited: token-selection methods (SnapKV, Ada-KV) score importance from an observation window and evict low-scoring tokens, but eviction is irreversible -- so when the importance signal degrades under query-agnostic reuse, accuracy collapses by 11-15 points; uniform low-rank coding keeps every token but spends equal rank everywhere, wasting budget. We observe that both failures share one cure: rank should be allocated, not evicted. We present VarRate, a training-free KV codec that assigns each token a variable low-rank budget by its query salience, keeping every token at a nonzero rank. Comparable adaptive-rank codecs reach this allocation only through training; VarRate requires none. Because no token is dropped, it degrades by only 3.5-5.5 points where query-aware selection collapses. At a matched 20% budget on LongBench (16 tasks), VarRate stays within 0.8 points of the uncompressed model on both Llama-3.1-8B and Qwen2.5-7B. Averaged over the two, it is the strongest matched-memory compressor. It significantly beats its uniform-rank ablation on both models. Against KVzip, a method purpose-built for query-agnostic reuse, it is accuracy-equivalent in three of four settings and within a point overall, at about one-eighth the prefill overhead.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "bd3c80bdc854abb8",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "EpiNarrate: Agentic Generation of Grounded Narratives from Epidemiological Scenario Projections",
+      "link": "https://arxiv.org/abs/2607.15544",
+      "summary": "arXiv:2607.15544v1 Announce Type: new \nAbstract: Generation of clear and accessible public health narratives is critical for communicating complex epidemiological projections to policymakers and the general public at large. Such narratives require more than simply reporting numbers: projections must be contextualized and quantitatively grounded across multiple dimensions. Further, projections are often derived from large ensemble datasets which combine intervention assumptions, geographic and demographic strata, outcomes, time horizons, and uncertainty quantiles. However, directly using large language models (LLMs) to summarize and contextualize such data often leads to inconsistencies, omissions, and fragile behavior. We introduce an agentic framework (EpiNarrate) for public health report generation that separates structured numerical reasoning from natural-language generation. The framework first extracts scenario axes and organizes them into a partial-order schema, enabling systematic traversal of the underlying multidimensional space. It then constructs an augmented dataset and derives valid quantitative statements through a comparison grammar that enforces semantic and arithmetic consistency. To balance coverage and non-redundancy, we introduce an interestingness-driven selection mechanism based on maximum-entropy principles. Experiments on the COVID-19 Scenario Modeling Hub demonstrate that our model produces narratives with improved factual grounding and broader coverage of salient epidemiological patterns, while preserving the style of expert-written reports.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "5fc3ad07f1207b51",
+      "_scraped_at": "14:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents",
+      "link": "https://arxiv.org/abs/2607.15557",
+      "summary": "arXiv:2607.15557v1 Announce Type: new \nAbstract: Agent skills, SKILL.md files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragmented, redundant, and uneven in quality, and their value in practice is unclear. A core question remains open, namely how to consolidate this open-source SKILL.md ecosystem into a single usable corpus, and what bounds its benefit on real-world agent tasks. We present SkillCorpus, a framework that aggregates, curates, matches, and evaluates the open skill ecosystem at scale. It filters ~821,000 crawled skills through a multi-stage pipeline into 96,401 skills organised by a 16-class taxonomy and three quality facets (utility, robustness, safety), and pairs them with a fine-tuned retrieval-and-selection stack that matches task-relevant skills. We evaluate end-to-end across three benchmarks (SkillsBench, GDPVal, QwenClawBench), two harnesses, and two open backbones with a frontier robustness check. Integrating SkillCorpus yields consistent gains across all three benchmarks, largest on SkillsBench (+7.5 pp). An operational analysis traces the gains to a coverage boundary and a harness boundary. SkillCorpus is, to our knowledge, the first end-to-end account of when a curated, retrieval-served community corpus improves real agent tasks, and where it does not. The dataset, models, and code will be released upon acceptance.",
+      "published": "2026-07-20T04:00:00",
+      "_id": "43e81b9d756b9f73",
+      "_scraped_at": "14:10"
+    }
+  ],
+  "seen_ids": [
+    "bd3c80bdc854abb8",
+    "1fcca80208dd9321",
+    "8c341ca217c5b9c5",
+    "e5223e67243bcea8",
+    "2a7f0fddd2dac162",
+    "8dbb2238c30b71eb",
+    "ca722902e449ecc1",
+    "6d77f538e9c67e81",
+    "50b9cb6bb7921d6c",
+    "4307222bc7e5f2e4",
+    "74224814c30701e7",
+    "a577f205a73beafc",
+    "3ca5a0f1a0fa127b",
+    "344d46b0f790a3ec",
+    "5e9f93d6f99317ca",
+    "0aba2be743cd52af",
+    "f26afcf21c3f7e18",
+    "af4560cf6a7ce28d",
+    "3b553260d52e5800",
+    "28d2e5cda847dcca",
+    "5b46dc8e82b7e1ba",
+    "fdd9745edc3aad4e",
+    "be55531fe3b01544",
+    "35a1b28301c09202",
+    "5fc3ad07f1207b51",
+    "cdbcdde49a4f0343",
+    "c8c3ec20e26996aa",
+    "445430a898f7fee7",
+    "88d1139971f75245",
+    "3d786f5a68299e02",
+    "993de2c70a2af8af",
+    "a60d8cfa668b9c67",
+    "ad504bbdb221cc44",
+    "cb2c51bc30a37065",
+    "27386066d3e0d368",
+    "0446821518e71993",
+    "0ace738400ef1bd9",
+    "43e81b9d756b9f73",
+    "28429de772d3a99f",
+    "990fa243b146f3dd",
+    "7b553354eb544407",
+    "0b6244279772ea4c",
+    "d399d99ef4e490b6"
+  ],
+  "last_run": "14:10",
+  "run_count": 1
+}
