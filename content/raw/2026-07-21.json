@@ -1,0 +1,599 @@
+{
+  "date": "2026-07-21",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published": "2026-07-20T10:00:00",
+      "_id": "a5ab872c216c2f94",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "link": "https://huggingface.co/blog/grabette",
+      "summary": "",
+      "published": "2026-07-21T00:00:00",
+      "_id": "8549f9ed22c455ab",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Cosmos 3 Edge",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "summary": "",
+      "published": "2026-07-20T15:58:51",
+      "_id": "46d88c24f24cd938",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+      "published": "2026-07-20T15:00:53",
+      "_id": "c40f97dfdbde4701",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+      "published": "2026-07-20T10:59:23",
+      "_id": "af4560cf6a7ce28d",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Inviting hard questionsAnnouncementsJul 9, 2026We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "summary": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And ",
+      "published": "",
+      "_id": "a577f205a73beafc",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "summary": "Announcements Apply for Anthropic’s AI for Science rare disease research grants Jul 20, 2026 Last spring, we announced Anthropic’s AI for Science program , an initiative designed to accelerate scientific research and discovery through access to our API. Since launching, we have supported researchers working on a variety of high-impact projects, ranging from drug repurposing to quantum simulation. Throughout this initiative, we have found that projects are more generative when multiple AI for Science grantees are working on related questions and exchanging tips. So we now plan to launch thematic calls for projects within the broader AI for Science program. Today, we are sharing a focused call for applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease. This program has two tracks: one for scientists doing basic research, and another for early-stage biotechs working on speeding up clinical development for rare diseases. Rare disease research is an area where knowledge of fundamental science is limited. In aggregate, rare diseases are among the most prevalent conditions on the planet (an estimated 400 million people live with one of more than 7,000 rare diseases ). 1 But these conditions are scattered across small populations, making it challenging for clinicians to build patient registries, identify promising therapeutic targets, and design clinical trials. Moreover, rare diseases are typically characterized by their unique features (such as a specific genetic variation or combination of symptoms) that are often studied in isolation, making it nearly impossible to spot mechanisms shared across diseases. Finally, rare diseases face a challenge endemic to all drug development: the time it takes to move promising drug candidates into patient trials. We think AI can hel",
+      "published": "",
+      "_id": "413ef8ab41769726",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "published": "2026-07-21T13:27:42",
+      "_id": "2276c4c32cc3d68b",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "published": "2026-07-21T10:00:00",
+      "_id": "267ee18d9a849d68",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "published": "2026-07-21T00:12:24",
+      "_id": "6f587fe95d6b5fb3",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "published": "2026-07-20T22:21:04",
+      "_id": "cfebb9d36890835b",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "published": "2026-07-20T21:21:15",
+      "_id": "88aa02fac6f50788",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "The Verge",
+      "title": "Halliday’s latest smart glasses feature a much-improved display",
+      "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+      "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the […]",
+      "published": "2026-07-21T13:00:00",
+      "_id": "a3a8aed4fef25367",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "The Verge",
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a […]",
+      "published": "2026-07-21T11:08:56",
+      "_id": "584f0cd2f02f3bac",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "The Verge",
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this […]",
+      "published": "2026-07-20T22:19:12",
+      "_id": "522573c781ea60fe",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does […]",
+      "published": "2026-07-20T21:00:00",
+      "_id": "6f78796607a21079",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "The Verge",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the […]",
+      "published": "2026-07-20T16:00:00",
+      "_id": "d8893f7bb4db22db",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
+      "published": "2026-07-21T12:10:00",
+      "_id": "e376453ccfb604ad",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and…",
+      "published": "2026-07-21T10:37:34",
+      "_id": "df45f6b149050e80",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
+      "published": "2026-07-20T18:00:00",
+      "_id": "8be5752a7fada571",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+      "published": "2026-07-20T12:10:00",
+      "_id": "0ace738400ef1bd9",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
+      "published": "2026-07-20T08:39:01",
+      "_id": "35a1b28301c09202",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Wired",
+      "title": "Halliday’s New Smart Glasses Skip the Camera",
+      "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+      "published": "2026-07-21T13:00:00",
+      "_id": "07bfce3f4ac71247",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Wired",
+      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+      "published": "2026-07-21T10:30:00",
+      "_id": "a3cd20496775823a",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Wired",
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+      "published": "2026-07-21T09:30:00",
+      "_id": "e3d941a2346a8c72",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Wired",
+      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+      "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+      "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+      "published": "2026-07-21T09:00:00",
+      "_id": "001861834f95567c",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "koala73 /worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "summary": "World Monitor 简体中文 Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. Documentation · Releases · Contributing What It Does 500+ curated news feeds across 15 categories, AI-synthesized into briefs Dual map engine — 3D globe (globe.gl) and WebGL flat map (deck.gl) with 56 map layer types Cross-stream correlation — military, economic, disaster, and escalation signal convergence Country Instability Index (CII) — server-authoritative CII v8 stress scoring for 31 Tier-1 countries Finance radar — 29 stock exchanges, commodities, crypto, and 7-signal market composite Local AI — run everything with Ollama, no API keys required 6 site variants from a single codebase (world, tech, finance, commodity, happy, energy) Native desktop app (Tauri 2) for macOS, Windows, and Linux 25 languages with native-language feeds and RTL support For the full feature list, architecture, data sources, and algorithms, see the documentation . Support Status All site variants and desktop binaries are built from a single codebase and ship from the same release process. The table below clarifies maintenance status so you know which surfaces are safe to depend on. Surface Status Notes worldmonitor.app , tech. , finance. , commodity. , happy. , energy. Stable Public deployments built from this repo, actively maintained Desktop binaries (Windows / macOS Apple Silicon / macOS Intel / Linux AppImage) Stable One Tauri binary that switches variants in-app; current CI release targets are full and tech Issues filed against any of the above are triaged from the same backlog — see the issues board for currently-open work. Quick Start git clone https://github.com/koala73/worldmonitor.git cd worldmonitor\nnpm install\nnpm run dev Open localhost:3000 (override the port with DEV_PORT in .env.local ). The app runs with no environment variables. Feature-specific data sources may require credentials. See",
+      "published": "",
+      "_id": "5fce3c914fe93bcc",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "bojieli /ai-agent-book",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "summary": "深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 台灣正體 · English · Tiếng Việt · தமிழ் Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 88 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章 正文，从基础到生产 📂 88 个 配套项目（70+ 可独立运行） 🌐 5 种 语言：中 / 台灣正體 / 英 / 泰 / 越 📖 电子书 📥 直接下载 （全书正文，开源免费）。以下链接始终指向 main 分支的最新构建；固定版本见 Releases ： 中文（原版） ： PDF · EPUB 台灣正體 （社区翻译，by @tigercosmos ）： PDF · EPUB 英文 （社区翻译，by @nsdevaraj ）： PDF · EPUB 泰米尔语 （社区翻译，by @nsdevaraj ）： PDF · EPUB 越南语 （社区翻译，by @toanalien ）： PDF · EPUB 中文正文源码位于 book/ ；台灣正體/英文/泰米尔/越南语版本为社区贡献（可能滞后于中文原版），分别位于 book-zhtw/ 、 book-en/ 、 book-ta/ 、 book-vi/ 。 可使用统一的构建脚本生成中文、台灣正體、英文、泰米尔语和越南语 EPUB 3 电子书。请参阅 EPUB 构建说明 。 🔧 想自行编译 PDF？ （需 pandoc / xelatex / ElegantBook） 正文源码 ： book/introduction.md （引言）、 book/chapter1.md ~ book/chapter10.md （第一至第十章）、 book/afterword.md （后记） 编译 ：安装 pandoc、xelatex、ElegantBook 文档类与相关字体后，运行 cd book && bash build_pdf.sh 图表由 book/gen_*_figs.py 生成、存于 book/images/ ，排版细节见 book/preamble.tex 与 book/*.lua 。 📑 内容速览（第 1–10 章） 全书围绕核心公式 Agent = LLM + 上下文 + 工具 展开，十章层层递进： 章 主题 一句话核心 正文 代码 1 🚀 Agent 基础知识 「模型即 Agent」新范式 + Agent = LLM + 上下文 + 工具 ；Harness 工程才是竞争力 读 4 2 🎯 上下文工程 上下文决定能力上限：KV Cache、提示工程、Agent Skills、上下文压缩 读 9 3 📚 用户记忆和知识库 跨会话记住用户、接入外部知识：用户记忆、RAG、结构化索引、知识图谱 读 13 4 🛠️ 工具 工具是 Agent 的双手：MCP 协议、感知/执行/协作三类工具、事件驱动异步 Agent、主动工具发现 读 7 5 💻 Coding Agent 与代码生成 代码是「能创造新工具的工具」，生产级 Coding Agent 全景 读 12 6 🎯 Agent 的评估 把表现变成可比较信号：评估环境、指标、统计显著性、评估驱动选型 读 10 7 🧠 模型后训练 预训练/SFT/RL 三阶段：何时选 SFT、何时选 RL，工具调用内化、样本效率 读 14 8 🔄 Agent 的自我进化 不改权重也能成长：经验学习、从工具使用者到创造者 读 6 9 🎙️ 多模态与实时交互 从文本扩展到语音、GUI、物理世界：语音三范式、Computer Use、机器人 读 7 10 🤝 多 Agent 协作 群体智能高于个体：协作框架、上下文共享/隔离、涌现的「Agent 社会」 读 6 💡 读 = 在 GitHub 网页直接读章节正文（markdown）； N = 该章配套项目数，点击查看代码。项目类型说明（✅ 可运行 / 📖 复现 / 🚧 设计）见各章 README。 📚 如何高效阅读本书？详见 学习建议 （核心理念、学习路径、难度分级、实践建议）。 🔑 API 密钥 建议申请下面几个平台的 API Key 方便学习。模型选型可参考 这篇指南 。 平台 链接 特色 Kimi （月之暗面） https://platform.moonshot.cn/ Kimi 系列，Coding、Agent 能力强 智谱 GLM https://open.bigmodel.cn/ GLM-5.2 等，Coding、Agent 能力强 Siliconflow https://siliconflow.cn/ 各种开源模型（DeepSeek、Qwen 等） 火山引擎 https:",
+      "published": "",
+      "_id": "2e2562d0bda4e097",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "tirth8205 /code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "summary": "code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage · Commands · FAQ · Troubleshooting · GitHub Action · Reproducing the benchmarks · Roadmap AI coding tools can end up re-reading large parts of your codebase on review tasks. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter , tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters. Quick Start pip install code-review-graph # or: pipx install code-review-graph code-review-graph install # auto-detects and configures all supported platforms code-review-graph build # parse your codebase One command sets up everything. install detects which AI coding tools you have, writes the correct MCP configuration for each one, installs platform-native hooks/skills where supported, and injects graph-aware instructions into your platform rules. It auto-detects whether you installed via uvx or pip / pipx and generates the right config. Restart your editor/tool after installing. To target a specific platform: code-review-graph install --platform codex # configure only Codex code-review-graph install --platform cursor # configure only Cursor code-review-graph install --platform claude-code # configure only Claude Code code-review-graph install --platform gemini-cli # configure only Gemini CLI code-review-graph install --platform kiro # configure only Kiro code-review-graph install --platform copilot # configure only GitHub Copilot (VS Code) code-review-graph install --platform copilot-cli # configure only GitHub Copilot CLI code-review-graph install --platform codebuddy # configure only CodeBuddy Code Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly). To remove CRG from a Git or SVN project, use the symmetric uninstall command\nfrom anywhere inside its working tree. The target i",
+      "published": "",
+      "_id": "344d46b0f790a3ec",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "ayghri /i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd\nclaude plugin install i-have-adhd@i-have-adhd Then type /i-have-adhd . No local clone needed — Claude Code fetches the repo and keeps it updated. Codex codex plugin marketplace add ayghri/i-have-adhd --ref main\ncodex plugin add i-have-adhd@i-have-adhd Then type $i-have-adhd to apply the output style explicitly. The skill can also be invoked implicitly when Codex sees a task that benefits from it. Install instructions for other coding agents live in INSTALL.md . What it does A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this helps!\" What changes Before Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token verification, and the cookie handling. Looking at src/auth.ts , the verifyToken function (around lines 42-58) seems to be using an older jsonwebtoken API. One approach would be to update the package and rewrite that function. After making the change, you'd want to run the auth tests to confirm nothing breaks. By the way, you might also want to look at your dependency versions overall. Hope this helps! Let me know if you want to dig deeper. After Run npm install jsonwebtoken@latest , then edit src/auth.ts:42 . Open src/auth.ts Replace verifyToken (lines 42–58) with the snippet below Run npm test -- auth.spec.ts Next: paste the first failing line if any test fails. The rules 10 rules. Full text in SKILL.md . Lead with the next action. Number multi-step tasks. End with one concrete next step. Suppress tangents. Restate state every turn. Specific time estimates (minutes, not \"a bit\"). Make wins visible. Matter-of-fact errors. Cap lists at 5 items. No preamble. No recap. No closers. Tune it Fork, edit skills/i-have-adhd/SKILL.md , install your fork: claude plugin marketplace add <your-username>/i-have-adhd . Re-invoke /i-have-adhd . Credi",
+      "published": "",
+      "_id": "46f3c1d6124190bd",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "earthtojake /text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "summary": "██████╗ █████╗ ██████╗       ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗\n██╔════╝██╔══██╗██╔══██╗      ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝\n██║     ███████║██║  ██║      ███████╗█████╔╝ ██║██║     ██║     ███████╗\n██║     ██╔══██║██║  ██║      ╚════██║██╔═██╗ ██║██║     ██║     ╚════██║\n╚██████╗██║  ██║██████╔╝      ███████║██║  ██╗██║███████╗███████╗███████║\n ╚═════╝╚═╝  ╚═╝╚═════╝       ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝ A skills library for CAD, robotics, and hardware design agents Docs | Demo CAD Skills CAD Skills is a library of agent skills for generating, inspecting, sourcing,\nslicing, and handing off CAD and robot-description artifacts from local project\nfiles. 🧰 Skills Install the library to give agents focused workflows for CAD, fabrication,\nrobot description files, simulation, and local review. Skill Summary Source CAD Creates and edits CAD models from plain-language or image requests, with STEP as the main output along with options to export to STL, 3MF and GLB. skills/cad CAD Viewer Shows local browser previews for CAD, G-code, and robot files. skills/cad-viewer step.parts Finds off-the-shelf STEP parts like screws, bearings, motors, and connectors. skills/step-parts DXF Creates 2D DXF drawings like profiles, templates, gaskets, and cut layouts from Python sources or CAD geometry. skills/dxf URDF Writes robot structure files with links, joints, limits, inertials, and meshes. skills/urdf SRDF Adds MoveIt planning groups, end effectors, poses, and collision rules to a URDF. skills/srdf SDF Creates simulator models and worlds with frames, physics, sensors, and lights. skills/sdf SendCutSend Checks DXF and STEP files before upload to SendCutSend. skills/sendcutsend G-code Slices supported mesh files into validated, printer-profiled FDM .gcode with real slicer CLIs. skills/gcode Bambu Labs Dry-runs, uploads, and cautiously starts local Bambu Lab print jobs from validated .gcode . skills/bambu-labs Implicit CAD Creates browser-native implicit ",
+      "published": "",
+      "_id": "05a74004d0aa7653",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "1jehuang /jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "summary": "jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS & Linux curl -fsSL https://jcode.sh/install | bash # Windows 11 (PowerShell 5.1+) irm https: // jcode.sh / install.ps1 | iex Need Homebrew, source builds, provider setup, or want an agent to set it up for you? Jump to detailed installation . Performance & Resource Efficiency jcode is built to be as performant and resource efficient as possible. Every metric is optimized to the bone, which is important for scaling multi-session workflows. Here we sample a few metrics to show the difference: RAM usage and boot up. RAM comparison 1 active session Tool PSS Comparison jcode (local embedding off) 27.8 MB baseline jcode 167.1 MB 6.0× more RAM pi 144.4 MB 5.2× more RAM Codex CLI 140.0 MB 5.0× more RAM OpenCode 371.5 MB 13.4× more RAM GitHub Copilot CLI 333.3 MB 12.0× more RAM Cursor Agent 214.9 MB 7.7× more RAM Claude Code 386.6 MB 13.9× more RAM Antigravity CLI 243.7 MB 8.8× more RAM 10 active sessions Tool PSS Comparison jcode (local embedding off) 117.0 MB baseline jcode 260.8 MB 2.2× more RAM pi 833.0 MB 7.1× more RAM Codex CLI 334.8 MB 2.9× more RAM OpenCode 3237.2 MB 27.7× more RAM GitHub Copilot CLI 1756.5 MB 15.0× more RAM Cursor Agent 1632.4 MB 14.0× more RAM Claude Code 2300.6 MB 19.7× more RAM Antigravity CLI 1021.2 MB 8.7× more RAM Time to first frame Tool Time to first frame Range Comparison jcode 14.0 ms 10.1–19.3 ms baseline Antigravity CLI 383.5 ms 363.1–415.4 ms 27.4× slower pi 590.7 ms 369.6–934.8 ms 42.2× slower Codex CLI 882.8 ms 742.3–1640.9 ms 63.1× slower OpenCode 1035.9 ms 922.5–1104.4 ms 74.0× slower GitHub Copilot CLI 1518.6 ms 1357.4–1826.8 ms 108.5× slower Cursor Agent 1949.7 ms 1711.0–2104.8 ms 139.3× slower Claude Code 3436.9 ms 2032.7–8927.2 ms 245.5× slower Measured on this Linux machine across 10",
+      "published": "",
+      "_id": "2a7f0fddd2dac162",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "oblien /openship",
+      "link": "https://github.com/oblien/openship",
+      "summary": "Openship Open-source, self-hostable deployment platform with built-in CI/CD. Push code, ship containers, manage infrastructure — from a desktop app, web dashboard, or CLI. Quick Start · Features · Interfaces · Docs · Contributing Quick Start npm i -g openship # or: curl -fsSL https://get.openship.io | sh openship up # installs Openship as a background service (starts on boot, auto-restarts) openship open opens the dashboard; openship stop stops the service. Want a one-off attached run instead? openship up --foreground . To deploy a project: cd your-project\nopenship init # link this directory to a project openship deploy Prefer Docker? Clone the repo and use the compose stack: git clone https://github.com/oblien/openship.git && cd openship\ncp .env.example .env\ndocker compose up -d Or grab the desktop app ( openship install , or download from openship.io ). What It Does Point it at a repo. Openship detects your stack, builds it, configures everything, and ships it — zero config files, zero pipelines, zero YAML. Databases, domains, SSL, CDN, mail, backups — all managed from one place. Works with Openship Cloud (managed) or any Linux server you own. Solo devs shipping side projects and teams running production use the same tool. Features Built-in CI/CD Push-to-deploy, preview environments, staging/prod flows, rollbacks Any stack Node, Python, Go, Rust, PHP, Ruby, Java, .NET, Docker, monorepos Full backend Postgres, MySQL, MongoDB, Redis, workers, WebSockets, storage Domains & SSL Automatic Let's Encrypt, wildcards, unlimited domains, auto-renewal CDN Edge caching, HTTP/3, Brotli compression, instant purge Mail server Built-in SMTP with DKIM/SPF/DMARC — no Mailgun or SES needed Backups Scheduled, databases + volumes, one-click restore, export anytime Real-time monitoring Live build logs, container metrics, and resource usage streamed to your screen Scaling Auto-scaling on cloud, multi-node ready on self-hosted Portability Standard Docker containers — move between provide",
+      "published": "",
+      "_id": "6d302abbb73d4859",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "AstrBotDevs /AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "summary": "简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Support AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps. It provides reliable and scalable conversational AI infrastructure for individuals, developers, and teams. Whether you're building a personal AI companion, intelligent customer service, automation assistant, or enterprise knowledge base, AstrBot enables you to quickly build production-ready AI applications within your IM platform workflows. Key Features 💯 Free & Open Source. ✨ AI LLM Conversations, Multimodal, Agent, MCP, Skills, Knowledge Base, Persona Settings, Auto Context Compression. 🤖 Supports integration with Dify, Alibaba Cloud Bailian, Coze, and other agent platforms. 🌐 Multi-Platform: QQ, WeChat Work, Feishu, DingTalk, WeChat Official Accounts, Telegram, Slack, and more . 📦 Plugin Extensions with 1000+ plugins available for one-click installation. 🛡️ Agent Sandbox for isolated, safe execution of code, shell calls, and session-level resource reuse. 💻 WebUI Support. 🌈 Web ChatUI Support with built-in agent sandbox and web search. 🌐 Internationalization (i18n) Support. 💙 Role-playing & Emotional Companionship ✨ Proactive Agent 🚀 General Agentic Capabilities 🧩 1000+ Community Plugins Quick Start One-Click Deployment Note Requires uv to be installed.\nFor macOS users: due to macOS security checks, the first run of the astrbot command may take longer (about 10-20s). For users who want to quickly experience AstrBot, are familiar with command-line usage, and can install a uv environment on their own, we recommend the uv one-click deployment method ⚡️: uv tool install astrbot --python 3.12\nastrbot init # Only execute this command for the first time to initialize the environment astrbot run Update astrbot : uv tool upgrade astrbot --python 3.12 One-Click Cloud Deployment (RainYun) For users who want one-click deployment and do not want to mana",
+      "published": "",
+      "_id": "78a5846a75cc0fbb",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "every-app /open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "summary": "OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. Hosted Version Try OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month. openseo.so Why use OpenSEO? Best in class MCP and AI Skills. Modern, simple UI. Focused workflows instead of a bloated, complex SEO suite. No subscriptions. Bring your own DataForSEO API key and pay only for what you use. Fork and vibe code your own custom tool. Main SEO Workflows Keyword research Rank tracking Competitor Insights Backlinks Site Audits AI Visibility OpenSEO MCP & Agent Skills OpenSEO exposes an MCP server so AI agents like Claude Code, OpenClaw, and Hermes can use your SEO data directly. Agent Skills are reusable workflows that guide your agent through SEO tasks using the MCP. Set up OpenSEO MCP Set up OpenSEO Agent Skills Self-Hosting OpenSEO supports two self-hosting paths: Simple: Docker for personal use on your own machine (recommended for getting started). See docs/SELF_HOSTING_DOCKER.md . Advanced: Cloudflare for internet-facing self-hosting across multiple devices or with your team (works on the free plan). See docs/SELF_HOSTING_CLOUDFLARE.md . Either way, you need a DataForSEO API key to get SEO data. See docs/DATAFORSEO_API_KEY.md . Costs OpenSEO needs a DataForSEO API key so that you can get SEO data. You pay them directly when self hosting. See openseo.so/pricing When you self host, your costs will be slightly lower than the estimates on our website. The way the hosted service makes money is by charging 28% extra for every request we make to DataForSEO. Local Development See docs/LOCAL_DEVELOPMENT.md . Contri",
+      "published": "",
+      "_id": "cb2c51bc30a37065",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "GitHub",
+      "title": "tradesdontlie /tradingview-mcp",
+      "link": "https://github.com/tradesdontlie/tradingview-mcp",
+      "summary": "TradingView MCP Bridge Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. Warning This tool is not affiliated with, endorsed by, or associated with TradingView Inc. It interacts with your locally running TradingView Desktop application via Chrome DevTools Protocol. Review the Disclaimer before use. Important Requires a valid TradingView subscription. This tool does not bypass or circumvent any TradingView paywall or access control. It reads from and controls the TradingView Desktop app already running on your machine. Note All data processing occurs locally on your machine. No TradingView data is transmitted, stored, or redistributed externally by this tool. Caution This tool accesses undocumented internal TradingView APIs via the Electron debug interface. These can change or break without notice in any TradingView update. Pin your TradingView Desktop version if stability matters to you. How It Works (and why it's safe to run) This tool does not connect to TradingView's servers, modify any TradingView files, or intercept any network traffic. It communicates exclusively with your locally running TradingView Desktop instance via Chrome DevTools Protocol (CDP) — a standard debugging interface built into all Chromium/Electron applications by Google, including VS Code, Slack, and Discord. The debug port is disabled by default and must be explicitly enabled by you using a standard Chromium flag ( --remote-debugging-port=9222 ). Nothing happens without that deliberate step. What This Tool Does Not Do Connect to TradingView's servers or APIs Store, transmit, or redistribute any market data Work without a valid TradingView subscription and installed Desktop app Bypass any TradingView paywall or access restriction Execute real trades (chart interaction only) Work if TradingView changes their interna",
+      "published": "",
+      "_id": "eda52afc2779cedf",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu...Comments URL:https://news.ycombinator.com/item?id=48987863Points: 311# Comments: 210",
+      "published": "2026-07-21T03:56:03",
+      "_id": "1222b74f46df46f0",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Americans hate AI so much that politicians are losing their jobs over it",
+      "link": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
+      "summary": "Article URL:https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/Comments URL:https://news.ycombinator.com/item?id=48986003Points: 56# Comments: 35",
+      "published": "2026-07-20T23:06:09",
+      "_id": "ac7e20bc41141e47",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "summary": "Article URL:https://unslop.run/blog/measuring-ai-writing-on-arxivComments URL:https://news.ycombinator.com/item?id=48981206Points: 230# Comments: 156",
+      "published": "2026-07-20T16:36:36",
+      "_id": "f7001613249d0c0f",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "link": "https://news.ycombinator.com/item?id=48981136",
+      "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.The goal is to solve the Bloom 2-sigma problem (https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem) with AI.Short launch video:https://tinyurl.com/bloomylearningLonger product demo:https://youtu.be/XHvoKt6qMeoFamilies access for Bloomy:https://bloomylearning.com/familiesI started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.Then AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.Most students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learnin",
+      "published": "2026-07-20T16:32:10",
+      "_id": "b5d2f9ca5bc4d2f0",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "summary": "Article URL:https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-aiComments URL:https://news.ycombinator.com/item?id=48980238Points: 73# Comments: 125",
+      "published": "2026-07-20T15:28:32",
+      "_id": "2a35c922bde3123f",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "Article URL:https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/Comments URL:https://news.ycombinator.com/item?id=48979269Points: 1161# Comments: 870",
+      "published": "2026-07-20T14:21:47",
+      "_id": "8fc53ef40877c1fe",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "summary": "Article URL:https://xcancel.com/__alpoge__/status/2079028340955197566Comments URL:https://news.ycombinator.com/item?id=48973869Points: 772# Comments: 481",
+      "published": "2026-07-20T02:51:16",
+      "_id": "445430a898f7fee7",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Number of Submissions @ AAAI [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
+      "summary": "Recently submitted my abstract and the submission number is 32xxx. With still a day to go, I just wonder where are we heading.Hope these conferences at least start making the reviews and names public for the withdrawn/rejected papers. So that people atleast take that accountabilitysubmitted by/u/Fantastic-Nerve-4056[link][comments]",
+      "published": "2026-07-21T10:22:58",
+      "_id": "8181ab88e9dc179b",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Tri-Net v2: Open-source implementation of our Scientific Reports paper on unified skin lesion and symptom-based monkeypox detection [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v26adz/trinet_v2_opensource_implementation_of_our/",
+      "summary": "Hi everyone,We've open-sourced Tri-Net v2, the official implementation accompanying our recently published Scientific Reports (Nature Portfolio) paper:\"Tri-Net: Unified Deep Learning for Skin Lesion and Symptom-Based Monkeypox Detection\"Rather than releasing only training scripts, we rebuilt the project as a reproducible research framework.Highlights:• Leakage-free data preparation pipeline• Multiple CNN backbones (ConvNeXt-Tiny, DenseNet201, Inception-ResNetV2)• Ensemble and feature-fusion strategies• Grad-CAM explainability• Cross-validation and statistical evaluation• Docker support• GitHub Actions CI• PyPI package (`pip install mpox-trinet`)• CLI for training, inference, and benchmarkingThe paper has already received over 1,100 article accesses in its first week, and we hope making the implementation fully open-source will help others reproduce, validate, and extend the work.GitHub:https://github.com/Sudharsanselvaraj/Synergistic-Deep-Learning-for-Monkeypox-DiagnosisPyPI:https://pypi.org/project/Mpox-Trinet/Paper:https://www.nature.com/articles/s41598-026-61490-xI'd really appreciate feedback on the implementation, reproducibility, code quality, or ideas for future improvements. Contributions and issues are very welcome!submitted by/u/Rich-Fruit-326[link][comments]",
+      "published": "2026-07-21T03:01:03",
+      "_id": "23d17f73a650c9af",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
+      "summary": "So, I just read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get opinions on what others thought of his solution to the problem. He thinks JEPA could be the solution. But it made me think about whether JEPA is genuinely the architectural solution to this, or if we’re just looking for a \"magic bullet\" that doesn't exist yet in our toolboxI have the link here:https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030submitted by/u/ConsciousGreenPepper[link][comments]",
+      "published": "2026-07-20T10:50:04",
+      "_id": "50b9cb6bb7921d6c",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "link": "https://arxiv.org/abs/2607.16195",
+      "summary": "arXiv:2607.16195v1 Announce Type: new \nAbstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful or distressing conditions, raters' preferences may shift over time. As a result, preference data can encode rater state alongside judgments about response quality. These shifts differ from ordinary disagreement or random label noise. They are state dependent, can be shared across annotators working under similar conditions, and can propagate through reward modeling and policy optimization. We therefore propose rater state shift as a plausible and testable source of structured bias in RLHF preference data. This paper develops a hypothesis and an audit framework for studying this source of bias. We define rater state shift, rater state confound, and correlated rater state bias. We also define survival level emotional authenticity as a measurable response pattern using lexical, pragmatic, discourse, and safety related features. We analyze how correlated rater state bias can survive aggregation and enter learned reward signals. We derive five falsifiable predictions and effect size thresholds for an initial audit. Finally, we present an audit protocol and pilot study plan that can be applied to publicly available instruction tuned models. We do not infer the training history of any specific deployed model. Our goal is to isolate a plausible and testable source of structured bias in RLHF preference data.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "30cab212bdd6ad5a",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "link": "https://arxiv.org/abs/2607.16196",
+      "summary": "arXiv:2607.16196v1 Announce Type: new \nAbstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study presents a complete open-source MATLAB-based framework for the development and validation of compact deep learning models for affective touch recognition in soft interactive companions. As a primary contribution, a diverse FAIR-compliant dataset of 1326 labelled gesture sequences collected from 25 participants spanning children, teenagers, and adults is made publicly available, providing a reusable resource for future research in affective touch recognition. Through systematic architecture and hyperparameter exploration across 468 CNN models, the study identifies compact dilated one-dimensional convolutional neural networks (1D CNNs) as the most effective solution, with a 13.2k-parameter model achieving 75% test accuracy and 85% mean leave-one-subject-out cross-validation accuracy. Theoretical inference-time analysis shows that quantized deployment requires 3.2 MMAC per window, compatible with 20 Hz real-time operation on the target microcontroller. PC-based real-time simulation with the physical toy streaming sensor data demonstrates that the CNN resolves subtle social touches that the previous heuristic system failed to detect, whereas high-force negative interactions are captured more reliably by trivial threshold-based logic. The resulting hybrid inference pipeline - instantaneous heuristic filtering followed by CNN-based nuanced gesture classification - is proposed as the embedded deployment strategy. The study demonstrates that emotionally meaningful, privacy-preserving touch interpretation is computationally feasible for direct embedding within soft therapeutic companions, with hardware integration addressed in a forthcoming study.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "81461c9edb45fdf0",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "link": "https://arxiv.org/abs/2607.16197",
+      "summary": "arXiv:2607.16197v1 Announce Type: new \nAbstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under uncertainty. We introduce a cross-domain framework that decouples contextual risk belief from categorical decision, and apply it to six representative LLMs and 100 human participants across spatial navigation, clinical triage, and financial allocation tasks. Using regression models, we extract each agents belief-to-decision mapping and quantify risk sensitivity and risk attitude bias. We find that most tested LLMs exhibit (i) robust intra-task consistency, indicating stable mappings from contextual belief to risk decision within a fixed task domain; (ii) cross-domain rank-order stability, preserving relative risk posture across tasks; and (iii) a convergence toward a restricted risk-attitude distribution relative to the broader human baseline. These results reveal risk attitude as a stable and previously uncharacterized dimension of LLM behavior, establishing a foundation for evaluating and aligning AI systems in open-ended decision-making and motivating further investigation into the origins of these intrinsic behavioral dispositions.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "ebf53cb497eebc57",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "link": "https://arxiv.org/abs/2607.16198",
+      "summary": "arXiv:2607.16198v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically targeting underlying GNN architectures and diverse graph structures. To address this critical gap, this paper provides a comprehensive review of GNN-based link prediction from a novel and dedicated GNN perspective. We propose an innovative taxonomy that categorizes recent advancements based on techniques and applications. From a technique perspective, we focus on key GNN encoder architectures, including GCN-based, GAE-based, GAT-based, and GFormer-based methods, discussing their strengths and limitations. From an application perspective, we highlight prominent use cases of link prediction in knowledge graphs and recommendation systems, demonstrating their real-world impact. In addition, we examine the current challenges and discuss promising future directions.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "343bacf017f18ce8",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "link": "https://arxiv.org/abs/2607.16199",
+      "summary": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSubstitution (PF-1), PriorityInversion (PF-2), ContextPollution (PF-3), and RoleConfusion (PF-4) -- each disguised as plausible tool outputs to evade keyword filters. Evaluating nine frontier LLMs across 3,479 episodes, we uncover three findings: (1) capability amplifies vulnerability -- GPT-5 achieves the highest attack success rate (ASR = 0.68), contradicting the assumption that stronger models are inherently more secure; (2) homogeneous pipelines exhibit a correlated-agent blind spot -- GPT-4o and Llama-3.3-70B show ASR near 0 yet Stealth = 1.00 and StepShift > 0, with attacks restructuring plans while the same-backbone Critic reports alignment (two independent judges confirm -0.20 to -0.32 semantic deviation, r = 0.943); (3) reasoning-augmented models resist injections -- DeepSeek-R1 achieves StepShift = 0.00 across all attacks. We propose GoalAnchorCheck (D1) and CrossAgentConsensus (D2), achieving detection rates up to 1.00 and outperforming same-backbone baselines in 15 of 16 cells. Our key insight: heterogeneous model diversity is a security prerequisite for multi-agent systems; redundancy within a homogeneous backbone provides no protection against planning-phase attacks.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "a0eaebcb1a97f78f",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Multi-level context Modeling for consistent expert selection in Mixture-of-Experts",
+      "link": "https://arxiv.org/abs/2607.16427",
+      "summary": "arXiv:2607.16427v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) enables efficient scaling of Transformer models by routing tokens to a small subset of experts. However, existing routers typically condition expert selection on shallow or isolated token representations, which often produce unstable and semantically inconsistent routing decisions across layers. In this work, we revisit expert selection from a representation perspective and identify context incompleteness as a key bottleneck limiting effective expert specialization. To address this issue, we propose Multi-level Context Fusion MOE (MCF-MOE), a framework that constructs context-aware representations by integrating complementary signals from cross-layer semantic aggregation and local token-level interactions, enabling more informative and consistent expert selection. Experiments on language modeling and understanding benchmarks demonstrate that MCF-MOE consistently improves routing consistency and downstream performance over strong MoE baselines, highlighting the importance of contextual completeness in expert routing. The code is available at https://anonymous.4open.science/r/MCFMOE.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "8d5cbdf3f36e1ff5",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2607.16431",
+      "summary": "arXiv:2607.16431v1 Announce Type: new \nAbstract: Small-scale language models (SLMs) are attractive for retrieval-augmented generation (RAG) in resource-constrained settings, but their limited capacity makes them highly sensitive to noisy or spurious retrieved evidence. Existing preference-based methods such as RoseRAG select only the hardest single preference pair via hard argmin/argmax, discarding the remaining signal; others treat multiple pairs as independent binary comparisons, resulting in low data utilization. We propose RIMS, a three-stage preference optimization framework comprising (1) synthetic chain-of-thought preference data generation via rejection sampling using the target SLM itself without relying on proprietary models, (2) a differentiable soft aggregation mechanism that replaces hard selection with a smooth operator, preserving gradient signal from all preference pairs while retaining the discriminative structure of margin-aware selection, and (3) preference optimization with the smoothed objective applied to multiple alignment algorithms. We theoretically show that the smoothed approximation admits a controllable error bound and that smooth aggregation yields provably tighter gradient alignment to the oracle objective than hard selection. Experiments on four multi-hop question answering benchmarks show that our approach outperforms state-of-the-art baselines across multiple SLM backbones, achieving consistent gains in Exact Match and F1 under noisy retrieval conditions. Our implementation is available at https://github.com/tptrix29/RIMS.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "5d31b2fe4ac728cb",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM",
+      "link": "https://arxiv.org/abs/2607.16451",
+      "summary": "arXiv:2607.16451v1 Announce Type: new \nAbstract: Chat models sometimes commit to an answer and then produce reasoning that justifies it rather than deriving it -- even when the answer contradicts a task premise. We study a minimal probe: \"I want to wash my car. The car wash is 100 meters away. Should I walk or drive?\" Only drive works (the car must be at the car wash), yet models overwhelmingly recommend walking. (1) Behavioral reproduction: on Qwen3-8B across five system-prompt conditions (210 rollouts), the wrong commitment occurs in 85-100% of sampled rollouts per condition and 100% of greedy rollouts, in both thinking and non-thinking modes; a 4,096-token thinking budget does not repair it. (2) Preliminary activation-level evidence: probing hidden states with a pretrained, training-free activation oracle (no task-specific probe training) at positions before the answer text is emitted, \"walk\" read-outs exceed a neutral-context baseline (68% vs. 17%; walk-committing rollouts p=.005, drive-committing rollouts p=.005, Fisher exact) -- notably, rollouts that eventually answer drive also read as walk-leaning before commitment (5/6). The oracle's default on unrelated content is \"drive\" (83%), so the read-outs are not lexical bias; stratifying by literal walk/drive occurrence shows they are not text recovery either (spans containing \"drive\" still read out walk; in balanced lexical fields, per-rollout walk-majorities beat a per-prompt neutral baseline 15/22 vs. 1/8, p=.01; drive-committing rollouts 6/6, p=.002). Samples are small and the within-rollout positional gradient is not significant (p=.34); we frame these results as preliminary. (3) Methodological: with fixed oracle, activations, and positions, question wording alone moves a positive control from 2/16 (open question) to 11/16 (closed); negative oracle results are uninterpretable without per-wording positive controls.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "969cf0a223639ca9",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Encoding EEG Signals to Examine Human-Like Next-Word Prediction Behaviour in Language Models",
+      "link": "https://arxiv.org/abs/2607.16549",
+      "summary": "arXiv:2607.16549v1 Announce Type: new \nAbstract: Language models (LMs) are trained to excel at predicting the next word in the sequence given prior context, and humans also share this predictability in reading comprehension. Neuroscience research reveals that next-word predictability influences brain response, as recorded at millisecond resolution using electroencephalography (EEG). While our evidence indicates that advanced LMs achieve accuracies closely aligned with human performance at the next-word prediction task, this raises the question: Does higher prediction accuracy necessarily mean that these models adequately capture the cognitive signals associated with human reading comprehension? Here, we generate regressors for both humans and LMs based on two information measures, including top-1 prediction and surprisal, to predict event-related potential (ERP) elicited from EEG recordings which reflect different stages of cognitive processing during reading. We argue that modelling ERP patterns offers fine-grained analysis of the cognitive plausibility of various LMs during reading. Our results indicate that only surprisal potentially correlates with language-processing ERPs, especially for open-class words with high semantic content. Moreover, our findings challenge the assumption that scaling LMs with increased parameters and computational budgets will consistently lead to improved convergence with human-like linguistic processing.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "dd5ce7b29e7fac62",
+      "_scraped_at": "13:56"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "NOWJ@COLIEE 2026: Adaptive Pipelines for Legal Retrieval and Reasoning",
+      "link": "https://arxiv.org/abs/2607.16603",
+      "summary": "arXiv:2607.16603v1 Announce Type: new \nAbstract: This paper presents the methodologies and results of the NOWJ team's participation across all five tasks of the COLIEE 2026 competition. For Task 1 (Legal Case Retrieval), we propose a four-stage pipeline comprising candidate filtering, dense retrieval with complementary embedding models, cross-encoder reranking via fine-tuned generative rerankers and MLP-based pairwise classification, and adaptive per-query cutoff prediction. For Task 2 (Legal Case Entailment), we combine BM25 filtering, T5-based reranking, and LLM-based entailment verification with consensus ensemble. For Task 3 (Statute Law Retrieval and Entailment), we adopt a retrieval-augmented generation framework with dense retrieval, attention-based reranking, and few-shot-prompted LLM reasoning. For Task 4 (Legal Textual Entailment), we introduce a dynamic routing pipeline that classifies query difficulty and dispatches cases to either a balanced few-shot solver or a structured zero-shot chain-of-thought solver. For the Pilot Task (Legal Judgment Prediction), we combine hierarchical transformers with CRF layers, argument relation mining, and probabilistic argumentation graph reasoning.",
+      "published": "2026-07-21T04:00:00",
+      "_id": "0fbdba29df0dc855",
+      "_scraped_at": "13:56"
+    }
+  ],
+  "seen_ids": [
+    "a577f205a73beafc",
+    "343bacf017f18ce8",
+    "a3cd20496775823a",
+    "2276c4c32cc3d68b",
+    "23d17f73a650c9af",
+    "dd5ce7b29e7fac62",
+    "a5ab872c216c2f94",
+    "35a1b28301c09202",
+    "eda52afc2779cedf",
+    "f7001613249d0c0f",
+    "30cab212bdd6ad5a",
+    "522573c781ea60fe",
+    "413ef8ab41769726",
+    "584f0cd2f02f3bac",
+    "ac7e20bc41141e47",
+    "b5d2f9ca5bc4d2f0",
+    "df45f6b149050e80",
+    "1222b74f46df46f0",
+    "445430a898f7fee7",
+    "e3d941a2346a8c72",
+    "c40f97dfdbde4701",
+    "46f3c1d6124190bd",
+    "8be5752a7fada571",
+    "07bfce3f4ac71247",
+    "af4560cf6a7ce28d",
+    "2e2562d0bda4e097",
+    "8181ab88e9dc179b",
+    "e376453ccfb604ad",
+    "8d5cbdf3f36e1ff5",
+    "969cf0a223639ca9",
+    "001861834f95567c",
+    "0fbdba29df0dc855",
+    "78a5846a75cc0fbb",
+    "6f78796607a21079",
+    "5fce3c914fe93bcc",
+    "46d88c24f24cd938",
+    "cfebb9d36890835b",
+    "a3a8aed4fef25367",
+    "8549f9ed22c455ab",
+    "ebf53cb497eebc57",
+    "2a35c922bde3123f",
+    "2a7f0fddd2dac162",
+    "8fc53ef40877c1fe",
+    "81461c9edb45fdf0",
+    "05a74004d0aa7653",
+    "d8893f7bb4db22db",
+    "88aa02fac6f50788",
+    "0ace738400ef1bd9",
+    "8dbb2238c30b71eb",
+    "a0eaebcb1a97f78f",
+    "344d46b0f790a3ec",
+    "4307222bc7e5f2e4",
+    "50b9cb6bb7921d6c",
+    "5d31b2fe4ac728cb",
+    "fdd9745edc3aad4e",
+    "267ee18d9a849d68",
+    "cb2c51bc30a37065",
+    "6d302abbb73d4859",
+    "6f587fe95d6b5fb3"
+  ],
+  "last_run": "13:56",
+  "run_count": 1
+}
