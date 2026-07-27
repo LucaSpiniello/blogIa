@@ -1,0 +1,519 @@
+{
+  "date": "2026-07-27",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "published": "2026-07-27T03:30:00",
+      "_id": "db9d0913513df69e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "",
+      "published": "2026-07-27T09:32:20",
+      "_id": "96537f9acc12bc3d",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
+      "published": "2026-07-27T09:00:07",
+      "_id": "5a6459c4c276eeae",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
+      "published": "2026-07-27T00:45:42",
+      "_id": "6c204c425234342b",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It’s also available in Claude Code and on the Claude Platform, where it launches with introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it will be priced at $3 per million input tokens and $15 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation Bro",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "published": "2026-07-27T13:00:00",
+      "_id": "0000577f446aae7e",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "published": "2026-07-27T00:19:14",
+      "_id": "27666e7fb9fc4358",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "published": "2026-07-26T19:40:57",
+      "_id": "922a0f977e61a75f",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "published": "2026-07-26T16:33:13",
+      "_id": "446a8454722be8bb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety […]",
+      "published": "2026-07-27T12:06:22",
+      "_id": "61c016514a9f8cec",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
+      "published": "2026-07-27T12:10:00",
+      "_id": "3c45661bee203069",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The path to artificial superintelligence",
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
+      "published": "2026-07-27T12:00:00",
+      "_id": "019f99f4d633a5c0",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
+      "published": "2026-07-27T11:40:16",
+      "_id": "0a9b60fb4c575c08",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Building the enterprise environment for agentic AI",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
+      "published": "2026-07-27T11:32:58",
+      "_id": "cc4e3f6d6e64b2d4",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "published": "2026-07-27T10:00:00",
+      "_id": "f347cf518691fde0",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "permissionlesstech /bitchat",
+      "link": "https://github.com/permissionlesstech/bitchat",
+      "summary": "bitchat A decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat. bitchat.free 📲 App Store Getting a copy you can trust Install from the App Store, or build from source you have verified. A compiled build from anywhere else cannot be verified — see Verifying bitchat for how to check source against the per-release hash manifest, and for what to do if that is the only build you can get. This matters more than it usually would: this repository has been the target of takedown demands, and when a repository or releases page disappears, mirrors appear that nobody can check. License This project is released into the public domain. See the LICENSE file for details. Features Dual Transport Architecture : Bluetooth mesh for offline + Nostr protocol for internet-based messaging Location-Based Channels : Geographic chat rooms using geohash coordinates over global Nostr relays Intelligent Message Routing : Automatically chooses best transport (Bluetooth → Nostr fallback) Decentralized Mesh Network : Automatic peer discovery and multi-hop message relay over Bluetooth LE Privacy First : No accounts, no phone numbers, no servers. Note that the mesh does use a persistent per-device identifier derived from your identity key — see the whitepaper on identity and metadata for what a nearby radio can observe Private Message End-to-End Encryption : Noise Protocol for mesh, BitChat private envelopes for Nostr fallback IRC-Style Commands : Familiar /slap , /msg , /who style interface Universal App : Native support for iOS and macOS Emergency Wipe : Triple-tap to instantly clear all data Performance Optimizations : LZ4 message compression, adaptive battery modes, and optimized networking Technical Architecture BitChat uses a hybrid messaging architecture with two complementary transport layer",
+      "published": "",
+      "_id": "f3a7b176543a423f",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "amnezia-vpn /amnezia-client",
+      "link": "https://github.com/amnezia-vpn/amnezia-client",
+      "summary": "Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use - enter your IP address, SSH login, password and Amnezia will automatically install VPN docker containers to your server and connect to the VPN. Classic VPN-protocols: OpenVPN, WireGuard and IKEv2 protocols. Protocols with traffic Masking (Obfuscation): OpenVPN over Cloak plugin, Shadowsocks (OpenVPN over Shadowsocks), AmneziaWG and XRay. Split tunneling support - add any sites to the client to enable VPN only for them or add Apps (only for Android and Desktop). Windows, MacOS, Linux, Android, iOS releases. Support for AmneziaWG protocol configuration on Keenetic beta firmware . Links https://amnezia.org - Project website | Alternative link (mirror) https://docs.amnezia.org - Documentation | Alternative link (mirror) https://www.reddit.com/r/AmneziaVPN - Reddit https://telegram.me/amnezia_vpn_en - Telegram support channel (English) https://telegram.me/amnezia_vpn_ir - Telegram support channel (Farsi) https://telegram.me/amnezia_vpn_mm - Telegram support channel (Myanmar) https://telegram.me/amnezia_vpn - Telegram support channel (Russian) Get Premium for 6 or 12 months Tech AmneziaVPN uses several open-source projects to work: OpenSSL OpenVPN Qt LibSsh WireGuard Xray-core Conan and more... Help us with translations Download the most actual translation files. Go to \"Actions\" tab , click on the first line.\nThen scroll down to the \"Artifacts\" section and download \"AmneziaVPN_translations\". Unzip this file.\nEach *.ts file contains strings for one corresponding language. Translate or correct some strings in one or multiple *.ts files and commit them back to this repository into the client/transla",
+      "published": "",
+      "_id": "cd12b1c321c4e880",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "moeru-ai /airi",
+      "link": "https://github.com/moeru-ai/airi",
+      "summary": "Project AIRI Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world. [ Join Discord Server ] [ Try it ] [ 简体中文 ] [ 日本語 ] [ Русский ] [ Tiếng Việt ] [ Français ] [ 한국어 ] Heavily inspired by Neuro-sama Tip On Windows, you can also install AIRI with winget : winget install MoeruAI.AIRI Or install AIRI with Scoop : scoop bucket add airi https: // github.com / moeru - ai / airi\nscoop install airi / airi On macOS, you can install AIRI with Homebrew Cask without adding a custom tap: brew install --cask airi Warning Attention: We do not have any officially minted cryptocurrency or token associated with this project. Please check the information and proceed with caution. Note We've got a whole dedicated organization @proj-airi for all the sub-projects born from Project AIRI. Check it out! RAG, memory system, embedded database, icons, Live2D utilities, and more! Tip We have a translation project on Crowdin . If you find any inaccurate translations, feel free to contribute improvements there. Have you dreamed about having a cyber living being (cyber waifu, digital pet) or digital companion that could play with and talk to you? With the power of modern large language models like ChatGPT and famous Claude , asking a virtual being to roleplay and chat with us is already easy enough for everyone. Platforms like Character.ai (a.k.a. c.ai) and JanitorAI as well as local playgrounds like SillyTavern are already good-enough solutions for a chat based or visual adventure game like experience. But, what about the abilities to play games? And see what you are coding at? Chatting while playing games, watching videos, and is capable of doing many other things. Perhaps you know Neuro-sama already. She is currently the best virtual streamer capable of playing games, chatting, and interacting with you and the participants. Some also call this kind of being \"digital human.\" Sadly, as it's not open sourced, you cannot interact with her after her l",
+      "published": "",
+      "_id": "8d6a4b13c5d73cd6",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "yorukot /superfile",
+      "link": "https://github.com/yorukot/superfile",
+      "summary": "superfile is supported by the community. Demo Perform common operations Content Demo Content Installation macOS and Linux Windows Powershell Winget Scoop More installation methods Build For macOS/Linux For Windows Start superfile Supported Systems Tutorial Plugins Themes Hotkeys Notes Troubleshooting Uninstalling macOS and Linux Windows Contributing Thanks Support Core maintainer Contributors Powered by Star History ༼ つ ◕_◕ ༽つ Please share. Installation macOS and Linux bash -c \" $( curl -sLo- https://superfile.dev/install.sh ) \" If you want to inspect the script, see : install.sh Windows Powershell powershell - ExecutionPolicy Bypass - Command \" Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://superfile.dev/install.ps1')) \" If you want to inspect the script, see : install.ps1 Winget winget install -- id yorukot.superfile Scoop scoop install superfile More installation methods Click me to check on how to install Build You can build the source code yourself by using these steps: Requirements golang Build Steps Clone this repository using the following command: git clone https://github.com/yorukot/superfile.git --depth=1 Enter the downloaded directory: cd superfile For macOS/Linux Run the build.sh file: ./build.sh Add the binary file to your $PATH, e.g., in /usr/local/bin : sudo mv ./bin/spf /usr/local/bin For Windows go build -o bin/spf.exe Edit System Environment Variables and add superfile repo's bin directory to your PATH Start superfile spf Supported Systems Linux macOS Windows (Not fully supported yet) Tutorial After you install superfile, you can go here to briefly understand how to use superfile! Plugins Click me to the plugins wiki Themes Click me to the theme wiki Hotkeys [!WARNING] If you are vim/nvim user please change your default hotkeys config to vim version! Click me to see the hotkey wiki Notes We have an auto update functionality, that fetches superfile's latest released version from github (if last timestamp of last versio",
+      "published": "",
+      "_id": "bb0858634f4b2e64",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "NanmiCoder /MediaCrawler",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "summary": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库 ⚠️ ⚠️ ⚠️ ⚠️ ， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法律责任，本仓库不承担任何责任。使用本仓库的内容即表示您同意本免责声明的所有条款和条件。 点击查看更为详细的免责声明。 点击跳转 📖 项目简介 一个功能强大的 多平台自媒体数据采集工具 ，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取。 🔧 技术原理 核心技术 ：基于 Playwright 浏览器自动化框架登录保存登录态 无需JS逆向 ：利用保留登录态的浏览器上下文环境，通过 JS 表达式获取签名参数 优势特点 ：无需逆向复杂的加密算法，大幅降低技术门槛 ✨ 功能特性 平台 关键词搜索 指定帖子ID爬取 二级评论 指定创作者主页 登录态缓存 IP代理池 生成评论词云图 小红书 ✅ ✅ ✅ ✅ ✅ ✅ ✅ 抖音 ✅ ✅ ✅ ✅ ✅ ✅ ✅ 快手 ✅ ✅ ✅ ✅ ✅ ✅ ✅ B 站 ✅ ✅ ✅ ✅ ✅ ✅ ✅ 微博 ✅ ✅ ✅ ✅ ✅ ✅ ✅ 贴吧 ✅ ✅ ✅ ✅ ✅ ✅ ✅ 知乎 ✅ ✅ ✅ ✅ ✅ ✅ ✅ MediaCrawlerPro 重磅发布！开源不易，欢迎订阅支持 专注于学习成熟项目的架构设计，不仅仅是爬虫技术，Pro 版本的代码设计思路同样值得深入学习！ MediaCrawlerPro 相较于开源版本的核心优势： 🎯 核心功能升级 ✅ 自媒体内容拆解Agent （新增功能） ✅ 断点续爬功能 （重点特性） ✅ 多账号 + IP代理池支持 （重点特性） ✅ 去除 Playwright 依赖 ，使用更简单 ✅ 完整 Linux 环境支持 🏗️ 架构设计优化 ✅ 代码重构优化 ，更易读易维护（解耦 JS 签名逻辑） ✅ 企业级代码质量 ，适合构建大型爬虫项目 ✅ 完美架构设计 ，高扩展性，源码学习价值更大 🎁 额外功能 ✅ 自媒体视频下载器桌面端 （适合学习全栈开发） ✅ 多平台首页信息流推荐 （HomeFeed） ✅ AI Agent Skill 支持 （ OpenClaw 🦞 / Claude Code / Cursor 一键安装，让 Agent 自动爬取数据） 基于评论分析AI Agent正在开发中 🚀🚀 点击查看： MediaCrawlerPro 项目主页 更多介绍 🚀 快速开始 💡 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！ 📋 前置依赖 🚀 uv 安装（推荐） 在进行下一步操作之前，请确保电脑上已经安装了 uv： 安装地址 ： uv 官方安装指南 验证安装 ：终端输入命令 uv --version ，如果正常显示版本号，证明已经安装成功 推荐理由 ：uv 是目前最强的 Python 包管理工具，速度快、依赖解析准确 🟢 Node.js 安装 项目依赖 Node.js，请前往官网下载安装： 下载地址 ： https://nodejs.org/en/download/ 版本要求 ：>= 16.0.0 📦 Python 包安装 # 进入项目目录 cd MediaCrawler # 使用 uv sync 命令来保证 python 版本和相关依赖包的一致性 uv sync 🌐 浏览器驱动安装（可选） 如果使用默认的 CDP 模式（连接已有 Chrome 浏览器）， 无需安装浏览器驱动 。仅在使用标准 Playwright 模式时需要安装。 # 仅在标准 Playwright 模式下需要安装浏览器驱动 uv run playwright install 🌍 Chrome 浏览器配置（推荐） 项目默认使用 CDP 模式连接用户已有的 Chrome 浏览器，可以复用浏览器已有的登录状态、Cookie、扩展等， 大幅降低平台风控检测风险 。 使用前需要： 安装最新版 Chrome 浏览器 （版本 >= 144）， 下载地址 开启远程调试功能 ：在 Chrome 地址栏输入 chrome://inspect/#remote-debugging ，勾选 \"Allow remote debugging for this browser instance\" 页",
+      "published": "",
+      "_id": "6bae7103b8446d06",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "pbakaus /impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "summary": "Impeccable Design guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 60 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable? Anthropic's frontend-design was the first widely-used design skill for Claude. Impeccable started from there. Every model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards, gray text on colored backgrounds, the rounded-square icon tile above every heading. Impeccable adds: One setup flow. /impeccable init writes PRODUCT.md and offers DESIGN.md , so later commands know the audience, brand/product lane, voice, anti-references, colors, type, and components. 23 commands. A shared design vocabulary with your AI: polish , audit , critique , distill , animate , bolder , quieter , and more. 60 deterministic detector rules plus LLM-only critique checks. The CLI and browser extension run the deterministic rules with no LLM and no API key. What's Included The Skill: impeccable The skill installs as one command: /impeccable < command > < target > Start every new project with: /impeccable init init asks whether the surface is brand (marketing, landing, portfolio) or product (app UI, dashboard, tool), then writes design context that every later command reads. 23 Commands All commands are accessed through /impeccable : Command What it does /impeccable craft Full shape-then-build flow with visual iteration /impeccable init One-time setup: gather design context, write PRODUCT.md and DESIGN.md, configure live mode, recommend next steps /impeccable document Generate root DESIGN.md from existing project code /impeccable extract Pull reusable components and tokens into the design system /impeccable shape Plan UX/UI before writing code",
+      "published": "",
+      "_id": "ec673bd7694d3a65",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "shiyu-coder /Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines),\ntrained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks. 🚩 [2025.08.02] Our paper is now available on arXiv ! 📜 Introduction Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework: A specialized tokenizer first quantizes continuous, multi-dimensional K-line data (OHLCV) into hierarchical discrete tokens . A large, autoregressive Transformer is then pre-trained on these tokens, enabling it to serve as a unified model for diverse quantitative tasks. ✨ Live Demo We have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours. 👉 Access the Live Demo Here 📦 Model Zoo We release a family of pre-trained models with varying capacities to suit different computational and application needs. All models are readily accessible from the Hugging Face Hub. Model Tokenizer Context length Params Open-source Kronos-mini Kronos-Tokenizer-2k 2048 4.1M ✅ NeoQuasar/Kronos-mini Kronos-small Kronos-Tokenizer-base 512 24.7M ✅ NeoQuasar/Kronos-small Kronos-base Kronos-Tokenizer-base 512 102.3M ✅ NeoQuasar/Kronos-base Kronos-large Kronos-Tokenizer-base 512 499.2M ❌ 🚀 Getting Started Installation Install Python 3.10+, and then install the dependencies: pip install -r requirements.txt 📈 Making Forecasts Forecasting with Kronos is straightforward using the KronosPredictor class. It handles data ",
+      "published": "",
+      "_id": "6ea9960b31645056",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "alibaba /open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "summary": "OpenCodeReview English | 简体中文 | 日本語 | 한국어 | Русский What is Open Code Review? Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started. It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates structured review comments with line-level precision. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews — not just surface-level diff feedback. Beyond diff review, ocr scan reviews entire files for auditing unfamiliar codebases or directories that have no meaningful diff. Visit the official website for more details. Benchmark Compared to general-purpose agents (Claude Code), Open Code Review achieves significantly higher Precision and F1 with the same underlying model, while consuming only ~1/9 of the tokens and completing reviews faster. Note that its Recall is lower than general-purpose agents — a deliberate trade-off favoring precision over noise. A real-world code review benchmark built from 50 popular open-source repositories, 200 real Pull Requests, and 10 programming languages — cross-validated by 80+ senior engineers ( 1,505 annotated ground-truth issues). Metric What it measures Why it matters F1 Harmonic mean of precision and recall Best single number for overall review quality Precision Proportion of reported issues that are real defects Higher = fewer false alarms to triage Recall Proportion of real defects that are found Higher = fewer issues slip through review Avg Time Wall-clock time per review Matters for CI pipeline latency Avg Token Total tokens consumed per review Directly impacts API ",
+      "published": "",
+      "_id": "c489e6fb5febf2ab",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "jenkinsci /jenkins",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "summary": "Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server.\nBuilt with Java, it provides over 2,000 plugins to support automating virtually anything,\nso that humans can spend their time doing things machines cannot. What to Use Jenkins for and When to Use It Use Jenkins to automate your development workflow, so you can focus on work that matters most. Jenkins is commonly used for: Building projects Running tests to detect bugs and other issues as soon as they are introduced Static code analysis Deployment Execute repetitive tasks, save time, and optimize your development process with Jenkins. Downloads The Jenkins project provides official distributions as WAR files, Docker images, native packages and installers for platforms including several Linux distributions and Windows.\nSee the Downloads page for references. For all distributions Jenkins offers two release lines: Weekly -\nFrequent releases which include all new features, improvements, and bug fixes. Long-Term Support (LTS) -\nOlder release line which gets periodically updated via bug fix backports. Latest releases: Getting Started (Development) For more information on setting up your development environment, contributing, and working with Jenkins internals, check the contributing guide and the Jenkins Developer Documentation . Source Our latest and greatest source of Jenkins can be found on GitHub . Fork us! Contributing to Jenkins New to open source or Jenkins? Here’s how to get started: Read the Contribution Guidelines Check our good first issues Join our Gitter chat for questions and help For more information about participating in the community and contributing to the Jenkins project,\nsee this page . Documentation for Jenkins core maintainers is in the maintainers guidelines . News and Website All information abo",
+      "published": "",
+      "_id": "daf8f820b4663969",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "GitHub",
+      "title": "bradautomates /claude-video",
+      "link": "https://github.com/bradautomates/claude-video",
+      "summary": "/watch Give Claude the ability to watch any video. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add bradautomates/claude-video -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, manual) in the Install section below. Zero config to start — yt-dlp and ffmpeg install on first run via brew on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions. Claude can read a webpage, run a script, browse a repo. What it can't do, out of the box, is watch a video . You paste a YouTube link and it has to either guess from the title or pull a transcript that's missing 90% of what's on screen. With Claude Video /watch you can paste a URL or a local path, ask a question, and Claude fetches captions first, downloads only what it needs, extracts frames (scene-aware, or fast keyframes at efficient detail), pulls a timestamped transcript (free captions when available, Whisper API as fallback), and Read s every frame as an image. By the time it answers, it has seen the video and heard the audio. /watch https://youtu.be/dQw4w9WgXcQ what happens at the 30 second mark? What people actually use it for Analyze someone else's content. /watch https://youtu.be/<viral-video> what hook did they open with? Claude looks at the first frames, reads the opening transcript, breaks down the structure. Same for ad creative, competitor launches, podcast intros, anything where the how matters as much as the what . Diagnose a bug from a video. Someone sends you a screen recording of something broken. /watch bug-repro.mov what's going wrong? Claude watches the recording, finds the frame where the issue appears, describes what's on screen, often catches the",
+      "published": "",
+      "_id": "cc2152070c02e2ab",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI companies are shredding rare books",
+      "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "summary": "Article URL:https://xcancel.com/HedgieMarkets/status/2081534588485296565Comments URL:https://news.ycombinator.com/item?id=49068738Points: 339# Comments: 201",
+      "published": "2026-07-27T12:32:12",
+      "_id": "cd646e9582ef02cb",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Elevated errors on Claude Opus 5",
+      "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "summary": "Article URL:https://status.claude.com/incidents/mfdtrknpxghqComments URL:https://news.ycombinator.com/item?id=49068029Points: 56# Comments: 48",
+      "published": "2026-07-27T11:32:32",
+      "_id": "88882337cc6c28e0",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "link": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+      "summary": "Article URL:https://andys.blog/this-july-i-was-fired-from-simple-ai/Comments URL:https://news.ycombinator.com/item?id=49059587Points: 52# Comments: 169",
+      "published": "2026-07-26T16:14:46",
+      "_id": "b9554d2262bab980",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "summary": "Article URL:https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-andComments URL:https://news.ycombinator.com/item?id=49057877Points: 207# Comments: 74",
+      "published": "2026-07-26T13:13:03",
+      "_id": "15894cc93db180b1",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "summary": "Article URL:https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdfComments URL:https://news.ycombinator.com/item?id=49056620Points: 132# Comments: 54",
+      "published": "2026-07-26T10:32:35",
+      "_id": "9ef2632ac5647591",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Made a small model that extracts text from a white background [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
+      "summary": "Hello,I read a paper on a model named DONUT that extracts text from documents, which became my inspiration for this little project. Initially I wanted to make a model that extracts items bought from receipts, but in the process of trying to pinpoint some problems, I dropped that objective for a much simpler one. I will like to hear some of your thoughts on it, thank you!GitHub:https://github.com/ZeroMeOut/VQVAET5submitted by/u/ZeroMe0ut[link][comments]",
+      "published": "2026-07-27T13:52:41",
+      "_id": "164d59b925c3a497",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+      "summary": "Curious about the initial review distribution for Main Track theory papers this year.Our paper received 4/3/3 with confidence 3/3/3. From previous years, I've had the impression that theory papers often receive more conservative initial scores than some other areas, and I've also heard people saying that initial scores seem generally lower across many disciplines this cycle.If you have a theory submission, would you mind sharing your initial scores (and confidence, if you're comfortable)? It would be interesting to see whether there is any noticeable pattern or whether this is just anecdotal.Please only share if you're comfortable, and it'd be helpful to mention that it's a theory paper so we're comparing like with like.submitted by/u/Mammoth-Leg-3844[link][comments]",
+      "published": "2026-07-26T15:57:02",
+      "_id": "601c1739033870f3",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
+      "summary": "This was my Bachelor's Final Project: implementing YOLO26n inference completely from scratch using ARM64 Assembly Language and C, without relying on existing inference frameworks.The goal was to understand how modern neural network inference engines work at a low level and explore optimization techniques for faster and more efficient edge AI execution on Raspberry Pi 4.The implementation includes:* ARM64 Assembly Language + C inference engine* ARM NEON SIMD optimization* Winograd convolution* Optimized GEMM kernels* Cache-aware tiling* Custom ARM64 micro-kernels* Operator fusion* Attention mechanism* YOLO26 components: Conv, C3K2, SPPF, C2PSA, PSA, BottleNeck, and DetectI extracted the YOLO26n model parameters and redesigned the memory layout into a custom binary format optimized for the inference pipeline.The implementation produces correct object detection results, but the performance improvement was lower than I initially expected. I would appreciate feedback and suggestions from anyone about:* CNN inference optimization* ARM NEON/vectorization* Memory layout and cache optimization* Low-level neural network accelerationRepository:https://github.com/mohammad-ghaderi/YOLO26Thanks for any feedback or suggestions.submitted by/u/Forward_Confusion902[link][comments]",
+      "published": "2026-07-26T06:43:11",
+      "_id": "e1642c6049fc0070",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I Sat on an Idea for 7 Years. AI Helped Me File for a Patent in 2 Weeks.",
+      "link": "https://www.reddit.com/r/artificial/comments/1v7wn15/i_sat_on_an_idea_for_7_years_ai_helped_me_file/",
+      "summary": "7 years ago I had an idea for a dog harness that doesn't tangle. I 3D-printed one part and then stalled, not on the engineering, but on prior art searches, novelty judgment, and drafting a patent specification, none of which I had any background in. This month I handed it to AI and filed the provisional for about $65. Post one of a series where I'm documenting my road from idea, to patent, to business.submitted by/u/pablooliva[link][comments]",
+      "published": "2026-07-27T10:36:33",
+      "_id": "73ed64a2d1f57892",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
+      "link": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
+      "summary": "I wanted to know if the \"passive income\" faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour.The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's free tier for this, specifically the face-lock feature, because I needed the same face across thirty-plus clips and did not want to wrestle with prompt consistency. The free tier is watermarked and capped, which was fine for an experiment. For voice I used ElevenLabs, and I cut everything together in CapCut. That was the whole stack.The face-lock part actually worked. The rest was where the fantasy cracked.ElevenLabs free tier gives you 10,000 characters per month. I burned through it in four days. CapCut is free and fine but editing thirty near-identical clips of a fake person gesturing while a robot voice reads self-help bromides is spiritually crushing work. I started batching renders on Sunday nights and scheduling posts through the week just to avoid facing it daily. Twice the free tier timed out mid-render and I lost the session, which meant starting over with the same seed numbers and hoping the face came out close enough. The watermark sits in the lower right, small but legible: a faint watermark that I tried cropping once and it broke the framing.I disclosed in every bio and every caption that the persona was AI-generated. Nobody commented on it either way. The algorithm did not care about that disclosure, and neither did viewers, which was somehow its own small disappointment.The account reached about 2,400 followers in six weeks. One video hit 80,000 views. The rest averaged around 800. The 80K video made roughly $11 in platform revenue. The others made fractions of pennies. I logged 34 hours of actual work across thos",
+      "published": "2026-07-26T09:16:31",
+      "_id": "a434860c89b8b208",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "How did you get your first expert network invitation?",
+      "link": "https://www.reddit.com/r/artificial/comments/1v7yorh/how_did_you_get_your_first_expert_network/",
+      "summary": "I've been seeing more people mention expert networks lately, especially consultants and people who've worked in pretty specialized industries. From what I understand, companies sometimes pay for short calls with people who have firsthand experience in a particular field, which honestly sounds interesting. What I'm curious about is how people actually get their first invitation. Do these networks usually reach out through LinkedIn, referrals, or is it worth creating a profile on one of the platforms yourself? If you've done expert calls before, what was your first experience like? I'm less interested in the payment and more curious about how the screening process works and whether you felt like your industry experience was enough, even if you weren't in a senior executive role.submitted by/u/youlefou[link][comments]",
+      "published": "2026-07-27T12:15:49",
+      "_id": "5c85af313df4be0f",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "We started calling video models world models while still grading them on taste",
+      "link": "https://www.reddit.com/r/artificial/comments/1v7yltm/we_started_calling_video_models_world_models/",
+      "summary": "Somewhere in the last year the phrase world model stopped meaning a system that represents how things behave and started meaning any video generator with good marketing. What bothers me is not the word, it's that the evidence never changed to match it.Look at how the last few launches were argued. Black Forest Labs put out FLUX 3 last week and the headline evidence was a preference test the lab ran on itself: its video preferred in 77% of comparisons against Runway Gen-4.5, 93% against Luma Ray 3.2. The fine print calls it a preliminary evaluation of an early candidate during midtraining. No methodology, no sample size, no rater pool, no prompt set. Meanwhile the same class of system gets described as having some idea what happens when you knock a glass off a table.A preference test measures none of that. It measures whether a person picked clip A over clip B in five seconds, on samples the lab chose to show them. Cherry picking isn't even the interesting problem here. Taste comparisons can't be rerun, so nobody outside that building can check in October whether the model improved or the sampler got luckier. What is a 77% supposed to mean three months from now?A public benchmark number can be attacked, and that is the entire point of publishing one. Somebody runs it with their own prompts, gets a different ordering, and now there is an argument with evidence on both sides of it. Nobody can rerun a preference win at all.I'm not asking anyone to regulate a blog post. My problem is that a vendor run preference test has quietly become the evidence base for a claim about physical understanding, and those two things are not measuring the same object. When somebody eventually puts one of these behind a robot arm or a driving stack, that 77% will not have predicted a thing about how it behaves.submitted by/u/Purple-Low-2779[link][comments]",
+      "published": "2026-07-27T12:12:11",
+      "_id": "7e4dd30ebf05a430",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Workers are crossing job boundaries with AI, OpenAI research shows",
+      "link": "https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/",
+      "summary": "submitted by/u/gamersecret2[link][comments]",
+      "published": "2026-07-27T11:10:30",
+      "_id": "8a682442f2af097c",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "link": "https://arxiv.org/abs/2607.21596",
+      "summary": "arXiv:2607.21596v1 Announce Type: new \nAbstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workflows enable flexible problem solving, the useful procedures discovered during execution are often transient: they help solve the current task but are not retained in a form that can systematically benefit future tasks. We present FlowEvo, a training-free framework that compiles successful traces into reusable skill records. Each record pairs a callable artifact with auxiliary structured guidance, and admission applies interface, replay, and safety checks where feasible. These skill records persist in a skill bank at inference time. FlowEvo is organized around three coupled mechanisms: (1)~workflow-to-skill compilation, which extracts reusable executable artifacts from successful traces; (2)~skill-to-workflow feedback, which retrieves accumulated skills to support future problem solving through either direct execution or structured context injection; and (3)~skill curation, which monitors downstream utility and suppresses skills that cause negative transfer. Through this workflow--skill--workflow feedback loop, FlowEvo enables agents to accumulate and refine task-solving capability over time without updating model parameters. Experiments on benchmarks spanning interactive environments (ALFWorld) and code/math generation (HumanEval, GSM8K) show that FlowEvo achieves the best accuracy-cost tradeoff among the evaluated baselines under our implementation settings. On ALFWorld, FlowEvo achieves an 82.8\\% success rate, 23.6 percentage points above the strongest baseline, while its average token usage per episode is less than half that of the most efficient baseline. Controlled ablations confirm that each mechanism contributes to the overall result. The code is public at https://github.com/DEFENSE-SEU/FlowEvo.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "2f83a626a7958a26",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+      "link": "https://arxiv.org/abs/2607.21597",
+      "summary": "arXiv:2607.21597v1 Announce Type: new \nAbstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, not the operational coherence of a continuous risk signal. This work proposes a novel monotonic evaluation framework that measures whether increases in a predicted risk score consistently correspond to increases in observed operational load, such as number of fires, intervention time, and deployed resources. Moreover, we compare three structurally different approaches on the French Alpes-Maritimes department: the expert-based DFE index, GRU- based predictive models, and FARS, a hybrid multi-agent system combining predictive AI with LLM-based reasoning. Experimental results reveal that the DFE, despite poor classification metrics, exhibits the most balanced monotonic behavior across the full risk scale. GRU models achieve strong local monotonicity but fail to produce well-distributed risk levels. FARS inherits and reveals the structural limitations of upstream signals rather than correcting them. The central finding is a paradigm shift: a good risk model does not predict fires accurately, but one whose ordinal scale meaningfully explains operational dynamics, as proved in this paper. Code of the monotonic framework is available on github.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "e9a8cd808de8df41",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Securing Multimodal AI through Internal Information Decomposition",
+      "link": "https://arxiv.org/abs/2607.21600",
+      "summary": "arXiv:2607.21600v1 Announce Type: new \nAbstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to evade unimodal safeguards. This motivates using cross-modal consistency as a detection signal rather than inspecting each modality in isolation. Our key observation is that benign inputs induce compatible predictive behavior from text-only and vision-only reasoning that stabilizes when fused, whereas adversarial manipulation disrupts this consistency, causing abnormal multimodal behavior. Existing defenses that examine raw inputs or outputs overlook this internal fusion process, rendering them brittle and computationally expensive. We propose FlowGuard, a lightweight inference-time framework that detects harmful inputs by monitoring internal multimodal consistency. Unlike approaches that rely on scalar confidence metrics, FlowGuard derives FlowVectors inspired by Partial Information Decomposition that quantify cross-modal redundancy, synergy, and modality-specific dominance, capturing whether fused multimodal predictions remain aligned with unimodal semantic evidence. In a one-class classification problem trained solely on benign data, FlowGuard reduces Attack Success Rates from >90% to <15% on unseen attacks, with <3% utility loss and up to a 6 times latency reduction. Our results demonstrate that monitoring cross-modal consistency offers an efficient and effective defense for multimodal reasoning.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "d9e96d0038765d36",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+      "link": "https://arxiv.org/abs/2607.21601",
+      "summary": "arXiv:2607.21601v1 Announce Type: new \nAbstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In scenic kiosks, exhibition halls, and service terminals, users experience whether an intended action becomes a stable interaction event, not whether individual hand-landmark frames are correct. We call this the recognition-to-interaction gap.\n  This paper analyzes 8 engineering repair records from a scenic-area interactive kiosk project, covering 4 gesture tasks: two-hand bowing, single-hand fist shaking, two-hand catching control, and knowledge-graph node hovering. From these traces, we extract 20 failure instances and organize them into six non-exclusive working failure classes: model-output degeneration, temporal mismatch, geometric-scale instability, coordinate-rendering mismatch, runtime lifecycle failure, and feedback synchronization and recovery failure.\n  We further organize recurring repair mechanisms into an event-level runtime abstraction between the hand-landmark model and the interaction task. The contribution is deliberately bounded: a deployment-grounded failure taxonomy, an event-confirmation runtime abstraction, and case-study findings. We do not claim a new recognition model, large-scale user evaluation, or quantified accuracy gains.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "280a2a6332de55ce",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+      "link": "https://arxiv.org/abs/2607.21602",
+      "summary": "arXiv:2607.21602v1 Announce Type: new \nAbstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by model architecture, prompt behavior, runtime backend, hardware utilization, dynamic voltage and frequency scaling (DVFS), and thermal variation. This paper presents a runtime-aware latency prediction framework for deployment-oriented LLM selection. The framework represents each inference request as a hardware-runtime-model-prompt configuration, separates inference into prefill and decode phases, and adaptively fuses static descriptors with dynamic hardware telemetry through a gated prediction model.\n  We evaluate the framework using Pixel mobile devices and validate the profiling pipeline on Jetson Nano, Orange Pi 5 Pro, and an RTX 3090-class GPU platform. On Pixel 8, the full predictor improves total-latency R-squared from 0.953 to 0.960 and decode-latency R-squared from 0.957 to 0.973 over a static-only baseline. On Pixel 8 Pro, it improves prefill-latency R-squared from -1.383 to 0.966. For cross-device transfer, calibration improves Pixel 8 Pro to Pixel 8 total-latency R-squared from -0.974 to 0.940 and decode-latency R-squared from -1.085 to 0.927. Heterogeneous profiling further shows that latency is highly device- and runtime-dependent: the same SmolLM2 model family reaches 8.42 tokens/s on Orange Pi 5 Pro but 64.38 tokens/s on an RTX 3090-class GPU. These results demonstrate that runtime-aware prediction with lightweight calibration can reduce profiling cost and support latency-aware LLM deployment across heterogeneous edge platforms.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "16154e5280fa854b",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization",
+      "link": "https://arxiv.org/abs/2607.21619",
+      "summary": "arXiv:2607.21619v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have achieved impressive performance, but their safety alignment remains vulnerable to jailbreak attacks. Existing content-based jailbreaks are often inconsistent and show unsatisfying performance against the rapidly evolving MLLMs, failing to exploit non-content-based vulnerabilities. Unlike previous research, we empirically find that MLLMs exhibit a Stylistic Inconsistency between their comprehension ability and safety ability: MLLMs can robustly understand content regardless of visual style, yet their defense mechanisms can be easily bypassed by specific stylistic triggers. Based on this finding, we propose Adversarial Style Optimization (ASO), a plug-and-play enhancement module to amplify existing visual jailbreaks. ASO fine-tunes an image-editing model to superimpose an optimized stylistic modification onto a given adversarial image, using a Group Relative Policy Optimization (GRPO) agent guided by a Structurally-Tiered Reward Function that combines a logit-based signal for detecting explicit refusals with a high-fidelity semantic evaluation from a powerful judge model. Extensive experiments show that ASO significantly enhances the ASR of SOTA attacks, demonstrating that stylistic biases are a scalable vector for red-teaming MLLMs. Our code is available at https://github.com/bingjunluo/ASO.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "ea7ea177f9e770a1",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models",
+      "link": "https://arxiv.org/abs/2607.21632",
+      "summary": "arXiv:2607.21632v1 Announce Type: new \nAbstract: Traditional benchmarks for LLMs primarily rely on static datasets and objective scoring metrics, which often fail to capture differences in response quality when multiple answers are acceptable. In such settings, correctness alone is insufficient to distinguish between responses that vary in clarity, completeness, and usefulness.\n  This paper introduces a consensus-based evaluation framework that measures relative preference among model-generated responses rather than absolute correctness. Instead of evaluating outputs against a fixed ground truth, we assess how a panel of diverse LLMs ranks anonymized candidate responses to the same prompt. This approach treats aggregate inter-model agreement as a proxy for perceived response quality under blind conditions.\n  We conduct a controlled study using five state-of-the-art LLMs across multiple domains, including programming, general knowledge, safety, logical reasoning, and mathematics. Each model generates responses and independently ranks peer outputs through a structured voting process. Scores are aggregated into a Relative Intelligence Index (RII), representing how frequently a model's responses are preferred by other models.\n  Our findings reveal consistent preference patterns across domains, with certain models more frequently ranked highly by their peers. However, we emphasize that these results reflect inter-model preference alignment rather than objective correctness or human judgment. This framework provides a scalable, model-driven method for comparative evaluation, offering an alternative perspective on response quality in scenarios where multiple valid answers exist. While not directly aligned with human evaluation, prior work suggests that aggregated model preferences can partially correlate with human judgments, motivating this as a proxy signal.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "cb41fdce4dd1642c",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark",
+      "link": "https://arxiv.org/abs/2607.21685",
+      "summary": "arXiv:2607.21685v1 Announce Type: new \nAbstract: A systematic review begins with someone reading thousands of abstracts to identify the few that are relevant, and classifiers are used to prioritise that reading. Their inputs are often augmented with Medical Subject Headings (MeSH), assigned either by expert indexers weeks or months after publication or by automatic tools at once. To our knowledge the two have not been compared directly as classifier features, and no previous work has asked whether that comparison's outcome depends on how the classifier is evaluated. Using the Cohen et al. (2006) drug-class benchmark on three topics, we characterise a bag-of-words logistic regression classifier (seven reruns) and BiomedBERT (five seeds), then examine how the Statins result changes under alternative designs. Under the canonical 5-fold full-corpus design, the bag-of-words expert-vs-auto gap on Statins is +0.096 WSS@95%. Matching the corpus size to the smaller topics (n = 803) reduces it to +0.033 (95% bootstrap CI includes zero), and 10-fold cross-validation at full size to +0.021 (CI narrowly excludes zero). Under canonical evaluation BiomedBERT gives +0.020, within sampling noise of the bag-of-words 10-fold result. A power analysis indicates a Statins-sized effect would not have been detectable at the Opioids or ADHD variance, so those nulls are design-limited rather than informative. A representation asymmetry remains: 15.1% of Statins inputs exceed BiomedBERT's 512-token limit when expert MeSH terms are appended, so truncation may contribute to the smaller transformer gap, although this cannot be separated from training volume here. In screening pipelines using transformers or 10-fold bag-of-words, the gap on the topics tested is about 0.02 WSS@95%, with CIs spanning zero on at least one bound. More broadly, benchmark conclusions about feature sources can change substantially under reasonable changes to the evaluation design.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "e5ffa4f02f38cf01",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing",
+      "link": "https://arxiv.org/abs/2607.21758",
+      "summary": "arXiv:2607.21758v1 Announce Type: new \nAbstract: Teachers, conference chairs, and public readers all judge writing from limited evidence, seeing only a finished document and not the process that produced it. Final text alone cannot reveal whether a document was produced through human typing, AI generation, or mixed human-AI collaboration. Existing process-tracking tools help, but many are tied to host-document histories, provide coarse activity records, and offer limited control over the writing environment. Humanly is a writing platform that makes the writing process itself the evidence. Users configure writing environments for personal documents or assigned tasks and draft in a workspace that records writing activity and in-platform AI assistance. Humanly can package a completed session into a sealed writing certificate with configuration-aware anomaly behavior review. It can support writing scenarios such as course assignments, peer review, and personal certification. Our user study shows that Humanly is helpful across roles, and a red-teaming study shows that the Humanly Typing Detector distinguishes human hand typing from automated typing.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "a0bf64b472a1109a",
+      "_scraped_at": "14:39"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Probing Latent Colombian Identity Inferences in Qwen2.5-7B with Natural Language Autoencoders",
+      "link": "https://arxiv.org/abs/2607.21774",
+      "summary": "arXiv:2607.21774v1 Announce Type: new \nAbstract: Large language models may infer demographic attributes from subtle linguistic cues even when those attributes are not explicitly stated. This pilot study examines whether Qwen2.5-7B-Instruct internally represents Colombian identity, socioeconomic status, or stereotype-related information when processing Colombian-Spanish and English prompts. We use Natural Language Autoencoders (NLA) to verbalize residual-stream activations from layer 20 across four positional quartiles per prompt. Our dataset contains 30 prompts arranged as 15 matched Spanish-English pairs, spanning explicit Colombian cues, implicit Colombian cues, and neutral controls. We report descriptive rates and qualitative evidence rather than statistically powered effects, focusing on whether latent nationality or stereotype representations appear before they are verbalized in the model output. This work connects activation-level interpretability with bias evaluation for underrepresented Spanish varieties.",
+      "published": "2026-07-27T04:00:00",
+      "_id": "27c5e0c9e931460f",
+      "_scraped_at": "14:39"
+    }
+  ],
+  "seen_ids": [
+    "ea7ea177f9e770a1",
+    "601c1739033870f3",
+    "73ed64a2d1f57892",
+    "6c204c425234342b",
+    "0a9b60fb4c575c08",
+    "15894cc93db180b1",
+    "280a2a6332de55ce",
+    "fdd9745edc3aad4e",
+    "e5ffa4f02f38cf01",
+    "d9e96d0038765d36",
+    "446a8454722be8bb",
+    "0000577f446aae7e",
+    "9ef2632ac5647591",
+    "e9a8cd808de8df41",
+    "922a0f977e61a75f",
+    "cb41fdce4dd1642c",
+    "db9d0913513df69e",
+    "6ea9960b31645056",
+    "164d59b925c3a497",
+    "2f83a626a7958a26",
+    "019f99f4d633a5c0",
+    "5c85af313df4be0f",
+    "96537f9acc12bc3d",
+    "b9554d2262bab980",
+    "8a682442f2af097c",
+    "4307222bc7e5f2e4",
+    "cd12b1c321c4e880",
+    "7e4dd30ebf05a430",
+    "16154e5280fa854b",
+    "cc4e3f6d6e64b2d4",
+    "f3a7b176543a423f",
+    "3c45661bee203069",
+    "cc2152070c02e2ab",
+    "6bae7103b8446d06",
+    "c34a327604b5be4a",
+    "a434860c89b8b208",
+    "5a6459c4c276eeae",
+    "88882337cc6c28e0",
+    "27666e7fb9fc4358",
+    "ec673bd7694d3a65",
+    "61c016514a9f8cec",
+    "8d6a4b13c5d73cd6",
+    "27c5e0c9e931460f",
+    "a0bf64b472a1109a",
+    "daf8f820b4663969",
+    "cd646e9582ef02cb",
+    "f347cf518691fde0",
+    "bb0858634f4b2e64",
+    "8dbb2238c30b71eb",
+    "c489e6fb5febf2ab",
+    "e1642c6049fc0070"
+  ],
+  "last_run": "14:39",
+  "run_count": 1
+}
