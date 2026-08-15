@@ -1,0 +1,529 @@
+{
+  "date": "2026-08-15",
+  "items": [
+    {
+      "source": "NVIDIA AI",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+      "published": "2026-08-14T17:13:05",
+      "_id": "b7aa33db77b78eeb",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It is priced at $2 per million input tokens and $10 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation BrowseComp and the computer use evaluation OSWorld-Verified . Sonnet 5 (orange line) is a strict improvement over Sonnet 4.6 (gray line) and covers a much wider range of cost-performance options than Opus 4.8 (yellow ",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "published": "2026-08-14T16:13:40",
+      "_id": "c22aae7eac797072",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "published": "2026-08-14T15:43:28",
+      "_id": "744ebd52ee08e82a",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "published": "2026-08-14T14:50:11",
+      "_id": "bc3411669855d8b4",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "published": "2026-08-14T14:05:00",
+      "_id": "51108fffa3587a39",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "published": "2026-08-14T14:00:00",
+      "_id": "45f40813ef00ace0",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "The Verge",
+      "title": "Mark Zuckerberg has an Instagzam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of […]",
+      "published": "2026-08-14T16:54:16",
+      "_id": "ac19fc1cc3a0a915",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "The Verge",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of […]",
+      "published": "2026-08-14T16:39:32",
+      "_id": "e5026bc3d2dc8fd3",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with […]",
+      "published": "2026-08-14T09:21:17",
+      "_id": "9d7bfbd4e75cd5b0",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "published": "2026-08-14T18:32:14",
+      "_id": "64bd7759b59f7ecc",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "published": "2026-08-14T17:03:54",
+      "_id": "867f332521613e58",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "published": "2026-08-14T14:27:14",
+      "_id": "0778f93b3ef227dd",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+      "published": "2026-08-14T12:17:21",
+      "_id": "e68e43770845b853",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This scientist is helping build a missing map of childhood",
+      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+      "published": "2026-08-14T09:00:00",
+      "_id": "800442bb05c249e2",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Job titles of the future: Space travel agent",
+      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+      "published": "2026-08-14T09:00:00",
+      "_id": "e722428f2ed090a9",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
+      "published": "2026-08-14T09:00:00",
+      "_id": "33533645fb6b1402",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Wired",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "published": "2026-08-15T09:00:00",
+      "_id": "e6cc2a2222e0bf0c",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Wired",
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "published": "2026-08-14T20:59:03",
+      "_id": "67e2b302b7c1ef32",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Wired",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "published": "2026-08-14T15:00:00",
+      "_id": "03fa8605a0c7acba",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Wired",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "published": "2026-08-14T10:45:00",
+      "_id": "3e9b0d76809c6e47",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Wired",
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "published": "2026-08-14T10:15:00",
+      "_id": "392dbd29e2e9f7d9",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "cordiverse /cordis",
+      "link": "https://github.com/cordiverse/cordis",
+      "summary": "Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is not yet stable and may change without notice. Paper: A Programming Paradigm for Spatiotemporal Composability Documentation: cordis-primer",
+      "published": "",
+      "_id": "67188e0c48a0ecef",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "cathrynlavery /diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. 27 visual types. One agent skill for Claude Code, Codex, and Pi. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io or Mermaid sources at a chosen format, size, and detail level. No Figma. No generic rounded boxes. No 30-minute color-picking sessions. Why I built it I write at littlemight.com (and run BestSelf.co on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram. So I built a Claude Code skill for it. Twenty-seven visual types, editorial quality, matches your brand in 60 seconds by reading your website. The highest-quality move is usually deletion. Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10. What it makes All 27 visual types ship in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency. Architecture Components + connections Flowchart Decision logic Sequence Messages over time State machine States + transitions ER / data model Entities + fields Timeline Events on an axis Swimlane Cross-functional flow Quadrant Two-axis positioning Nested Hierarchy by containment Tree Parent → children Org chart Ownership + routing Venn Set overlap La",
+      "published": "",
+      "_id": "9c939c7199afd9a6",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "cursor /plugins",
+      "link": "https://github.com/cursor/plugins",
+      "summary": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit Cursor Team Kit Cursor Developer Tools Internal team workflows for CI, code review, shipping, local automation, and verification. thermos Thermos Cursor Developer Tools Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, thermos orchestration, and optional merge-ready PR flows. create-plugin Create Plugin Cursor Developer Tools Scaffold and validate new agent plugins. agent-compatibility Agent Compatibility Cursor Developer Tools CLI-backed repo compatibility scans plus agents that audit startup, validation, and docs against reality. cli-for-agent CLI for Agents Cursor Developer Tools Patterns for designing CLIs that coding agents can run reliably: flags, help with examples, pipelines, errors, idempotency, dry-run. pr-review-canvas PR Review Canvas Cursor Developer Tools Render PR diffs as interactive canvases organized for reviewer comprehension — groups changes by importance, separates boilerplate from core logic, and highlights tricky or unexpected code. docs-canvas Docs Canvas Cursor Developer Tools Render documentation — architecture notes, API references, runbooks, and codebase walkthroughs — as a navigable canvas with sections, table of contents, diagrams, and cross-references. cursor-sdk Cursor SDK Cursor Developer Tools Build apps, scripts, CI pipelines, and automations on top of the Cursor TypeScript SDK (@cursor/sdk) — runtime selection, auth, streaming, MCP, error handling, and ready-to-extend integration patterns. orchestrate Orchestrate Cursor Develop",
+      "published": "",
+      "_id": "a50d216def4cada3",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "cactus-compute /needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "summary": "Needle 2 Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 bits against their f16. This repository is the Python package: inference, LoRA fine-tuning, and export. pip install cactus-needle , describe your tools, and call them from Python. The inference engine is fetched once from Hugging Face and cached; there is nothing else to build, and offline setup for air gapped devices is covered in doc/apis.md . Self-contained : weights baked into a single 14MB engine; no separate model files to manage, and inference does no network. Simple contract : tool calls come back as structured data, text in, JSON out; a byte-level grammar compiled from your schemas constrains every token. Confidence-gated : every response carries a calibrated confidence score from a learned head; set a threshold, act above it, escalate below it. Tool retrieval : declare a large catalogue and a built-in retrieval head renders only the top five tools per turn, with the grammar constrained to that subset. Bounded memory : a 256-token sliding window with the tools pinned as KV sinks, so total memory stays near 28MB no matter how long the conversation runs. Weights: huggingface.co/Cactus-Compute/needle2 · source: github.com/cactus-compute/needle . Simple Attention Network Needle 2 is a Simple Attention Network, our dense small-model recipe: a Hadamard MLP in place of the FFN, GQA attention, engram key-value memory, and multi-lane hyper-connections. See the paper for the design and ablations: arXiv:2607.18363 . Each block carries its update rule. Here x̂ is the RMS-normalised flattening of the four resid",
+      "published": "",
+      "_id": "e1739cedc6f9ead7",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "unslothai /unsloth",
+      "link": "https://github.com/unslothai/unsloth",
+      "summary": "Unsloth is the first desktop app to run and train models. Features • Quickstart • Notebooks • Documentation ⚡ Get started Download the native Unsloth Desktop app for your operating system: Platform Link Windows Download macOS Download Linux / Ubuntu (deb) Download Linux (AppImage) Download Linux (Arm64) Download Download from Unsloth or GitHub Releases . Or if you prefer to install manually: macOS, Linux, WSL: curl -fsSL https://unsloth.ai/install.sh | sh Windows: irm https: // unsloth.ai / install.ps1 | iex Community: Discord 𝕏 (Twitter) Reddit ⭐ Features Unsloth lets you run, train, and deploy AI models locally, with support for all types of models. Run & Build with AI Run and train LLMs, diffusion, embedding, audio models: Kimi K3 , MiniMax-H3, Qwen3.8, Muse Glimmer , DeepSeek-V4 , Gemma 4 . Agents & Tools: Use local models with Claude Code , Codex , and MCP , including tool calling and code execution. Search & RAG: Use private and unlimited web search, deep research, and RAG. Image and video: Run and train image and video diffusion or multimodal models Audio: Use private and unlimited web search, deep research, and RAG. Hardware: Supports CPU, NVIDIA, AMD, Intel, macOS, and multi GPU setups. Remote Access: Access your local models remotely through secure Cloudflare HTTPS. Train & Deploy Fine-tuning: Train LLMs, diffusion, TTS, and embedding models 2× faster with 70% less VRAM Complete support: Supports reinforcement learning , LoRA, QLoRA, full fine tuning, pretraining, RL, GRPO, DPO, and FP8. Export & Deploy: Export or Deploy models with including GGUF , NVFP4, FP8 and more formats. Datasets: Build datasets from PDFs, CSVs, DOCX files, and more with Data Recipes . OpenAI Compatible API: Serve models through an OpenAI compatible API and also connect to cloud providers 🚀 Unsloth Start Unsloth Start connects Claude Code , Codex and other agents to local models with one command. Start Unsloth, load a model, open your project folder, then run: unsloth start claude R",
+      "published": "",
+      "_id": "1970f2aab6a882fb",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis /public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "summary": "Uh oh! There was an error while loading. Please reload this page . public-apis / public-apis Public Notifications You must be signed in to change notification settings Fork 50.8k Star 459k master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 5,108 Commits 5,108 Commits .github .github scripts scripts .gitattributes .gitattributes .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md LICENSE LICENSE README.md README.md View all files Repository files navigation Loading About A collective list of free APIs APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo Topics api apis dataset development free list lists open-source public public-api public-apis resources software Resources Readme MIT license Contributing Contributing Activity Custom properties Stars 459.3k stars Watchers 4.7k watching Forks 50.8k forks Report repository Used by Contributors Languages",
+      "published": "",
+      "_id": "415cb25759660433",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "MakazhanAlpamys /Soup",
+      "link": "https://github.com/MakazhanAlpamys/Soup",
+      "summary": "Soup Fine-tune and post-train LLMs in one command. No SSH, no config hell. Website · Quick Start · Config · Docs · Commands · Models · Discord · Product Hunt Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. pip install \" soup-cli[train] \" # add [train] to fine-tune; bare `soup-cli` is the light CLI soup init --template chat\nsoup train Fine-tune an 8B model on a 4 GB laptop GPU. Layer streaming keeps the frozen base out of\nVRAM and feeds it to the GPU one decoder layer at a time. Measured on an RTX 3050 Laptop 4 GB:\nLlama-3.1-8B-Instruct + NF4 at 119.6 tok/s, 3.32 GB peak — bit-exact against a normal\nresident run, and reproduced independently on an H100 at 113.00 tok/s in the same 3.32 GB.\n(The tok/s figure was measured on v0.72.2, before the v0.73.0 correctness repair that cost\n−4.8% at 32B; it has not been re-run on a 4 GB card since.) Opt-in ( stream_layers: true )\nand still BETA — how it works · all measurements · paper · check it yourself on a free Colab T4 (caps the process to\n4 GB, then asserts a streamed model is bit-identical to a normal one) Llama-3.1-8B-Instruct + NF4, LoRA, batch 1, seq 512 on an RTX 3050 Laptop 4 GB — 3.32 GB peak, 119.6 tok/s . Full video (90s) Why Soup? Training LLMs is still painful. Even experienced teams spend 30-50% of their time fighting\ninfrastructure instead of improving models. Soup fixes that. Zero SSH. Never SSH into a broken GPU box again. One config. A simple YAML file is all you need. Auto everything. Batch size, GPU detection, quantization — handled. Works locally. Train on your own GPU with QLoRA. No cloud required. What's New v0.73.2 — the release gate stops lying in both directions. soup ship answers one\nquestion: did this model get better, or did I break it? Two of its suites were ranking by\nthe wrong thing, and one whole failure direction had no detector at all. A suite scored 0.225 for a model that got it right 40/40. mini_tool_call was\nranking brace hygiene : the model e",
+      "published": "",
+      "_id": "82f6447f851685ec",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "github /spec-kit",
+      "link": "https://github.com/github/spec-kit",
+      "summary": "🌱 Spec Kit Define what to build before building it — with any AI coding agent. An open source toolkit for building high-quality software with any AI coding agent — a ready-to-use spec-driven process (or bring your own), endlessly extensible, community-driven, and built for your whole organization. English · 简体中文 Table of Contents 🤔 What is Spec-Driven Development? ⚡ Get Started 📽️ Video Overview 🌍 Community 🤖 Supported AI Coding Agent Integrations 🔧 Specify CLI Reference 🧩 Making Spec Kit Your Own: Extensions & Presets 📦 Bundles: Role-Based Setups 📚 Core Philosophy 🌟 Development Phases 🎯 Experimental Goals 🔧 Prerequisites 📖 Learn More 💬 Support 🙏 Acknowledgements 📄 License 🤔 What is Spec-Driven Development? Spec-Driven Development flips the script on traditional software development. For decades, code has been king — specifications were just scaffolding we built and discarded once the \"real work\" of coding began. Spec-Driven Development changes this: specifications become executable , directly generating working implementations rather than just guiding them. ⚡ Get Started 1. Install Specify CLI Requires uv ( install uv ). Replace vX.Y.Z with the latest release tag from Releases — keep the leading v (for example, v0.12.11 , not 0.12.11 ): uv tool install specify-cli --from git+https://github.com/github/spec-kit.git@vX.Y.Z Prefer installing from PyPI? The specify-cli package is also published there: uv tool install specify-cli See the Installation Guide for alternative methods, verification, upgrade, and troubleshooting. 2. Initialize a project specify init my-project --integration copilot cd my-project To check for updates or upgrade the installed CLI, use the self-management commands. See the Upgrade Guide for detailed scenarios and customization options. # Check whether a newer release is available (read-only — does not modify anything) specify self check # Preview what would run, without actually upgrading specify self upgrade --dry-run # Upgrade in place to the l",
+      "published": "",
+      "_id": "f4e0adf84666b0c9",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "megadose /holehe",
+      "link": "https://github.com/megadose/holehe",
+      "summary": "Holehe OSINT - Email to Registered Accounts 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: megadose@protonmail.com 📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English! Holehe Online Version Summary Efficiently finding registered accounts from emails. Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others. Retrieves information using the forgotten password function. Does not alert the target email. Runs on Python 3 . 🛠️ Installation With PyPI pip3 install holehe With Github git clone https://github.com/megadose/holehe.git cd holehe/\npython3 setup.py install With Docker docker build . -t my-holehe-image\ndocker run my-holehe-image holehe test@gmail.com Quick Start Holehe can be run from the CLI and rapidly embedded within existing python applications. 📚 CLI Example holehe test@gmail.com 📈 Python Example import trio import httpx from holehe . modules . social_media . snapchat import snapchat async def main (): email = \"test@gmail.com\" out = [] client = httpx . AsyncClient () await snapchat ( email , client , out ) print ( out ) await client . aclose () trio . run ( main ) Module Output For each module, data is returned in a standard dictionary with the following json-equivalent format : { \"name\" : \" example \" , \"rateLimit\" : false , \"exists\" : true , \"emailrecovery\" : \" ex****e@gmail.com \" , \"phoneNumber\" : \" 0*******78 \" , \"others\" : null } rateLitmit : Lets you know if you've been rate-limited. exists : If an account exists for the email on that service. emailrecovery : Sometimes partially obfuscated recovery emails are returned. phoneNumber : Sometimes partially obfuscated recovery phone numbers are returned. others : Any extra info. Rate limit? Change your IP. Maltego Transform : Holehe Maltego Thank you to : navlys Chris socialscan UhOh365 soxoj mxrch (and for the logo) novitae Donations For BTC Donation",
+      "published": "",
+      "_id": "fa2c4f7ecac76c6b",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "GitHub",
+      "title": "altic-dev /FluidVoice",
+      "link": "https://github.com/altic-dev/FluidVoice",
+      "summary": "FluidVoice Open source voice-to-text dictation app for macOS with on-device AI enhancement. Install with Homebrew: brew install --cask fluidvoice Manual download: latest release Note FluidVoice is on macOS today. iOS and Windows are on the way — join the waitlist to get notified when we launch: altic.dev/fluid/waitlist Important This project is free and open source under GPLv3. If FluidVoice is useful to you, please star the repository — it helps visibility and keeps development going. Support FluidVoice If FluidVoice helps you, you can support continued development and future platform work for iOS and Windows on GitHub Sponsors . What's New in 1.6.0 Insanely fast Parakeet — rebuilt Parakeet implementation with pretty much zero delay between speaking and seeing words on screen Fluid Intelligence — fully local AI model for on-device dictation enhancement. No cloud, no API keys, no data leaving your Mac Better Theming — adaptive light/dark theme with a compact toolbar switcher Refreshed Onboarding — language-first voice engine setup, real dictation tryout, and AI enhancement setup in one clean pass Warning Based on early feedback, Fluid Intelligence may cause you to unsubscribe from other dictation apps and save money. You've been warned. Fluid Intelligence FluidVoice is fully open source under GPLv3. Fluid Intelligence is a separate, privately maintained local AI runtime that powers advanced on-device dictation enhancement — smart formatting, context-aware capitalization, and post-processing — all running locally on your Mac. The app works great on its own with any supported speech model and optional cloud AI providers. Fluid Intelligence adds a fully local, private AI layer for users who want on-device enhancement without sending data anywhere. We're keeping Fluid Intelligence private for now so we can sustainably offer the core dictation experience for free. This may change in the future. Fluid Intelligence Sneak Peek Email Template Flowers Email_template.mp4 flowe",
+      "published": "",
+      "_id": "f72ce97d15ad1c7b",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "summary": "Article URL:https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/Comments URL:https://news.ycombinator.com/item?id=49308553Points: 52# Comments: 39",
+      "published": "2026-08-15T07:31:46",
+      "_id": "2dbd025943acfbff",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "link": "https://chenxiachan.github.io/thoughtdag/",
+      "summary": "Article URL:https://chenxiachan.github.io/thoughtdag/Comments URL:https://news.ycombinator.com/item?id=49307700Points: 53# Comments: 14",
+      "published": "2026-08-15T04:42:07",
+      "_id": "908f986061ecc87e",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "Article URL:https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessionsComments URL:https://news.ycombinator.com/item?id=49300800Points: 258# Comments: 138",
+      "published": "2026-08-14T16:15:21",
+      "_id": "df53bf562276fa1e",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI by Hand",
+      "link": "https://www.byhand.ai/",
+      "summary": "Article URL:https://www.byhand.ai/Comments URL:https://news.ycombinator.com/item?id=49300568Points: 329# Comments: 23",
+      "published": "2026-08-14T15:58:59",
+      "_id": "2b71cb6d2f467db8",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "Article URL:https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/Comments URL:https://news.ycombinator.com/item?id=49300314Points: 424# Comments: 256",
+      "published": "2026-08-14T15:43:10",
+      "_id": "0356ba6ae093c304",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "summary": "Article URL:https://weightythoughts.com/p/when-genius-failsthe-intellectualComments URL:https://news.ycombinator.com/item?id=49299282Points: 172# Comments: 195",
+      "published": "2026-08-14T14:34:49",
+      "_id": "0d4bc1667c350844",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "summary": "Article URL:https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0Comments URL:https://news.ycombinator.com/item?id=49299102Points: 63# Comments: 8",
+      "published": "2026-08-14T14:22:39",
+      "_id": "93af4f37b4512874",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Hacker News",
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "link": "https://hashagent.pages.dev/",
+      "summary": "Article URL:https://hashagent.pages.dev/Comments URL:https://news.ycombinator.com/item?id=49298088Points: 51# Comments: 7",
+      "published": "2026-08-14T12:57:02",
+      "_id": "08315995f7290e31",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+      "summary": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actuallydowith them?And before the usual answers roll in: running local LLMs is banned for this thread. It’s been done to death and feels pretty pointless at this point.So… what else?Some niche scientific/simulation workload?Weird generative stuff that isn’t text?Distributed something-or-other?Rendering / media pipeline?Homelab experiments that actually need the horsepower?Completely unhinged personal projects?Drop your ideas. The more specific (and slightly unhinged), the better.Great Ideas but are there some with more of research and new tech.submitted by/u/BadOk2793[link][comments]",
+      "published": "2026-08-15T07:26:32",
+      "_id": "770c9407a46630ac",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+      "summary": "This is the project my last two posts were building towards (this is the last of this silliness). I ported the Doom rendering algorithm to run inside a transformer. Instead of training a model, I used a compiler I wrote which converts computation graphs into transformer weights, and then ported Doom's algorithm into a compatible graph. The generated checkpoints can be loaded in Hugging Face without trust_remote_code -- it's just a standard transformers checkpoint. You feed the model a prompt representing the scene data, and generate until the model stops. The result is a token sequence which includes simple pixel drawing commands (to move the cursor, draw a pixel, etc). When you mechanically apply those drawing commands you get the rendered frame.The article includes the entire host program necessary to load the checkpoint, generate the render, and parse the output into the famous E1M1 frame. This host code is 43 lines of python. The python to define the computation graph is much longer, but that gets compiled into the transformer itself.One frame is a 3,614-token prompt plus 53,747 generated tokens -- just over 40 minutes on a B200.The original Doom could achieve 35 FPS on a 486. This achieves 35 FPD (frames per day) on a B200.Write-up:https://ood.dev/posts/doom/Weights:https://huggingface.co/physicsrob/torchwright-doom-e1m1Github for the source code which gets compiled:https://github.com/physicsrob/torchwright_doom/submitted by/u/notforrob[link][comments]",
+      "published": "2026-08-14T15:50:11",
+      "_id": "477e1b54c1740467",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+      "summary": "We introduce BDH-CQ, a reasoning system that brings these capabilities together. Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computation in a high-dimensional latent workspace.Intermediate reasoning states are not decoded into language.BDH-CQ makes memory, adaptation, and inference part of the same computational fabric. Inputs presented at inference time continuously update the model’s recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space,without verbalizing its intermediate reasoning.Neither task identifiers nor evaluation-task demonstration pairs participate in training, and no parameters are updated at inference time. A 150M-parameter configuration reaches 29.5% pass@2 on ARC-AGI-1 at a computed $0.00070 per task, breaking through the previously reported cost–accuracy Pareto frontier.submitted by/u/moschles[link][comments]",
+      "published": "2026-08-15T06:18:15",
+      "_id": "ee5cff449bb9d7d0",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "link": "https://arxiv.org/abs/2608.12325",
+      "summary": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct validity of reasoning evaluation unverifiable, undermining quantifiable progress toward trustworthy autonomous reasoning. We also contend that this ambiguity is addressable. To that end, we provide (1) operational definitions based on a synthesis of the literature, positioning valid and sound reasoning as a learnable rule-based process; and (2) a checklist for best practices in the communication of AI reasoning research.",
+      "published": "2026-08-15T04:00:00",
+      "_id": "b7939c0a393e9016",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "link": "https://arxiv.org/abs/2608.12345",
+      "summary": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and neither scale nor reasoning ability reliably mitigates this. Explicit pressures induce compliance with misconduct, while implicit contextual reframing more often causes over-refusal of legitimate research tasks. Interestingly, models failing to classify research requests accurately perform equally or better on artifact-grounded decision making (85.7 vs. 79.4), suggesting the three facets are structurally dissociated and correct ethical action does not require accurate classification. Frontier models can thus appear helpful while harbouring integrity failures that create two distinct deployment risks: facilitating research misconduct and eroding trust in AI-assisted research.",
+      "published": "2026-08-15T04:00:00",
+      "_id": "6573139a0d538e70",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "link": "https://arxiv.org/abs/2608.12346",
+      "summary": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user adoption of AI as information provider, economic power asymmetries, and a political landscape that increasingly shifts towards authoritarianism. We conclude by urging the community to consider the intentional misuse of AI alignment mechanisms and propose mitigation strategies to safeguard against this dual-use potential.",
+      "published": "2026-08-15T04:00:00",
+      "_id": "14bd425bd1c556eb",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "link": "https://arxiv.org/abs/2608.12368",
+      "summary": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and supporting rationales. Across frontier and open model families, agreement with human annotator majority labels is often high. However, rationale-level analysis reveals systematic divergence in the moral grounds expressed by human annotators and models. In particular, models redistribute attention across categories such as harm, respect, promise-keeping, justice, desert, and excuse relevance, even when their final labels match the human annotator majority.\n  Our results show that agreement should not be treated as equivalent to alignment. Label-based evaluation can therefore be misleadingly reassuring unless complemented by analysis of the reasons, principles, and moral priorities expressed in model judgments.",
+      "published": "2026-08-15T04:00:00",
+      "_id": "d6d452a64c5d2ce6",
+      "_scraped_at": "12:40"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "link": "https://arxiv.org/abs/2608.12371",
+      "summary": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-round proposal revision, negotiation memory, and deterministic validation. Edge-cluster agents refine natural-language offloading proposals from local observations, predicted resource states, and qualitative runtime context, while hard resource and QoS constraints remain deterministic. Experiments derived from the Alibaba ASI Trace evaluate the extension at three levels: single- versus multi-round CNP, rule-based versus LLM-assisted refinement, and fixed-model single- versus multi-round negotiation. Under the evaluated configurations, MAS-DecStream reduces latency violations to 3\\%, eliminates resource overcommitment, reaches a conflict-resolution rate of 0.91 with 20 agents, and improves utility by up to 22\\% over the multi-round rule-based baseline. A separate 25-case evaluation shows model- and prompt-dependent accuracy--cost trade-offs. The results provide initial evidence that multi-round CNP refinement is the principal protocol-level gain, with LLM assistance adding value for qualitative and uncertain runtime context.",
+      "published": "2026-08-15T04:00:00",
+      "_id": "c8faa25c30539bf3",
+      "_scraped_at": "12:40"
+    }
+  ],
+  "seen_ids": [
+    "bc3411669855d8b4",
+    "fa2c4f7ecac76c6b",
+    "744ebd52ee08e82a",
+    "67188e0c48a0ecef",
+    "0778f93b3ef227dd",
+    "3e9b0d76809c6e47",
+    "477e1b54c1740467",
+    "2dbd025943acfbff",
+    "6573139a0d538e70",
+    "800442bb05c249e2",
+    "8dbb2238c30b71eb",
+    "51108fffa3587a39",
+    "4307222bc7e5f2e4",
+    "392dbd29e2e9f7d9",
+    "e68246067eeddf6e",
+    "908f986061ecc87e",
+    "e722428f2ed090a9",
+    "67e2b302b7c1ef32",
+    "03fa8605a0c7acba",
+    "c34a327604b5be4a",
+    "ac19fc1cc3a0a915",
+    "0d4bc1667c350844",
+    "64bd7759b59f7ecc",
+    "d6d452a64c5d2ce6",
+    "e68e43770845b853",
+    "08315995f7290e31",
+    "770c9407a46630ac",
+    "b7939c0a393e9016",
+    "415cb25759660433",
+    "82f6447f851685ec",
+    "df53bf562276fa1e",
+    "f72ce97d15ad1c7b",
+    "ee5cff449bb9d7d0",
+    "9d7bfbd4e75cd5b0",
+    "b7aa33db77b78eeb",
+    "f4e0adf84666b0c9",
+    "0356ba6ae093c304",
+    "93af4f37b4512874",
+    "1970f2aab6a882fb",
+    "c8faa25c30539bf3",
+    "e5026bc3d2dc8fd3",
+    "9c939c7199afd9a6",
+    "33533645fb6b1402",
+    "2b71cb6d2f467db8",
+    "e6cc2a2222e0bf0c",
+    "14bd425bd1c556eb",
+    "fdd9745edc3aad4e",
+    "a50d216def4cada3",
+    "e1739cedc6f9ead7",
+    "c22aae7eac797072",
+    "867f332521613e58",
+    "45f40813ef00ace0"
+  ],
+  "last_run": "12:40",
+  "run_count": 1
+}
