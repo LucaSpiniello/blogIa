@@ -1,0 +1,499 @@
+{
+  "date": "2026-08-17",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "published": "2026-08-17T03:15:00",
+      "_id": "3ff02964da6b7f4f",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Google AI",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "published": "2026-08-17T08:00:00",
+      "_id": "4001c007c7b53144",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It is priced at $2 per million input tokens and $10 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation BrowseComp and the computer use evaluation OSWorld-Verified . Sonnet 5 (orange line) is a strict improvement over Sonnet 4.6 (gray line) and covers a much wider range of cost-performance options than Opus 4.8 (yellow ",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "published": "2026-08-16T20:57:04",
+      "_id": "ce56f7c0b2ba7087",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "published": "2026-08-16T20:32:01",
+      "_id": "9a585195e787c793",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "published": "2026-08-16T16:53:51",
+      "_id": "31bad0791a5e5c62",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This […]",
+      "published": "2026-08-17T10:57:13",
+      "_id": "e82fdf6a1f9efd8e",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility […]",
+      "published": "2026-08-16T21:32:56",
+      "_id": "d1b7ed52e00e3aef",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
+      "published": "2026-08-16T14:56:40",
+      "_id": "99f79a191e7351c9",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents […]",
+      "published": "2026-08-16T12:00:00",
+      "_id": "8ccd370b2e0a7293",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
+      "published": "2026-08-17T12:10:00",
+      "_id": "1fa7f7615de49cf0",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How much hydrogen awaits us underground?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
+      "published": "2026-08-17T09:00:00",
+      "_id": "0dfc6754cce6b399",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
+      "published": "2026-08-17T09:00:00",
+      "_id": "f49ea2b45b71d6dd",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "harry0703 /MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。 MoneyPrinterTurbo 用户专属优惠：新用户通过专属链接注册，首次成功充值可获充值金额 10% 的 API 额度，最高赠送 ¥1000。活动截至 2026 年 9 月 30 日。前往 Kimi 开放平台（ 中文站 ｜ Global ）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！ 【专属活动优惠】 19元Tokens包！享字节自研豆包模型+满血版开源 SOTA模型，覆盖文本、VLM、图像生成，全模态一站配齐：Seed-2.1、Seedream-5.0、GLM-5.2、DeepSeek、Qwen等。不止编程，更能解决 Agent 复杂长程任务 --> 注册即领2500万Tokens，立即前往 CCSub 感谢 CCSub 赞助本项目！CCSub 是稳定、实惠的 AI API 中转平台，是 Claude Code 官方订阅的超强平替。一个 API Key 即可调用 Claude Opus 4.8、Sonnet 4.6、Haiku 4.5、GPT-5、Gemini 等模型，价格约为官方直连的 1/3，全球直连无需梯子。兼容 Claude Code、Codex、Cursor、Cline、Continue、Windsurf 等所有主流 AI 编程工具。前往 www.ccsub.net 注册即送 $5 体验额度。 Infistar.ai 无限星河 感谢 Infistar.ai 无限星河 赞助本项目！ ⚡ 超低成本与稳定调度：价格低至官方 1 折，模型倍率与调用明细全程透明；多路供应动态调度，告别限流与断连困扰。 🧠 全系大模型完美驱动脚本：全面覆盖 OpenAI、Claude、Google Gemini、DeepSeek、通义千问（Qwen）等主流 LLM，兼容 OpenAI 标准接口，为 MoneyPrinterTurbo 的文案生成与素材关键词提炼提供低延迟、高并发支持。 🎨 前沿多模态生态：全面接入 FLUX、Midjourney、Seedance、可灵（Kling）、Sora、Luma 等顶级生图与视频模型，满足下一代 AI 视频生成需求。 🎁 MoneyPrinterTurbo 用户专属福利：通过 专属推广链接 注册即享 [专属赠送额度 / 首充特惠]，开箱即用！ 录咖 AI 由于该项目的 部署 和 使用 ，对于一些小白用户来说，还是 有一定的门槛 ，在此特别感谢 录咖（AI智能 多媒体服务平台） 网站基于该项目，提供的免费 AI视频生成器 服务，可以不用部署，直接在线使用，非常方便。 佐糖 感谢 佐糖 对该项目的支持和赞助，使得该项目能够持续的更新和维护。佐糖专注于 图像处理领域 ，提供丰富的 图像处理工具 ，将复杂操作极致简化，真正实现让图像处理更简单。 作者的另一个开源项目：MangoDisk ⭐ 适用于 macOS 和 Windows 的安全优先开源磁盘清理与空间分析工具 查找大文件和重复文件，清理缓存与应用残留，安全释放磁盘空间。 查看 GitHub 开源项目 功能特性 🎯 提供 AI Agent 、 WebUI 、 API 和 CLI 四种使用方式，代码按控制器、服务和模型等职责分层 支持 AI 自动生成视频脚本 ，也可以使用自定义脚本 支持多种 高清视频 尺寸 竖屏 9:16， 1080x1920 横屏 16:9， 1920x1080 支持 批量视频生成 ，可以一次生成多个视频，然后选择一个最满意的 支持 视频片段时长 设置，方便调节素材切换频率 支持 多语言视频脚本 生成 支持 Edge TTS 、 Azure Speech 、 SiliconFlow 、 Google Gemini 、 小米 MiMo 、 ElevenLabs 和 Chatterbox 语音合成，可实时试听 支持 字幕生成 ，可调整字体、位置、颜色、大小、描边和背景样式 支持 背景音乐 ，可随机选择或使用指定音乐，并调整音量 支持使用自己的 本地素材 ，也可从 ",
+      "published": "",
+      "_id": "0604d6a7a7d7afd2",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "usestrix /strix",
+      "link": "https://github.com/usestrix/strix",
+      "summary": "Strix The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities. Tip New! Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - Get started with no setup required . Strix Overview Strix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proofs-of-concept. Built for developers and security teams who need fast, accurate security testing without the overhead of manual pentesting or the false positives of static analysis tools. Key Capabilities: Full pentesting toolkit - reconnaissance, exploitation, and validation out of the box Multi-agent orchestration - teams of AI pentesters that collaborate and scale Real exploit validation - working PoCs, not false positives like legacy vulnerability scanners Developer‑first CLI - actionable findings with remediation guidance Auto‑fix & reporting - generate patches and compliance-ready pentest reports Use Cases Application Security Testing - Detect and validate critical vulnerabilities in your applications Rapid Penetration Testing - Get penetration tests done in hours, not weeks, with compliance reports Bug Bounty Automation - Automate bug bounty research and generate PoCs for faster reporting CI/CD Integration - Run tests in CI/CD to block vulnerabilities before reaching production 🚀 Quick Start Prerequisites: Docker (running) An LLM API key from any supported provider (OpenAI, Anthropic, Google, etc.) Installation & First Scan # Install Strix curl -sSL https://strix.ai/install | bash # Configure your AI provider export STRIX_LLM= \" openai/gpt-5.4 \" export LLM_API_KEY= \" your-api-key \" # Run your first security assessment strix --target ./app-directory Note First run automatically pulls the sandbox Docker image. Results are saved to strix_run",
+      "published": "",
+      "_id": "c7c9684abfb72529",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "nautechsystems /nautilus_trader",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "summary": "Branch Version Status master nightly develop Platform Rust Python Linux (x86_64) 1.97.1 3.12-3.14 Linux (ARM64) 1.97.1 3.12-3.14 macOS (ARM64) 1.97.1 3.12-3.14 Windows (x86_64) 1.97.1 3.12-3.14 Docs : https://nautilustrader.io/docs/ Website : https://nautilustrader.io Support : support@nautilustrader.io Introduction NautilusTrader is an open-source, production-grade, Rust-native engine for multi-asset,\nmulti-venue trading systems. The system spans research, deterministic simulation, and live execution within a single\nevent-driven architecture, with Python serving as the control plane for strategy logic,\nconfiguration, and orchestration. This separation provides the performance and safety of a compiled trading engine with\nthe flexibility of Python for system composition and strategy development.\nTrading systems can also be written entirely in Rust for mission-critical workloads. The same execution semantics and deterministic time model operate in both research and\nlive systems. Strategies deploy from research to production with no code changes,\nproviding research-to-live parity and reducing the divergence that typically introduces\ndeployment risk. NautilusTrader is asset-class-agnostic. Any venue with a REST API or WebSocket feed can be\nintegrated through modular adapters. Current integrations span crypto exchanges (CEX and\nDEX), traditional markets (FX, equities, futures, options), and betting exchanges. Features Fast : Rust core with the mimalloc allocator and asynchronous networking using tokio . Reliable : Type- and thread-safety backed by Rust, with optional Redis-backed state persistence. Portable : Runs on Linux, macOS, and Windows. Deploy using Docker. Flexible : Modular adapters integrate any REST API or WebSocket feed. Advanced : Time in force IOC , FOK , GTC , GTD , DAY , AT_THE_OPEN , AT_THE_CLOSE , advanced order types and conditional triggers. Execution instructions post-only , reduce-only , and icebergs. Contingency orders including OCO , OUO , OTO . C",
+      "published": "",
+      "_id": "f9593f1f67353de2",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "mukul975 /Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 production-grade cybersecurity skills · 29 security domains · 6 framework mappings · 26+ AI platforms Get Started · What's Inside · Frameworks · Platforms · Contributing ⚠️ Community Project — This is an independent, community-created project. Not affiliated with Anthropic PBC. 🔐 Authorized & lawful use only. This library includes offensive and dual-use techniques (e.g. red-team C2, phishing simulation, exploitation) intended for authorized penetration testing, security research, defense, and education . Only use them against systems you own or have explicit written permission to test, and comply with all applicable laws and rules of engagement. You are solely responsible for how you use these skills. See SECURITY.md and CODE_OF_CONDUCT.md . Give any AI agent the security skills of a senior analyst A junior analyst knows which Volatility3 plugin to run on a suspicious memory dump, which Sigma rules catch Kerberoasting, and how to scope a cloud breach across three providers. Your AI agent doesn't — unless you give it these skills. This repo contains 817 structured cybersecurity skills spanning 29 security domains , each following the agentskills.io open standard.  The library maps across six industry frameworks — MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, MITRE D3FEND, NIST AI RMF, and the MITRE Fight Fraud Framework (F3) — with each skill mapped to the frameworks relevant to its type (a forensics skill carries ATT&CK + CSF; an AI-security skill adds ATLAS and AI RMF).  Clone it, point your agent at it, and your next security investigation gets expert-level guidance in seconds. Six frameworks, one skill library Each skill maps to the frameworks that fit its subject — ATT&CK and NIST CSF are near-universal, while ATLAS, AI RMF, D3FEND, and F3 apply where they're relevant. Framework coverage across the 817 skills: MITRE ATT&CK 805 · NIST CSF 2.0 804 · MITRE D3FEND 139 · ",
+      "published": "",
+      "_id": "25764ed5c03fca05",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "AlexsJones /llmfit",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "summary": "llmfit English · 中文 · 日本語 📊 New: benchmark & share — real numbers from your machine, better estimates for everyone. Download a model, serve it, and measure real tok/s on your hardware — then contribute the results back to the project as a PR, straight from the TUI. No gh CLI, no third-party account. Every run is saved locally first, your own measurements replace estimates in the fit table, and each merged submission ships in the next release: anyone on identical hardware gets measured ✓ numbers before they ever run a benchmark. Follow the step-by-step benchmarking guide → Previously: llmfit 1.0 — the release where the numbers became verifiable → Hundreds of models & providers. One command to find what runs on your hardware. A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine. Ships with an interactive TUI (default) and a classic CLI mode. Supports multi-GPU setups, MoE architectures, dynamic quantization selection, speed estimation, and local runtime providers (Ollama, llama.cpp, MLX, Docker Model Runner, LM Studio). Sister projects: sympozium — managing agents in Kubernetes. llmserve — a simple TUI for serving local LLM models. Pick a model, pick a backend, serve it. llama-panel — a native macOS app for managing local llama-server instances. Documentation Get started Install · Usage · How it works Guides TUI guide · Benchmarking step-by-step · CLI & automation · Runtime providers · OpenClaw integration Reference How it works (full) · Platform & GPU support · Custom models · Development Project Contributing · Alternatives · Code signing · License Install Windows scoop install llmfit If Scoop is not installed, follow the Scoop installation guide . macOS / Linux Homebrew Prebuilt binary (recommended, works on all macOS/Linux versions): brew install AlexsJones/llmfit/llmfit Or from the h",
+      "published": "",
+      "_id": "234088bc43763aa2",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "santifer /career-ops",
+      "link": "https://github.com/santifer/career-ops",
+      "summary": "English | Español | Deutsch | Français | Português (Brasil) | 한국어 | 日本語 | 简体中文 | 繁體中文 | Українська | Русский | Polski | Dansk | தமிழ் | العربية | हिन्दी | Türkçe I spent months applying to jobs the hard way. So I engineered the system I wish I had. Companies use AI to filter candidates. I just gave candidates AI to choose companies. Now it's open source. FEATURED IN 740+ job listings evaluated · 100+ personalized CVs · 1 dream role landed Also runs on any agent-skill-standard CLI. See Supported CLIs . What Is This career-ops ( career-ops.org , also known as careerops ) turns any AI coding CLI into a full job search command center. Instead of manually tracking applications in a spreadsheet, you get an AI-powered pipeline that: Evaluates offers with a structured evaluation -- blocks A-F scored across 5 weighted dimensions, plus block G, a separate posting-legitimacy assessment that never affects the 1-5 score Generates tailored PDFs -- ATS-optimized CVs customized per job description Scans portals automatically (Greenhouse, Ashby, Lever, company pages) Processes in batch -- evaluate 10+ offers in parallel with sub-agents Tracks everything in a single source of truth with integrity checks Researches companies and finds the right person to contact -- applications get you in the queue; research gets you a conversation Important: This is NOT a spray-and-pray tool. career-ops is a filter -- it helps you find the few offers worth your time out of hundreds. The system strongly recommends against applying to anything scoring below 4.0/5. Your time is valuable, and so is the recruiter's. Always review before submitting. career-ops is agentic: whichever AI coding CLI you choose navigates career pages with Playwright, evaluates fit by reasoning about your CV vs the job description (not keyword matching), and adapts your resume per listing. Heads up: the first evaluations won't be great. The system doesn't know you yet. Feed it context -- your CV, your career story, your proof po",
+      "published": "",
+      "_id": "b68d90c0788819fd",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "jundot /omlx",
+      "link": "https://github.com/jundot/omlx",
+      "summary": "oMLX LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu bar. junkim.dot@gmail.com · https://omlx.ai/me Install · Quickstart · Features · Models · CLI Configuration · Benchmarks · oMLX.ai English · 中文 · 한국어 · 日本語 Every LLM server I tried made me choose between convenience and control. I wanted to pin everyday models in memory, auto-swap heavier ones on demand, set context limits - and manage it all from a menu bar. oMLX persists KV cache across a hot in-memory tier and cold SSD tier - even when context changes mid-conversation, all past context stays cached and reusable across requests, making local LLMs practical for real coding work with tools like Claude Code. That's why I built it. Install macOS App Download the .dmg from Releases , drag to Applications, done. The app includes in-app auto-update, so future upgrades are just one click. The macOS app also installs a lightweight ~/.omlx/bin/omlx CLI shim so terminal commands and Apple Shortcuts can control the app-managed server. Homebrew brew tap jundot/omlx https://github.com/jundot/omlx\nbrew install jundot/omlx/omlx # Upgrade to the latest version brew update && brew upgrade omlx # Run as a background service (auto-restarts on crash) omlx start # Optional: MCP (Model Context Protocol) support /opt/homebrew/opt/omlx/libexec/bin/pip install mcp Optional GLM-5.2 / MiniMax M3 native custom kernels currently require a HEAD build: brew install jundot/omlx/omlx --HEAD --with-custom-kernel From Source git clone https://github.com/jundot/omlx.git cd omlx\npip install -e . # Core only pip install -e \" .[mcp] \" # With MCP (Model Context Protocol) support # GLM-5.2 / MiniMax M3 / Qwen3.5 native custom kernels (strongly recommended # if you serve those families -- see note below) OMLX_WITH_CUSTOM_KERNEL=1 pip install -e . Requires macOS 15.0+ (Sequoia), Python 3.11–3.13, and Apple Silicon (M1/M2/M3/M4). Note on native custom kernels: a plain pip install -e . does NO",
+      "published": "",
+      "_id": "0bcb55082c56199e",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "immich-app /immich",
+      "link": "https://github.com/immich-app/immich",
+      "summary": "High performance self-hosted photo and video management solution Català Español Français Italiano 日本語 한국어 Deutsch Nederlands Türkçe 简体中文 正體中文 Українська Русский Български Português Brasileiro Svenska العربية Tiếng Việt ภาษาไทย മലയാളം Warning ⚠️ Always follow 3-2-1 backup plan for your precious photos and videos! Note You can find the main documentation, including installation guides, at https://immich.app/ . Links Documentation About Installation Roadmap Demo Features Translations Contributing Demo Access the demo here . For the mobile app, you can use https://demo.immich.app for the Server Endpoint URL . Login credentials Email Password demo@immich.app demo Features Features Mobile Web Upload and view videos and photos Yes Yes Auto backup when the app is opened Yes N/A Prevent duplication of assets Yes Yes Selective album(s) for backup Yes N/A Download photos and videos to local device Yes Yes Multi-user support Yes Yes Album and Shared albums Yes Yes Scrubbable/draggable scrollbar Yes Yes Support raw formats Yes Yes Metadata view (EXIF, map) Yes Yes Search by metadata, objects, faces, and CLIP Yes Yes Administrative functions (user management) No Yes Background backup Yes N/A Virtual scroll Yes Yes OAuth support Yes Yes API Keys N/A Yes LivePhoto/MotionPhoto backup and playback Yes Yes Support 360 degree image display No Yes User-defined storage structure Yes Yes Public Sharing Yes Yes Archive and Favorites Yes Yes Global Map Yes Yes Partner Sharing Yes Yes Facial recognition and clustering Yes Yes Memories (x years ago) Yes Yes Offline support Yes No Read-only gallery Yes Yes Stacked Photos Yes Yes Tags No Yes Folder View Yes Yes Translations Read more about translations here . Repository activity Star history Contributors",
+      "published": "",
+      "_id": "bfefa0db462ca5c0",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "cordiverse /cordis",
+      "link": "https://github.com/cordiverse/cordis",
+      "summary": "Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is not yet stable and may change without notice. Paper: A Programming Paradigm for Spatiotemporal Composability Documentation: cordis-primer",
+      "published": "",
+      "_id": "67188e0c48a0ecef",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "GitHub",
+      "title": "agalwood /Motrix",
+      "link": "https://github.com/agalwood/Motrix",
+      "summary": "Motrix A modern, full-featured download manager that stays simple to use English | 简体中文 Overview Motrix is a clean, full-featured desktop download manager for HTTP, FTP, BitTorrent, magnet links, and more. Motrix Turbo is Motrix v2, rebuilt from the ground up with Electron, React, and TypeScript while keeping the clean, straightforward experience of v1. The download core is independent of the UI. Browser extensions and command-line tools communicate with the app over MDXP (Motrix Download eXchange Protocol), an open protocol built on JSON-RPC 2.0, while plugins run in isolated sandboxes. The same core powers two ways to run Motrix: Desktop app: Runs on macOS, Windows, and Linux Headless server: Runs without a desktop environment, either directly on Node.js or in Docker, and includes a web UI for NAS devices and home servers 🧪 Beta testing Motrix Turbo v2 is currently in beta. After its remaining release gates pass,\ndownload v2.0.0-beta.18 from GitHub Releases and read the full release notes before\ninstalling it. Back up your existing Motrix data and downloads before testing. Migration from\nMotrix v1 data has not yet been validated, so do not use your only copy of v1\ndata with this beta. When practical, test v2 in parallel using a separate OS\naccount, machine, or Docker data directory. Screenshots Dashboard Downloads Settings ✨ Features 🕹 Clean, intuitive interface with dark mode 🦄 BitTorrent downloads with per-file selection, plus magnet link support 📡 Built-in tracker list management with automatic updates and health checks 🔌 UPnP and NAT-PMP port mapping 🚥 Upload and download limits with multiple speed-limit profiles 💾 SQLite-backed sessions that restore downloads after a restart 📊 Customizable Dashboard with transfer stats, live activity, and task tiles 🔔 System notifications when downloads finish, plus an in-app notification center 🧩 QuickJS-based plugin sandboxing, fine-grained permissions, and an in-app marketplace 🌐 Chrome and Firefox extensions that hand bro",
+      "published": "",
+      "_id": "aa7d42be0fc780a6",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "link": "https://duti.dev/blog/2026/spr/",
+      "summary": "Article URL:https://duti.dev/blog/2026/spr/Comments URL:https://news.ycombinator.com/item?id=49327490Points: 53# Comments: 50",
+      "published": "2026-08-17T07:28:43",
+      "_id": "808fcbc10a037ef9",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "summary": "Article URL:https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writingComments URL:https://news.ycombinator.com/item?id=49324087Points: 401# Comments: 390",
+      "published": "2026-08-16T21:53:43",
+      "_id": "1b4b1216de83a61f",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "summary": "Article URL:https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-pollComments URL:https://news.ycombinator.com/item?id=49323932Points: 122# Comments: 131",
+      "published": "2026-08-16T21:34:06",
+      "_id": "b33db50a64506b60",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "summary": "Article URL:https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-aiComments URL:https://news.ycombinator.com/item?id=49323136Points: 80# Comments: 23",
+      "published": "2026-08-16T20:01:13",
+      "_id": "0535013f5a2cd2b8",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI Credit Resale Economy",
+      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "Article URL:https://vectoral.com/blog/who-are-the-token-brokersComments URL:https://news.ycombinator.com/item?id=49320611Points: 302# Comments: 123",
+      "published": "2026-08-16T14:44:55",
+      "_id": "16ac10544a8682f6",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "link": "https://wildstatic.com/",
+      "summary": "Article URL:https://wildstatic.com/Comments URL:https://news.ycombinator.com/item?id=49319814Points: 75# Comments: 67",
+      "published": "2026-08-16T13:21:45",
+      "_id": "0f936c6ac0576220",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude: System Prompts",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "Article URL:https://platform.claude.com/docs/en/release-notes/system-promptsComments URL:https://news.ycombinator.com/item?id=49319556Points: 690# Comments: 267",
+      "published": "2026-08-16T12:48:21",
+      "_id": "eb4edca3b5b87822",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Coding Without the Vibes",
+      "link": "https://peterbloem.nl/blog/craft-coding",
+      "summary": "Article URL:https://peterbloem.nl/blog/craft-codingComments URL:https://news.ycombinator.com/item?id=49318735Points: 89# Comments: 54",
+      "published": "2026-08-16T10:31:36",
+      "_id": "5b1192903d684a21",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "link": "https://littlelearner-ll.github.io/",
+      "summary": "Article URL:https://littlelearner-ll.github.io/Comments URL:https://news.ycombinator.com/item?id=49317760Points: 241# Comments: 208",
+      "published": "2026-08-16T07:37:53",
+      "_id": "b7e49e27c6960fd7",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
+      "summary": "I couldn't sleep because I couldn't stop wondering if anyone had tried using sinusoids instead of B-splines as activation in a KAN, and fortunately/unfortunately that was already the case. I could not find it posted here, so I though I would share in the hope of some insightful discussion.Arxiv:https://arxiv.org/abs/2407.04149Github repo:https://github.com/ereinha/SineKANAlso what appears to be a peer-reviewed \"official\" publication here:https://www.mdpi.com/2227-7390/13/19/3157submitted by/u/jacobgorm[link][comments]",
+      "published": "2026-08-17T00:46:26",
+      "_id": "49bb2914ebf1253f",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
+      "summary": "​Scaled dot-product attention (SDPA) computes its Attention by computing the similarity-scores of all image-tokens with all query tokens which results in O(N²·d) complexity. SSOG (Sum Of Separable Gaussians) instead learns a few Gaussian atoms for each head and only geometrically steers them based on the query token. Since the atoms can be factorized into a separable sum of Gaussians this leads to a reduced complexity of O(N·√N·d). Experiments show that SSOG clearly beats SDPA on small data (cifar100), and delivers equivalent performance and much faster convergence on bigger datasets like IN1k. All that while being much faster and memory efficient with increasing scale.Have a look at the full blog-post and repo to see more results and ablations and let me know what you think.Blog-post:https://pisoni.ai/posts/ssogRepo:https://github.com/4rtemi5/ssog*AI was used for some of the code and some of the blog-post but I put a lot of effort into this project and stand behind every word.submitted by/u/4rtemi5[link][comments]",
+      "published": "2026-08-16T10:06:07",
+      "_id": "33a604f2b213f77a",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
+      "summary": "Hi everyone,I am heading into my final year of my BTech at a tier 1 college in India and just wrapped up a Physical AI internship at a MNC, working heavily with NVIDIA Isaac Sim and OpenFOAM.My background is fully focused on robotics and autonomy. My tech stack includes:Simulation & Middleware: Isaac Sim, Gazebo, ROS / ROS 2, PX4 Autopilot.Perception & Control: VIO, SLAM (RTAB-Map), Nav2, depth perception, and reinforcement learning.Hardware: Strong hands-on experience building autonomous drones and rovers for national competitions.I really enjoy bridging simulation and physical systems, and I want to pursue Physical AI full-time. I’d love some advice from engineers in this space:Job Market: How is the entry-level hiring market looking for Physical AI roles right now?Global Opportunities: As a new grad based in India, what is the best path to target international roles?Skill Gap: What specific frameworks or skills should I double down on during my final year to stand out?Any candid advice would be hugely appreciated! Thankssubmitted by/u/avianbob[link][comments]",
+      "published": "2026-08-16T17:53:42",
+      "_id": "cdbd5b625a8bd334",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "link": "https://arxiv.org/abs/2608.13564",
+      "summary": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write the scoring rubric, as in G-Eval, or fine-tune the judge's weights, and both tend to credit fluent but unsuccessful trajectories as successes. We instead induce the text of an agent-judging rubric from a small set of ground-truth-labeled trajectories, grounding it in true outcomes. We present RubricForge, which evolves a judge rubric by reflective evolution against labeled trajectories to maximize agreement with the environment reward, freezes it, and applies it to held-out trajectories in one model call with no environment access. The optimized artifact is human-readable text, so every verdict is attributable to named criteria. Using one frozen 7B model as both agent and judge, on tau-bench (173 labeled trajectories drawn from 220 rollouts) and WebShop (160), the principal gain is faithfulness rather than raw agreement. The edge over a generic G-Eval judge is not statistically significant (McNemar p = 0.248), and absolute-score calibration marginally favors the generic judge (|err| difference -0.048, p = 2x10^-4). Yet RubricForge over-credits failed trajectories roughly half as often (0.115 vs. 0.173 false-pass rate on tau-bench, with three over-credit catches and zero reversals) and ranks graded WebShop outcomes more faithfully (Spearman 0.410 vs. 0.370). For a reward-free evaluator the false-pass rate, not aggregate agreement, is the deployment-relevant quantity, since a false pass ships a broken agent whereas a false fail merely costs a retry.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "2a126068ed5ab49f",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "link": "https://arxiv.org/abs/2608.13565",
+      "summary": "arXiv:2608.13565v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, particularly for model compression. This paper presents a systematic layer-wise sensitivity analysis of the Qwen3.6-35B-A3B model (40 MoE layers, 256 experts per layer, top-8 routing) using magnitude-based expert masking on the XLCoST cross-lingual code translation benchmark. We conduct a multi-phase study spanning 100, 300, and 500 prompt evaluation scales across three H100 GPU servers. Our central finding is that layer sensitivity is strongly depth-dependent: early layers (0-9) and middle layers (10-29) are highly fragile to expert masking, while late layers (30-39), and especially very-late layers (35-39), tolerate aggressive masking of low-magnitude experts. Flat all-layer masking at 30% retains only 150/300 Good+Similar outputs at 300-prompt scale, whereas late-focused policies retain 249-255/300 while masking 640-1,145 experts. On a later 500-prompt held-out validation slice, the narrow very-late policy (layers 35-39 @ 50%) achieves the strongest quality/masked-expert tradeoff among tested candidates, retaining 419/500 Good+Similar outputs while masking only 640 of 10,240 total experts. We additionally characterize top-k routing width reduction from 8 to 6 active experts per token, which shows a large observed wall-clock reduction on a 100-prompt probe with no Good+Similar loss, though it does not yet compose cleanly with aggressive expert masking. These findings provide an empirical foundation for depth-aware MoE expert masking and establish a practical path toward physical weight surgery, activation-based expert scoring, and training-based recovery.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "03b3344dcc9ff8bb",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "link": "https://arxiv.org/abs/2608.13567",
+      "summary": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test whether a similar organization emerges in Large Language Models--another class of intelligent systems created through a very different optimization process. Using circuit analyses across N=46 tasks spanning four cognitive domains (language, formal reasoning, social reasoning, physical reasoning), we find that LLMs develop a modular architecture that mirrors the human brain: tasks drawing on the same network in humans recruit overlapping neurons in LLMs, whereas tasks drawing on different networks recruit distinct neurons. The convergent emergence of modularity in brains and neural networks suggests that it may be a fundamental property of intelligent systems.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "da3b998a992bf55b",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "link": "https://arxiv.org/abs/2608.13573",
+      "summary": "arXiv:2608.13573v1 Announce Type: new \nAbstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in production. As a result, they do not fully capture how LLM serving workloads evolve over time or how user-model interactions shape production traffic.\n  In this work, we further the understanding of real-world LLM serving workloads through both a global characterization and a longitudinal study of a one-year production trace from Chutes. Unlike prior studies, our trace captures full production behavior across many models and users, including both popular and long-tail models. We analyze the workload from aggregate, temporal, model-level, and user-level perspectives, revealing workload evolution and user-model structure that are typically hidden behind aggregate views. To support future research, we will release the full one-year trace with the paper, enabling downstream studies of production behavior without relying on sampled or synthetically generated workloads.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "6df4b4be97cf4ca6",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "link": "https://arxiv.org/abs/2608.13574",
+      "summary": "arXiv:2608.13574v1 Announce Type: new \nAbstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditability, prompt injection, tool poisoning, and uncontrolled side effects. This paper presents Agentao, a governed local-first runtime for tool-using LLM agents. Agentao separates model-generated action proposals from host-authorized execution through a layered architecture consisting of host-facing surfaces, a host contract, a runtime core, a permission-mediated tool system, and supporting subsystems for memory, replay, plugins, skills, sub-agents, and protocol integration. We describe the motivation, threat model, design goals, governance model, execution pipeline, and structured event interface of the system. Agentao does not provide formal safety guarantees; rather, it demonstrates how permissions, state, protocol boundaries, and execution traces can be made explicit runtime abstractions for building agents that are more governable, inspectable, and suitable for host-controlled local environments. The code is publicly available at https://github.com/jin-bo/agentao.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "cedf57bb6ac50ed2",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+      "link": "https://arxiv.org/abs/2608.13568",
+      "summary": "arXiv:2608.13568v1 Announce Type: new \nAbstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP) is precise and typed, but needs a running, indexed server and pays a per-symbol round-trip. The claim that semantic retrieval is more token-efficient is, we find, asserted almost everywhere and measured almost nowhere: no public source isolates the LSP-vs-lexical token delta for an agent at equal task-success. This paper formalizes the question with one metric (tokens-to-success), specifies a five-arm ablation isolating semantic retrieval from confounds, maps three pre-stated failure modes onto measurable variables, and reports a preliminary study (Python and TypeScript repos; Claude Opus 4.8, Sonnet 4.6, Haiku 4.5). The answer is conditional and usually negative. On symbol-named localization the LSP costs tokens (+6% to +118%) and the agent ignores it when free. On reference-completeness it buys precision but not token savings and cannot raise the recall ceiling set by agent thoroughness; it saves tokens only for the weakest model. Tool choice is task-dependent: models default to grep on localization (0-6% semantic use) but reach for the LSP about half the time on reference tasks, unprompted. On edits scored by real test execution the gap is starkest: grep solves multi-file renames perfectly, a location-only LSP fails three-quarters of them by missing a call site, and even a complete, index-warmed, text-enriched LSP (each reference's line inline, as production LSP-MCP servers do) recovers most of the gap but cannot close it, since a rename must touch comments and strings that semantic references exclude. The implication is not LSP-always but an adaptive router keyed on task class, model capability, and lexical noise.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "5bc22d6a4487b06b",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Think in Latent, Explain in Language: Self-Explainable Latent Reasoning",
+      "link": "https://arxiv.org/abs/2608.13570",
+      "summary": "arXiv:2608.13570v1 Announce Type: new \nAbstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the latent space renders the thinking opaque, hindering its interpretability. Current methods present a stark trade-off: they either function as unexplainable ''black boxes'' (e.g., Coconut), where the latent reasoning is not human-readable, or rely on separate post-hoc decoders for explainability (e.g., Heima), introducing architectural overhead and decoupling the explanation from the actual reasoning process. In this work, we present a unified framework for Self-Explainable Latent Reasoning (SELR) that trains a single model to perform efficient and inherently explainable latent reasoning. Our core contribution is a novel multi-task training objective that optimizes for two goals simultaneously: (1) an Answer Loss that optimizes the latent reasoning trajectory to produce accurate final answers, and (2) a CoT Loss that explicitly trains the same model to decode its own latent representations back into human-understandable reasoning steps. This design ensures that generated latent representations are both task-effective and semantically interpretable, eliminating the need for external decoders. We validate the effectiveness of SELR on both Large Language Models (LLMs) and Vision-Language Models (VLMs), demonstrating that SELR achieves superior token efficiency and accuracy compared to baselines, while uniquely providing self-contained explainability without auxiliary models. Project page is available at https://jasondayuan.github.io/SELR/.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "f2acee4b56f09fb7",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+      "link": "https://arxiv.org/abs/2608.13571",
+      "summary": "arXiv:2608.13571v1 Announce Type: new \nAbstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually costs. We call this gap \\emph{token inflation} and define it as the ratio of true workflow cost to single-call cost. Systems like FrugalGPT route based on the latter, which can underestimate real cost by more than $2\\times$ on difficult tasks. We address this with InflationAgent, a four-stage router that (1) measures token inflation systematically across model tiers and task types, finding inflation as high as $4.25\\times$ for a 7B model on multi-hop question answering; (2) introduces CoT Branching Entropy (CBE), a pre-execution difficulty signal computed entirely from local inference, which predicts high inflation with AUROC 0.887; and (3) selects models by maximizing a Semantic Exchange Rate (SER) that divides expected accuracy by predicted true cost, with a fresh-escalation policy that discards failed chains before routing to a stronger model. On GSM8K under a fixed budget, InflationAgent achieves 94.7\\% accuracy versus 91.0\\% for FrugalGPT while using 31\\% fewer tokens, and we show that forwarding a failed reasoning chain to GPT-4o reduces its accuracy by up to 34.8 percentage points, validating the fresh-escalation design.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "5b9013feba9373dd",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "BCMT: Blockwise Causal Memory Transformer",
+      "link": "https://arxiv.org/abs/2608.13578",
+      "summary": "arXiv:2608.13578v1 Announce Type: new \nAbstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for long-context language modeling that decouples local token interactions from global context propagation. Dense causal self-attention is applied independently within local blocks, while each block produces an adaptive summary aggregated through an exponential causal memory. This memory is subsequently injected back into the token representations, enabling efficient propagation of long-range contextual information without relying on explicit global attention. Unlike standard Transformers and recurrent memory architectures, BCMT maintains neither dense interactions between distant tokens nor learned memory states. Its memory mechanism is fully parallelizable and remains compatible with standard implementations of dense self-attention. Experiments on language modeling with context lengths of up to 1024 tokens show that BCMT achieves validation performance comparable to that of Dense Transformers while significantly improving training throughput and reducing memory consumption. An ablation study further confirms that these improvements arise from the proposed memory mechanism. These results demonstrate that an exponential causal memory constructed from block summaries provides an effective alternative to dense global attention mechanisms for long-context language modeling.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "c2e4deb548ad5f5a",
+      "_scraped_at": "12:47"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Jais 2: A Family of Arabic-Centric Open Large Language Models",
+      "link": "https://arxiv.org/abs/2608.13580",
+      "summary": "arXiv:2608.13580v1 Announce Type: new \nAbstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluated in this report. The family includes, to our knowledge, the largest open Arabic-centric LLM trained from scratch at 70B parameters, and a competitive 8B-parameter variant among the evaluated open models. A custom Arabic-centric vocabulary enables efficient training and inference. In addition, an optimized architecture and training recipe yield highly compute-efficient training. With a substantially smaller token budget than comparable models, Jais 2 achieves strong Arabic performance on the benchmarks considered in this report and competitive English results. The models obtain leading results among the evaluated open models on OALL2 and AraGen. They also perform strongly on several culturally grounded Arabic benchmarks, including poetry, religion, cuisine, and dream interpretation, as well as in general tasks such as translation and summarization. We release the models in HuggingFace under a commercially permissive license. Jais 2 70B is also released as a chat app on the Web, iOS, and Android; it runs on Cerebras hardware, delivering up to 2,000 tokens per second, and enabling high-throughput Arabic-centric chat serving in our deployment setting. By uniting scale, linguistic diversity, cultural fidelity, openness, and speed, Jais 2 provides an open-weight foundation intended to support further research and development in Arabic-centric LLMs.",
+      "published": "2026-08-17T04:00:00",
+      "_id": "0bc6775c6ad20f57",
+      "_scraped_at": "12:47"
+    }
+  ],
+  "seen_ids": [
+    "4307222bc7e5f2e4",
+    "1b4b1216de83a61f",
+    "0535013f5a2cd2b8",
+    "0bcb55082c56199e",
+    "808fcbc10a037ef9",
+    "5b9013feba9373dd",
+    "1fa7f7615de49cf0",
+    "5b1192903d684a21",
+    "d1b7ed52e00e3aef",
+    "c2e4deb548ad5f5a",
+    "6df4b4be97cf4ca6",
+    "67188e0c48a0ecef",
+    "eb4edca3b5b87822",
+    "0bc6775c6ad20f57",
+    "c34a327604b5be4a",
+    "99f79a191e7351c9",
+    "49bb2914ebf1253f",
+    "f49ea2b45b71d6dd",
+    "16ac10544a8682f6",
+    "cdbd5b625a8bd334",
+    "da3b998a992bf55b",
+    "25764ed5c03fca05",
+    "5bc22d6a4487b06b",
+    "c7c9684abfb72529",
+    "aa7d42be0fc780a6",
+    "b7e49e27c6960fd7",
+    "f2acee4b56f09fb7",
+    "cedf57bb6ac50ed2",
+    "f9593f1f67353de2",
+    "4001c007c7b53144",
+    "fdd9745edc3aad4e",
+    "8ccd370b2e0a7293",
+    "0dfc6754cce6b399",
+    "9a585195e787c793",
+    "b33db50a64506b60",
+    "2a126068ed5ab49f",
+    "ce56f7c0b2ba7087",
+    "8dbb2238c30b71eb",
+    "e68246067eeddf6e",
+    "0f936c6ac0576220",
+    "0604d6a7a7d7afd2",
+    "234088bc43763aa2",
+    "03b3344dcc9ff8bb",
+    "33a604f2b213f77a",
+    "3ff02964da6b7f4f",
+    "bfefa0db462ca5c0",
+    "b68d90c0788819fd",
+    "e82fdf6a1f9efd8e",
+    "31bad0791a5e5c62"
+  ],
+  "last_run": "12:47",
+  "run_count": 1
+}
