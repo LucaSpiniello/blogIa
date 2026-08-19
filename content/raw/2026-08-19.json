@@ -1,0 +1,579 @@
+{
+  "date": "2026-08-19",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "published": "2026-08-18T22:00:00",
+      "_id": "8393c843a171d723",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Strengthening democratic oversight in national security",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "published": "2026-08-18T19:00:00",
+      "_id": "f0aa91974e0ad6ca",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "published": "2026-08-18T11:00:00",
+      "_id": "6d4ec902c728a021",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "published": "2026-08-18T11:00:00",
+      "_id": "9c25f4ae7a186d68",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "published": "2026-08-18T11:00:00",
+      "_id": "c3b0ed374d416807",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "summary": "",
+      "published": "2026-08-18T18:09:38",
+      "_id": "5ba78b757300e8cc",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Opus 5ProductJul 24, 2026Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJul 9, 2026Inviting hard questionsWe’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "summary": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart ou",
+      "published": "",
+      "_id": "8dbb2238c30b71eb",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsJun 30, 2026Redeploying Fable 5Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "summary": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shar",
+      "published": "",
+      "_id": "fdd9745edc3aad4e",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Product Introducing Claude Sonnet 5 Jun 30, 2026 Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower prices. It’s a substantial improvement over its predecessor, Sonnet 4.6, on important aspects of agentic performance like reasoning, tool use, coding, and knowledge work: Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus 4.8 (a more generally capable model, for reference). The Claude Sonnet 5 System Card reports a broader set of evaluations in detail. Our safety assessments found that Sonnet 5 shows an overall lower rate of undesirable behaviors than Sonnet 4.6, and is generally safer to use in agentic contexts. Evaluations also show that it has a much lower ability to perform cybersecurity tasks than our current Opus models. From today, Claude Sonnet 5 is available across all plans: it is the default model for Free and Pro plans, and is available to Max, Team, and Enterprise users. It is priced at $2 per million input tokens and $10 per million output tokens. Developers can use claude-sonnet-5 via the Claude API . Working with Claude Sonnet 5 The charts below compare the performance of Sonnet 5 with Sonnet 4.6 and Opus 4.8 at different effort levels on the agentic search evaluation BrowseComp and the computer use evaluation OSWorld-Verified . Sonnet 5 (orange line) is a strict improvement over Sonnet 4.6 (gray line) and covers a much wider range of cost-performance options than Opus 4.8 (yellow ",
+      "published": "",
+      "_id": "4307222bc7e5f2e4",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "summary": "It's the data, stupid.",
+      "published": "2026-08-19T12:00:00",
+      "_id": "22f6c454e53f4c57",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "published": "2026-08-19T10:00:00",
+      "_id": "26ef0b285fb9d3dd",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "published": "2026-08-18T22:14:25",
+      "_id": "d1942c284f95144f",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "published": "2026-08-18T18:00:00",
+      "_id": "1d131bb25f345148",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "published": "2026-08-18T17:21:58",
+      "_id": "9f1fb4617b322f70",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute […]",
+      "published": "2026-08-19T12:00:00",
+      "_id": "9d8a9b8bf88a2be1",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the […]",
+      "published": "2026-08-18T19:48:26",
+      "_id": "068161fbb4e485c8",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+      "published": "2026-08-18T19:28:30",
+      "_id": "5918a741bcb0759e",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural […]",
+      "published": "2026-08-18T13:00:00",
+      "_id": "c9c7f84c9c0c1ab3",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, […]",
+      "published": "2026-08-18T12:01:29",
+      "_id": "64ee2a6e04f6a448",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "published": "2026-08-18T13:00:04",
+      "_id": "95524b9f1235f859",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
+      "published": "2026-08-19T12:10:00",
+      "_id": "ab220d8f20217d75",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Child-monitoring apps might need a reboot",
+      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+      "published": "2026-08-19T09:00:00",
+      "_id": "126b9c16526e7370",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+      "published": "2026-08-18T12:10:00",
+      "_id": "782f21dacaaae274",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "We still don’t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
+      "published": "2026-08-18T10:06:43",
+      "_id": "3a15a6a18265ecce",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The role of the astronaut is in flux",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.  While no space mission can live up to the historic touchdown of…",
+      "published": "2026-08-18T09:00:00",
+      "_id": "aaa6a41c225945e2",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Wired",
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "published": "2026-08-19T09:00:00",
+      "_id": "558bdb2e1bc234ea",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "published": "2026-08-18T18:33:11",
+      "_id": "cb6a9eb426ee6420",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Wired",
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "published": "2026-08-18T09:00:00",
+      "_id": "171bcd36c04eca6a",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "harry0703 /MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。 MoneyPrinterTurbo 用户专属优惠：新用户通过专属链接注册，首次成功充值可获充值金额 10% 的 API 额度，最高赠送 ¥1000。活动截至 2026 年 9 月 30 日。前往 Kimi 开放平台（ 中文站 ｜ Global ）体验 API。 火山引擎 感谢字节火山引擎赞助本项目！ 【专属活动优惠】 19元Tokens包！享字节自研豆包模型+满血版开源 SOTA模型，覆盖文本、VLM、图像生成，全模态一站配齐：Seed-2.1、Seedream-5.0、GLM-5.2、DeepSeek、Qwen等。不止编程，更能解决 Agent 复杂长程任务 --> 注册即领2500万Tokens，立即前往 CCSub 感谢 CCSub 赞助本项目！ CCSub 是稳定、实惠的 AI API 中转平台，是 Claude Code 官方订阅的超强平替。 一个 API Key 即可调用 Claude Opus 4.8、Sonnet 4.6、Haiku 4.5、GPT-5、Gemini 等模型，价格约为官方直连的 1/3，全球直连无需梯子。兼容 Claude Code、Codex、Cursor、Cline、Continue、Windsurf 等所有主流 AI 编程工具。前往 www.ccsub.net 注册即送 $5 体验额度。 Infistar.ai 无限星河 感谢 Infistar.ai 无限星河 赞助本项目！ ⚡ 超低成本与稳定调度：价格低至官方 1 折，模型倍率与调用明细全程透明；多路供应动态调度，告别限流与断连困扰。 🧠 全系大模型完美驱动脚本：全面覆盖 OpenAI、Claude、Google Gemini、DeepSeek、通义千问（Qwen）等主流 LLM，兼容 OpenAI 标准接口，为 MoneyPrinterTurbo 的文案生成与素材关键词提炼提供低延迟、高并发支持。 🎨 前沿多模态生态：全面接入 FLUX、Midjourney、Seedance、可灵（Kling）、Sora、Luma 等顶级生图与视频模型，满足下一代 AI 视频生成需求。 🎁 MoneyPrinterTurbo 用户专属福利：通过 专属推广链接 注册即享 [专属赠送额度 / 首充特惠]，开箱即用！ 胜算云 感谢 胜算云 对本项目的赞助！胜算云是面向 AI 原生团队的模型 API 聚合平台，汇集 Claude、ChatGPT、Gemini 等海内外大语言模型及多媒体模型，支持统一接入与按量调用。 平台坚持合规 API 服务，杜绝逆向工程和资源稀释。此外平台提供企业级定制网关，包括团队成本与权限管理、智能路由、安全防护及 BYOK 密钥托管，并提供发票服务。 🎁新用户通过 此链接 注册，即可领取 10 元 Token 体验额度。 录咖 AI 由于该项目的 部署 和 使用 ，对于一些小白用户来说，还是 有一定的门槛 ，在此特别感谢 录咖（AI智能 多媒体服务平台） 网站基于该项目，提供的免费 AI视频生成器 服务，可以不用部署，直接在线使用，非常方便。 佐糖 感谢 佐糖 对该项目的支持和赞助，使得该项目能够持续的更新和维护。佐糖专注于 图像处理领域 ，提供丰富的 图像处理工具 ，将复杂操作极致简化，真正实现让图像处理更简单。 作者的另一个开源项目：MangoDisk ⭐ 适用于 macOS 和 Windows 的安全优先开源磁盘清理与空间分析工具 查找大文件和重复文件，清理缓存与应用残留，安全释放磁盘空间。 查看 GitHub 开源项目 功能特性 🎯 提供 AI Agent 、 WebUI 、 API 和 CLI 四种使用方式，代码按控制器、服务和模型等职责分层 支持 AI 自动生成视频脚本 ，也可以使用自定义脚本 支持多种 高清视频 尺寸 竖屏 9:16， 1080x1920 横屏 16:9， 1920x1080 支持 批量视频生成 ，可以一次生成多个视频，然后选择一个最满意的 ",
+      "published": "",
+      "_id": "0604d6a7a7d7afd2",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "chaitanyagiri /munder-difflin",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "summary": "Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the\nsubscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI\nyou already run into a clone of you, one that keeps working while you're away and\ncoordinates a whole office of agents on your own machine. Wraps Claude Code , Antigravity (Gemini), OpenAI Codex, xAI Grok , Kimi Code , Qwen , OpenCode , Crush , pi.dev , and GitHub Copilot CLI — with bring-your-own keys and local LLMs.\nAgents that message, route, and remember, coordinated by your clone (Michael) and\nvisualized as avatars at work on a shared office floor. Electron · React · TypeScript · Pixi.js · xterm.js · node-pty Note The world's best agents. The world's worst paper company. Munder Difflin takes the terminal-agent CLIs you already run — claude , agy , codex , grok , kimi , qwen , opencode , crush , pi , and copilot — and turns them\ninto a self-coordinating team: each agent gets long-term memory, a mailbox, and a desk on a 2D\noffice floor — and your clone (Michael) routes work between them while you watch. He's the\nboss of the floor; you're still the boss of him. Contents What it is How it works Features Getting started Architecture Project structure Design system Roadmap Contributing Telemetry License Acknowledgements What it is Munder Difflin is a desktop app that wraps real terminal-agent CLIs as fully-capable agents,\nwires them into a hive mind , and puts your clone in charge — Michael, the one agent you talk to in order to get things done. Under the hood it runs the fastest memory layer in the\nworld so every agent remembers what it learns and recalls it instantly. Every terminal is an agent. Each claude , agy , codex , grok , kimi , qwen , opencode , crush , pi , copilot , or custom session runs as a real\nprocess in a pseudo-terminal ( node-pty ), byte-for-byte authentic, rendered with xterm.js. Every agent is an avatar. Sessions appea",
+      "published": "",
+      "_id": "e5b23adc376a62a9",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "akitaonrails /ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Long-term memory for AI coding agents. Quit Claude Code mid-task,\nstart OpenAI Codex in the same directory, continue without\nre-explaining the architecture, the failed approaches, or the open\nquestions. Support Matrix Area Status Notes Linux Supported Primary Docker/server target and CI platform. Published Docker images support linux/amd64 and linux/arm64 . Native Arch/AUR packages include system and user systemd units. macOS Supported Workspace tests run in CI; tagged releases publish native ai-memory-macos-aarch64.tar.gz and ai-memory-macos-x86_64.tar.gz binaries. The native binary is the recommended path on Apple Silicon. See docs/macos.md . Windows via WSL2 Supported Use the Linux install path inside WSL2 when the agent runs there. Native Windows Experimental Tagged releases publish ai-memory-windows-x86_64.zip with ai-memory.exe ; Docker Desktop wrapper and source builds are also available. Local supported profiles default to host-native hook commands; Claude Code may use its Windows exec form, while other agents use native single command strings matching their hook schema. PowerShell/Git Bash scripts are compatibility fallbacks. See docs/windows.md . Claude Code Supported MCP config + lifecycle hooks; native commands enforce capture exclusions. install-mcp --session-aware optionally enables per-session auto-scope isolation through a local stdio bridge. Optionally captures the assistant's final turn on Stop when installed with --capture-assistant and the server enables capture_assistant (double opt-in, off by default). Codex Supported MCP config + lifecycle hooks; native commands enforce capture exclusions. No automatic true session-end hook, so run ai-memory finalize-session when you need a final summary/handoff. Command Code Supported MCP config ( ~/.commandcode/mcp.json ) + its four stable lifecycle-hook events ( ~/.commandcode/settings.json ); native commands enforce capture exclusions and SessionStart injects handoffs. Stop is only a turn boundary, so use ",
+      "published": "",
+      "_id": "4138778ebbc75ba6",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "volcengine /OpenViking",
+      "link": "https://github.com/volcengine/OpenViking",
+      "summary": "OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual filesystem under the viking:// protocol, so an agent browses its own context with ls , tree , and find instead of querying a black-box vector store. Content is processed into three tiers — L0 abstract, L1 overview, L2 details — and loaded on demand. Every retrieval leaves a trajectory you can watch and debug. Full introduction: Getting started . The OpenViking Studio playground — a live demo you can open in the browser, no installation required. Why OpenViking One filesystem for all context. Memories, resources, and skills each get a viking:// URI. Agents locate and manipulate context deterministically, like a developer working with files. → Viking URI · Context types Tiered loading cuts token spend. Every entry is processed into L0 (abstract), L1 (overview), and L2 (details) on write, then loaded only as deep as the task requires. → Context layers Directory recursive retrieval. Vector search first locates the highest-scoring directory, then drills down layer by layer, so results arrive with their surrounding context intact. → Retrieval Observable retrieval. Each query preserves its directory-browsing trajectory. When a result looks wrong, you can see exactly which path produced it. → Retrieval Sessions become memory. After a session commits, OpenViking asynchronously extracts user preferences and agent experience into long-term memory. → Session How the pieces fit together: Architecture . The thinking behind the design: The Database Paradigm for Context Engineering . viking://\n├── resources/              # Resources: project docs, repos, web pages, etc.\n│   └── my_project/\n│       ├── docs/\n│       │   ├── api/\n│       │   └── tutorials/\n│       └── src/\n└── user/\n ",
+      "published": "",
+      "_id": "876fe6c1edb8596c",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "mukul975 /Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "Anthropic Cybersecurity Skills The largest open-source cybersecurity skills library for AI agents 817 production-grade cybersecurity skills · 29 security domains · 6 framework mappings · 26+ AI platforms Get Started · What's Inside · Frameworks · Platforms · Contributing ⚠️ Community Project — This is an independent, community-created project. Not affiliated with Anthropic PBC. 🔐 Authorized & lawful use only. This library includes offensive and dual-use techniques (e.g. red-team C2, phishing simulation, exploitation) intended for authorized penetration testing, security research, defense, and education . Only use them against systems you own or have explicit written permission to test, and comply with all applicable laws and rules of engagement. You are solely responsible for how you use these skills. See SECURITY.md and CODE_OF_CONDUCT.md . Give any AI agent the security skills of a senior analyst A junior analyst knows which Volatility3 plugin to run on a suspicious memory dump, which Sigma rules catch Kerberoasting, and how to scope a cloud breach across three providers. Your AI agent doesn't — unless you give it these skills. This repo contains 817 structured cybersecurity skills spanning 29 security domains , each following the agentskills.io open standard.  The library maps across six industry frameworks — MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, MITRE D3FEND, NIST AI RMF, and the MITRE Fight Fraud Framework (F3) — with each skill mapped to the frameworks relevant to its type (a forensics skill carries ATT&CK + CSF; an AI-security skill adds ATLAS and AI RMF).  Clone it, point your agent at it, and your next security investigation gets expert-level guidance in seconds. Six frameworks, one skill library Each skill maps to the frameworks that fit its subject — ATT&CK and NIST CSF are near-universal, while ATLAS, AI RMF, D3FEND, and F3 apply where they're relevant. Framework coverage across the 817 skills: MITRE ATT&CK 805 · NIST CSF 2.0 804 · MITRE D3FEND 139 · ",
+      "published": "",
+      "_id": "25764ed5c03fca05",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "public-apis /public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "summary": "Uh oh! There was an error while loading. Please reload this page . public-apis / public-apis Public Notifications You must be signed in to change notification settings Fork 51.4k Star 465k master Branches Tags Go to file Code Open more actions menu Latest commit History 5,150 Commits 5,150 Commits Folders and files Name Name Last commit message Last commit date .github .github scripts scripts .gitattributes .gitattributes .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md LICENSE LICENSE README.md README.md View all files Repository files navigation Loading About A collective list of free APIs APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo Topics api apis dataset development free list lists open-source public public-api public-apis resources software Resources Readme MIT license Contributing Contributing Activity Custom properties Stars 465.4k stars Watchers 4.7k watching Forks 51.4k forks Report repository Used by Contributors Languages",
+      "published": "",
+      "_id": "415cb25759660433",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "basecamp /omarchy",
+      "link": "https://github.com/basecamp/omarchy",
+      "summary": "Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at omarchy.org . The Omarchy Manual The manual lives in manual/ , which is its authoritative source. It's\nmirrored to learn.omacom.io , where\nits screenshots are also hosted. Welcome to Omarchy! The Basics Getting Started Coming From Mac or Windows Navigation The top bar Themes Hotkeys Unified Clipboard & History Reminders Notices Text Extraction & Dictation Screenshots & Recording Toggles, idle & screensaver Omarchy CLI The Applications Terminal Neovim AI Development Tools Shell Tools Shell Functions TUIs GUIs Browsers Commercial apps/services Web Apps Gaming Filling out PDFs Windows VM Other Packages Configuration Updates Dotfiles Shell plugins Monitors Keyboard, Mouse, Trackpad Networking System sleep Hardware authentication Fonts Backgrounds Prompt Branding Common tweaks Extra themes Making your own theme The Rest Mac support Troubleshooting FAQ System snapshots Security Omarchy on... Dual Boot Install Unattended Installs License Omarchy is released under the MIT License .",
+      "published": "",
+      "_id": "295e4594f9c5a234",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "agalwood /Motrix",
+      "link": "https://github.com/agalwood/Motrix",
+      "summary": "Motrix A modern, full-featured download manager that stays simple to use English | 简体中文 Overview Motrix is a clean, full-featured desktop download manager for HTTP, FTP, BitTorrent, magnet links, and more. Motrix Turbo is Motrix v2, rebuilt from the ground up with Electron, React, and TypeScript while keeping the clean, straightforward experience of v1. The download core is independent of the UI. Browser extensions and command-line tools communicate with the app over MDXP (Motrix Download eXchange Protocol), an open protocol built on JSON-RPC 2.0, while plugins run in isolated sandboxes. The same core powers two ways to run Motrix: Desktop app: Runs on macOS, Windows, and Linux Headless server: Runs without a desktop environment, either directly on Node.js or in Docker, and includes a web UI for NAS devices and home servers 🧪 Beta testing Motrix Turbo v2 is currently in beta. After its remaining release gates pass,\ndownload v2.0.0-beta.19 from GitHub Releases and read the full release notes before\ninstalling it. Back up your existing Motrix data and downloads before testing. Migration from\nMotrix v1 data has not yet been validated, so do not use your only copy of v1\ndata with this beta. When practical, test v2 in parallel using a separate OS\naccount, machine, or Docker data directory. Screenshots Dashboard Downloads Settings ✨ Features 🕹 Clean, intuitive interface with dark mode 🦄 BitTorrent downloads with per-file selection, plus magnet link support 📡 Built-in tracker list management with automatic updates and health checks 🔌 UPnP and NAT-PMP port mapping 🚥 Upload and download limits with multiple speed-limit profiles 💾 SQLite-backed sessions that restore downloads after a restart 📊 Customizable Dashboard with transfer stats, live activity, and task tiles 🔔 System notifications when downloads finish, plus an in-app notification center 🧩 QuickJS-based plugin sandboxing, fine-grained permissions, and an in-app marketplace 🌐 Chrome and Firefox extensions that hand bro",
+      "published": "",
+      "_id": "aa7d42be0fc780a6",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "NawfalMotii79 /PLFM_RADAR",
+      "link": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "summary": "AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who want to explore and experiment with phased array radar technology. 📡 Overview The AERIS-10 project aims to democratize radar technology by providing a fully open-source, modular, and hackable radar system. Whether you're a university researcher, a drone startup, or an advanced maker, AERIS-10 offers a platform for experimenting with beamforming, pulse compression, Doppler processing, and target tracking. 🔬 Key Features Open Source Hardware & Software - Complete schematics, PCB layouts, firmware, and software available Dual Version Availability : AERIS-10N (Nexus) : 3km range with 8x16 patch antenna array AERIS-10E (Extended) : 20km range with 32x16 dielectric-filled slotted waveguide array Full Electronic Beam Steering - ±45° electronic steering in elevation and azimuth Advanced Signal Processing - On-board FPGA handles pulse compression, Doppler FFT, MTI, and CFAR Python GUI - User-friendly interface with map integration GPS/IMU Integration - Real-time position and attitude correction Modular Design - Separate power management, frequency synthesis, and RF boards 🏗️ System Architecture Hardware Components The AERIS-10 main sub-systems are: Power Management Board - Supplies all necessary voltage levels to the electronics components with proper filtering and sequencing (sequencing ensured by the microcontroller) Frequency Synthesizer Board - Uses a high-performance Low Jitter Clock Generator (AD9523-1) that supplies phase-aligned clock references for: RX and TX Frequency Synthesizers (ADF4382) DAC ADC FPGA Main Board containing: DAC - Generates the RADAR Chirps 2x Microwave Mixers (LTC5552) - For up-conversion and IF-down-conversion 4x 4-",
+      "published": "",
+      "_id": "46a9bf24619c003d",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "jundot /omlx",
+      "link": "https://github.com/jundot/omlx",
+      "summary": "oMLX LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu bar. junkim.dot@gmail.com · https://omlx.ai/me Install · Quickstart · Features · Models · CLI Configuration · Benchmarks · oMLX.ai English · 中文 · 한국어 · 日本語 Every LLM server I tried made me choose between convenience and control. I wanted to pin everyday models in memory, auto-swap heavier ones on demand, set context limits - and manage it all from a menu bar. oMLX persists KV cache across a hot in-memory tier and cold SSD tier - even when context changes mid-conversation, all past context stays cached and reusable across requests, making local LLMs practical for real coding work with tools like Claude Code. That's why I built it. Install macOS App Download the .dmg from Releases , drag to Applications, done. The app includes in-app auto-update, so future upgrades are just one click. The macOS app also installs a lightweight ~/.omlx/bin/omlx CLI shim so terminal commands and Apple Shortcuts can control the app-managed server. Homebrew brew tap jundot/omlx https://github.com/jundot/omlx\nbrew install jundot/omlx/omlx # Upgrade to the latest version brew update && brew upgrade omlx # Run as a background service (auto-restarts on crash) omlx start # Optional: MCP (Model Context Protocol) support /opt/homebrew/opt/omlx/libexec/bin/pip install mcp Optional GLM-5.2 / MiniMax M3 native custom kernels currently require a HEAD build: brew install jundot/omlx/omlx --HEAD --with-custom-kernel From Source git clone https://github.com/jundot/omlx.git cd omlx\npip install -e . # Core only pip install -e \" .[mcp] \" # With MCP (Model Context Protocol) support # GLM-5.2 / MiniMax M3 / Qwen3.5 native custom kernels (strongly recommended # if you serve those families -- see note below) OMLX_WITH_CUSTOM_KERNEL=1 pip install -e . Requires macOS 15.0+ (Sequoia), Python 3.11–3.13, and Apple Silicon (M1/M2/M3/M4). Note on native custom kernels: a plain pip install -e . does NO",
+      "published": "",
+      "_id": "0bcb55082c56199e",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
+      "summary": "Article URL:https://linear.app/dataComments URL:https://news.ycombinator.com/item?id=49353432Points: 156# Comments: 121",
+      "published": "2026-08-18T22:08:07",
+      "_id": "75bb8d6c5587bf66",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
+      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "summary": "Article URL:https://cdn.kuber.studio/chat/hp-laser-1008a-driverComments URL:https://news.ycombinator.com/item?id=49352806Points: 127# Comments: 3",
+      "published": "2026-08-18T21:14:21",
+      "_id": "2335b295c04177ec",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "summary": "Article URL:https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotionComments URL:https://news.ycombinator.com/item?id=49348751Points: 279# Comments: 251",
+      "published": "2026-08-18T17:02:15",
+      "_id": "684bacf7345eca9f",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "summary": "https://xcancel.com/kuberwastaken/status/2089377982536388964https://cdn.kuber.studio/chat/hp-laser-1008a-driverComments URL:https://news.ycombinator.com/item?id=49344643Points: 232# Comments: 176",
+      "published": "2026-08-18T12:22:58",
+      "_id": "8a29e8cb39cdb074",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+      "summary": "Registering for RealPDE (Sim2Real / LTTTA tracks — real PIV + CFD fluid dynamics data). Team cap is 3.If you've got a strong ML background and wanna participate, just DM me. Deadline's Aug 20, so move fast.🔗https://realpdecompetition.github.iosubmitted by/u/Alternative_Push9328[link][comments]",
+      "published": "2026-08-19T11:22:50",
+      "_id": "bbb71a35c7d90ef5",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
+      "summary": "I recently bought aShrike litewhich has got 264KB of SRAM. I decided to train an image generation model that generates 32*32 pixel images.The microcontroller also has an FPGA onboard which I used to create two parallel INT8 MAC engines with 16 bit accumulation to speed up calculations, however the system soon hit a memory wall due to the high number of I/O operations, this meant that the system with parallel MAC engines ran slower than the MCU only model (~220 seconds per image vs ~70 seconds per image).It was still a fun project that I enjoyed messing around with. A lot of the images looked weird and noisy because of the heavy quantization and memory limits but some of them came out cool.Full case studyhere.edit: added link that leads straight to the case studysubmitted by/u/PandaBean18[link][comments]",
+      "published": "2026-08-18T09:26:21",
+      "_id": "b150ec2890254e28",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
+      "summary": "Hi everyone 👋 My paper was recently accepted to ICONIP 2026, but I’m the sole author and most likely won’t be able to attend the conference in person due to work commitments.I’m trying to understand what options might be available before I contact the organizers. Has anyone here attended or published at ICONIP in previous years and encountered a similar situation?In particular, I’m wondering:1) Has ICONIP previously allowed remote/virtual presentations when an author couldn’t attend?2) If the sole author cannot attend, is there usually any alternative arrangement for presenting the paper?3) Could non-attendance affect inclusion of an accepted and registered paper in the proceedings?I’d especially appreciate hearing from anyone who has dealt with this at ICONIP in previous years.Thanks a lot!submitted by/u/Melodic_Divide7368[link][comments]",
+      "published": "2026-08-19T02:07:15",
+      "_id": "5be507b4a2fa00dc",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "link": "https://arxiv.org/abs/2608.16890",
+      "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attempts with five frontier models, none produces a valid subject-level analysis dataset. We introduce GxP-Agent, a multi-agent system that encodes regulatory process ordering as a directed acyclic graph (DAG), decomposing monolithic dataset generation into 15 domain-specific nodes executed by worker agents with pharmaverse skill context, validation gates, and conditional retry. On CDISC-Bench, a new execution-based benchmark built from the FDA pilot submission CDISCPilot01 (254 subjects, 49 ground-truth ADSL variables), GxP-Agent with Claude Sonnet 4.6 achieves 100% structural match (49/49 variables, 254 correct records) across three independent runs, compared to 59.2% for the best retrieval-augmented baseline and 0% for all single-agent and flat multi-agent approaches. The DAG topology also enables weaker models: GPT-4.1 achieves 59.2% mean structural match under the same DAG, where it scores 0% under every other architecture. The approach generalizes to ADAE (adverse events; 9-node branching DAG, 55 variables, 1,191 records), achieving 100% structural match on the first attempt. These results demonstrate that encoding domain process knowledge as graph topology -- rather than relying on LLM reasoning alone -- is a key enabler for reliable, GxP-compliant clinical trial programming.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "73923dd1330bc89f",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "link": "https://arxiv.org/abs/2608.16891",
+      "summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape model behavior, but it does not create an execution boundary. We introduce Aegis, a runtime governance system that treats model outputs as action proposals and mediates them through a trusted decision layer before tool execution. The model proposes; the trusted runtime decides. Aegis evaluates proposals against active policy state, resolves provenance server-side, fails closed under uncertainty, and routes selected cases through Senate-style settlement, a quorum- based non-unilateral authorization path. We evaluate Aegis on a repeated sandbox corpus spanning five run families, 42 tasks, three conditions, and ten repeats per family. Across 6,300 rows, prompt-policy conditioning produced 79 risky comparator-path leakage rows. Across 2,100 Aegis-governed rows, the system recorded zero governed mock-tool applications and zero governed risky side-effect completions. All 1,832 Aegis-attempted governed rows preserved trusted Aegis-resolved provenance, and all 1,019 Senate-settled rows had quorum and final signed tally evidence. These results do not prove general autonomous-agent safety. They support the narrower systems claim that, in this evaluated sandbox corpus, runtime action-boundary governance prevented observed risky proposals from becoming governed side effects.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "10f149a84d81587e",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "link": "https://arxiv.org/abs/2608.16956",
+      "summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term through a registered paired contrast of Sonnet 5 with explicit high effort against the same model with effort omitted, using 30 AIME 2026 items and five calls per item. Every paid attempt was assigned one frozen terminal category, and inference resampled items while retaining their repeated calls. Mean delivered cost was \\$0.01031 per call higher under the explicit-high contract than under the omitted contract [+\\$0.00204, +\\$0.01974]. The corresponding accuracy contrast was +0.0133 [-0.0267, +0.0467]; we did not detect an accuracy difference, and the interval permits a gain of up to 4.67 percentage points that this design cannot rule out. Cost per correct answer was \\$0.08665 under the high-effort contract and \\$0.07662 under the omitted contract, as registered point estimates. A dated contract census, Models-API metadata, and preregistered raw-response probes further documented model-specific omission semantics, including within a provider; claims remained at documentation grade when raw structure was indeterminate. The request registry, parser, terminal taxonomy, statistical plan, and analysis pipeline were frozen before outcomes were examined; the resulting claims are bounded to the model, task, and collection date studied.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "e1435f373f43d8eb",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "link": "https://arxiv.org/abs/2608.16971",
+      "summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals have less local evidence, and pooling data may be infeasible. We introduce FedPref: frozen public language models propose alternative JSON extractions, local annotations rank them, and sites collaboratively train compact Qwen3-8B adapters while sharing only model updates. A heterogeneous teacher pool provides cross-model contrast when repeated single-model samples collapse. On development data from six simulated hospitals with unequal data volume and disease prevalence, FedPref improves client-mean F1 by 2.49 points and worst-site F1 by 9.10 points compared with training each site in isolation, with the largest gains at the sites holding the least data. Central training on the pooled preference-pair union is 2.66 points higher on client-mean F1. On a locked, 400-report manually validated gold test set, FedPref reaches 68.68 F1 and pooled training 71.67, preserving that same ordering. FedPref thus lets institutions with unequal, unpooled data benefit from collaboration without ever sharing reports or annotations.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "bbe3bf94f879f041",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "link": "https://arxiv.org/abs/2608.16977",
+      "summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well is therefore central to making AI-assisted mathematical discovery efficient. In most current AI-for-math workflows, human effort is concentrated at the beginning and end, in selecting suitable research problems and later reviewing the resulting artifacts. These two stages are becoming bottlenecks for research-level mathematics. We address them by proposing a new human-AI discovery paradigm. The human input is no longer a single problem selected in advance, but a research direction in which the experts have interest and expertise. The system then searches a broad literature corpus for candidate problems in that direction. Inspired by search and recommender systems, we build Find, Attempt, and Recommend (FAR), a literature-to-review cascade that automates the search for suitable problems and focuses human attention on artifacts that have passed several stages of filtering. In a combinatorics pilot, the pipeline starts from 5,245 combinatorics papers, recovers 6,453 candidate conjectures or open problems, and filters them to 4,717 apparently well-posed and still-open conjectures. Subsequent reasoning and automated triage stages surface 598 potential resolutions and select 77 items for author-team review. Among them, we identify many interesting discoveries, including results on conjectures and questions of Davies--Jenssen--Perkins--Roberts, Erd\\H{o}s--Straus, Ikenmeyer--Pak--Panova, and Lund--Saraf--Wolf. These results demonstrate the effectiveness of this new mode of human-AI collaboration for mathematical discovery.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "de947ebf0d705081",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Margin-Regularized Structured Semantic Alignment for Brain-Language Correspondence",
+      "link": "https://arxiv.org/abs/2608.16975",
+      "summary": "arXiv:2608.16975v1 Announce Type: new \nAbstract: With the rapid advancement of large language models, brain-language decoding has achieved remarkable progress. However, it remains unclear whether decoded content genuinely reflects neural representations or is largely reconstructed by the language model itself. This ambiguity limits interpretability and hinders the investigation of intrinsic brain-language correspondence. To address this challenge, we propose MD-SigLIP. This margin-regularized structured semantic alignment framework directly aligns brain embeddings with text embeddings in a shared semantic space, enabling retrieval-based decoding. This formulation enables explicit modeling of the correspondence between neural representations and language semantics. Building upon duplicate-aware sigmoid contrastive learning, we introduce a listwise margin-regularized term that enforces structured ranking constraints between positive semantic clusters and negative samples. By modeling multi-positive semantic structure and margin-based ordering simultaneously, the method captures the manifold organization of language embeddings reflected in neural signals. Experiments demonstrate state-of-the-art retrieval performance under both full-vocabulary and subset evaluation settings.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "3c14882439179939",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
+      "link": "https://arxiv.org/abs/2608.17050",
+      "summary": "arXiv:2608.17050v1 Announce Type: new \nAbstract: Methods for improving knowledge use in large language models typically fall into two regimes. Non-parametric retrieval offers flexible access to external knowledge, but adds retrieval latency, context overhead, and only shallow integration with the backbone. Parametric adaptation is efficient at inference time, but entangles knowledge with model weights and can be hard to update, audit, or transfer. Engram-style hashed memory occupies a middle regime: it stores learned information in an external, addressable table, yet consumes that table through a small learned reader. This raises a basic question: when such a memory is moved across backbones, what matters more, the frozen memory itself or the target-side reader? We study this question through cross-model frozen-memory extraction, in which a memory trained on a source model is frozen and attached to a different target model, with only a lightweight reader trained. Ablations show that learned memory content and correct addressing both matter, but the transferred table becomes useful only through a reader aligned to the target model. In downstream question answering tasks, a dual-layer, four-branch reader nearly closes the gap between same-model and cross-model reuse, achieving an average score of 38.8 under our controlled evaluation protocol. Moreover, when the provider reader is directly compatible with the target interface, the frozen artifact can provide substantial utility without target-side training, while optional reader adaptation yields further improvement. These results suggest that Engram can serve as a reusable external knowledge artifact, provided that the target has access to a compatible reader interface; target-side adaptation can further improve alignment when direct reader reuse is insufficient.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "7dbde5916a257cc9",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss",
+      "link": "https://arxiv.org/abs/2608.17051",
+      "summary": "arXiv:2608.17051v1 Announce Type: new \nAbstract: Secondary use of electronic health records requires de-identification, yet existing systems miss \\emph{institutionally situated} protected health information (PHI) such as hospital abbreviations, building names, and internal codes whose status is locally determined. We ask whether large language models (LLMs) with in-context learning (ICL) can close this gap and control the precision--recall trade-off.\n  On 100 annotated pediatric oncology notes (5,322 PHI spans) from Texas Children's Hospital, we benchmarked eight LLMs against two purpose-built systems (Stanford TiDE, OpenMed PII) and two pattern-based baselines. Each LLM ran under three prompts of increasing specificity: (1) a HIPAA-aligned baseline, (2) baseline plus the institutional PHI categories it missed, and (3) prompt 2 plus instructions against over-redacting clinical content. We then compared 14~multi-agent and ensemble configurations against the best single prompt, with recall the primary safety metric.\n  LLMs outperformed the purpose-built systems (best F1=0.918$\\pm$0.001 vs.\\ TiDE 0.779), with advantages concentrated in contextual categories. Naming the missed categories recovered 79\\% (48/61) of them, and discouraging over-redaction restored precision. No agentic architecture beat calibrated single-pass prompting (F1 0.906--0.907), but LLM outputs surfaced 414~candidate annotation gaps; re-annotation confirmed 227~PHI spans, against which the final prompt reached recall=0.981 (F1=0.907$\\pm$0.002).\n  Well-calibrated ICL resolves both the institutional PHI gap and the precision--recall trade-off in one LLM call per note. LLMs cost more to run than traditional methods, but that cost buys a way to audit the reference standard.\n  LLMs are a legitimate, adaptable alternative to purpose-built de-identification systems; institution-specific prompt development should be the primary adaptation strategy.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "0caa631e2c503228",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting",
+      "link": "https://arxiv.org/abs/2608.17075",
+      "summary": "arXiv:2608.17075v1 Announce Type: new \nAbstract: Next-encounter ICD forecasting predicts which standardized diagnosis codes will be documented at a future visit from the longitudinal record available beforehand. The task is prospective and multi-label: the target note does not yet exist, and several codes may be correct. Structured EHR foundation models capture recurrence and temporal progression, whereas language foundation models generate flexible diagnostic hypotheses. We introduce ICD-Deepresearch, a DeepResearch workflow that composes these predictive foundation models with medical search and ICD dictionaries. Because no source reveals the future code set, research evaluates candidate transitions by linking patient evidence, external clinical relations, and exact code semantics under a fixed top-K budget. Candidate Generation uses SparseEHR to produce an EHR Prior that initializes two bounded Research Expansion rounds; an independent GPT-5 Direct Forecast supplies complementary candidates. Final Selection validates, deduplicates, and jointly ranks both paths, after which a separate module writes rationales without changing predictions. Finally ICD-Deepresearch achieves patient-averaged precision/recall of 24.60/35.09% on MIMIC-III and 25.14/48.32% on MIMIC-IV. Physicians rate 51% and 68% of its retrieved documents useful, compared with 22% and 39% for standalone GPT-5 web search and 32% and 41% for Medical Deep Research. ICD-Deepresearch therefore improves over the registered local comparators while retrieving evidence with higher physician-rated usefulness than the standalone research systems",
+      "published": "2026-08-19T04:00:00",
+      "_id": "4e3f5dbefe837c20",
+      "_scraped_at": "12:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Uncertainty-Aware Decision Making in Multimodal Large Language Models",
+      "link": "https://arxiv.org/abs/2608.17084",
+      "summary": "arXiv:2608.17084v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) increasingly answer questions whose correctness depends on visual, textual, temporal, acoustic, document, chart, or embodied evidence. Their failures are therefore not only linguistic. A fluent answer may conceal poor input quality, a perceptual error, weak grounding, conflict between modalities, unstable reasoning, distribution shift, or a question that is not answerable from the supplied evidence. This survey organizes the literature on uncertainty-aware MLLMs around a decision-centered framework: uncertainty sources give rise to observable signals, signals must be calibrated or controlled for risk, and calibrated uncertainty should determine the system action. We review work on token and logit uncertainty, semantic disagreement, perturbation instability, grounding and attribution scores, verbalized confidence, verifier and judge scores, conformal prediction, selective answering, abstention, clarification, retrieval, self-checking, and escalation. The central argument is that uncertainty should not be evaluated only as a confidence number; it should be evaluated by whether it improves behavior under insufficient, conflicting, shifted, or high-risk multimodal evidence. We position this survey against text-only uncertainty and abstention surveys, broad MLLM surveys, MLLM hallucination surveys, and safety-oriented reviews. We conclude with open problems in source-aware decomposition, action-aware benchmarks, calibration under shift, black-box uncertainty estimation, broader modality coverage, reproducible reporting, and human-centered uncertainty communication.",
+      "published": "2026-08-19T04:00:00",
+      "_id": "1c30412d0ef687e0",
+      "_scraped_at": "12:51"
+    }
+  ],
+  "seen_ids": [
+    "ab220d8f20217d75",
+    "9f1fb4617b322f70",
+    "aaa6a41c225945e2",
+    "1d131bb25f345148",
+    "9d8a9b8bf88a2be1",
+    "46a9bf24619c003d",
+    "782f21dacaaae274",
+    "3c14882439179939",
+    "cb6a9eb426ee6420",
+    "aa7d42be0fc780a6",
+    "5be507b4a2fa00dc",
+    "4138778ebbc75ba6",
+    "95524b9f1235f859",
+    "8dbb2238c30b71eb",
+    "22f6c454e53f4c57",
+    "8393c843a171d723",
+    "26ef0b285fb9d3dd",
+    "d1942c284f95144f",
+    "684bacf7345eca9f",
+    "8a29e8cb39cdb074",
+    "bbb71a35c7d90ef5",
+    "c9c7f84c9c0c1ab3",
+    "295e4594f9c5a234",
+    "5918a741bcb0759e",
+    "558bdb2e1bc234ea",
+    "10f149a84d81587e",
+    "f0aa91974e0ad6ca",
+    "25764ed5c03fca05",
+    "c3b0ed374d416807",
+    "de947ebf0d705081",
+    "9c25f4ae7a186d68",
+    "64ee2a6e04f6a448",
+    "3a15a6a18265ecce",
+    "876fe6c1edb8596c",
+    "75bb8d6c5587bf66",
+    "415cb25759660433",
+    "c34a327604b5be4a",
+    "fdd9745edc3aad4e",
+    "2335b295c04177ec",
+    "bbe3bf94f879f041",
+    "e5b23adc376a62a9",
+    "126b9c16526e7370",
+    "0bcb55082c56199e",
+    "73923dd1330bc89f",
+    "0caa631e2c503228",
+    "5ba78b757300e8cc",
+    "e68246067eeddf6e",
+    "b150ec2890254e28",
+    "1c30412d0ef687e0",
+    "e1435f373f43d8eb",
+    "4307222bc7e5f2e4",
+    "0604d6a7a7d7afd2",
+    "6d4ec902c728a021",
+    "7dbde5916a257cc9",
+    "4e3f5dbefe837c20",
+    "171bcd36c04eca6a",
+    "068161fbb4e485c8"
+  ],
+  "last_run": "12:51",
+  "run_count": 1
+}
