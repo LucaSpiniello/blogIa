@@ -223,5 +223,50 @@
     "categoria": "herramientas",
     "importancia": 1,
     "rank": 15
+  },
+  {
+    "source": "Reddit r/MachineLearning",
+    "title": "Claude Code for Research Papers [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
+    "summary": "Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work.I started using Claude Code for the boring parts: argparse boilerplate, plotting, config wrangling. Over the last few months the scope has crept. It now writes most of my experiment scaffolding, refactors my dataloaders, does first-pass debugging on training runs, and drafts the analysis scripts. I mostly read diffs and say yes.The output is fine. My throughput is up. The thing bothering me is that I no longer hold my own codebase in my head. When a result looks off, I used to have an instinct about which line was lying to me. Now I go hunting like it’s someone else’s repo. I catch bugs later than I used to, and I catch them by reasoning about the numbers rather than by knowing the code.I don’t think the tool is the problem. I think I delegated a layer that was doing more for my understanding than I gave it credit for.Questions for people further along or in the same spot:Roughly what fraction of your research code do you write yourself now?Is there anything you deliberately refuse to hand off? (For me I think the eval harness and anything defining a metric should stay mine, but I keep breaking my own rule.)Does anyone have a workflow that keeps the speedup without the detachment? Reading the diff line by line is not cutting it.Not looking for a “tools are just tools” answer. I’m asking about the specific feeling of not owning your own experiments anymore.submitted by/u/NeatFox5866[link][comments]",
+    "published": "2026-08-30T23:24:07",
+    "_id": "06158d3622d3f3f3",
+    "_scraped_at": "23:58",
+    "title_es": "Investigador cuestiona delegar código a Claude en investigación",
+    "bajada": "Un estudiante de doctorado en PNL e interpretabilidad comparte su experiencia usando Claude Code para tareas repetitivas, pero advierte sobre la pérdida de comprensión profunda del código base. El artículo plantea una reflexión importante sobre cuánto delegar a herramientas de IA sin sacrificar la intuición técnica.",
+    "bajada_en": "A PhD student in NLP and interpretability shares his experience using Claude Code for repetitive tasks, but warns about losing deep understanding of the codebase. The post raises an important question about how much to delegate to AI tools without sacrificing technical intuition.",
+    "categoria": "herramientas",
+    "importancia": 3,
+    "rank": 1
+  },
+  {
+    "source": "Reddit r/MachineLearning",
+    "title": "NeurIPS accepted papers leaked? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
+    "summary": "I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers.https://github.com/xll0328/NIPS26-Can someone confirm whether this list is legit? I’m hoping it’s just a coincidence since it seems way too early.submitted by/u/Feuilius[link][comments]",
+    "published": "2026-08-30T19:34:25",
+    "_id": "0190a921cc8f2088",
+    "_scraped_at": "23:58",
+    "title_es": "Posibles papers aceptados en NeurIPS 2026 filtrados en GitHub",
+    "bajada": "Un usuario de Reddit reportó encontrar aproximadamente 7,000 papers presuntamente aceptados en NeurIPS 2026 en un repositorio público de GitHub. Aunque algunos están anonimizados, los detalles parecen precisos, lo que genera dudas sobre si se trata de un filtrado legítimo o coincidencia.",
+    "bajada_en": "A Reddit user reported finding approximately 7,000 papers allegedly accepted to NeurIPS 2026 in a public GitHub repository. While some are anonymized, the details appear accurate, raising questions about whether this is a legitimate leak or a coincidence.",
+    "categoria": "research",
+    "importancia": 2,
+    "rank": 2
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "published": "2026-08-30T16:54:25",
+    "_id": "a1c125ab1c9f5282",
+    "_scraped_at": "23:58",
+    "title_es": "SpaceX acelera turbinas de gas pero enfrenta críticas ambientales",
+    "bajada": "Elon Musk afirma que una nueva fundición de SpaceX permitirá fabricar álabes de turbina 18 meses más rápido. Sin embargo, la apuesta por combustibles fósiles genera demandas legales y estudios de salud en zonas donde se han instalado estas turbinas.",
+    "bajada_en": "Elon Musk claims a new SpaceX foundry will manufacture turbine blades 18 months faster than competitors. However, the bet on fossil fuels is triggering lawsuits and health studies in areas where these turbines have been installed.",
+    "categoria": "negocio",
+    "importancia": 1,
+    "rank": 3
   }
 ]
