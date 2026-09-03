@@ -1,0 +1,689 @@
+{
+  "date": "2026-09-03",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "published": "2026-09-02T12:00:00",
+      "_id": "3bda12e16fd31e0e",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Google AI",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "summary": "Introducing Fairwind Program",
+      "published": "2026-09-02T15:40:00",
+      "_id": "5eb2aa71a90a9c91",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "summary": "",
+      "published": "2026-09-03T13:13:48",
+      "_id": "fffbcba03b0b217e",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "published": "2026-09-03T00:00:00",
+      "_id": "a139f80b159295ad",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "link": "https://huggingface.co/blog/funes",
+      "summary": "",
+      "published": "2026-09-03T00:00:00",
+      "_id": "cdd1118267ee925c",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "summary": "",
+      "published": "2026-09-03T00:00:00",
+      "_id": "b5500bc6503561c6",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "summary": "",
+      "published": "2026-09-02T13:49:14",
+      "_id": "8c10bd00da2e478d",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "published": "2026-09-03T13:00:35",
+      "_id": "fa67f50273e6d77f",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "published": "2026-09-03T11:56:49",
+      "_id": "ea981681c9e20cb5",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "Announcements Beneficial Deployments Previewing the Model Hardware Standard Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically takes a lab or manufacturing facility weeks, if not months, to set up and integrate their hardware. Most devices don’t communicate with each other, instead requiring specialists to build bespoke integrations. MHS reduces this integration work to hours or minutes. And by incorporating AI into these tools, MHS also helps researchers and engineers more readily orchestrate autonomous, round-the-clock experiments and workflows, with agents able to reason through each step in an experiment, update parameters in real time, and, in some cases, recover from hardware errors without intervention. We’re sharing an early version of MHS with partners across science, robotics, electronics, and manufacturing so we can collaborate to build safety evaluations and develop best practices for AI systems operating physical equipment, ahead of making the standard open source. MHS works with any device that has a programmable interface. It is also model-agnostic, and any agent harness can access it using standard protocols, such as the Model Context Protocol . To apply for access to the research preview, head here . How MHS works Before and after the Model Hardware Standard (MHS). Getting multiple devices in a lab or on a factory floor to communicate with one another can be challenging, even setting aside the added d",
+      "published": "",
+      "_id": "35305757066a6f71",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 14, 2026How Claude’s text watermark worksIn this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing processes to guard ag",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "published": "2026-09-03T15:00:00",
+      "_id": "3058df3b96e49870",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "published": "2026-09-03T12:42:45",
+      "_id": "482b3fc6d69e13a8",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "published": "2026-09-02T23:01:00",
+      "_id": "a3db9b4efb8993e9",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "published": "2026-09-02T22:44:56",
+      "_id": "ca24c75ccec25c13",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "published": "2026-09-02T22:24:09",
+      "_id": "62ca58d2031fdb22",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage is also […]",
+      "published": "2026-09-03T15:35:14",
+      "_id": "eb1104274464bbfa",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google says its AI weather model is getting better",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five […]",
+      "published": "2026-09-03T15:00:00",
+      "_id": "591da8efaf769b4d",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data […]",
+      "published": "2026-09-03T12:12:06",
+      "_id": "cf9e32aa49ffe52c",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million […]",
+      "published": "2026-09-02T20:11:40",
+      "_id": "0e6a8f5aea2eddab",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare […]",
+      "published": "2026-09-02T17:52:56",
+      "_id": "07dde70d40fe6e8f",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "published": "2026-09-02T20:32:02",
+      "_id": "682188b2ff445ade",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+      "published": "2026-09-02T11:00:43",
+      "_id": "b8721641630cb082",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
+      "published": "2026-09-03T12:10:00",
+      "_id": "c69c41a1123b2bd8",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
+      "published": "2026-09-03T10:00:00",
+      "_id": "b9b3df40714ba92a",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "published": "2026-09-03T09:30:32",
+      "_id": "a0bf91a6c8bc5405",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
+      "published": "2026-09-02T14:00:00",
+      "_id": "f87bb394d39e63b8",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "published": "2026-09-02T12:10:00",
+      "_id": "4f54ea5fd732105e",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "published": "2026-09-03T13:00:00",
+      "_id": "42640a9b3e2d5778",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "published": "2026-09-03T12:43:09",
+      "_id": "bdd957c6a9385f9d",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "published": "2026-09-03T10:00:00",
+      "_id": "29b9565fe222ef06",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "published": "2026-09-03T01:32:02",
+      "_id": "4aa8b01362dd1bbc",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "published": "2026-09-02T18:41:02",
+      "_id": "b29cd4a74ae9a418",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "fmtlib /fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "summary": "{fmt} is an open-source formatting library providing a fast and safe\nalternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag\nfmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional\narguments for localization Implementation of C++20\nstd::format and C++23 std::print Format string syntax similar\nto Python's format Fast IEEE 754 floating-point formatter with correct rounding,\nshortness and round-trip guarantees using the Dragonbox algorithm Portable Unicode support Safe printf\nimplementation including the POSIX extension for positional arguments Extensibility: support for user-defined\ntypes High performance: faster than common standard library\nimplementations of (s)printf , iostreams, to_string and to_chars , see Speed tests and Converting a\nhundred million integers to strings per\nsecond Small code size both in terms of source code with the minimum\nconfiguration consisting of just three files, base.h , format.h and format-inl.h , and compiled code; see Compile time and code\nbloat Reliability: the library has an extensive set of tests and is continuously fuzzed Safety: the library is fully type-safe, errors in format strings can\nbe reported at compile time, automatic memory management prevents\nbuffer overflow errors Ease of use: small self-contained code base, no external\ndependencies, permissive MIT license Portability with\nconsistent output across platforms and support for older compilers Clean warning-free codebase even on high warning levels such as -Wall -Wextra -pedantic Locale independence by default Optional header-only configuration enabled with the FMT_HEADER_ONLY macro See the documentation for more details. Examples Print to stdout ( run ) # include < fmt/base.h > int main () { fmt::print ( \" Hello, world! \\n \" );\n} Format a string ( run ) std::string s = fmt::format( \" The answer is {}. \" , 42 ); // s == \"The answer is 42.\" Format a string using positional arguments ( run",
+      "published": "",
+      "_id": "f479be88947f9a61",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock /skills",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away your control and make bugs in the process hard to resolve. These skills are designed to be small, easy to adapt, and composable. They work with any model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my newsletter: Sign Up To The Newsletter Installation (30-second setup) Two ways in, two philosophies. The Claude Code plugin installs the whole set as a managed, read-only bundle that updates when I ship, so you subscribe rather than fork. skills.sh copies editable skill files into your project, so you can hack on them and make them your own. Pick one: installing both leaves you with every skill twice. 1. Get the skills Claude Code claude plugins install mattpocock-skills Or, from inside a session: /plugin install mattpocock-skills It's in Claude Code's official marketplace, so there's nothing to add first, and updates arrive automatically. Codex, and other agents npx skills@latest add mattpocock/skills Pick the skills you want, and which coding agents to install them on. The installer lets you choose which skills to take, so make sure setup-matt-pocock-skills is one of them. A native Codex plugin is on the roadmap (see .agents/adr/0002-ship-as-a-claude-code-plugin.md ). For tinkerers Use the same installer, on any agent, including Claude Code: npx skills@latest add mattpocock/skills It writes the skills into your repo as ordinary files you own and can edit. Nothing updates behind your back; pull my latest changes when you want them with npx skills update . 2. Run /setup-matt-pocock-skills In your agent, run it once per repo. It will: Ask you which iss",
+      "published": "",
+      "_id": "637c99109af31ed2",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "NousResearch /hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter, OpenAI, your own endpoint, and many others . Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Seven terminal backends — local, Docker, SSH, Singularity, Modal, Daytona, and Vercel Sandbox. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Resea",
+      "published": "",
+      "_id": "ec2b8bd43eefd65f",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "DietrichGebert /ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature tasks (Haiku 4.5, n=4); it reaches 94% where an agent over-builds (a date picker) and is near zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that is the per-task ceiling, not the average.) Full writeup · reproduce it . Español · 한국어 You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. Before / after You ask for a date picker. Your agent installs flatpickr, writes a wrapper component, adds a stylesheet, and starts a discussion about timezones. With ponytail: <!-- ponytail: browser has one --> < input type =\" date \" > More survivors in examples/ . Numbers The honest measurement is a real agent doing real work: a headless Claude Code session editing tiangolo's full-stack-fastapi-template (a real FastAPI + React repo), scored on the git diff it leaves behind. Twelve feature tickets, the same agent with and without the skill, n=4, Haiku 4.5. vs no-skill baseline LOC tokens cost time safe ponytail -54% -22% -20% -27% 100% caveman (terse-prose control) -20% +7% +3% +2% 100% \"YAGNI + one-liners\" prompt -33% -14% -21% -30% 95% ponytail is the only arm that cuts every metric, and the only one that stays fully safe while doing it. The cut is biggest where there is a real over-build trap (date picker 404 to 23 lines, color picker 287 to 23, because it reaches for a native <input> instead of a component) and near zero on code that is already minimal. Ful",
+      "published": "",
+      "_id": "38c3408d933af173",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /skills",
+      "link": "https://github.com/anthropics/skills",
+      "summary": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This Repository This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.). Each skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches. Many skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx , skills/pdf , skills/pptx , and skills/xlsx subfolders. These are source-available, not open source, but we wanted to share these with developers as a reference for more complex skills that are actively used in a production AI application. Disclaimer These skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thor",
+      "published": "",
+      "_id": "82a901da1b9bedec",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m /ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "summary": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-universal and ecc-agentshield , the GitHub App , the plugin slug ecc@ecc , and the project website ecc.tools . Third-party re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Run the canonical guided setup from your terminal: npx ecc-universal setup If npm reports a version or cache error, confirm the registry version before retrying: npm view ecc-universal version This path requires Node.js 18 or newer, Git, and Claude Code 2.1 or newer on PATH . It safely installs, updates, or moves one ecc@ecc plugin scope and\nrecords the hook profile you choose. Alternatively, run Claude Code's native plugin commands inside Claude Code: /plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc The native path installs ECC's skills, agents, commands, and plugin-managed hooks. If you choose it, stop there. Do not also run a full manual install into Claude Code. Both paths install the same ecc@ecc plugin. Choose one and do not stack\nanother manual Claude install on top. ECC Pro + GitHub App Install free · Private repos from $19/seat/mo Sponsor ECC Fund the open-source project Community Discord · Q&A · Show and Tell OSS stays free. This repo is MIT-licensed forever. ECC Pro is the hosted GitHub App for private repos. Sponsors and Pro subscribers fund the work. That's why a single maintainer ships weekly across 7 harnesses. Partners & sponsors Community sponsors: Mike Morgan · @jasonwu513 · @1anter · @massimotodaro · @meadmccabe Become a Sponsor · Sponsor Tiers · Sponsorship Program Jump to install ↓ ECC Your agent can write code, but ECC gives it a coordinated engineering system and toolbox: it plans before it bu",
+      "published": "",
+      "_id": "edb3a626875732de",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "JuliusBrussee /caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "summary": "why use many token when few do trick You pay for AI by the token, and your agent writes like it knows that. Caveman make agent stop. Same brain. Fewer words. Smaller bill. See it · Install · Savings · Learn · Proxy · Wrap · Docs · License See it 🗣️ Normal agent — 69 tokens Caveman agent — 19 tokens The reason your React component is re-rendering is likely because you're creating a new object reference on each render cycle. When you pass an inline object as a prop, React's shallow comparison sees it as a different object every time, which triggers a re-render. I'd recommend using useMemo to memoize the object. New object ref each render. Inline object prop = new ref = re-render. Wrap in useMemo . Nothing of value died in the second answer. The diagnosis survived, the fix survived, the useMemo survived; only the throat-clearing went. That's 50 tokens back on one reply, and an agent produces a few hundred replies a day. Code, commands, file paths, and exact error messages never get cavemanned. Only the prose around them does. Install Caveman comes in two sizes. The small one is the skill : a rule file that makes your agent answer in caveman. Free forever, MIT, runs in 30+ agents (Claude Code, Codex, Gemini, Cursor, Windsurf, Cline, Copilot, more), installs in one command: npx skills add JuliusBrussee/caveman Type /caveman in your agent if it doesn't wake up on its own. That the whole install. One rock. The big one is the proxy. It sits between your agent and the AI provider, on your machine, and shrinks what the agent reads before every call; a copy of anything it compressed stays on your disk in case the agent needs the original back. MIT CLI, BSL-1.1 runtime: npm install -g @caveman-ai/cli && caveman setup --install\ncaveman claude # or codex · gemini · aider · kilo · qwen · opencode · hermes · openclaw · pi They stack. Most people start with the skill and graduate. More doors into the cave — full installer, Windows, single agents, uninstall The full installer wires u",
+      "published": "",
+      "_id": "bac657e60ae022eb",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "blader /humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "summary": "Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works Humanizer uses 35 patterns from Wikipedia's \"Signs of AI writing\" , maintained by WikiProject AI Cleanup. It makes a first pass without treating the original structure as fixed. Then it checks the draft against those patterns and the original claims before rewriting whatever still needs work. \"LLMs use statistical algorithms to guess what should come next. The result tends toward the most statistically likely result that applies to the widest variety of cases.\" It does not make things up. A name, number, date, quote, citation, or other factual detail must come from the source or the writer. For personal writing, Humanizer keeps the writer's style. Technical and reference prose stays neutral and plain. If you provide a writing sample, Humanizer follows that sample instead of its default style rules. When you paste text, Humanizer shows its work before giving you the final version. You see the first rewrite and a short critique of anything that still sounds artificial. Point it at a file and it changes only the prose, leaving code, data, frontmatter, and link targets alone. Usage Call the skill directly: /humanizer\n\n[paste your text here] Or ask in plain language: Please humanize this text: [your text] To rewrite a file, give Humanizer its path: Humanize the prose in docs/launch-post.md Match your voice If you want the rewrite to sound more like you, include a sample: /humanizer\n\nHere's a sample of my writing for voice matching:\n[paste 2-3 paragraphs of your own writing]\n\nNow humanize this text:\n[paste AI text to humanize] Humanizer follows the sample's rhythm, word choice, punctuation, and deliberate quirks. The 35 patterns Content patterns # Pattern Before After 1 Inflated importance and legacy \"marking a pivotal moment in the evolution of...\" \"was established in 1989 ",
+      "published": "",
+      "_id": "2db4f7d2d7de0ea2",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-research /timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "summary": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation\nmodel developed by Google Research for time-series forecasting. Paper: A decoder-only foundation model for time-series forecasting ,\nICML 2024. (NEW!) TimesFM 3.0 Checkpoint: google/timesfm-3.0-pytorch . Checkpoints (up to 2.5): TimesFM Hugging Face Collection . Google Research blog (New blog post for TimesFM 3.0 coming soon!). TimesFM in Google 1P Products: BigQuery ML :\nEnterprise level SQL queries for scalability and reliability. Google Sheets :\nFor your daily spreadsheet. Vertex Model Garden :\nDockerized endpoint for agentic calling. This open version is not an officially supported Google product. Latest Model Version: TimesFM 3.0 Archived Model Versions: 2.5: relevant code under src/timesfm . 1.0 and 2.0: relevant code archived in the subdirectory v1 . You can pip install timesfm==1.3.0 to install an older version of this package to load\nthem. Update — August 2026 TimesFM 3.0 is out! TimesFM 3.0 introduces native multivariate time-series forecasting , flexible covariate support (both past-only and past-and-future covariates), superior\nzero-shot generalist capabilities, and top performance across all three major\ntime-series foundation model benchmarks. Key Highlights: Native Multivariate & Univariate Forecasting with Covariates : Seamlessly\nforecast multi-channel multivariate series as well as individual univariate\nseries, with native support for past-only and past-and-future dynamic\ncovariates without per-task tuning. Top Benchmark Performance : 🥇 fev-bench : Rank #1 overall across 100 diverse real-world\nforecasting tasks. 🥇 TIME Benchmark : Rank #1 overall across 50 domain datasets and\n98 evaluation tasks. 🥇 GIFT-Eval : Rank #1 among all foundation models . License notice for pretrained weights Important: The TimesFM source code in this repository is licensed under\nApache-2.0, and model weights up to version 2.5 remain Apache-2.0. However,\nfor the time being, TimesFM 3.0 pret",
+      "published": "",
+      "_id": "52a49b8215a214a6",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "averygan /reclip",
+      "link": "https://github.com/averygan/reclip",
+      "summary": "ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. preview.mp4 Features Download videos from 1000+ supported sites (via yt-dlp ) MP4 video or MP3 audio extraction Quality/resolution picker Bulk downloads — paste multiple URLs at once Automatic URL deduplication Clean, responsive UI — no frameworks, no build step Single Python file backend (~150 lines) Quick Start brew install yt-dlp ffmpeg # or apt install ffmpeg && pip install yt-dlp git clone https://github.com/averygan/reclip.git cd reclip\n./reclip.sh Open http://localhost:8899 . Or with Docker: docker build -t reclip . && docker run -p 8899:8899 reclip Usage Paste one or more video URLs into the input box Choose MP4 (video) or MP3 (audio) Click Fetch to load video info and thumbnails Select quality/resolution if available Click Download on individual videos, or Download All Supported Sites Anything yt-dlp supports , including: YouTube, TikTok, Instagram, Twitter/X, Reddit, Facebook, Vimeo, Twitch, Dailymotion, SoundCloud, Loom, Streamable, Pinterest, Tumblr, Threads, LinkedIn, and many more. Stack Backend: Python + Flask (~150 lines) Frontend: Vanilla HTML/CSS/JS (single file, no build step) Download engine: yt-dlp + ffmpeg Dependencies: 2 (Flask, yt-dlp) Disclaimer This tool is intended for personal use only. Please respect copyright laws and the terms of service of the platforms you download from. The developers are not responsible for any misuse of this tool. License MIT",
+      "published": "",
+      "_id": "e1e200fe02cb8a38",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "link": "https://news.ycombinator.com/item?id=49551096",
+      "summary": "https://status.openai.com\nhttps://status.claude.com\nhttps://status.x.aiComments URL:https://news.ycombinator.com/item?id=49551096Points: 59# Comments: 42",
+      "published": "2026-09-03T15:07:01",
+      "_id": "929c67df92b47164",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "summary": "Article URL:https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.htmlComments URL:https://news.ycombinator.com/item?id=49542443Points: 199# Comments: 151",
+      "published": "2026-09-02T20:57:04",
+      "_id": "e528b34d60566bdf",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Post-AI Internet Doesn't Look Great",
+      "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+      "summary": "Article URL:https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/Comments URL:https://news.ycombinator.com/item?id=49541331Points: 74# Comments: 84",
+      "published": "2026-09-02T19:41:01",
+      "_id": "5c7e1a2451832009",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "Main thread is here:Gemini 3.8 Flash and 3.8 Flash Cyber-https://news.ycombinator.com/item?id=49537553- Sept 2026 (449 comments)Comments URL:https://news.ycombinator.com/item?id=49538007Points: 76# Comments: 0",
+      "published": "2026-09-02T15:44:06",
+      "_id": "1e5b8618d900b42a",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Policy",
+      "link": "https://dbushell.com/ai/",
+      "summary": "Article URL:https://dbushell.com/ai/Comments URL:https://news.ycombinator.com/item?id=49537900Points: 52# Comments: 79",
+      "published": "2026-09-02T15:36:24",
+      "_id": "c453ab522450f2de",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "link": "https://github.com/mlc-ai/web-llm",
+      "summary": "Article URL:https://github.com/mlc-ai/web-llmComments URL:https://news.ycombinator.com/item?id=49536411Points: 137# Comments: 23",
+      "published": "2026-09-02T14:02:35",
+      "_id": "e21378f22db2cf25",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "Article URL:https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/Comments URL:https://news.ycombinator.com/item?id=49536375Points: 490# Comments: 241",
+      "published": "2026-09-02T13:59:59",
+      "_id": "b3e7eee395813d61",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Check if a file was made with Claude",
+      "link": "https://claude.com/check-content",
+      "summary": "Article URL:https://claude.com/check-contentComments URL:https://news.ycombinator.com/item?id=49535201Points: 179# Comments: 132",
+      "published": "2026-09-02T12:23:20",
+      "_id": "bcb500771e527dd7",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "summary": "Article URL:https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-modelComments URL:https://news.ycombinator.com/item?id=49534132Points: 186# Comments: 125",
+      "published": "2026-09-02T10:02:41",
+      "_id": "db253a7b7408d49f",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+      "summary": "Just uploaded the full 5.94 billion TikTok video dataset to Hugging Face. It’s fully open source:https://huggingface.co/datasets/kuben-developer/tiktok-videos-4bThis dataset was collected using a TikTok mobile app reverse-engineering method I developed a few years ago. The method allowed me to extract billions of videos, profiles, comments and replies, hashtags, sounds, and more.Full write-up and code here:https://tiktok-api.seeksocial.ioDisclaimer: The TikTok app exposes 24 endpoints that can be accessed without a TikTok account, so the data itself is publicly accessible. But accessing it this way is probably still against TikTok’s ToS. Also, the full code is not free, I charge a small fee for access to it.submitted by/u/DataShack[link][comments]",
+      "published": "2026-09-02T17:38:17",
+      "_id": "5613c9974befcabf",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+      "summary": "LLMs describe physics well but don't \"understand\" it in any grounded sense — they've learned statistical relationships between tokens like \"falls\" and \"gravity\", not actual physical intuition. This is basically the Mary's Room problem: Mary knows every physical fact about color but has never seen one. LLMs are Mary.The idea I've been thinking about:Train a JEPA-style model inside a physics simulation (think MuJoCo or a simple 2D env). Instead of predicting pixels or tokens, the model predictsrepresentationsof future states in an abstract embedding space. If it gets physics wrong, the predictor fails — the loss is unforgiving in a way next-token prediction never is.The embedding space that emerges should encode actual physical structure — object permanence, momentum, trajectories — because that's what makes prediction possible. Not surface-level textures, just the principles.Freeze those representations and attach them to an LLM-style reasoning model as a conditioning signal. The LLM now has both linguistic physics knowledge AND grounded physical intuition it can actually \"run\" forward — closer to a computational primitive than a propositional fact.The hypothesis is this makes downstream learning significantly faster — the LLM doesn't have to rediscover that objects fall, it has representations that already encode that.V-JEPA does something adjacent for video (predict future frame representations, not pixels), and DreamerV3 uses a latent world model for efficient RL — but the specific combo of JEPA-style prediction + sim-grounded physics representations + LLM attachment doesn't seem to have been done cleanly.Questions for the community:- Is there prior work I'm missing that does exactly this? - What's the right interface between grounded JEPA representations and a language model? Just concatenate to the prompt embedding? Cross-attention? - Would the sim-to-reality gap kill the transfer, or are the representations abstract enough to survive it?Interested in whether th",
+      "published": "2026-09-03T14:45:53",
+      "_id": "54742b928880d5e3",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
+      "summary": "I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Coding Networks (PCNs). While PCNs are fascinating for biological plausibility and continual learning, naive implementations are painfully slow.By implementing recent research (Accelerated PCNs via Direct Kolen-Pollack Feedback Alignment) and utilizing algorithmic caching to bypass redundant forward projections during the inference settling phase, I managed to close the performance gap with backpropagation on my CPU when training on MNIST (50 epochs).PyTorch Backprop (Feedforward):98.27% test accuracy in ~70s.Deepity DKPPCN:97.73% test accuracy in 59.5s.Next up is porting these kernels to CUDA to scale up the architecture and testing its capabilities in continual learning scenarios where standard backprop struggles.If you are interested in local learning, alternative credit assignment, or HPC for ML, I'd love your feedback!GitHub:https://github.com/ra4ster/deepityProject Site:https://ra4ster.github.io/Deepitysubmitted by/u/Important-Home4431[link][comments]",
+      "published": "2026-09-02T16:49:13",
+      "_id": "7ab42c0a7b295ac8",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "link": "https://arxiv.org/abs/2609.01611",
+      "summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety frameworks. We introduce EvalDetectBench, an open pipeline and benchmark for measuring evaluation awareness that works with any Inspect-compatible evaluation, allowing practitioners to test against current and future benchmarks. EvalDetectBench ships with a newly curated transcript suite covering current frontier system-card evaluations and diverse deployment sources. The benchmark serves two purposes: measuring how reliably frontier LLMs recognize that they are being evaluated, and assessing how detectable individual benchmarks are as evaluations. We identify two methodological choices in the existing literature that introduce systematic bias: the identity of the model that generated the deployment transcripts accounts for 11.25% of measurement variance and can reorder model rankings; and elicitation prompts selected for high performance on one model can perform near chance on others. EvalDetectBench corrects for both via per-model probe calibration and a stratified generator-harmonisation procedure.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "065b1d2ffdbed293",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "link": "https://arxiv.org/abs/2609.01685",
+      "summary": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently integrated capacities for moral reasoning, moral intentionality, and moral reflection, novel meta-ethical questions would arise concerning what I call \"AI's own ethics\", as distinct from ethical principles merely imposed on AI by human designers. This paper offers a conditional and methodological framework for identifying the questions that would emerge if such AI systems were to arise. On that basis, the paper distinguishes four domains of meta-ethical inquiry in the era of AI: questions about the nature of human ethics from the human perspective; questions about the nature of AI's own ethics from the human perspective; questions about the nature of human ethics from the AI perspective; and questions about the nature of AI's own ethics from the AI perspective. The paper then considers how some existing mainstream meta-ethical theories (such as cognitivism and non-cognitivism, error theory and success theory, relativism, and objective realism) might illuminate these domains, while arguing that many familiar human-centred formulations of those theories may not transfer straightforwardly to AI cases without substantial revision. The overall conclusion is that the emergence of AI's own ethics would place significant pressure on current frameworks and may require substantial refinement, reconstruction, or reconceptualisation.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "accfcc158cb08f7d",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "link": "https://arxiv.org/abs/2609.01741",
+      "summary": "arXiv:2609.01741v1 Announce Type: new \nAbstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal logic survives such noise. We build a passive survival certificate for the Duquenne-Guigues implication basis of machine-extracted statutory contexts: per-attribute inter-extractor disagreement is measured, replayed against the basis in 1,000 Monte Carlo trials, and an implication is certified only when a one-sided Wilson 95% lower bound on survival reaches 0.95; every certified implication carries premise spans and a minimal counterexample. On 29,365 Missouri sections and 502 Indian central-Act sections, the preregistered held-out gate passes (10 statute families across 7 Titles exact; 16 across 11 with 5% tolerance), yet under one globally deployed error model 93.2% of held-out chapters fall below the informativeness floor, and a 2x2 factorial assigns that to calibration-rate transfer, not selection. The certificate is usable but fragile: deploy it per-chapter-calibrated or error-tolerant. Code, data products, and the audit trail, including one retracted claim, are released.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "0ff5af8daaad568e",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "link": "https://arxiv.org/abs/2609.01814",
+      "summary": "arXiv:2609.01814v1 Announce Type: new \nAbstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist with different portfolio values. Under a registered incremental-sharing protocol, a sharing step improves discovery exactly when pooled residual error contracts faster than an independent rescue attempt. Exact bounded registries exhibit compression, aggregation, neutral curves, and a bounded zero mixed class. In a two-agent Bayesian game with a hidden mixture of common and independent signal sources, the registered selected equilibrium yields a strict positive sharing interval at signal accuracy 3/5, while alternative equilibria show that the result is selection-dependent rather than universal. The models are synthetic and finite; no human or organizational data are used.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "6b8f724695670505",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "link": "https://arxiv.org/abs/2609.01815",
+      "summary": "arXiv:2609.01815v1 Announce Type: new \nAbstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2) capture gradations of uncertainty to support intelligent inquiry and information gathering, and (3) be flexible enough to mentally represent the endless range of concepts people can learn and think about. Here we introduce a computational model that captures these three properties, by encoding symbolic knowledge as mental programs that combine natural language with source code, and sequentially inferring mental programs using LLM-guided Bayesian learning algorithms. Across a range of behavioral studies this model successfully reproduces quantitative signatures of human inductive learning and active inquiry, such as anchoring, garden-pathing, and other effects. In contrast, pure LLMs and classic Bayesian models either fail at the underlying task, or do not reproduce human behavior, or succeed only at exorbitant computational cost. These results suggest that one way humans continually grow their knowledge is by mentally representing many hypotheses spanning language-like and program-like representations, then revising those hypotheses to approximate Bayesian updates, while a bottom-up neural mechanism (an LLM) makes inference both tractable and learnable.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "08d68ccb98b5d5de",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2609.01658",
+      "summary": "arXiv:2609.01658v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation enhances Large Language Models by grounding responses in external knowledge, but multi-hop reasoning remains vulnerable to error propagation, where early retrieval failures confound subsequent steps. Standard outcome-based optimization only rewards the final answer, leaving intermediate retrieval and reasoning errors undetected. While existing process-based methods introduce step-level signals, they still score each step against the final answer, rewarding spurious successes where flawed retrieval coincidentally produces the correct answer. Step-level supervision in RAG requires evaluating both logical validity and evidential grounding at each step. We introduce PRO-STEP: we train a generative PRM that evaluates both dimensions, employ PRM-guided value tree search to construct preference pairs contrasting valid steps against flawed ones, and optimize the policy via step-level Direct Preference Optimization. Experiments on single and multi-hop QA datasets demonstrate that PRO-STEP achieves the best average EM and F1 across five benchmarks. Code, models, and training data are publicly available at https://github.com/keemminnke/PRO-Step.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "c085b859a6beb038",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA",
+      "link": "https://arxiv.org/abs/2609.01687",
+      "summary": "arXiv:2609.01687v1 Announce Type: new \nAbstract: Grounded question answering systems should answer only when the supplied evidence supports the answer. In multi-hop QA, this requirement is difficult because partial evidence can make an unsupported answer appear plausible. We study selective answering through evidence sufficiency boundaries: for the same question, a model should abstain under unsupported or partially supported context, answer when the context first becomes sufficient, and keep the answer stable when redundant evidence is added. We introduce Evidence Sufficiency Boundary Training, a generation-native training framework that constructs ordered evidence chains and supervises the abstain-to-answer transition directly. The method combines level supervision, a boundary flip margin, post-boundary stability, and answer recall protection. We build evidence chains from HotpotQA, 2WikiMultiHopQA, and MuSiQue, then evaluate models with chain metrics, raw QA utility, and unsupported-answer rates on external non-answerable sets. With Qwen2.5-3B-Instruct and LoRA adaptation, Evidence Sufficiency Boundary Training gives the strongest boundary localization among the tested systems, with flip accuracy of 0.807 compared with 0.781 for a token-level abstention baseline. It also achieves the lowest overall unsupported-answer rate on external non-answerable evaluation, 0.095 compared with 0.101 for the same baseline, while retaining competitive raw QA F1. The results show that grounded selective answering improves when training marks the evidence level where refusal should give way to answering.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "ef443b0f80745816",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition",
+      "link": "https://arxiv.org/abs/2609.01737",
+      "summary": "arXiv:2609.01737v1 Announce Type: new \nAbstract: Mobile payment applications in Nepal are graphically mediated and largely inaccessible to visually impaired users. This paper presents SpeakPay, a voice-first digital wallet, and documents the central technical contribution: a controlled study of domain adaptation for low-resource financial speech recognition. We introduce NepFinSpeech-403, a 403-utterance dataset of Nepali financial voice commands (send, load, and balance operations spanning 237 unique numerals), and fine-tune Whisper large-v2 with LoRA. On the held-out test set, the domain-adapted model reduces Word Error Rate from 129.95% (zero-shot baseline) to 42.58% --- a 67.2% relative reduction --- and improves Devanagari numeral recognition accuracy from 0.0% to 73.9%. We find that word-level metrics understate the practical task-level impact: domain adaptation improves the Transaction Success Rate from 1.67% to 33.33%, a roughly 20x gain. The improvement is consistent at the individual-utterance level (sign test, $p < 10^{-17}$) and across all command types. A data efficiency analysis shows that as few as 100 domain-specific utterances are sufficient to halve the zero-shot WER, with performance plateauing around 300 examples. Error analysis reveals systematic numeral confusion patterns (zero insertion/deletion, prefix hallucination) that account for the majority of remaining transaction failures. The trained system is deployed as a publicly accessible voice-first web application. All code, dataset, model weights, and this paper are released at https://github.com/subedibiraj/speakpay.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "9e42e1edf1ae0746",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models",
+      "link": "https://arxiv.org/abs/2609.01772",
+      "summary": "arXiv:2609.01772v1 Announce Type: new \nAbstract: Meme understanding goes beyond recognizing visual content or literal text; it requires implicit cultural knowledge and pragmatic inference that most vision-language models still lack. We introduce MemeCULT-1K, a multilingual benchmark of 1,000 South Asian memes in Bengali, English, and Hindi, where each meme is paired with a cultural context note and three human-written explanations, along with a supplementary set of 54 Bengali regional dialect memes. We evaluate thirteen popular Vision Language Models (VLMs) under two settings: meme-only and context-aware. Providing minimal cultural context yields consistent gains across all models and languages: mean SBERT similarity improves from 44.6 to 56.4 (+11.8), BLEURT from 37.3 to 42.3 (+5.0), and LLM-as-a-Judge scores from 2.57 to 3.43 out of 5 (+0.86). Fine-grained error analysis reveals that closed-source models fail mainly on entity and reference misidentification, while open-source models are bottlenecked by broader cultural knowledge gaps, with linguistic and phonological failures proving the most context-resistant across both. These results highlight the difficulty of culturally grounded meme understanding and motivate future work on explicit cultural knowledge integration. Our dataset and code are publicly available at TawsifDipto17/MemeCULT-1K.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "4a5ff66ee90796aa",
+      "_scraped_at": "16:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "VakyArth: Evaluating Pragmatic Competence in LLMs across Indic Languages",
+      "link": "https://arxiv.org/abs/2609.01788",
+      "summary": "arXiv:2609.01788v1 Announce Type: new \nAbstract: Real-world communication often requires pragmatic reasoning: interpreting meanings implied through context and cultural convention rather than stated literally. Existing pragmatic evaluation remains largely limited to English and high-resource languages, leaving Indic languages unexplored despite their linguistic and cultural diversity. We introduce VakyArth, the first pragmatic benchmark for Indic languages, designed as a diagnostic evaluation covering Hindi, Punjabi, Tamil, and Malayalam. VakyArth evaluates models across five phenomena: deixis, speech acts, implicature, social pragmatics, and coherence; through multiple-choice questions, natural language inference, and translation, with all items authored by native speakers. Across multilingual large language models (LLMs) of varying families and sizes, we find consistent failures on pragmatic meanings rooted in Indic linguistic and cultural conventions. Our analysis shows systematic differences across languages and tasks: MCQ accuracy exceeds NLI accuracy in all model-language combinations, translation performance does not reliably track pragmatic understanding, and Indo-Aryan languages show a translation advantage over Dravidian languages. We further show that automatic translation metrics can miss fluent but pragmatically unfaithful outputs, especially for implicature and deixis.",
+      "published": "2026-09-03T04:00:00",
+      "_id": "1ccfbe0a8bad808b",
+      "_scraped_at": "16:00"
+    }
+  ],
+  "seen_ids": [
+    "5c7e1a2451832009",
+    "52a49b8215a214a6",
+    "c34a327604b5be4a",
+    "3bda12e16fd31e0e",
+    "54742b928880d5e3",
+    "ca24c75ccec25c13",
+    "edb3a626875732de",
+    "ef443b0f80745816",
+    "cdd1118267ee925c",
+    "f87bb394d39e63b8",
+    "591da8efaf769b4d",
+    "ec2b8bd43eefd65f",
+    "b085c7f1762bfee8",
+    "637c99109af31ed2",
+    "5eb2aa71a90a9c91",
+    "cf9e32aa49ffe52c",
+    "e528b34d60566bdf",
+    "1e5b8618d900b42a",
+    "c453ab522450f2de",
+    "065b1d2ffdbed293",
+    "482b3fc6d69e13a8",
+    "62ca58d2031fdb22",
+    "0e6a8f5aea2eddab",
+    "c085b859a6beb038",
+    "eb1104274464bbfa",
+    "e21378f22db2cf25",
+    "6b8f724695670505",
+    "9e42e1edf1ae0746",
+    "f479be88947f9a61",
+    "c69c41a1123b2bd8",
+    "08d68ccb98b5d5de",
+    "b9b3df40714ba92a",
+    "e68246067eeddf6e",
+    "fffbcba03b0b217e",
+    "a3db9b4efb8993e9",
+    "accfcc158cb08f7d",
+    "fa67f50273e6d77f",
+    "a139f80b159295ad",
+    "4a5ff66ee90796aa",
+    "ea981681c9e20cb5",
+    "b8721641630cb082",
+    "682188b2ff445ade",
+    "a0bf91a6c8bc5405",
+    "5613c9974befcabf",
+    "8ed1599eb95bc766",
+    "db253a7b7408d49f",
+    "4aa8b01362dd1bbc",
+    "29b9565fe222ef06",
+    "0ff5af8daaad568e",
+    "4f54ea5fd732105e",
+    "07dde70d40fe6e8f",
+    "38c3408d933af173",
+    "35305757066a6f71",
+    "bac657e60ae022eb",
+    "bcb500771e527dd7",
+    "e1e200fe02cb8a38",
+    "2db4f7d2d7de0ea2",
+    "b5500bc6503561c6",
+    "82a901da1b9bedec",
+    "7ab42c0a7b295ac8",
+    "929c67df92b47164",
+    "42640a9b3e2d5778",
+    "b3e7eee395813d61",
+    "b29cd4a74ae9a418",
+    "bdd957c6a9385f9d",
+    "8c10bd00da2e478d",
+    "3058df3b96e49870",
+    "1ccfbe0a8bad808b"
+  ],
+  "last_run": "16:00",
+  "run_count": 1
+}
