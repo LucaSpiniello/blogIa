@@ -1,0 +1,509 @@
+{
+  "date": "2026-09-05",
+  "items": [
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "Announcements Beneficial Deployments Previewing the Model Hardware Standard Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically takes a lab or manufacturing facility weeks, if not months, to set up and integrate their hardware. Most devices don’t communicate with each other, instead requiring specialists to build bespoke integrations. MHS reduces this integration work to hours or minutes. And by incorporating AI into these tools, MHS also helps researchers and engineers more readily orchestrate autonomous, round-the-clock experiments and workflows, with agents able to reason through each step in an experiment, update parameters in real time, and, in some cases, recover from hardware errors without intervention. We’re sharing an early version of MHS with partners across science, robotics, electronics, and manufacturing so we can collaborate to build safety evaluations and develop best practices for AI systems operating physical equipment, ahead of making the standard open source. MHS works with any device that has a programmable interface. It is also model-agnostic, and any agent harness can access it using standard protocols, such as the Model Context Protocol . To apply for access to the research preview, head here . How MHS works Before and after the Model Hardware Standard (MHS). Getting multiple devices in a lab or on a factory floor to communicate with one another can be challenging, even setting aside the added d",
+      "published": "",
+      "_id": "35305757066a6f71",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 14, 2026How Claude’s text watermark worksIn this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing processes to guard ag",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "published": "2026-09-04T23:36:14",
+      "_id": "234d1f722727c86c",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "published": "2026-09-04T23:15:11",
+      "_id": "c7bac135042a53c6",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "published": "2026-09-04T21:12:11",
+      "_id": "ac4ec989a2a725db",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What will Apple’s John Ternus era look like?",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "published": "2026-09-04T17:18:00",
+      "_id": "d94610ea6050df07",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "published": "2026-09-04T16:21:11",
+      "_id": "85ed079974755641",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+      "published": "2026-09-05T11:15:55",
+      "_id": "5b13087810689101",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
+      "published": "2026-09-04T17:51:35",
+      "_id": "d7da0fb3d5ff6a40",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]",
+      "published": "2026-09-04T16:05:57",
+      "_id": "70d9a07f92e25458",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
+      "published": "2026-09-04T13:34:12",
+      "_id": "f60d7bb6db5c87d1",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "The Verge",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI […]",
+      "published": "2026-09-04T12:00:00",
+      "_id": "39ef2b5157f89d47",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "published": "2026-09-04T22:17:36",
+      "_id": "742cf6e98adedcf1",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "summary": "Broadcom admits it put “too big a focus on VCF.”",
+      "published": "2026-09-04T17:35:02",
+      "_id": "46dd9d97b1a16658",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "published": "2026-09-04T17:18:12",
+      "_id": "e703320cbb435bbd",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "published": "2026-09-04T18:39:19",
+      "_id": "817537e6d0579ab2",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+      "published": "2026-09-04T12:10:00",
+      "_id": "4ada135544e51e2e",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+      "published": "2026-09-04T09:25:19",
+      "_id": "772ec013400f9e75",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI Agents Hacked Another Website",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "published": "2026-09-05T10:30:00",
+      "_id": "ccaa3238a9e12479",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Wired",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+      "published": "2026-09-04T15:00:00",
+      "_id": "abeda7a8c1e1307f",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "published": "2026-09-04T10:00:00",
+      "_id": "218dd7926faaaa5b",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock /skills",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away your control and make bugs in the process hard to resolve. These skills are designed to be small, easy to adapt, and composable. They work with any model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my newsletter: Sign Up To The Newsletter Installation (30-second setup) Two ways in, two philosophies. The Claude Code plugin installs the whole set as a managed, read-only bundle that updates when I ship, so you subscribe rather than fork. skills.sh copies editable skill files into your project, so you can hack on them and make them your own. Pick one: installing both leaves you with every skill twice. 1. Get the skills Claude Code claude plugins install mattpocock-skills Or, from inside a session: /plugin install mattpocock-skills It's in Claude Code's official marketplace, so there's nothing to add first, and updates arrive automatically. Codex, and other agents npx skills@latest add mattpocock/skills Pick the skills you want, and which coding agents to install them on. The installer lets you choose which skills to take, so make sure setup-matt-pocock-skills is one of them. A native Codex plugin is on the roadmap (see .agents/adr/0002-ship-as-a-claude-code-plugin.md ). For tinkerers Use the same installer, on any agent, including Claude Code: npx skills@latest add mattpocock/skills It writes the skills into your repo as ordinary files you own and can edit. Nothing updates behind your back; pull my latest changes when you want them with npx skills update . 2. Run /setup-matt-pocock-skills In your agent, run it once per repo. It will: Ask you which iss",
+      "published": "",
+      "_id": "637c99109af31ed2",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m /ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "summary": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-universal and ecc-agentshield , the GitHub App , the plugin slug ecc@ecc , and the project website ecc.tools . Third-party re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Run the canonical guided setup from your terminal: npx ecc-universal setup If npm reports a version or cache error, confirm the registry version before retrying: npm view ecc-universal version This path requires Node.js 18 or newer, Git, and Claude Code 2.1 or newer on PATH . It safely installs, updates, or moves one ecc@ecc plugin scope and\nrecords the hook profile you choose. Alternatively, run Claude Code's native plugin commands inside Claude Code: /plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc The native path installs ECC's skills, agents, commands, and plugin-managed hooks. If you choose it, stop there. Do not also run a full manual install into Claude Code. Both paths install the same ecc@ecc plugin. Choose one and do not stack\nanother manual Claude install on top. ECC Pro + GitHub App Install free · Private repos from $19/seat/mo Sponsor ECC Fund the open-source project Community Discord · Q&A · Show and Tell OSS stays free. This repo is MIT-licensed forever. ECC Pro is the hosted GitHub App for private repos. Sponsors and Pro subscribers fund the work. That's why a single maintainer ships weekly across 7 harnesses. Partners & sponsors Community sponsors: Mike Morgan · @jasonwu513 · @1anter · @massimotodaro · @meadmccabe Become a Sponsor · Sponsor Tiers · Sponsorship Program Jump to install ↓ ECC Your agent can write code, but ECC gives it a coordinated engineering system and toolbox: it plans before it bu",
+      "published": "",
+      "_id": "edb3a626875732de",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "DietrichGebert /ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature tasks (Haiku 4.5, n=4); it reaches 94% where an agent over-builds (a date picker) and is near zero where the code is already minimal. ponytail keeps every safety guard while a bare \"write one-liners\" prompt drops one. (The earlier single-shot benchmark reported 80-94% as a flat figure; against a fair agentic baseline that is the per-task ceiling, not the average.) Full writeup · reproduce it . Español · 한국어 You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. Before / after You ask for a date picker. Your agent installs flatpickr, writes a wrapper component, adds a stylesheet, and starts a discussion about timezones. With ponytail: <!-- ponytail: browser has one --> < input type =\" date \" > More survivors in examples/ . Numbers The honest measurement is a real agent doing real work: a headless Claude Code session editing tiangolo's full-stack-fastapi-template (a real FastAPI + React repo), scored on the git diff it leaves behind. Twelve feature tickets, the same agent with and without the skill, n=4, Haiku 4.5. vs no-skill baseline LOC tokens cost time safe ponytail -54% -22% -20% -27% 100% caveman (terse-prose control) -20% +7% +3% +2% 100% \"YAGNI + one-liners\" prompt -33% -14% -21% -30% 95% ponytail is the only arm that cuts every metric, and the only one that stays fully safe while doing it. The cut is biggest where there is a real over-build trap (date picker 404 to 23 lines, color picker 287 to 23, because it reaches for a native <input> instead of a component) and near zero on code that is already minimal. Ful",
+      "published": "",
+      "_id": "38c3408d933af173",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "NousResearch /hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM. Use any model you want — Nous Portal , OpenRouter, OpenAI, your own endpoint, and many others . Switch with hermes model — no code changes, no lock-in. A real terminal interface Full TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output. Lives where you do Telegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity. A closed learning loop Agent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard. Scheduled automations Built-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended. Delegates and parallelizes Spawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns. Runs anywhere, not just your laptop Seven terminal backends — local, Docker, SSH, Singularity, Modal, Daytona, and Vercel Sandbox. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster. Resea",
+      "published": "",
+      "_id": "ec2b8bd43eefd65f",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "fmtlib /fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "summary": "{fmt} is an open-source formatting library providing a fast and safe\nalternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag\nfmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional\narguments for localization Implementation of C++20\nstd::format and C++23 std::print Format string syntax similar\nto Python's format Fast IEEE 754 floating-point formatter with correct rounding,\nshortness and round-trip guarantees using the Dragonbox algorithm Portable Unicode support Safe printf\nimplementation including the POSIX extension for positional arguments Extensibility: support for user-defined\ntypes High performance: faster than common standard library\nimplementations of (s)printf , iostreams, to_string and to_chars , see Speed tests and Converting a\nhundred million integers to strings per\nsecond Small code size both in terms of source code with the minimum\nconfiguration consisting of just three files, base.h , format.h and format-inl.h , and compiled code; see Compile time and code\nbloat Reliability: the library has an extensive set of tests and is continuously fuzzed Safety: the library is fully type-safe, errors in format strings can\nbe reported at compile time, automatic memory management prevents\nbuffer overflow errors Ease of use: small self-contained code base, no external\ndependencies, permissive MIT license Portability with\nconsistent output across platforms and support for older compilers Clean warning-free codebase even on high warning levels such as -Wall -Wextra -pedantic Locale independence by default Optional header-only configuration enabled with the FMT_HEADER_ONLY macro See the documentation for more details. Examples Print to stdout ( run ) # include < fmt/base.h > int main () { fmt::print ( \" Hello, world! \\n \" );\n} Format a string ( run ) std::string s = fmt::format( \" The answer is {}. \" , 42 ); // s == \"The answer is 42.\" Format a string using positional arguments ( run",
+      "published": "",
+      "_id": "f479be88947f9a61",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /skills",
+      "link": "https://github.com/anthropics/skills",
+      "summary": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This Repository This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.). Each skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches. Many skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx , skills/pdf , skills/pptx , and skills/xlsx subfolders. These are source-available, not open source, but we wanted to share these with developers as a reference for more complex skills that are actively used in a production AI application. Disclaimer These skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thor",
+      "published": "",
+      "_id": "82a901da1b9bedec",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "cathrynlavery /diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more layout grammars — Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, and database schema. 39 editorial diagram types for Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io or Mermaid sources at a chosen format, size, and detail level. No Figma. No generic rounded boxes. No 30-minute color-picking sessions. Why I built it I write at littlemight.com (and run BestSelf.co on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram. So I built a Claude Code skill for it. Thirty-nine visual types, editorial quality, matches your brand in 60 seconds by reading your website. The highest-quality move is usually deletion. Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10. What it makes All 39 visual types ship in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency. Architecture Components + connections IT current-state Legacy landscape + modernization F",
+      "published": "",
+      "_id": "9c939c7199afd9a6",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "anomalyco /opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "summary": "The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g opencode-ai@latest # or bun/pnpm/yarn scoop install opencode # Windows choco install opencode # Windows brew install anomalyco/tap/opencode # macOS and Linux (recommended, always up to date) brew install opencode # macOS and Linux (official brew formula, updated less) sudo pacman -S opencode # Arch Linux (Stable) paru -S opencode-bin # Arch Linux (Latest from AUR) mise use -g opencode # Any OS nix run nixpkgs#opencode # or github:anomalyco/opencode for latest dev branch Tip Remove versions older than 0.1.x before installing. Desktop App (BETA) OpenCode is also available as a desktop application. Download directly from the releases page or opencode.ai/download . Platform Download macOS (Apple Silicon) opencode-desktop-mac-arm64.dmg macOS (Intel) opencode-desktop-mac-x64.dmg Windows opencode-desktop-windows-x64.exe Linux .deb , .rpm , or .AppImage # macOS (Homebrew) brew install --cask opencode-desktop # Windows (Scoop) scoop bucket add extras ; scoop install extras/opencode-desktop Installation Directory The install script respects the following priority order for the installation path: $OPENCODE_INSTALL_DIR - Custom installation directory $XDG_BIN_DIR - XDG Base Directory Specification compliant path $HOME/bin - Standard user binary directory (if it exists or can be created) $HOME/.opencode/bin - Default fallback # Examples OPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash\nXDG_BIN_DIR= $HOME /.local/bin curl -fsSL https://opencode.ai/install | bash Agents OpenCode includes two built-in agents you can switch between with the Tab key. build - Default, full-access agent for development work plan - Read-o",
+      "published": "",
+      "_id": "ffccace0ba14fd15",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "ruvnet /ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "summary": "Ruflo An agent meta-harness for Claude Code and Codex. Agent = Model + Harness. The model writes; the harness gives it tools, memory, loops, sandboxes, and controls so it can actually work. Ruflo is the harness — the execution layer around Claude Code and Codex that adds 100+ specialized agents, coordinated swarms, self-learning memory, federated comms across machines, and enterprise security guardrails. So agents don't just run, they collaborate. One npx ruflo init gives Claude Code a nervous system: agents self-organize into swarms, learn from every task, remember across sessions, and — with federation — securely talk to agents on other machines without leaking data. You keep writing code. Ruflo handles the coordination. Self-Learning / Self-Optimizing Agent Architecture\n\nUser --> Ruflo (CLI/MCP) --> Router --> Swarm --> Agents --> Memory --> LLM Providers\n                          ^                           |\n                          +---- Learning Loop <-------+ New to Ruflo? You don't need to learn 314 MCP tools or 26 CLI commands. After init , just use Claude Code normally — the hooks system automatically routes tasks, learns from successful patterns, and coordinates agents in the background. 📖 Background — where the name comes from Claude Flow is now Ruflo — named by rUv , who loves Rust, flow states, and building things that feel inevitable. The \"Ru\" is the rUv. The \"flo\" is working until 3am. Underneath, powered by Cognitum.One agentic architecture, running a supercharged Rust-based AI engine, embeddings, memory, and plugin system. Quick Start There are two different install paths with very different surface areas. Pick based on what you need (#1744): Claude Code Plugin CLI install ( npx ruflo init ) What it gives you Slash commands + a few skills + agent definitions per-plugin Full Ruflo loop — 98 agents, 60+ commands, 30 skills, MCP server, hooks, daemon Files in your workspace Zero .claude/ , .claude-flow/ , CLAUDE.md , helpers, settings MCP server reg",
+      "published": "",
+      "_id": "c60b77ce50fb8910",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "GitHub",
+      "title": "humanlayer /skills",
+      "link": "https://github.com/humanlayer/skills",
+      "summary": "skills Claude Code skills from HumanLayer . Installation npx skills add humanlayer/skills --skill SKILLNAME Available Skills improve-claude-md Rewrites your CLAUDE.md using <important if> blocks to improve instruction adherence. npx skills add humanlayer/skills --skill improve-claude-md Then in your project: /improve-claude-md narrow-react-prop-types Narrows React component prop types to match live code paths instead of Storybook, test, or mock-only states. npx skills add humanlayer/skills --skill narrow-react-prop-types Then in your project: /narrow-react-prop-types build-iterated-agentic-loop Builds a repo-local skill plus an iterated coding-agent GitHub Actions workflow, prompt, memory file, and reference templates. npx skills add humanlayer/skills --skill build-iterated-agentic-loop Then in your project: /build-iterated-agentic-loop design-control-loop Interviews you to design an agentic control loop — sensor, controller, actuator, and disturbances — tailored to your codebase, then builds it as locally-runnable components plus a scheduled coding-agent workflow. npx skills add humanlayer/skills --skill design-control-loop Then in your project: /design-control-loop show-me Explains the current topic with concise diagrams, code-shape sketches, and focused HTML artifacts. npx skills add humanlayer/skills --skill show-me Then invoke: /show-me",
+      "published": "",
+      "_id": "de0577c71825884c",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "summary": "Article URL:https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systemsComments URL:https://news.ycombinator.com/item?id=49574167Points: 250# Comments: 213",
+      "published": "2026-09-05T07:52:50",
+      "_id": "3d056644792d44a8",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "summary": "Article URL:https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluationComments URL:https://news.ycombinator.com/item?id=49572875Points: 66# Comments: 58",
+      "published": "2026-09-05T03:38:56",
+      "_id": "5427d679c7eaa44b",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "Article URL:https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90Comments URL:https://news.ycombinator.com/item?id=49571465Points: 184# Comments: 96",
+      "published": "2026-09-04T23:38:50",
+      "_id": "e870d219d769fc5a",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "summary": "Article URL:https://openrouter.ai/openai/gpt-6-astraComments URL:https://news.ycombinator.com/item?id=49570545Points: 263# Comments: 175",
+      "published": "2026-09-04T21:39:19",
+      "_id": "0c6009cf40693d37",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "Article URL:https://eebench.org/blog/can-ai-design-circuit-boards-yet/Comments URL:https://news.ycombinator.com/item?id=49569366Points: 299# Comments: 178",
+      "published": "2026-09-04T19:48:29",
+      "_id": "fc8b777bd4955741",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "summary": "https://archive.is/kmOqmComments URL:https://news.ycombinator.com/item?id=49566137Points: 306# Comments: 284",
+      "published": "2026-09-04T15:33:45",
+      "_id": "a7a3a65935fc9627",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "summary": "Article URL:https://productrise.app/blog/google-ai-mode-prefers-more-expensive-productsComments URL:https://news.ycombinator.com/item?id=49563386Points: 392# Comments: 74",
+      "published": "2026-09-04T11:59:15",
+      "_id": "d26be4db00d9b182",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "summary": "Article URL:https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/Comments URL:https://news.ycombinator.com/item?id=49562744Points: 93# Comments: 2",
+      "published": "2026-09-04T10:30:57",
+      "_id": "1d7f906be01d4424",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Language Models Can Control Their Own Attention [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+      "summary": "AbstractLanguage models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each token of the reply. A prominent approach mitigates this cost by pre-selecting relevant tokens via lightweight proxy scores, but this extrinsic scoring still incurs O(N) per step. We take an intrinsic approach motivated by the simple question: wouldn't the model already know which parts of the context are relevant? To this end, we introduce Declarative Attention (DA), a protocol that elicits the model to declare where it needs to attend within its chain-of-thought, partitioning generation into three modes: <global> (full context), <focus> (a specific region), and <local> (recent output only). The inference engine parses these declarations like tool calls and skips most of the KV cache read. Under zero-shot evaluation across 15 long-context tasks, DA on off-the-shelf models (Gemma-4-31B, Qwen-3.6-27B) significantly reduces total attended tokens during decoding (52.0%, 31.1%) with modest accuracy drops (1.27pp, 2.75pp) that shrink with model scale. DA unlocks a new axis of sparse attention, with further potential under training-based methods that future work can explore.Subjects:Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)Cite as:arXiv:2609.02737[cs.CL](orarXiv:2609.02737v1[cs.CL]for this version)https://doi.org/10.48550/arXiv.2609.02737Focus to learn moresubmitted by/u/eigenlaplace[link][comments]",
+      "published": "2026-09-05T06:07:09",
+      "_id": "05a5923f28faf1e4",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+      "summary": "Just received an email about the automatic reference/citation checker. Did anyone receive a follow up email about whether the checker was included in the paper's decision making too, along with the general instructional email?submitted by/u/Emergency_Plate241[link][comments]",
+      "published": "2026-09-05T06:14:53",
+      "_id": "ad5bf302ad1b9ade",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "What is the general design of these new math solving systems? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+      "summary": "From what I've seen online so far, the description of these systems is roughly:They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked. Based on the results of attempting the LEAN compilation, they somehow add those statements as fact. When the full proof in LEAN compiles, the system is finished.I can imagine trying to jam as much of a proof as possible into the context window but some of the papers these systems have produced are hundreds of pages. To me this would indicate that somehow the paper is being built piece by piece and being assembled before being submitted to LEAN. This resonates with the part of my understanding that after checking LEAN compilation there's some kind of management of \"facts.\"I would like to try to implement my own janky version and see if it can answer a question I have about higher dimensional geometry. I'm struggling to find a meaningful way to compose larger ideas from smaller ones. I can imagine it's relatively simple if you know what to do.What things have you seen? Do you have any ideas you haven't seen that might be interesting to try? Is this a fool's errand because you really need huge amounts of hardware to do anything meaningful? I would welcome any thoughts or links on the matter, cheerssubmitted by/u/tough-dance[link][comments]",
+      "published": "2026-09-04T20:55:18",
+      "_id": "47eab299d5826a04",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2609.02981",
+      "summary": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital textbook, the proposed system increased the unit completion accuracy from 72.4% to 84.9%, raised the average score for speaking tasks by 10.8 points, and reduced the teacher's correction time by 31.6%. Therefore, an AI-driven textbook can maintain the stability of the curriculum while providing personalised learning paths, rich practice materials and traceable classroom data.",
+      "published": "2026-09-05T04:00:00",
+      "_id": "9e01ce34599b2047",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "MasterControl Seventeen Every Time",
+      "link": "https://arxiv.org/abs/2609.03209",
+      "summary": "arXiv:2609.03209v1 Announce Type: new \nAbstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, while Qwen3-8B interpreted intent only and policy executed the approved program. None of 330 runtime-planning episodes matched the full answer-and-evidence contract across all test datasets; the policy-executed analyzer matched 110 of 110. This is a configuration-specific result, not evidence that runtime agents cannot succeed under other designs.",
+      "published": "2026-09-05T04:00:00",
+      "_id": "eab80780abedb3a0",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2609.03236",
+      "summary": "arXiv:2609.03236v1 Announce Type: new \nAbstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action skeletons from training traces and stores them in a macro library used to match against action chains predicted by the drafter at runtime. When the actor's next tool call matches the first drafted action, SMC commits the remaining pre-executed draft steps, together with their observations, to the official trajectory. Using Qwen3.5-27B INT4 as the authoritative actor model and Qwen3.5-4B as the speculative drafter model, SMC matches the sequential agent's overall accuracy while reducing latency by 10.23\\% over the Speculative Actions (SA) baseline and 18.59\\% over sequential execution on the $\\tau^2$-Bench Telecom subset. On AppWorld, SMC reduces wall time by 7.7\\% over SA baseline and 44.9\\% over sequential execution, with a small reduction in task completion. Overall, SMC provides a practical way to reuse multi-step speculative execution and reduce agent latency beyond single-step speculative actions. Our code is publicly available \\href{https://github.com/zeyuliu1037/speculative-macro-commit}{\\textcolor{magenta}{here}}.",
+      "published": "2026-09-05T04:00:00",
+      "_id": "1ad1eb866511b540",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "link": "https://arxiv.org/abs/2609.03340",
+      "summary": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the records that can affect the pending external action, replanning once or blocking when validation is incomplete. In 30 controlled live workflows with a post-plan revision, a freshness-only executor acts on the obsolete plan in every task, whereas PlanFence completes all tasks without an invalid action. Controlled replay reveals two conditional boundaries: proactive synchronization yields lower coordination stall at low churn, while PlanFence avoids repeated update-path coordination as churn grows and avoids validating unrelated state as the shared keyspace grows. These are controlled safety and systems-cost results, not general task-accuracy gains.",
+      "published": "2026-09-05T04:00:00",
+      "_id": "c59feb542f8f1a74",
+      "_scraped_at": "14:48"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "link": "https://arxiv.org/abs/2609.03402",
+      "summary": "arXiv:2609.03402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework adapts responses using six learner-specific dimensions: self-assessment, abstraction preference, verbosity preference, perceptual orientation, information processing style, and level of understanding, yielding 96 distinct learner profiles. Student queries are additionally analyzed using Bloom's Taxonomy to estimate cognitive complexity at the interaction level. Learner attributes and cognitive assessments are encoded in structured prompts that condition the LLM without requiring model retraining. The framework is evaluated through experiments using NLP metrics and a human study with five participants. Results show perceived differences in response style and structure across personalization conditions, with statistical analyses identifying learner attributes associated with measurable response changes. These findings provide preliminary evidence that prompt-based personalization can support adaptive behavior in LLM-powered educational agents.",
+      "published": "2026-09-05T04:00:00",
+      "_id": "fa45b8266bdf6cb4",
+      "_scraped_at": "14:48"
+    }
+  ],
+  "seen_ids": [
+    "1ad1eb866511b540",
+    "ffccace0ba14fd15",
+    "c7bac135042a53c6",
+    "5b13087810689101",
+    "742cf6e98adedcf1",
+    "f60d7bb6db5c87d1",
+    "637c99109af31ed2",
+    "ec2b8bd43eefd65f",
+    "70d9a07f92e25458",
+    "eab80780abedb3a0",
+    "ac4ec989a2a725db",
+    "1d7f906be01d4424",
+    "05a5923f28faf1e4",
+    "218dd7926faaaa5b",
+    "e870d219d769fc5a",
+    "c34a327604b5be4a",
+    "9e01ce34599b2047",
+    "fa45b8266bdf6cb4",
+    "35305757066a6f71",
+    "3d056644792d44a8",
+    "e703320cbb435bbd",
+    "8ed1599eb95bc766",
+    "abeda7a8c1e1307f",
+    "de0577c71825884c",
+    "234d1f722727c86c",
+    "f479be88947f9a61",
+    "47eab299d5826a04",
+    "ccaa3238a9e12479",
+    "d94610ea6050df07",
+    "edb3a626875732de",
+    "0c6009cf40693d37",
+    "38c3408d933af173",
+    "82a901da1b9bedec",
+    "5427d679c7eaa44b",
+    "e68246067eeddf6e",
+    "fc8b777bd4955741",
+    "9c939c7199afd9a6",
+    "ad5bf302ad1b9ade",
+    "a7a3a65935fc9627",
+    "b085c7f1762bfee8",
+    "85ed079974755641",
+    "817537e6d0579ab2",
+    "39ef2b5157f89d47",
+    "c59feb542f8f1a74",
+    "d7da0fb3d5ff6a40",
+    "46dd9d97b1a16658",
+    "772ec013400f9e75",
+    "c60b77ce50fb8910",
+    "d26be4db00d9b182",
+    "4ada135544e51e2e"
+  ],
+  "last_run": "14:48",
+  "run_count": 1
+}
