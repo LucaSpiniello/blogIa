@@ -1,0 +1,429 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "published": "2026-09-07T00:00:00",
+      "_id": "073b13b14ae0138b",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "OpenAI",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "published": "2026-09-06T09:00:00",
+      "_id": "e0f75446731d598c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "published": "2026-09-06T08:00:00",
+      "_id": "3784d7aba9718af9",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "Announcements Beneficial Deployments Previewing the Model Hardware Standard Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically takes a lab or manufacturing facility weeks, if not months, to set up and integrate their hardware. Most devices don’t communicate with each other, instead requiring specialists to build bespoke integrations. MHS reduces this integration work to hours or minutes. And by incorporating AI into these tools, MHS also helps researchers and engineers more readily orchestrate autonomous, round-the-clock experiments and workflows, with agents able to reason through each step in an experiment, update parameters in real time, and, in some cases, recover from hardware errors without intervention. We’re sharing an early version of MHS with partners across science, robotics, electronics, and manufacturing so we can collaborate to build safety evaluations and develop best practices for AI systems operating physical equipment, ahead of making the standard open source. MHS works with any device that has a programmable interface. It is also model-agnostic, and any agent harness can access it using standard protocols, such as the Model Context Protocol . To apply for access to the research preview, head here . How MHS works Before and after the Model Hardware Standard (MHS). Getting multiple devices in a lab or on a factory floor to communicate with one another can be challenging, even setting aside the added d",
+      "published": "",
+      "_id": "35305757066a6f71",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 14, 2026How Claude’s text watermark worksIn this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Announcements Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing process",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "published": "2026-09-06T20:47:37",
+      "_id": "973d060680473f7c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "published": "2026-09-06T16:45:00",
+      "_id": "36e2bba17c604c5d",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "The Verge",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+      "published": "2026-09-06T23:36:04",
+      "_id": "d5c736f2ff6288d2",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+      "published": "2026-09-07T12:10:00",
+      "_id": "b12a8e728183bf2c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Wired",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "published": "2026-09-07T10:30:00",
+      "_id": "51c7e6945ba1f84f",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Wired",
+      "title": "My Brief Summer Fling With Siri AI",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "published": "2026-09-06T10:30:00",
+      "_id": "261bc314729ce352",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Wired",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "published": "2026-09-06T10:00:00",
+      "_id": "d5b8d11769dce892",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "heygen-com /hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "summary": "Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding agents with skills, or as the rendering core behind hosted authoring workflows. Quick Start With an AI coding agent Install the HyperFrames skills, then describe the video you want: npx skills add heygen-com/hyperframes The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs should use npx hyperframes skills update instead — it installs exactly the core set, whereas skills add --all installs every SKILL.md in the repo — the 20 published skills plus six repo-internal ones under .claude/skills / .agents/skills . For the full published set use npx hyperframes skills . skills add resolves the skills.sh registry blob, which can lag main by hours. npx hyperframes skills update installs from the current main , so reach for it when you need the newest copy of a skill. Try a prompt like: Using /hyperframes , create a 10-second product intro with a fade-in title, a background video, and subtle background music. The skills teach agents the HyperFrames production loop: plan the video, write valid HTML, wire seekable animations, add media, lint, preview, and render. They work with Claude Code, Cursor, Gemini CLI, Codex, and other coding agents that support skills. Skills HyperFrames ships 20 skills agents load on demand. Read /hyperframes first — it's the router and capability map; it picks a workflow for any \"make me a…\" request — video, deck, or composition port — and points to the domain skills below. Default to the core set — the router installs each creation workflow on demand. npx hyperframes skills update installs exactly that from anywhere; the interactive picker ( npx skills ",
+      "published": "",
+      "_id": "6e18aa23e1f0d144",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "summary": "MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest convert_* function needed for your use case (e.g., convert_stream() , or convert_local() ). See the Security Considerations section of the documentation for more information. MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparable to textract , but with a focus on preserving important document structure and content as Markdown (including: headings, lists, tables, links, etc.) While the output is often reasonably presentable and human-friendly, it is meant to be consumed by text analysis tools -- and may not be the best option for high-fidelity document conversions for human consumption. MarkItDown currently supports the conversion from: PDF PowerPoint Word Excel Images (EXIF metadata and OCR) Audio (EXIF metadata and speech transcription) HTML Text-based formats (CSV, JSON, XML) ZIP files (iterates over contents) YouTube URLs EPubs ... and more! Why Markdown? Markdown is extremely close to plain text, with minimal markup or formatting, but still\nprovides a way to represent important document structure. Mainstream LLMs, such as\nOpenAI's GPT-4o, natively \" speak \" Markdown, and often incorporate Markdown into their\nresponses unprompted. This suggests that they have been trained on vast amounts of\nMarkdown-formatted text, and understand it well. As a side benefit, Markdown conventions\nare also highly token-efficient. Prerequisites MarkItDown requires Python 3.10 or higher. It is recommended to use a virtual environment to avoid dependency conflicts. With the standard Python installation, you can create and activate a virtual environment using the following commands: python -m venv .venv source .venv/bin/ac",
+      "published": "",
+      "_id": "dec36f96df8d997b",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "mksglu /context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "summary": "Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log — 45 KB. After 30 minutes, 40% of your context is gone. And when the agent compacts the conversation to free space, it forgets which files it was editing, what tasks are in progress, and what you last asked for. On top of that, the agent wastes output tokens on filler, pleasantries, and verbose explanations — burning context from both sides. How Context Mode Solves It Context Mode is an MCP server that solves all four sides of this problem: Context Saving — Sandbox tools keep raw data out of the context window. 315 KB becomes 5.4 KB. 98% reduction. Session Continuity — Every file edit, git operation, task, error, and user decision is tracked in SQLite. When the conversation compacts, context-mode doesn't dump this data back into context — it indexes events into FTS5 and retrieves only what's relevant via BM25 search. The model picks up exactly where you left off. If you don't --continue , previous session data is deleted immediately — a fresh session means a clean slate. Think in Code — The LLM should program the analysis, not compute it. Instead of reading 50 files into context to count functions, the agent writes a script that does the counting and console.log() s only the result. One script replaces ten tool calls and saves 100x context. This is a mandatory paradigm across all 17 supported clients, plus the OpenClaw gateway integration: stop treating the LLM as a data processor, treat it as a code generator. // Before: 47 × Read() = 700 KB.  After: 1 × ctx_execute() = 3.6 KB. ctx_execute ( \"javascript\" , ` const files = fs.readdirSync('src').filter(f => f.endsWith('.ts')); files.forEach(f => console.log(f + ': ' + fs.readFileSync('src/'+f,'utf8').split('\\\\n').length + ' lines')); ` ) ; No prose-style enforcement — context-mode keeps raw d",
+      "published": "",
+      "_id": "cfe6b1639c3c3094",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "jo-inc /camofox-browser",
+      "link": "https://github.com/jo-inc/camofox-browser",
+      "summary": "camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Firefox fork with fingerprint spoofing at the C++ level. Built by the team behind jo, a personal AI agent that runs half on your Mac, half on a dedicated cloud machine just for you -- with zero maintenance needed. Available on macOS, Telegram, WhatsApp, and email. Try the beta free -> git clone https://github.com/jo-inc/camofox-browser && cd camofox-browser\nnpm install && npm start # -> http://localhost:9377 Why AI agents need to browse the real web. Playwright gets blocked. Headless Chrome gets fingerprinted. Stealth plugins become the fingerprint. Camoufox patches Firefox at the C++ implementation level - navigator.hardwareConcurrency , WebGL renderers, AudioContext, screen geometry, WebRTC - all spoofed before JavaScript ever sees them. No shims, no wrappers, no tells. This project wraps that engine in a REST API built for agents: accessibility snapshots instead of bloated HTML, stable element refs for clicking, and search macros for common sites. Features C++ Anti-Detection - bypasses Google, Cloudflare, and most bot detection Element Refs - stable e1 , e2 , e3 identifiers for reliable interaction Token-Efficient - accessibility snapshots are ~90% smaller than raw HTML Runs on Anything - lazy browser launch + idle shutdown keeps memory at ~40MB when idle. Designed to share a box with the rest of your stack -- Raspberry Pi, $5 VPS, shared infra. Session Isolation - separate cookies/storage per user Cookie Import - inject Netscape-format cookie files for authenticated browsing File Upload - attach files from a configured upload directory without a native OS dialog Proxy + GeoIP - route traffic through residential proxies with automatic locale/timezone Structured Logging - JSON log lines with request IDs for production observability YouTube Transcripts - extract captions from any YouTube video via yt-dlp, no API key needed Search Macros ",
+      "published": "",
+      "_id": "05a714c235432447",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "MoonTechLab /LunaTV",
+      "link": "https://github.com/MoonTechLab/LunaTV",
+      "summary": "MoonTV 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 ✨ 功能特性 🔍 多源聚合搜索 ：一次搜索立刻返回全源结果。 📄 丰富详情页 ：支持剧集列表、演员、年份、简介等完整信息展示。 ▶️ 流畅在线播放 ：集成 HLS.js & ArtPlayer。 ❤️ 收藏 + 继续观看 ：支持 Kvrocks/Redis/Upstash 存储，多端同步进度。 📱 PWA ：离线缓存、安装到桌面/主屏，移动端原生体验。 🌗 响应式布局 ：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。 👿 智能去广告 ：自动跳过视频中的切片广告（实验性）。 注意：部署后项目为空壳项目，无内置播放源和直播源，需要自行收集 点击查看项目截图 请不要在 B站、小红书、微信公众号、抖音、今日头条或其他中国大陆社交平台发布视频或文章宣传本项目，不授权任何“科技周刊/月刊”类项目或站点收录本项目。 🗺 目录 技术栈 部署 一键部署 Docker 部署 配置文件 订阅 自动更新 环境变量 客户端 AndroidTV 使用 Roadmap 安全与隐私提醒 License 致谢 技术栈 分类 主要依赖 前端框架 Next.js 14 · App Router UI & 样式 Tailwind CSS 3 语言 TypeScript 4 播放器 ArtPlayer · HLS.js 代码质量 ESLint · Prettier · Jest 部署 Docker 部署 本项目 仅支持 Docker 或其他基于 Docker 的平台 部署。 zeabur 一键部署 点击下方按钮即可一键部署，自动配置 LunaTV + Kvrocks 数据库： 优势 ： ✅ 无需配置，一键启动（自动部署完整环境） ✅ 自动 HTTPS 和全球 CDN 加速 ✅ 持久化存储，数据永不丢失 ✅ 免费额度足够个人使用 ⚠️ 重要提示 ：部署完成后，需要在 Zeabur 中为 LunaTV 服务设置访问域名（Domain）才能在浏览器中访问。详见下方 设置访问域名 步骤。 Kvrocks 存储（推荐） services : moontv-core : image : ghcr.io/moontechlab/lunatv:latest container_name : moontv-core restart : on-failure ports :\n      - ' 3000:3000 ' environment :\n      - USERNAME=admin - PASSWORD=admin_password - NEXT_PUBLIC_STORAGE_TYPE=kvrocks - KVROCKS_URL=redis://moontv-kvrocks:6666 networks :\n      - moontv-network depends_on :\n      - moontv-kvrocks moontv-kvrocks : image : apache/kvrocks container_name : moontv-kvrocks restart : unless-stopped volumes :\n      - kvrocks-data:/var/lib/kvrocks networks :\n      - moontv-network networks : moontv-network : driver : bridge volumes : kvrocks-data : Redis 存储（有一定的丢数据风险） services : moontv-core : image : ghcr.io/moontechlab/lunatv:latest container_name : moontv-core restart : on-failure ports :\n      - ' 3000:3000 ' environment :\n      - USERNAME=admin - PASSWORD=admin_password - NEXT_PUBLIC_STORAGE_TYPE=redis - REDIS_URL=redis://moontv-redis:6379 networks :\n      - moontv-network depends_on :\n      - moontv-redis moontv-redis : image : redis:alpine containe",
+      "published": "",
+      "_id": "433b95c03b7ba2e9",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m /ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "summary": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-universal and ecc-agentshield , the GitHub App , the plugin slug ecc@ecc , and the project website ecc.tools . Third-party re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Run the canonical guided setup from your terminal: npx ecc-universal setup If npm reports a version or cache error, confirm the registry version before retrying: npm view ecc-universal version This path requires Node.js 18 or newer, Git, and Claude Code 2.1 or newer on PATH . It safely installs, updates, or moves one ecc@ecc plugin scope and\nrecords the hook profile you choose. Alternatively, run Claude Code's native plugin commands inside Claude Code: /plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc The native path installs ECC's skills, agents, commands, and plugin-managed hooks. If you choose it, stop there. Do not also run a full manual install into Claude Code. Both paths install the same ecc@ecc plugin. Choose one and do not stack\nanother manual Claude install on top. ECC Pro + GitHub App Install free · Private repos from $19/seat/mo Sponsor ECC Fund the open-source project Community Discord · Q&A · Show and Tell OSS stays free. This repo is MIT-licensed forever. ECC Pro is the hosted GitHub App for private repos. Sponsors and Pro subscribers fund the work. That's why a single maintainer ships weekly across 7 harnesses. Partners & sponsors Community sponsors: Mike Morgan · @jasonwu513 · @1anter · @massimotodaro · @meadmccabe Become a Sponsor · Sponsor Tiers · Sponsorship Program Jump to install ↓ ECC Your agent can write code, but ECC gives it a coordinated engineering system and toolbox: it plans before it bu",
+      "published": "",
+      "_id": "edb3a626875732de",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "coreyhaines31 /marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the Agent Skills spec . Built by Corey Haines . Need hands-on help? Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files . Want to get dangerously good at using AI for marketing? Check out AI Marketing Training . Want an autonomous AI agent that uses these skills to be your CMO? Try Magister . New to the terminal and coding agents? Check out the companion guide Coding for Marketers . Contributions welcome! Found a way to improve a skill or have a new one to add? Open a PR . Run into a problem or have a question? Open an issue — we're happy to help. Partners The library is free and MIT-licensed. Verified Partners fund the work — vetted, disclosed tool integrations, listed alongside the neutral options and never influencing what the core skills recommend. The full rules and boundaries are in tools/PARTNERS.md . Become a partner → ◆ Converly — Conversion tracking / attribution. Server-side conversion tracking that fires when someone submits a form, books a meeting, or starts a chat — passing click IDs and identifiers for Enhanced Conversions (Google) and high EMQ match rates (Meta), across 100+ tools. CLI + MCP so your agent sets it up in minutes. → Integration guide ◆ Ploy — AI website & growth platform. AI marketing platform built around a Webflow-grade website builder — site optimization, SEO/AEO, visitor identification, and ad creative in one, with WebMCP to expose site actions to AI assistants. → Integration guide What are Skills? Skills are markdown files that give AI agents specialized knowledge and workflows for spe",
+      "published": "",
+      "_id": "8bf41c2345f4ad80",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "The-Swarm-Corporation /AutoHedge",
+      "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "summary": "AutoHedge AutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized AI agents to perform end-to-end market analysis, risk management, and execution with minimal human intervention. Current support: Full autonomous trading on Solana. Coming soon: Coinbase and additional exchanges. Overview AutoHedge is built to be the world's most powerful autonomous agent hedge fund. It runs continuous analysis, generates and validates trading theses, sizes risk, and executes orders across supported venues. The system is designed for institutional reliability: structured outputs, comprehensive logging, and a risk-first architecture that scales from single strategies to multi-venue, multi-asset deployment. Features Multi-Agent Architecture : Specialized agents for each stage of the trading pipeline Director Agent: strategy and thesis generation Quant Agent: technical and statistical analysis Risk Management Agent: position sizing and risk assessment Execution Agent: order generation and execution Real-Time Market Analysis : Integration with live market data for analysis and execution Risk-First Design : Built-in risk management and position sizing before any execution Structured Output : JSON-formatted recommendations and analysis for downstream systems Enterprise Logging : Detailed, configurable logging for audit and debugging Extensible Framework : Modular design for custom strategies and new venues Supported Venues Venue Status Notes Solana Supported Full autonomous trading Coinbase Coming soon In development Other CEX Roadmap Planned expansion Quick Start Installation pip install -U autohedge Environment Variables # Jupiter API (token price & search tools) # Get a key at https://portal.jup.ag JUPITER_API_KEY= # OpenAI (experimental agents) OPENAI_API_KEY=\nANTHROPIC_API_KEY=\nWORKSPACE_DIR= \" agent_workspace \" # Trading WALLET_PRIVATE_KEY= \" \" See .env.example for a full reference. Basic Usage autohedge A",
+      "published": "",
+      "_id": "c1ca66b2cea143ab",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "BraveOPotato /FckSignups",
+      "link": "https://github.com/BraveOPotato/FckSignups",
+      "summary": "NoSignups (formerly FckSignups) Open Source Tools. Zero Bullsh*t. A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work. What is this? NoSignups is a React + TypeScript project. If you want to run it locally, simply clone the repo, install the depedencies, and run the server. Here's a command that would do all the previous steps in one go: git clone https://github.com/BraveOPotato/FckSignups.git && \\ cd FckSignups && \\\nnpm install && \\\nnpm run dev Philosophy We believe We reject Tools should work immediately Forced registration walls Your data belongs to you Data harvesting and tracking Open source is the default Proprietary black boxes Simple is better Bloat and unnecessary complexity Tool schema Field Required Description id Yes URL-friendly unique identifier name Yes Display name description Yes One-sentence summary url Yes Direct link to the tool category Yes Must match a category id tags No Array of searchable keywords github No Link to source repository license No SPDX license identifier stars No GitHub star count (for display) featured No Boolean; pins to top notRecommendedReason No Reason why the entry isn't recommended Categories The default categories are: ID Name Icon all All ◈ productivity Productivity ⚡ design Design & Graphics 🎨 development Development 💻 writing Writing & Docs ✍️ privacy Privacy 🔒 utilities Utilities 🛠️ data Data & Analytics 📊 media Media 🎬 education Education 🎓 Contributing Contribution guidelines The tool must work without creating an account Keep descriptions under 140 characters Use 3-5 relevant tags per tool Use the following link to add a tool you found/made or simply use the \"SUBMIT A TOOL\" button on the website. Discussions If you'd like to voice your opinion, we have a community on reddit r/fucksignups . Don't be afraid to critique. Featured Why are some tools featured? It's simple. We're at 200+ tools, and a lot of them are similar. To break ",
+      "published": "",
+      "_id": "2f9e2e96849fd12f",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "GitHub",
+      "title": "bytedance /deer-flow",
+      "link": "https://github.com/bytedance/deer-flow",
+      "summary": "🦌 DeerFlow - 2.0 English | 中文 | 日本語 | Français | Русский On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow ( D eep E xploration and E fficient R esearch Flow ) is an open-source super agent harness that orchestrates sub-agents , memory , and sandboxes to do almost anything — powered by extensible skills . deer-flow-720p.mp4 Note DeerFlow 2.0 is a ground-up rewrite. It shares no code with v1. If you're looking for the original Deep Research framework, it's maintained on the 1.x branch — contributions there are still welcome. Active development has moved to 2.0. Official Website Learn more and see real demos on our official website .\nThe landing-page case studies open as allowlisted, read-only showcases without requiring a sign-in. Sister Projects LLM Space - Meet our secret weapon behind DeerFlow — one desktop tool to prototype agent ideas, inspect each harness step, replay failures, and benchmark performance. Coding Plan from ByteDance Volcengine We strongly recommend using Doubao-Seed-2.0-Code, DeepSeek v3.2 and Kimi 2.5 to run DeerFlow Learn more 中国大陆地区的开发者请点击这里 InfoQuest DeerFlow has newly integrated the intelligent search and crawling toolset independently developed by BytePlus-- InfoQuest (supports free online experience) Table of Contents 🦌 DeerFlow - 2.0 Official Website Coding Plan from ByteDance Volcengine InfoQuest Table of Contents One-Line Agent Setup Quick Start Configuration Running the Application Deployment Sizing Option 1: Docker (Recommended) Option 2: Local Development Advanced Sandbox Mode MCP Server IM Channels LangSmith Tracing Langfuse Tracing Monocle Tracing Using Multiple Providers Personal Access Tokens From Deep Research to Super Agent Harness Core Features Skills & Tools Claude Code Integration Session Goals Manual Context Compaction Sub-Agents Sandbox & File System Context Engineering Long-Term Memor",
+      "published": "",
+      "_id": "16389f32495280ea",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "Article URL:https://github.com/timgordontg/engrimComments URL:https://news.ycombinator.com/item?id=49594008Points: 76# Comments: 41",
+      "published": "2026-09-07T04:49:36",
+      "_id": "3c53f36a7a7ec1e4",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I refused to train the AI that could replace me",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "Article URL:https://restofworld.org/2026/ai-training-jobs-expert-replacement/Comments URL:https://news.ycombinator.com/item?id=49593959Points: 88# Comments: 103",
+      "published": "2026-09-07T04:38:22",
+      "_id": "eab61dc2eb940621",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How I feel about AI",
+      "link": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "summary": "Article URL:https://beza1e1.tuxen.de/ai_feelings.htmlComments URL:https://news.ycombinator.com/item?id=49587128Points: 162# Comments: 256",
+      "published": "2026-09-06T15:00:19",
+      "_id": "f8e9d93c60f5ebb6",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "Article URL:https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/Comments URL:https://news.ycombinator.com/item?id=49585644Points: 690# Comments: 422",
+      "published": "2026-09-06T11:56:43",
+      "_id": "d0e645f9ae1a95ae",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+      "summary": "Hi everyone! We just released Rustuna (GitHub:https://github.com/optuna/rustuna/), a high-speed, memory-efficient implementation of Optuna built in Rust.Optuna-Compatible Design:Keeps the familiar API and concept of Optuna.Zero Python Dependencies:Mitigating the risk of supply chain attacks.Lower Memory Footprint:Optimized memory management natively in Rust.For details, please check out the following blog post.https://medium.com/optuna/announcing-rustuna-cc82a6815bf7submitted by/u/c-bata[link][comments]",
+      "published": "2026-09-07T10:01:24",
+      "_id": "528e4909bf714f2c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "KV cache as an agent runtime [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+      "summary": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems.One of the team members wrote up a post about it:https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtimeThe post sums up the overall idea of modifying models inference state (KV-cache) for achieving a more interactive LLMs. This idea was used in our lab's previous papersHogwild! Inference, andAsyncReasoning, the post also contains a preview of the future work in this direction, where a Qwen3.8-27B agent is playing a DOOM env interactively using similar techniques.We think that its interesting whether model inference/runtime design is itself an under-explored axis of agent capabilities, alongside models and the harness (e.g. harness is too abstract, changing model is too costly, do we need something in between?)submitted by/u/_puhsu[link][comments]",
+      "published": "2026-09-07T09:03:48",
+      "_id": "14e8a8853bde6b37",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+      "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons:Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. You truly have no idea if the experiment can be reproduced and have to trust the demo. But demos are not perfectly reliable. Plus people are incentivized to only show the part of the demo that works. The entire system can fall apart the moment the recording stops.You have big AI companies releasing various tools, which they claim to solve a host of problems with certain amount of accuracy or efficiency. Unless you work at those companies there is really no proof of that and you will have to take their words on it. They have strong financial incentive to blow-up those figures. There is no solid way to check it either because the problem that they solve are so vague and subjective.We need to address the elephant in the room which is that people are incentivized to produce non-reproducible work to prevent their lunch being eaten by their competitors or looking bad. That's why some of us will probably never get a reply when we email the authors for their code.So what now? Maybe everything will be OK because we can contrast it with scientific progress in earlier parts of history, e.g., building the atomic bomb or sending people to the moon. These projects had low \"outside reproducibility\" but high \"internal reproducibility\". Plus all these work were mathematical in nature and carefully checked. But I don't think many areas of machine learning research is like that. What do you think? Should reproducibility be abandoned? If not how is it best implemented going forward?submitted by/u/NeighborhoodFatCat[link][comments]",
+      "published": "2026-09-06T17:29:39",
+      "_id": "de45684fb9e27716",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "EXAONE Forecast for Finance",
+      "link": "https://arxiv.org/abs/2609.04239",
+      "summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. However, they are primarily developed for general-domain TS and largely rely on self-attention backbones whose computational cost grows quadratically with sequence length and variate count. Moreover, they assume fully observed inputs and are pretrained on corpora that fail to capture the unique dynamics of financial markets. These limitations hinder their applicability to finance, where long, many-channel, intermittently observed panels are common. To address these challenges, EXAONE Finance adopts an attention-free architecture, replacing self-attention with two simple yet effective linear-time operators: 1) a causal 1D convolution for temporal mixing and 2) a group-aware pooling multi-layer perceptron (MLP) for variate mixing. Furthermore, a masked context augmentation exposes the model to contiguous missing spans during training, improving robustness to the missingness pervasive in financial markets. EXAONE Finance is pretrained on a large-scale financial corpus covering not only equities but also foreign exchange, commodities, crypto-assets, fixed income, and macroeconomic indicators. On FinVerse, a financial forecasting benchmark covering diverse asset classes, EXAONE Finance attains state-of-the-art performance, ranking first across all three evaluation tiers---point-forecast accuracy, cross-sectional asset ranking, and portfolio profitability.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "85ec8233e9b09723",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "link": "https://arxiv.org/abs/2609.04286",
+      "summary": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and behavioral ranking through neural person--job matching, large language model (LLM) components, and tool-using recruiting agents. Using a purposive search and coding protocol updated through 23 July 2026, plus targeted updates through 2 September 2026, we organize 40 representative works with supporting industrial and legal sources. This synthesis is not a prevalence estimate. We analyze three coupled transitions: from similarity to reciprocal suitability, from a model to a compound workflow, and from offline prediction to evidence- and productivity-aligned evaluation. Across document understanding, retrieval, ranking, assessment, interviewing, sourcing, and human handoff, we distinguish field-, pair-, list-, case-, trajectory-, and outcome-level evidence. Persistent gaps arise because behavioral labels confound exposure, preference, and qualification; private and synthetic data limit external validity; final-output scores conceal pipeline failures; and, within the coded set, privacy is not directly evaluated and no row jointly evaluates utility, fairness, privacy, and security. These observations describe the coded set rather than the field as a whole. We therefore introduce a staged mapping from evaluation evidence to the strongest defensible claim, together with an agenda for reciprocal, evidence-grounded, temporally controlled, selective, and auditable systems. Progress should be judged by whether workflows retrieve the right evidence, preserve uncertainty, support contestable decisions, and improve outcomes under explicit cost and risk constraints.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "d194bd04836e625a",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "link": "https://arxiv.org/abs/2609.04298",
+      "summary": "arXiv:2609.04298v1 Announce Type: new \nAbstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three contributions. First, we develop benchmark adapters that port more than 80 benchmarks to evaluate arbitrary agents, and validate them through rigorous code review and parity experiments. Second, we conduct a large-scale evaluation of 8 models spanning capability tiers across 54 benchmarks; every model is run with Terminus-2 and with one of 3 native harnesses. This enables a broader analysis of agent capabilities and failure modes than was previously possible. Third, we introduce Harbor-Index, a curated set of 82 difficult, diverse, and high-quality tasks spanning 29 benchmarks, refined from the adapted suite through difficulty filtering, AI and human audit, and an audit-and-fix loop. Harbor-Index preserves the challenge and breadth of large-scale agentic evaluations while being affordable to run; no evaluated model-harness configuration exceeds 30% pass rate, and the strongest (GPT-5.5 with Codex) reaches 28.0%. We release the adapters, evaluation results, in-depth analysis, and Harbor-Index as open-source artifacts to support more reliable and comprehensive evaluation of language-model agents.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "881b24d9bfd5bff7",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "link": "https://arxiv.org/abs/2609.04300",
+      "summary": "arXiv:2609.04300v1 Announce Type: new \nAbstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdowns and failures. This study explores the use of machine learning algorithms to classify security levels of contingencies in power systems into safe, moderate or severe classes. For this approach, Newton-Raphson load flow method extracts system data from contingency scenarios, using Overall Performance Index (OPI) as safety measure. For data pre-processing, Synthetic Minority Over-Sampling Technique (SMOTE) and Principal Component Analysis (PCA) is used to address class imbalance and reduce dimensionality, respectively. K-Nearest Neighbours (KNN), Random Forest (RF) and Support Vector Machines (SVM) is trained and evaluated on datasets generated through N-k contingency scenarios for k equal 1, 2, and 3 on IEEE-14 and IEEE-30 bus systems using four hybrid pre-processing configurations: normalized, SMOTE-balanced, PCA-transformed, and a combined SMOTE PCA-transformed. Performance is assessed by precision, recall and F1 score, with priority given to the severe contingency classes. The RF achieved the highest F1 scores of 0.97 in IEEE-30 and 0.86 in IEEE-14, SVM benefits significantly from PCA and improves the accuracy of the classification, while KNN is best suited for SMOTE and PCA conversion. The findings show that PCA contributes more than SMOTE to the overall performance of the model. However, SMOTE improves recall but can introduce false positives and is therefore a compromise of accuracy. This study highlights machine learning as a scalable and powerful alternative to traditional contingency analysis, which improves the assessment of security in real time.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "c6328442c9f121f6",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Iris: Climbing to the Search Frontier",
+      "link": "https://arxiv.org/abs/2609.04304",
+      "summary": "arXiv:2609.04304v1 Announce Type: new \nAbstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by string matching, and admit only questions that a reference model fails closed-book yet solves once the supporting evidence is supplied. These questions are then turned into trajectories, which are filtered at both the trajectory and the turn level before SFT. The policy is then optimized by RL against live search, with the reward judge and the observation summarizer served inside the training cluster, and with over-long rollouts interrupted at the request level and resumed from their committed prefix at the next step. We alternate the two stages in a procedure we call SFT-RL climbing, returning the hardest solved and most efficient rollouts of each RL round to the next supervised pass. Because inference-time context management is worth more on these benchmarks than most reported differences between systems, we evaluate every benchmark both with and without it, holding the tool set, the context limit, and the judge fixed. All results come from a single ReAct agent, with no sub-agents and no test-time verification. With management enabled, on BrowseComp, BrowseComp-ZH, DeepSearchQA, and HLE the two models reach $82.2/84.8/86.9/52.3$ and $88.6/85.1/92.9/56.4$, the strongest overall results among open-source search agents in their respective parameter ranges. We plan to release the model weights together with the complete recipe for data construction, training, and evaluation.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "032557b1fba3aa9c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
+      "link": "https://arxiv.org/abs/2609.04223",
+      "summary": "arXiv:2609.04223v1 Announce Type: new \nAbstract: Dependency-distance estimates derived from a single corpus are routinely treated as properties of a language, yet this assumption has not been tested across independently compiled corpora. We compared mean dependency-distance estimates across 38 same-language treebank pairs from Universal Dependencies v2.18, using concordance correlation, Bland-Altman analysis, and a twelve-specification multiverse design. Cross-treebank agreement was moderate at best: substituting one treebank for another reversed nearly 40 percent of pairwise language orderings, and treebank choice accounted for roughly 29 percent of between-group variance. This disagreement substantially exceeded within-treebank sampling error and persisted across all twelve preprocessing specifications. Nevertheless, every treebank confirmed dependency-length minimization (normalized ratio below 1). The data are more consistent with MDD as a corpus-conditioned composite of grammatical, register, and annotation factors than as a stable language-level parameter: the qualitative DLM universal survives corpus substitution, but the ordinal cross-linguistic ranking does not.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "5239bcac567a892e",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Memory as transformation: LETHE, a self-referential gan-inspired architecture",
+      "link": "https://arxiv.org/abs/2609.04289",
+      "summary": "arXiv:2609.04289v1 Announce Type: new \nAbstract: LETHE (Latent-parameter Evolution with Temporal Hierarchical quasi-Equilibrium) is a self-referential sonic-oblivion system implemented in SuperCollider. It adopts the formal vocabulary of Generative Adversarial Networks in a closed configuration without external datasets or supervision after initialization. Audio is processed by a 3 x 3 mixing matrix built around two delay lines; its nine coefficients and two delay times evolve through the interaction of a five-feature linear discriminator and a random-perturbation optimizer analogous to single-sample REINFORCE. The discriminator compares current energy behavior with an archive of the initial state and guides parameter updates. Circular, fixed, and live sources can be mixed independently. Across fixed and circular sessions with an ablation control, the active generator is necessary for parametric evolution ($\\Delta c_{22}=0.000$ in all 15 ablation sessions). Situated in the tradition of self-referential electroacoustic music, LETHE delegates the sonic outcome to an adaptive closed loop whose parametric space is defined by the composer.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "b0f51b5ba3a1a8d6",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Evidence Integration in Large Language Models",
+      "link": "https://arxiv.org/abs/2609.04290",
+      "summary": "arXiv:2609.04290v1 Announce Type: new \nAbstract: Despite increasing reliance on LLMs that reason with external evidence supplied by tools, retrieval-augmented generation, other agents, and users, how LLMs integrate such evidence into decisions they have already begun to form remains largely unclear. We present a distributional theory in which evidence shifts the receiver's distribution of initial answers, driven by a receiver prior weight and a candidate evidence tilt, leading to three predictions. First, candidates more probable to the receiver are more persuasive. Second, receivers more readily integrate characteristic errors of their own than foreign errors from different sources. Third, identical evidence can improve weaker models and harm stronger ones. We confirm these over ten million trials, twelve LLMs from four families, and eight domains, four of them scientific discovery tasks in the physical and life sciences: quantum mechanics, physics, genetics, and molecular biology. The law also yields a receiver-relative reliability frontier: receiver-congruent errors depress performance more steeply than random errors of the same rate. LLMs also integrate candidates even after internally verifying their invalidity (93-100% with propositional constraints; up to 99.4% on held-out physical and life-sciences reasoning), demonstrating evidence integration is a receiver-specific control policy over existing distributions, determined by receiver properties rather than scalar trust in the evidence source. Causal interventions show candidate integration is implemented late in the network, as a structured sequence of steps admitting external candidate answers, promoting them, and transporting them into the answer state. Representations of verification are decodable but have little causal impact on answers. A J-lens decomposition shows the state underlying verbalized verification is fully dissociable from that underlying candidate integration.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "8e697fec8458bdfe",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "MedProb: Probing Internal Representations of Vision-Language Models for Medical Question Answering",
+      "link": "https://arxiv.org/abs/2609.04336",
+      "summary": "arXiv:2609.04336v1 Announce Type: new \nAbstract: Medical visual question answering (Med-VQA) is often assumed to require medical fine-tuning, large models, or complex multi-agent pipelines. We revisit this assumption with \\textbf{MedProb}, a lightweight probing framework that predicts multiple-choice Med-VQA answers from frozen VLM representations without free-text generation. Across PATH-VQA, SLAKE, and VQA-RAD, MedProb recovers substantially more answer-relevant signal than prompting and performs stronger than medical VLMs and agentic systems. Probing also reduces the apparent gap between small and large models compared to prompting, suggesting that smaller VLMs contain more recoverable Med-VQA signal than generation-based evaluation reveals. Across 14 matched general-purpose and medical VLM pairs, medical adaptation does not consistently improve this linear decodability. Finally, free-text generation exhibits an answer-position bias of up to 10 percentage points, whereas MedProb also has positional bias, however, it is impacted differently than prompting. Our main results target the multiple-choice/multiclass Med-VQA setting; we additionally show the probe can be extended to open-ended generation via a rejection-sampling scoring procedure.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "bb890387d1ccb15c",
+      "_scraped_at": "17:29"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Adapting from Downturns: Prediction of Long-Term Conversational-Skill Development in Mental-Health Crisis Counselors",
+      "link": "https://arxiv.org/abs/2609.04350",
+      "summary": "arXiv:2609.04350v1 Announce Type: new \nAbstract: How do people learn to become better conversationalists? This question is especially important in the context of mental-health counseling, where conversational skills are essential, yet volunteer counselors often have limited access to supervision and structured feedback. Understanding how counselors develop their ability to steer conversations toward positive outcomes -- and identifying early which counselors are (not) on track to improve -- can help prioritize support for the counselors who need it most.\n  In this work, we introduce the task of predicting, early in a conversationalist's career, whether they will eventually improve at steering conversations toward positive outcomes, and demonstrate the feasibility of this task in the case of volunteer mental-health crisis counselors. Our central insight is that people may struggle with particular kinds of moments in a conversation, and that what is especially revealing of their likelihood of future improvement is how they learn to handle those moments over time. We operationalize this insight by designing a method that identifies the types of moments a counselor initially struggles with, captures how they adapt their response when they re-encounter similar moments in subsequent conversations, and learns which early adaptations predict improvement months or even years later. While this future-prediction task is challenging, our counselor-adaptation approach yields better results than baselines that learn directly from the conversation transcript.",
+      "published": "2026-09-07T04:00:00",
+      "_id": "b0bf3022da0ae1f2",
+      "_scraped_at": "17:29"
+    }
+  ],
+  "seen_ids": [
+    "c6328442c9f121f6",
+    "edb3a626875732de",
+    "cfe6b1639c3c3094",
+    "16389f32495280ea",
+    "261bc314729ce352",
+    "6e18aa23e1f0d144",
+    "d5c736f2ff6288d2",
+    "85ec8233e9b09723",
+    "073b13b14ae0138b",
+    "973d060680473f7c",
+    "3c53f36a7a7ec1e4",
+    "36e2bba17c604c5d",
+    "433b95c03b7ba2e9",
+    "e68246067eeddf6e",
+    "d194bd04836e625a",
+    "d5b8d11769dce892",
+    "eab61dc2eb940621",
+    "3784d7aba9718af9",
+    "bb890387d1ccb15c",
+    "8bf41c2345f4ad80",
+    "5239bcac567a892e",
+    "e0f75446731d598c",
+    "51c7e6945ba1f84f",
+    "c34a327604b5be4a",
+    "881b24d9bfd5bff7",
+    "c1ca66b2cea143ab",
+    "8ed1599eb95bc766",
+    "f8e9d93c60f5ebb6",
+    "b0bf3022da0ae1f2",
+    "14e8a8853bde6b37",
+    "de45684fb9e27716",
+    "35305757066a6f71",
+    "2f9e2e96849fd12f",
+    "8e697fec8458bdfe",
+    "05a714c235432447",
+    "b0f51b5ba3a1a8d6",
+    "528e4909bf714f2c",
+    "d0e645f9ae1a95ae",
+    "b12a8e728183bf2c",
+    "032557b1fba3aa9c",
+    "dec36f96df8d997b",
+    "b085c7f1762bfee8"
+  ],
+  "last_run": "17:29",
+  "run_count": 1
+}
