@@ -1,0 +1,419 @@
+{
+  "date": "2026-09-08",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "published": "2026-09-08T13:00:00",
+      "_id": "a00fc889a2dd293b",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "published": "2026-09-08T00:00:00",
+      "_id": "4a36ea7ba6bb268a",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "summary": "",
+      "published": "2026-09-08T14:23:07",
+      "_id": "5cbcf08e288841ac",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 27, 2026Previewing the Model Hardware StandardWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "Announcements Beneficial Deployments Previewing the Model Hardware Standard Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically takes a lab or manufacturing facility weeks, if not months, to set up and integrate their hardware. Most devices don’t communicate with each other, instead requiring specialists to build bespoke integrations. MHS reduces this integration work to hours or minutes. And by incorporating AI into these tools, MHS also helps researchers and engineers more readily orchestrate autonomous, round-the-clock experiments and workflows, with agents able to reason through each step in an experiment, update parameters in real time, and, in some cases, recover from hardware errors without intervention. We’re sharing an early version of MHS with partners across science, robotics, electronics, and manufacturing so we can collaborate to build safety evaluations and develop best practices for AI systems operating physical equipment, ahead of making the standard open source. MHS works with any device that has a programmable interface. It is also model-agnostic, and any agent harness can access it using standard protocols, such as the Model Context Protocol . To apply for access to the research preview, head here . How MHS works Before and after the Model Hardware Standard (MHS). Getting multiple devices in a lab or on a factory floor to communicate with one another can be challenging, even setting aside the added d",
+      "published": "",
+      "_id": "35305757066a6f71",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 14, 2026How Claude’s text watermark worksIn this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Announcements How Claude’s text watermark works Aug 14, 2026 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The difference between watermarked and un-watermarked text will not be distinguishable to readers; Nothing is added to the text and there are no hidden characters; Watermarking doesn’t require extra tokens, and will not be more expensive; Watermarking carries no identifying information and can’t be traced to a specific person, organization, or chat; Watermarking won’t be specific to Claude. As of August 2, the EU requires AI providers serving its market to mark AI-generated content. Other major model developers have signed the same Code of Practice and will be implementing their own watermarks. What is watermarking? Large language models like Claude work by generating one word at a time. Each time the model decides on the next word, it chooses among a list of potential candidates, ultimately selecting the most sensible or likely based on the preceding text. Take the sentence “The weather today was cold and…”. The next word is very unlikely to be “sugary.” But it is quite likely to be “overcast” or “grey.” Under most circumstances, it doesn’t matter much to the reader which of these latter two words the model ultimately chooses—the meaning of the sentence is largely the same either way. In cases like this, the choice is settled by a random number. Watermarking uses low-stakes choices like these—which occur many times over a",
+      "published": "",
+      "_id": "e68246067eeddf6e",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "ProductJul 24, 2026Introducing Claude Opus 5Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Product Announcements Introducing Claude Opus 5 Jul 24, 2026 Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. The charts in this section show how performance changes according to the model’s effort setting, which customers can use to optimize for intelligence or conserve tokens for faster and cheaper results. Opus 5 excels on valuable software engineering tasks. For example, on Frontier-Bench v0.1, Opus 5 surpasses all other models, and more than doubles Opus 4.8’s performance at a lower cost per task. On CursorBench 3.2 , at max effort, the model performs within 0.5% of Fable 5’s peak score, but at half the cost per task; it also achieves greater performance at a given cost than all other models on high, xhigh, and max effort. Frontier-Bench v0.1 CursorBench AA Coding Agent Index We see similar results on knowledge work and problem-solving tasks. For example: On ARC-AGI 3 , an evaluation where the model has to solve novel problems, Opus 5’s score is three times as high as the next-best model. On Zapier AutomationBench , which measures whether models can complete business tasks from start to finish, Opus 5’s pass rate is around 1.5× the next-best model for the same cost per task. Even at its lowest effort setting, Opus 5 passes more tasks than any other model. On OSWorld 2.0 , a computer use benchmark, Opus 5 outperforms every other model at any given cost, surpassing Fable 5’s best result at just ",
+      "published": "",
+      "_id": "c34a327604b5be4a",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Announcements Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing process",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "published": "2026-09-08T14:17:48",
+      "_id": "eb5fea936a5e290a",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-09-07T19:24:00",
+      "_id": "8b8898d492e71416",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in […]",
+      "published": "2026-09-08T14:00:00",
+      "_id": "1a956c25f3b2e61c",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "The Verge",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking […]",
+      "published": "2026-09-08T13:00:00",
+      "_id": "df01e054bbeb985b",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
+      "published": "2026-09-08T12:10:00",
+      "_id": "34c1f3afcb3c850d",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.…",
+      "published": "2026-09-08T10:36:00",
+      "_id": "7a9120172ffe7d32",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+      "published": "2026-09-08T10:34:00",
+      "_id": "16673d70457dfb8b",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This founder is making cheaper, cleaner steel",
+      "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It…",
+      "published": "2026-09-08T10:33:00",
+      "_id": "49c3a3166ba8cc4b",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own…",
+      "published": "2026-09-08T10:32:00",
+      "_id": "2da3d71a361a273f",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Wired",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "published": "2026-09-07T10:30:00",
+      "_id": "51c7e6945ba1f84f",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "ayghri /i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "ADHD-friendly outputs. No ADHD diagnosis needed! 🇬🇧 · 🇨🇳 · 🇧🇷 · 🇯🇵 · 🇻🇳 · 🇰🇷 · 🇹🇭 Install Copy/paste into your CLI prompt: Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd, refer to the repo's AGENTS.md for instructions. Or 🔗 check the installation instructions . What it does A skill for your coding assistant that stops it from burying the answer. Action first. Steps numbered. No \"Hope this helps!\" What changes Before Great question! Let me think about this. Your auth flow has a few moving pieces: the middleware, the token verification, and the cookie handling. Looking at src/auth.ts , the verifyToken function (around lines 42-58) seems to be using an older jsonwebtoken API. One approach would be to update the package and rewrite that function. After making the change, you'd want to run the auth tests to confirm nothing breaks. By the way, you might also want to look at your dependency versions overall. Hope this helps! Let me know if you want to dig deeper. After Run npm install jsonwebtoken@latest , then edit src/auth.ts:42 . Open src/auth.ts Replace verifyToken (lines 42–58) with the snippet below Run npm test -- auth.spec.ts Next: paste the first failing line if any test fails. The rules 10 rules. Full text in SKILL.md . Lead with the next action. Number multi-step tasks. End with one concrete next step. Suppress tangents. Restate state every turn. Specific time estimates (minutes, not \"a bit\"). Make wins visible. Matter-of-fact errors. Cap lists at 5 items. No preamble. No recap. No closers. Tune it Fork, edit skills/i-have-adhd/SKILL.md , then swap your copy in: claude plugin uninstall i-have-adhd # drop the upstream copy first: claude plugin marketplace remove i-have-adhd # fork and upstream share both names claude plugin marketplace add < your-username > /i-have-adhd\nclaude plugin install i-have-adhd@i-have-adhd Restart Claude Code, then re-invoke /i-have-adhd . Credits Loosely based on The Adult ADHD Tool Kit by J. Russell Ram",
+      "published": "",
+      "_id": "46f3c1d6124190bd",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "cathrynlavery /diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more layout grammars — Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, and database schema. 39 editorial diagram types for Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io or Mermaid sources at a chosen format, size, and detail level. No Figma. No generic rounded boxes. No 30-minute color-picking sessions. Why I built it I write at littlemight.com (and run BestSelf.co on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram. So I built a Claude Code skill for it. Thirty-nine visual types, editorial quality, matches your brand in 60 seconds by reading your website. The highest-quality move is usually deletion. Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10. What it makes All 39 visual types ship in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency. Architecture Components + connections IT current-state Legacy landscape + modernization F",
+      "published": "",
+      "_id": "9c939c7199afd9a6",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "openai /skills",
+      "link": "https://github.com/openai/skills",
+      "summary": "Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way. This repository catalogs skills for use and distribution with Codex. Learn more: Using skills in Codex Create custom skills in Codex Agent Skills open standard Installing a skill Skills in .system are automatically installed in the latest version of Codex. To install curated or experimental skills, you can use the $skill-installer inside Codex. Curated skills can be installed by name (defaults to skills/.curated ): $skill-installer gh-address-comments For experimental skills, specify the skill folder. For example: $skill-installer install the create-plan skill from the .experimental folder Or provide the GitHub directory URL: $skill-installer install https://github.com/openai/skills/tree/main/skills/.experimental/create-plan After installing a skill, restart Codex to pick up new skills. License The license of an individual skill can be found directly inside the skill's directory inside the LICENSE.txt file.",
+      "published": "",
+      "_id": "2cc5eab13f08dcd3",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "affaan-m /ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "summary": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-universal and ecc-agentshield , the GitHub App , the plugin slug ecc@ecc , and the project website ecc.tools . Third-party re-uploads and unofficial mirrors are not maintained or reviewed by the project and may contain malware. Install with Claude Code Run the canonical guided setup from your terminal: npx ecc-universal setup If npm reports a version or cache error, confirm the registry version before retrying: npm view ecc-universal version This path requires Node.js 18 or newer, Git, and Claude Code 2.1 or newer on PATH . It safely installs, updates, or moves one ecc@ecc plugin scope and\nrecords the hook profile you choose. Alternatively, run Claude Code's native plugin commands inside Claude Code: /plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc The native path installs ECC's skills, agents, commands, and plugin-managed hooks. If you choose it, stop there. Do not also run a full manual install into Claude Code. Both paths install the same ecc@ecc plugin. Choose one and do not stack\nanother manual Claude install on top. ECC Pro + GitHub App Install free · Private repos from $19/seat/mo Sponsor ECC Fund the open-source project Community Discord · Q&A · Show and Tell OSS stays free. This repo is MIT-licensed forever. ECC Pro is the hosted GitHub App for private repos. Sponsors and Pro subscribers fund the work. That's why a single maintainer ships weekly across 7 harnesses. Partners & sponsors Community sponsors: Mike Morgan · @jasonwu513 · @1anter · @massimotodaro · @meadmccabe Become a Sponsor · Sponsor Tiers · Sponsorship Program Jump to install ↓ ECC Your agent can write code, but ECC gives it a coordinated engineering system and toolbox: it plans before it bu",
+      "published": "",
+      "_id": "edb3a626875732de",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "heygen-com /hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "summary": "Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding agents with skills, or as the rendering core behind hosted authoring workflows. Quick Start With an AI coding agent Install the HyperFrames skills, then describe the video you want: npx skills add heygen-com/hyperframes The picker opens with nothing pre-selected — the Core Skills group is all you need: the /hyperframes router installs each creation workflow on demand. Agents and non-interactive runs should use npx hyperframes skills update instead — it installs exactly the core set, whereas skills add --all installs every SKILL.md in the repo — the 20 published skills plus six repo-internal ones under .claude/skills / .agents/skills . For the full published set use npx hyperframes skills . skills add resolves the skills.sh registry blob, which can lag main by hours. npx hyperframes skills update installs from the current main , so reach for it when you need the newest copy of a skill. Try a prompt like: Using /hyperframes , create a 10-second product intro with a fade-in title, a background video, and subtle background music. The skills teach agents the HyperFrames production loop: plan the video, write valid HTML, wire seekable animations, add media, lint, preview, and render. They work with Claude Code, Cursor, Gemini CLI, Codex, and other coding agents that support skills. Skills HyperFrames ships 20 skills agents load on demand. Read /hyperframes first — it's the router and capability map; it picks a workflow for any \"make me a…\" request — video, deck, or composition port — and points to the domain skills below. Default to the core set — the router installs each creation workflow on demand. npx hyperframes skills update installs exactly that from anywhere; the interactive picker ( npx skills ",
+      "published": "",
+      "_id": "6e18aa23e1f0d144",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "coreyhaines31 /marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the Agent Skills spec . Built by Corey Haines . Need hands-on help? Check out Conversion Factory — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to Swipe Files . Want to get dangerously good at using AI for marketing? Check out AI Marketing Training . Want an autonomous AI agent that uses these skills to be your CMO? Try Magister . New to the terminal and coding agents? Check out the companion guide Coding for Marketers . Contributions welcome! Found a way to improve a skill or have a new one to add? Open a PR . Run into a problem or have a question? Open an issue — we're happy to help. Partners The library is free and MIT-licensed. Verified Partners fund the work — vetted, disclosed tool integrations, listed alongside the neutral options and never influencing what the core skills recommend. The full rules and boundaries are in tools/PARTNERS.md . Become a partner → ◆ Converly — Conversion tracking / attribution. Server-side conversion tracking that fires when someone submits a form, books a meeting, or starts a chat — passing click IDs and identifiers for Enhanced Conversions (Google) and high EMQ match rates (Meta), across 100+ tools. CLI + MCP so your agent sets it up in minutes. → Integration guide ◆ Ploy — AI website & growth platform. AI marketing platform built around a Webflow-grade website builder — site optimization, SEO/AEO, visitor identification, and ad creative in one, with WebMCP to expose site actions to AI assistants. → Integration guide What are Skills? Skills are markdown files that give AI agents specialized knowledge and workflows for spe",
+      "published": "",
+      "_id": "8bf41c2345f4ad80",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Hermes Agent The Basic Workflow Community What's Inside Philosophy Contributing Updating License Visual companion telemetry How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for your agent to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Commercial Services If you're using Superpowers in enterprise and could benefit from commercial support, additional tooling, or managed spending, please don't hesitate to drop us a line at sales@primeradiant.com . Installation Installation differs by harness. If you use more than one",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "multica-ai /andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. English | 简体中文 The Problems From Andrej's post: \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" \"They really like to overcomplicate code and APIs, bloat abstractions, don't clean up dead code... implement a bloated construction over 1000 lines when 100 would do.\" \"They still sometimes change/remove comments and code they don't sufficiently understand as side effects, even if orthogonal to the task.\" The Solution Four principles in one file that directly address these issues: Principle Addresses Think Before Coding Wrong assumptions, hidden confusion, missing tradeoffs Simplicity First Overcomplication, bloated abstractions Surgical Changes Orthogonal edits, touching code you shouldn't Goal-Driven Execution Leverage through tests-first, verifiable success criteria The Four Principles in Detail 1. Think Before Coding Don't assume. Don't hide confusion. Surface tradeoffs. LLMs often pick an interpretation silently and run with it. This principle forces explicit reasoning: State assumptions explicitly — If uncertain, ask rather than guess Present multiple interpretations — Don't pick silently when ambiguity exists Push back when warranted — If a simpler approach exists, say so Stop when confused — Name what's unclear and ask for clarification 2. Simplicity First Minimum code that solves the problem. Nothing speculative. Combat the tendency toward overengineering: No features beyond what was asked No abstractions for single-use code No \"flexibility\" or",
+      "published": "",
+      "_id": "ca6e9330cc1b2a53",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "microsoft /markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "summary": "MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest convert_* function needed for your use case (e.g., convert_stream() , or convert_local() ). See the Security Considerations section of the documentation for more information. MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparable to textract , but with a focus on preserving important document structure and content as Markdown (including: headings, lists, tables, links, etc.) While the output is often reasonably presentable and human-friendly, it is meant to be consumed by text analysis tools -- and may not be the best option for high-fidelity document conversions for human consumption. MarkItDown currently supports the conversion from: PDF PowerPoint Word Excel Images (EXIF metadata and OCR) Audio (EXIF metadata and speech transcription) HTML Text-based formats (CSV, JSON, XML) ZIP files (iterates over contents) YouTube URLs EPubs ... and more! Why Markdown? Markdown is extremely close to plain text, with minimal markup or formatting, but still\nprovides a way to represent important document structure. Mainstream LLMs, such as\nOpenAI's GPT-4o, natively \" speak \" Markdown, and often incorporate Markdown into their\nresponses unprompted. This suggests that they have been trained on vast amounts of\nMarkdown-formatted text, and understand it well. As a side benefit, Markdown conventions\nare also highly token-efficient. Prerequisites MarkItDown requires Python 3.10 or higher. It is recommended to use a virtual environment to avoid dependency conflicts. With the standard Python installation, you can create and activate a virtual environment using the following commands: python -m venv .venv source .venv/bin/ac",
+      "published": "",
+      "_id": "dec36f96df8d997b",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "GitHub",
+      "title": "jo-inc /camofox-browser",
+      "link": "https://github.com/jo-inc/camofox-browser",
+      "summary": "camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Firefox fork with fingerprint spoofing at the C++ level. Built by the team behind jo, a personal AI agent that runs half on your Mac, half on a dedicated cloud machine just for you -- with zero maintenance needed. Available on macOS, Telegram, WhatsApp, and email. Try the beta free -> git clone https://github.com/jo-inc/camofox-browser && cd camofox-browser\nnpm install && npm start # -> http://localhost:9377 Why AI agents need to browse the real web. Playwright gets blocked. Headless Chrome gets fingerprinted. Stealth plugins become the fingerprint. Camoufox patches Firefox at the C++ implementation level - navigator.hardwareConcurrency , WebGL renderers, AudioContext, screen geometry, WebRTC - all spoofed before JavaScript ever sees them. No shims, no wrappers, no tells. This project wraps that engine in a REST API built for agents: accessibility snapshots instead of bloated HTML, stable element refs for clicking, and search macros for common sites. Features C++ Anti-Detection - bypasses Google, Cloudflare, and most bot detection Element Refs - stable e1 , e2 , e3 identifiers for reliable interaction Token-Efficient - accessibility snapshots are ~90% smaller than raw HTML Runs on Anything - lazy browser launch + idle shutdown keeps memory at ~40MB when idle. Designed to share a box with the rest of your stack -- Raspberry Pi, $5 VPS, shared infra. Session Isolation - separate cookies/storage per user Cookie Import - inject Netscape-format cookie files for authenticated browsing File Upload - attach files from a configured upload directory without a native OS dialog Proxy + GeoIP - route traffic through residential proxies with automatic locale/timezone Structured Logging - JSON log lines with request IDs for production observability YouTube Transcripts - extract captions from any YouTube video via yt-dlp, no API key needed Search Macros ",
+      "published": "",
+      "_id": "05a714c235432447",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "summary": "Article URL:https://manualdousuario.net/en/libreoffice-download-record-no-ai/Comments URL:https://news.ycombinator.com/item?id=49610538Points: 429# Comments: 135",
+      "published": "2026-09-08T14:05:57",
+      "_id": "be5fd2bc9a30a70d",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "summary": "Article URL:https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-personComments URL:https://news.ycombinator.com/item?id=49610229Points: 300# Comments: 36",
+      "published": "2026-09-08T13:41:25",
+      "_id": "11cae200297a9940",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "Article URL:https://github.com/TauricResearch/TradingAgentsComments URL:https://news.ycombinator.com/item?id=49605822Points: 100# Comments: 72",
+      "published": "2026-09-08T05:20:23",
+      "_id": "626a5e4fcb233d8d",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "link": "https://rohanadwankar.github.io/posts/platforms.html",
+      "summary": "Article URL:https://rohanadwankar.github.io/posts/platforms.htmlComments URL:https://news.ycombinator.com/item?id=49605644Points: 61# Comments: 23",
+      "published": "2026-09-08T04:36:26",
+      "_id": "1a2af31f68d81542",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "summary": "Article URL:https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphicsComments URL:https://news.ycombinator.com/item?id=49605511Points: 75# Comments: 56",
+      "published": "2026-09-08T04:06:20",
+      "_id": "128471e4ddadd987",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Cold Showers",
+      "link": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "summary": "Article URL:https://allan.reyes.sh/posts/ai-cold-showers/Comments URL:https://news.ycombinator.com/item?id=49601810Points: 76# Comments: 12",
+      "published": "2026-09-07T19:05:39",
+      "_id": "1b5e90c11e7bb05c",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "summary": "Article URL:https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businessesComments URL:https://news.ycombinator.com/item?id=49601338Points: 100# Comments: 118",
+      "published": "2026-09-07T18:24:32",
+      "_id": "84838da7e8b4557a",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Initial effects of AI technology on employment look positive",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "summary": "https://archive.md/5hi5iComments URL:https://news.ycombinator.com/item?id=49596610Points: 92# Comments: 147",
+      "published": "2026-09-07T10:38:32",
+      "_id": "89961a6974e97699",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "Article URL:https://github.com/timgordontg/engrimComments URL:https://news.ycombinator.com/item?id=49594008Points: 90# Comments: 53",
+      "published": "2026-09-07T04:49:36",
+      "_id": "3c53f36a7a7ec1e4",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I refused to train the AI that could replace me",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "Article URL:https://restofworld.org/2026/ai-training-jobs-expert-replacement/Comments URL:https://news.ycombinator.com/item?id=49593959Points: 96# Comments: 114",
+      "published": "2026-09-07T04:38:22",
+      "_id": "eab61dc2eb940621",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+      "summary": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out.there's been a lot of noise about this, so i went through the actual conference statements and Pangram's technical docs to see how this actually went down. the reality is wildly worse than just \"the AI detector made a mistake.\"here are the receipts:The track chairs would have failed their own test.Independent researchers ran recent papers authored by the three track chairs through the exact same detector. It flagged them at 24% to 69%. Under their own enforcement rules, the chairs would have been at risk of rejection themselves.The detector originally flagged 42.7% of the entire track.Pangram’s default setting flagged nearly half of all submissions as 90-100% AI. They had to frantically shrink the text windows just to get the flag rate down to a somewhat believable 12.7%.The \"Circularity Trap\".22 papers were rejected specifically because they scored >0.5 on the detector, but the authors checked a box denying AI use. The black-box score was literally used as proof the author was lying.The massive ESL penalty.A stanford study showed 61.22% of human-written TOEFL essays get falsely flagged as AI because non-native formal English is structurally rigid. NeurIPS published zero demographic calibration data for this. If you're an ESL researcher, you were basically playing Russian roulette.if you were one of the 178 rejected: there is no blacklist. this is not a misconduct mark on your record. just take your paper and resubmit it to ICLR (deadline sept 25) or ICML.wrote up a full Field Note with the exact thresholds, the data privacy issues, and the actual recourse options if you want the hard numbers instead of just vibes:https://strictcite.com/blog/neurips-2026-position-paper-pangram-ai-detection(disclosure since it's relevant: i builtstrictcite.com, a deterministic zero-AI citation checker. watching a",
+      "published": "2026-09-08T10:19:04",
+      "_id": "27c37e83180d431f",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+      "summary": "A few weeks ago, I sawthis postwhere the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel.That got me curious about a slightly different formulation: instead of handing the network a timestampt, could a small recurrent dynamical system (RNN-ish) learn the continuous temporal flow in latent space and generate the entire ~6,500-frame full resolution video autonomously from a single initial condition (h_0, c_0)?The code, weights, and analysis tools with rollout scripts, plots, and standalone models are shared here:GitHub: SEBADA321/BadAppleRNN.Architecture & Inference FootprintAt inference time, the system receives no timestamp inputs and evaluates in a closed loop:(h_t, c_t) -> Recurrent Transition (CTF) -> (h_{t+1}, c_{t+1}) | h_t -> Frame Decoder -> 384x512 Grayscale FrameLatent Dimension: 64-D for h_t (decoded) and 64-D for c_t (internal memory manifold to separate visually similar frames at different timestamps).Recurrent Transition (ctf): 4-gate LSTM-style recurrence with orthogonal initialization (16,640 parameters, 65 KB).Frame Decoder (fd): 4-stage bilinear upsampling with depthwise-separable convolutions (400,361 parameters, 1.56 MB).Initial State: A single pair of 64-dim vectors (h_0, c_0) (128 floats, 0.5 KB).Total Inference Model: 417,129 parameters (~1.60 MB in FP32).Runtime Performance: >200 FPS on an RTX 4080, with ~17.2 MB peak active VRAM during decoding.Training an autonomous system across ~6,573 steps fromt=0directly was probably computationally unstable due to vanishing/exploding gradients and compounding error. The training setup I was circling around used several targeted techniques:Learned Latent Teacher Tables: During training, I optimize a pair of tables h_table[t] and c_table[t] alongside the model. This allows parallel segment training starting at arbitrary timestamps over a finite horizon K. These tables are scaffolding and are discarded entirely at inference.Rollout Horizon Curriculum",
+      "published": "2026-09-08T00:05:37",
+      "_id": "b96d1bde9227430d",
+      "_scraped_at": "16:14"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth.But what happens if you have a billion documents, and you decide to upgrade your model to a \"better\" one? on an h100, that would take about 108 days, just to upgrade the vectors so u can start serving again (tested qwen embed 8b on h100). Even if you aren't doing 1b vectors, and are doing just 50 million, upgrading can still take a considerable time.Me and my research lab decided to tackle this problem, and we came up with embedflow.The method is really simple; from the old index made with the source model, take K documents and rerank them with the new model. We see that when K is sufficient, the retrieval quality is the same as target model. (determining k is the hard part). I've tested 63 migrations on upto 1 million documents.The best result I got was upgrading qwen4b -> to 8b, and at 50 documents, it was the same as native retrieval.This method forgos the expensive backfill that comes with upgrading, as you can directly take documents from the old index.embedflow works with qdrant, and can be easily downloaded with pypipip install embedflowthe github is public:https://github.com/arnsri33/embedflowI want you guys to try it out, and see if you guys can use it in your own workflow.submitted by/u/Potential_Low_1183[link][comments]",
+      "published": "2026-09-08T02:16:23",
+      "_id": "68035b252d04fa7a",
+      "_scraped_at": "16:14"
+    }
+  ],
+  "seen_ids": [
+    "89961a6974e97699",
+    "dec36f96df8d997b",
+    "be5fd2bc9a30a70d",
+    "df01e054bbeb985b",
+    "edb3a626875732de",
+    "49c3a3166ba8cc4b",
+    "eab61dc2eb940621",
+    "51c7e6945ba1f84f",
+    "626a5e4fcb233d8d",
+    "8ed1599eb95bc766",
+    "11cae200297a9940",
+    "a00fc889a2dd293b",
+    "8b8898d492e71416",
+    "46f3c1d6124190bd",
+    "5cbcf08e288841ac",
+    "1a2af31f68d81542",
+    "e68246067eeddf6e",
+    "9c939c7199afd9a6",
+    "ca6e9330cc1b2a53",
+    "68035b252d04fa7a",
+    "eb5fea936a5e290a",
+    "128471e4ddadd987",
+    "05a714c235432447",
+    "16673d70457dfb8b",
+    "35305757066a6f71",
+    "1a956c25f3b2e61c",
+    "8bf41c2345f4ad80",
+    "3c53f36a7a7ec1e4",
+    "2da3d71a361a273f",
+    "c34a327604b5be4a",
+    "84838da7e8b4557a",
+    "2cc5eab13f08dcd3",
+    "4a36ea7ba6bb268a",
+    "1b5e90c11e7bb05c",
+    "7a9120172ffe7d32",
+    "8c6014a36ca90e3f",
+    "34c1f3afcb3c850d",
+    "b085c7f1762bfee8",
+    "27c37e83180d431f",
+    "b96d1bde9227430d",
+    "6e18aa23e1f0d144"
+  ],
+  "last_run": "16:14",
+  "run_count": 1
+}
