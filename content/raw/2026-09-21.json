@@ -1,0 +1,689 @@
+{
+  "date": "2026-09-21",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "published": "2026-09-21T12:00:00",
+      "_id": "08ffdb24bebd9aa2",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "published": "2026-09-21T10:00:00",
+      "_id": "10538c022345675d",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "published": "2026-09-21T07:00:00",
+      "_id": "2f8d9b98fc157bb3",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "published": "2026-09-21T00:00:00",
+      "_id": "d2871d486c61275a",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "summary": "",
+      "published": "2026-09-21T13:44:34",
+      "_id": "ae2a66f3c360fd17",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "link": "https://huggingface.co/blog/tokenizers-v1",
+      "summary": "",
+      "published": "2026-09-21T00:00:00",
+      "_id": "693b3130e25cc880",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "published": "2026-09-21T16:00:46",
+      "_id": "3c53544af87c504f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
+      "published": "2026-09-21T16:00:10",
+      "_id": "658f98e3c9afdd9e",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work.  As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster.  Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
+      "published": "2026-09-21T14:51:34",
+      "_id": "a34d58b87503fec2",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers.  At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
+      "published": "2026-09-21T10:00:35",
+      "_id": "a4ae64181a987247",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "AnnouncementsAug 31, 2026Improving our alignment and security effortsOn July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Announcements Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing process",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "Announcements Partnering with Accenture on embedded evaluation Sep 18, 2026 We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO’s essay “We Must Pace the Frontier,” to embed evaluators within Anthropic. The partnership will be led by Faculty, Accenture’s specialist AI business, and will include evaluating and red-teaming models, conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments deploy AI across many industries. Their understanding of how enterprises use AI in practice informs their safety approach, and they will bring that perspective to evaluating our models. Anthropic and Accenture each expect to invest at least $1 billion in building capacity in this area over the next five years. Embedded evaluation is new, and many of the details about how it will operate are still being worked out. Unlike today’s external evaluators, embedded evaluators will work inside AI companies, with access comparable to an employee's. That access allows them to watch models take shape in training, follow the decisions that govern how those models are built and deployed, and speak directly to employees. From this vantage point, embedded evaluators can assess how a company operates, verify that it is keeping its safety commitments, and identify blind spots. They can also report incidents and give the public a more informed account of benefits and risks. To be clear, independent embedded evaluators do not reduce our accountability, but help to make it more verifiable. The safety of our models remains our responsibility. There are, as yet, no standards for what information embedded evaluators should have access to, or how they should report what they find. There is also no settled system for funding independent evaluation. Long-term, we think funding should come from pooled or government sources, as we called for in our Advanced AI Framework in June.",
+      "published": "",
+      "_id": "5ec4e61a2a5169eb",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "summary": "Announcements Introducing the Life Sciences Verification Program Sep 17, 2026 Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing. It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight. Once verified, teams may apply for two types of LSVP grants, “Standard Use” or “High-risk Use,” depending on their access needs. These grants can be used through all our product surfaces, including Claude Science , Claude.ai , Claude Code and the API. Standard Use grants are suitable for most life science work, including the majority of biology research and development workflows. These grants can be extended to entire teams for diverse, daily workloads, and are renewed once a year. They give those teams access to our Mythos, Opus, and Sonnet models, with refined classifiers that are more permissive for science tasks than our generally available models. Standard Use grants apply to Mythos 5.1, Opus 5, and Sonnet 5 today, and to future models as they launch. They’re specific",
+      "published": "",
+      "_id": "a3c8e138d995ff55",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Muse isn't welcome as a shopper anymore.",
+      "published": "2026-09-21T17:55:18",
+      "_id": "ccac89f4eb5bfe6c",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "published": "2026-09-21T16:38:51",
+      "_id": "cdae21d54eb9a6bb",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "published": "2026-09-21T15:00:00",
+      "_id": "61cc2ddd884999e1",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "published": "2026-09-21T14:39:22",
+      "_id": "a8482f18a45413c7",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "published": "2026-09-21T14:30:00",
+      "_id": "a60ae563fc52947b",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.  Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was […]",
+      "published": "2026-09-21T14:00:00",
+      "_id": "693823a542ab6ff1",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and […]",
+      "published": "2026-09-21T13:36:52",
+      "_id": "c8b7580d0a35361c",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York […]",
+      "published": "2026-09-21T10:18:06",
+      "_id": "8b01dd9a86759fd5",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that […]",
+      "published": "2026-09-21T09:21:47",
+      "_id": "7cd5365733ad83d6",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]",
+      "published": "2026-09-20T18:50:18",
+      "_id": "a24da9b4fbe345bc",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "published": "2026-09-20T11:07:00",
+      "_id": "736f424f3d22ba22",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
+      "published": "2026-09-21T12:20:00",
+      "_id": "ab5bab3508a25ffb",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
+      "published": "2026-09-21T12:00:00",
+      "_id": "af663fb37f5db847",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
+      "published": "2026-09-21T12:00:00",
+      "_id": "7754d0f907349b50",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "published": "2026-09-21T12:00:00",
+      "_id": "8964eed3da707780",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…",
+      "published": "2026-09-21T12:00:00",
+      "_id": "863001221a0509f1",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
+      "published": "2026-09-21T13:00:00",
+      "_id": "a78c507f1894ed6f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Wired",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "published": "2026-09-21T10:34:43",
+      "_id": "6f49c5d5f15c863f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "published": "2026-09-20T10:30:00",
+      "_id": "46d0cb7f45a73d2c",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Wired",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "published": "2026-09-20T10:30:00",
+      "_id": "0dfad3aeacd5dd7f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Information",
+      "title": "The Real Cost of AI: A Survey of the Unpredictable Token Economics",
+      "link": "https://www.theinformation.com/articles/real-cost-ai-survey-unpredictable-token-economics",
+      "summary": "For decades, enterprise software budgeting was a predictable exercise: negotiate a subscription fee, project the number of seats you need, move on. AI has broken that model. Pricing tied to tokens — the metered unit behind most AI billing — has turned technology spend into a variable cost, and an unpredictable one.The Information’s survey of 107 of our readers  - senior leaders and professionals (See Methodology) - finds that most companies haven’t gotten a handle on it: 60% say the cost trajectory of their AI initiatives is unpredictable, at the exact moment CFOs, boards and investors are demanding proof of ROI.60%: “The cost trajectory of AI initiatives is unpredictable.”This piece draws on that survey and The Information’s Deep Research to examine where AI budgets are actually going, why token costs remain so hard to forecast, and what separates the companies that have managed AI spending from those still being surprised by their bills.The Bulk of the AI BudgetOutside the hyperscalers, who arepouring billions into data centers, most companies put the bulk of their AI investment — 64% — into software, applications, and API models. (See Chart.) That reflects where ROI is actually realized, according to The Information: most businesses want solutions to specific problems, not infrastructure to manage.This 64% budget line includes the unpredictability factor, the token, which behaves unlike anything else in the technology budget.Let’s unpack the costs of different types of software. The classic subscription/SaaS model relies on per-seat licenses for enterprise systems of record and the cloud services that underpin them, such as CRM (Salesforce), ERP/HR and finance (SAP, Workday), and collaboration (Slack).Packaged AI apps and assistants, like ChatGPT or Microsoft Copilot, are also largely bought per seat. The flat seat price covers token usage but also limits what an AI assistant can do. The main drawback of seat-based licensing has always been waste: many paid seats",
+      "published": "2026-09-21T16:04:42",
+      "_id": "034d418e9c5e6af5",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse",
+      "link": "https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse",
+      "summary": "OpenAIpioneered AI that can take over web browsers and other applications on people’s behalf, and itsChatGPTapp brought generative AI to consumers. Now that rivals likeSpaceXandMetaare pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launchedGrok Bot, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers throughCodexand ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.",
+      "published": "2026-09-21T14:30:40",
+      "_id": "0061eb03c7077918",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI",
+      "link": "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+      "summary": "OpenAIis rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. One solution could lie in the recent past.Even before the spate of cybersecurity incidents involving OpenAI’s technology and the dire warnings from industry workers, the company was negotiating a legally binding deal withAnthropicfor the companies to stress-test each other’s models, according to a person with direct knowledge of the discussions, which haven’t been previously reported.",
+      "published": "2026-09-21T13:55:09",
+      "_id": "402d2c3ed07a904f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "BuilderIO /agent-native",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "summary": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start npx --yes @agent-native/core@latest create my-agent --standalone --template chat Follow the getting started guide for a full intro to the framework. Why build agents with UIs? Coding agents work with more than a text box. Their environment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to inspect, edit, approve, and share its work. How Agent-Native works Shared actions . The agent calls each capability as a tool, and the UI calls it from code. Both paths use the same validation, permissions, and implementation. Shared data . Work done by the agent appears in the UI, and work done in the UI is available to the agent. Shared application state . The agent receives relevant UI state, such as the current page, selected record, or active view. The agent does not click through the UI. It works through the same action layer as the UI. Example: a shared action Create actions/hello.ts : import { defineAction } from \"@agent-native/core/action\" ; import { z } from \"zod\" ; // One action powers every app surface: UI, agent, HTTP, MCP, A2A, and CLI. export default defineAction ( { description : \"Return a friendly greeting.\" , schema : z . object ( { name : z . string ( ) . default ( \"world\" ) . describe ( \"Name to greet\" ) , } ) , http : { method : \"GET\" } , run : async ( { name } ) => { return { message : `Hello, ${ name } !` } ; } , } ) ; The agent receives hello as a tool. React calls the same function with useActionQuery(\"hello\", { name: \"Alex\" }) . Agent-Native also exposes it through HTTP, MCP, A2A, and the CLI. Included Agent chat : Let people delegate work, as",
+      "published": "",
+      "_id": "745308b2b7085095",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "trycua /cua",
+      "link": "https://github.com/trycua/cua",
+      "summary": "Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run.cua.ai Choose your path Cua Fleets: Provision a Linux desktop, run a command, and save a screenshot . CUA-S1: Explore small, specialized models for computer-use decisions . Cua Driver: Operate Calculator and verify its result . Lume: Create a Tahoe VM and connect over SSH . Cua Bench: Create and verify a simulated task . Bring your own agent and model, or explore CUA-S1 for specialized decisions. Cua provides the computer and automation tools. Computer-Use 2.0 describes an agent moving between code, APIs, and graphical interfaces within the same task. See Cua Driver in action Two Cua Driver sessions select cells in LibreOffice Calc and objects in Inkscape on an Omarchy desktop while a terminal stays in the foreground. Watch the 50-second demo, then explore Omarchy on Fleet . recording.mp4 Cua Fleets Provision isolated cloud desktops at run.cua.ai . A Fleet maintains sandbox capacity; your code claims a desktop from a pool and uses the Sandbox SDK to run commands, capture screenshots, and interact with apps inside it. Your first result: provision a Linux desktop, run uname -a , save a screenshot, and delete the cloud resources. The tutorial covers Fleet credentials, dependencies, and cleanup. Pools can retain paid capacity after a claim ends, so follow its cleanup steps. Local sandboxes and Fleets share the Sandbox SDK, but credentials, images, operations, and runtime requirements differ. Use the runtime support reference to choose an environment. For your own hardware, see Manage local sandbox lifecycle . Your first Cloud Fleet | Fleet overview | Sandbox SDK reference Cua Driver Give your agent tools to inspect and operate native desktop apps and browsers on macOS, Windows, and Linux. Connect through the CLI, MCP, or typed SDKs. Background",
+      "published": "",
+      "_id": "feacb1c4ff8cc40f",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "Open-Dev-Society /OpenStock",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistribute, or deploy it (including as a web service), you must release your source code under the same license and credit the original authors. OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a brokerage. Market data may be delayed based on provider rules and your configuration. Nothing here is financial advice. 📋 Table of Contents ✨ Introduction 🌍 Open Dev Society Manifesto ⚙️ Tech Stack 🔋 Features 🤸 Quick Start 🐳 Docker Setup 🔐 Environment Variables 🧱 Project Structure 📡 Data & Integrations 🌍 Market Support 🧪 Scripts & Tooling 🤝 Contributing 🛡️ Security 📜 License 🙏 Acknowledgements ✨ Introduction OpenStock is a modern stock market app powered by Next.js (App Router), shadcn/ui and Tailwind CSS, Better Auth for authentication, MongoDB for persistence, Finnhub for market data, and TradingView widgets for charts and market views. 🌍 Open Dev Society Manifesto We live in a world where knowledge is hidden behind paywalls. Where tools are locked in subscriptions. Where information is twisted by bias. Where newcomers are told they’re not “good enough” to build. We believe there’s a better way. Our Belief: Technology should belong to everyone. Knowledge should be open, free, and accessible. Communities should welcome newcomers with trust, not gatekeeping. Our Mission: Build free, open-source projects that make a real difference: Tools that professionals and students can use without barriers. Knowledge platforms where learning is free, forever. Communities where every beginner is guided, not judged. Resources that run on trust, not profit. Our Promise",
+      "published": "",
+      "_id": "dbb1206fab0dec85",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "akitaonrails /ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Long-term memory for AI coding agents. Quit Claude Code mid-task,\nstart OpenAI Codex in the same directory, continue without\nre-explaining the architecture, the failed approaches, or the open\nquestions. Why ai-memory Your coding agent already has a memory feature. Claude Code takes its own\nnotes, Cursor remembers some things, and every platform is adding more. All\nof them share the same walls: the notes live on one machine, belong to one\nagent, and vanish from view the moment you switch tools — or teammates. ai-memory is what's on the other side of those walls. It follows you across agents. Twenty-plus harnesses — Claude Code,\nCodex, Cursor, Gemini CLI, OpenCode, Grok, Devin, Kimi, Kiro, and more —\nfeed one shared memory. Quit Claude Code mid-task, open Codex in the same\ndirectory, and the next agent picks up a real handoff: where you left\noff, what failed, what's still open. Handoffs are a protocol here, not a\nconvention — typed, owned, claimed exactly once. It follows you across machines. Memory lives in a server you run —\non the same laptop, a homelab box, or wherever — so the project you left\non the desktop is the project you resume on the laptop. Same knowledge,\nsame open questions. It works for a team. Point everyone at one server and what one\nperson's sessions learn, everyone's agents can retrieve. Knowledge is\nshared per project; personal handoffs stay personal. Multi-user auth,\nper-person attribution, and an audit log are built in — not a paid tier. Your memory is plain markdown. The source of truth is a git-backed\nwiki of ordinary .md files: grep it, open it in Obsidian, edit it by\nhand, rsync it. The database is a derived index that can always be\nrebuilt from the files. No vector store to babysit, nothing held hostage\nin a binary blob. It captures the work itself, silently. Lifecycle hooks record what\nactually happened — prompts, tool calls, session boundaries — sanitized\nat a typed privacy boundary before anything is stored, then consolidated\ninto readab",
+      "published": "",
+      "_id": "4138778ebbc75ba6",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "coder /coder",
+      "link": "https://github.com/coder/coder",
+      "summary": "Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secure Wireguard® tunnel, and automatically shut down when not used. Coder Agents runs a native AI coding agent whose loop executes in the control plane on your infrastructure, with no API keys in workspaces. Define cloud development environments in Terraform EC2 VMs, Kubernetes Pods, Docker Containers, etc. Automatically shutdown idle resources to save on costs Onboard developers in seconds instead of days Delegate coding work to AI agents on your infrastructure Bring any model (Anthropic, OpenAI, Google, Bedrock, self-hosted) No LLM credentials in workspaces, user identity on every action Centralized model governance, cost tracking, and audit logging Quickstart Check out our install guides for other methods and a complete tutorial. Try Coder with the install script on Linux and macOS, or grab the latest binary or installer from GitHub Releases on Windows: curl -L https://coder.com/install.sh | sh Start the server and open http://localhost:3000 to create your initial user, create a Docker template, and provision your first workspace: coder server For a production deployment, add a PostgreSQL database (version 13 or later) and an external access URL, and see our validated architectures for sizing and infrastructure guidance: coder server --postgres-url < url > --access-url < url > Without these flags, Coder uses a built-in database and sets up a *.try.coder.app access URL for evaluation. Use coder --help for the full list of flags and environment variables. Documentation Browse the documentation or visit a specific section below: Workspaces : Workspaces contain the IDEs, dependencies, and configuration information needed for software development Templates : Templates are written in Terraform and describe the infrastructure fo",
+      "published": "",
+      "_id": "73b7e92d1b039b14",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "summary": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt, same skills — you choose where it runs. Important Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — for review by a qualified professional. They do not make investment recommendations, execute transactions, bind risk, post to a ledger, or approve onboarding; every output is staged for human sign-off. You are responsible for verifying outputs and for compliance with the laws and regulations that apply to your firm. What's in the repo: Agents — named, end-to-end workflow agents (Pitch Agent, Market Researcher, GL Reconciler, …). Each ships as a Cowork plugin and as a Claude Managed Agent template you deploy via /v1/agents . Vertical plugins — the underlying skills, slash commands, and data connectors, bundled by FSI vertical. Install these on their own if you just want /comps , /dcf , /earnings and the connectors without a full agent. Agents Each agent is named for the workflow it runs. They're starting points: install the ones that match your work, then tune the prompts, skills, and connectors to how your firm does it. Each agent plugin is self-contained — it bundles the skills it uses, so installing the agent is all you need. Function Agent What it does Coverage & advisory Pitch Agent Comps, precedents, LBO → branded pitch deck, end to end Meeting Prep Agent Briefing pack before every client meeting Research & modeling Market Researcher Sector or theme → industry overview, competitive landscape, peer comps, ideas shortlist Earnings Reviewer Earnings",
+      "published": "",
+      "_id": "eb2c237bde8f9194",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "cloudflare /quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "summary": "quiche is an implementation of the QUIC transport protocol and HTTP/3 as\nspecified by the IETF . It provides a low level API for processing QUIC packets\nand handling connection state. The application is responsible for providing I/O\n(e.g. sockets handling) as well as an event loop with support for timers. For more information on how quiche came about and some insights into its design\nyou can read a post on Cloudflare's blog that goes into some more detail. Who uses quiche? Cloudflare quiche powers Cloudflare edge network's HTTP/3 support . The cloudflare-quic.com website can be used for\ntesting and experimentation. Android Android's DNS resolver uses quiche to implement DNS over HTTP/3 . curl quiche can be integrated into curl to provide support for HTTP/3. Getting Started Command-line apps Before diving into the quiche API, here are a few examples on how to use the\nquiche tools provided as part of the quiche-apps crate. These are not\nsuitable for production environments; see disclaimers and\nnotes . After cloning the project according to the command mentioned in the building section, the client can be run as follows: $ cargo run --bin quiche-client -- https://cloudflare-quic.com/ while the server can be run as follows: $ cargo run --bin quiche-server -- --cert apps/src/bin/cert.crt --key apps/src/bin/cert.key (note that the certificate provided is self-signed and should not be used in\nproduction) Use the --help command-line flag to get a more detailed description of each\ntool's options. Configuring connections The first step in establishing a QUIC connection using quiche is creating a Config object: let mut config = quiche :: Config :: new ( quiche :: PROTOCOL_VERSION ) ? ; config . set_application_protos ( & [ b\"example-proto\" ] ) ; // Additional configuration specific to application and use case... The Config object controls important aspects of the QUIC connection such\nas QUIC version, ALPN IDs, flow control, congestion control, idle timeout\nand other properties ",
+      "published": "",
+      "_id": "9324cdb31b1d3f4e",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvt-project /mvt",
+      "link": "https://github.com/mvt-project/mvt",
+      "summary": "Mobile Verification Toolkit Important We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: #757 Mobile Verification Toolkit (MVT) is a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology . It continues to be maintained by Amnesty International and other contributors. Note MVT is a forensic research tool intended for technologists and investigators. It requires understanding digital forensics and using command-line tools. This is not intended for end-user self-assessment. If you are concerned with the security of your device please seek reputable expert assistance. Indicators of Compromise MVT supports using public indicators of compromise (IOCs) to scan mobile devices for potential traces of targeting or infection by known spyware campaigns. This includes IOCs published by Amnesty International and other  research groups. Warning Public indicators of compromise are insufficient to determine that a device is \"clean\", and not targeted with a particular spyware tool. Reliance on public indicators alone can miss recent forensic traces and give a false sense of security. Reliable and comprehensive digital forensic support and triage requires access to non-public indicators, research and threat intelligence. Such support is available to civil society through Amnesty International's Security Lab or through our forensic partnership with Access Now’s Digital Security Helpline . More information about using indicators of compromise with MVT is available in the documentation . Installation MVT can be installed from sources or from PyPI (you will need some dependencies, check the documentation ): pip3 in",
+      "published": "",
+      "_id": "8314ef7303d703cf",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "zhouxiaoka /autoclip",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "AutoClip 把长视频变成值得分享的精彩片段。 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français 项目网站 · 反馈问题 桌面安装包: macOS · Apple Silicon · Windows · x64 安装与第一次出片 · 完整排错指南 自 v1.3.1 起，产品界面、官网和 README 均支持中、英、日、韩、西、葡、俄、法。顶栏可切换界面语言或跟随系统；用户素材和生成内容保留原文。 AutoClip 用 AI 分析视频字幕、定位高光、生成标题，并自动剪出片段与合集。适合访谈、播客、课程和直播回放，提供桌面应用、Docker Web 界面和 CLI / MCP 三种使用方式。 界面预览 v1.3.0 真实 Web 界面：在文件导入区添加本地视频，可同时提供 SRT 字幕。 社区成就 以下徽章由 Trendshift 提供，点击可查看 AutoClip 的上榜记录。GitHub Trending 与 Trendshift 是不同榜单；徽章展示平台记录的成就，不代表当前实时排名。 你可以做什么 能力 说明 导入素材 支持本地视频、YouTube 与 B 站链接，可附带 SRT 字幕。 发现高光 从字幕提取大纲、话题时间线、精彩度评分和片段标题。 剪辑与合集 自动生成视频切片，组合推荐合集，也可手动调整顺序。 发布导出 提供抖音、小红书、YouTube Shorts 和 B 站导出预设，支持烧录字幕与标题卡。 自由选择模型 支持通义千问、OpenAI 兼容接口、Gemini、硅基流动，以及 Ollama / LM Studio 本地模型。 接入自动化 通过 CLI 批量编排，或让支持 MCP 的客户端调用同一条处理流水线。 导入视频 → 准备字幕 / 语音转写 → AI 分析与评分 → 生成切片与合集 → 导出成片 快速开始 1. 桌面版 从 GitHub Releases 下载适合你的安装包： 平台 安装方式 macOS · Apple Silicon .dmg Windows 10 / 11 · x64 -setup.exe Intel Mac / Linux 使用下方 Docker 或 CLI 桌面安装包内置 Python 和 FFmpeg。实际支持的平台与首次启动说明以对应 Release 为准。安装后先在设置中选择模型提供商、测试连接并保存，再导入视频。 2. Docker / Web 需要 Docker 和 Docker Compose v2。以下命令在仓库根目录执行： git clone https://github.com/zhouxiaoka/autoclip.git cd autoclip cp env.example .env 启动前编辑 .env ：选择 LLM_PROVIDER ，填写对应服务的 API Key 和模型名；也可以启动后在设置页配置。 mkdir -p data logs uploads\ndocker compose up -d --build 打开 Web 界面 ； API 文档 在后端启动后可用。部署细节见 Docker 指南 （中文）。 Linux 上若绑定目录出现权限错误，先执行以下命令修正项目数据目录的归属，再重新启动服务： docker compose run --rm --no-deps --user root --entrypoint sh autoclip -c ' chown -R autoclip:autoclip /app/data /app/logs /app/uploads ' docker compose up -d 3. CLI / MCP 需要 Python 3.10+（建议 3.11）和 PATH 中可用的 FFmpeg。以下安装示例使用 macOS / Linux shell；Windows PowerShell 用 venv\\Scripts\\Activate.ps1 激活虚拟环境。CLI 本地处理不需要 Redis。 git clone https://github.com/zhouxiaoka/autoclip.git cd autoclip\npython3 -m venv venv source venv/bin/activate\npython -m pip install -r requirements.txt\npython -m pip install -e . 本地模型示例：先安装并启动 Ollama，再下载模型。无字幕视频需要 faster-whisper ，首次转写会下载语音模型；已有字幕可用 --srt talk.srt 。 olla",
+      "published": "",
+      "_id": "ce3bf530c35576de",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "GitHub",
+      "title": "ruanyf /weekly",
+      "link": "https://github.com/ruanyf/weekly",
+      "summary": "科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请 提交 issue 。 P.S. 讨论区的 《谁在招人》 ，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 2026 九月 第 413 期： 再见了，React Native 第 412 期： 禁止 issue，只用 PR 第 411 期： OpenClaw 2.0 是一个缩影 八月 第 410 期： 你需要知道的 AI 三种机制 第 409 期： 程序员的职业未来 第 408 期： 你需要知道的 AI 缓存知识 第 407 期： 国家为什么需要开源软件？ 七月 第 406 期： 道可，道非，常道 第 405 期： 资源，社会公平与算力 第 404 期： 你需要知道的 AI 内存知识 第 403 期： 为什么 Dropbox 不成功 第 402 期： 我在智念 AI 的日子（小说） 六月 第 401 期： 如何赚到10亿美元 第 400 期： rsync 的争论 第 399 期： 中国 AI 大厂访问记 五月 第 398 期： Token 费用难以负担 第 397 期： 财富正在向 AI 集中 第 396 期： 互联网通信的替代方案 第 395 期： 软件开发的第三种方式 四月 第 394 期： 第二次 API 开放浪潮 第 393 期： 脑腐状态 第 392 期： axios 投毒与好莱坞式骗术 第 391 期： AI 的贫富分化 三月 第 390 期： 没有语料，大模型就是智障 第 389 期： 未来如何招聘程序员 第 388 期： 测试是新的护城河 第 387 期： 你是领先的 二月 第 386 期： 当外卖员接入 AI 第 385 期： 马斯克害怕中国车企吗？ 第 384 期： 为什么软件股下跌 一月 第 383 期： 你是第几级 AI 编程 第 382 期： 独立软件的黄昏 第 381 期： 中国 AI 大模型领导者在想什么 第 380 期： 为什么人们拥抱“不对称收益” 2025 十二月 第 379 期： 《硅谷钢铁侠》摘录 第 378 期： 预测是新的互联网热点 第 377 期： 14万美元的贫困线 第 376 期： 太空数据中心的争议 十一月 第 375 期： 一扇门的 Bug 第 374 期： 6GHz 的问题 第 373 期： 数据模型是新产品的核心 第 372 期： 软件界面如何设计 十月 第 371 期： 一个乐观主义者的专访 第 370 期： 正确的代码高亮 第 369 期： Tim 与罗永浩的对谈 第 368 期： 不要这样管理软件团队 九月 第 367 期： Nano Banana 的几个妙用 第 366 期： 旧金山疯狂的 AI 广告 第 365 期： 流量变现正在崩塌 第 364 期： 最难还原的魔方 八月 第 363 期： 最好懂的神经网络解释 第 362 期： GitHub 工程师谈系统设计 第 361 期： 暗网 Tor 安全吗 第 360 期： Dan Wang 的新书 第 359 期： Palantir 值得关注 七月 第 358 期： 如何拯救一家濒临倒闭的创业公司 第 357 期： 稳定币的博弈 第 356 期： 公司强推 AI 编程，我该怎么办 第 355 期： 两本《芯片战争》 六月 第 354 期： 8000mAh 手机电池，说明了什么？ 第 353 期： 苹果的“液态玻璃”是为了 AR 第 352 期： Bug 追踪系统的正确样子 第 351 期： GitHub Issues（几乎）是最好的笔记应用 五月 第 350 期： Java 三十周年 第 349 期： 神经网络算法的发明者 第 348 期： 李飞飞，从移民到 AI 明星 第 347 期： 冷启动的破解之道 四月 第 346 期： 未来就是永恒感的丧失 第 345 期： HDMI 2.2 影音可能到头了 第 344 期： 制造业正在“零工化” 三月 第 343 期： 如何阻止 AI 爬虫 第 342 期： 面试的 AI 作弊——用数字人去面试 第 341 期： 低代码编程，恐怕不会成功 第 340 期： 技术炒作三十年 二月 第 339 期： 代币是什么 第 338 期： 重新思考 6G 第 337 期： 互联网创业几乎没了 第 336 期： 面对 AI，互联网正在衰落 一月 第 335 期： 年底的未来已来 第 334 期： 年终笔记四则 第 333 期： 一切都要支付两次 第 332 期： 西蒙·威利森的年终总结，梁文锋的访谈 2024 十二月 第 331 期： 你可能是一个 NPC 第 330 期： 李开复梳理人工智能 第 329 期： 示意图利器 D2 第 328 期： AI 模型不是一门好生意 十一月",
+      "published": "",
+      "_id": "f772ce1a428d0046",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Claude Delusion",
+      "link": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "summary": "Article URL:https://pluralistic.net/2026/09/21/sunsetting/Comments URL:https://news.ycombinator.com/item?id=49787765Points: 83# Comments: 93",
+      "published": "2026-09-21T14:30:24",
+      "_id": "c6c980f43615d715",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "summary": "Article URL:https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/Comments URL:https://news.ycombinator.com/item?id=49787535Points: 126# Comments: 55",
+      "published": "2026-09-21T14:10:49",
+      "_id": "1e093ca6c99ebecc",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't Use AI to Write",
+      "link": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "summary": "Article URL:https://paulbakker.io/writing/no-ai-for-writing/Comments URL:https://news.ycombinator.com/item?id=49784816Points: 114# Comments: 66",
+      "published": "2026-09-21T08:54:44",
+      "_id": "bb2a4ca945b83a92",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "summary": "Article URL:https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666Comments URL:https://news.ycombinator.com/item?id=49783062Points: 143# Comments: 79",
+      "published": "2026-09-21T04:28:44",
+      "_id": "38701d43e7dcee06",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I stopped drinking the AI Kool-Aid",
+      "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "summary": "Article URL:https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/Comments URL:https://news.ycombinator.com/item?id=49780162Points: 64# Comments: 45",
+      "published": "2026-09-20T21:17:26",
+      "_id": "4d25e9c309de29a5",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "link": "https://pirateface.co/",
+      "summary": "Article URL:https://pirateface.co/Comments URL:https://news.ycombinator.com/item?id=49776699Points: 544# Comments: 144",
+      "published": "2026-09-20T15:16:07",
+      "_id": "3f5d6f808ce7c8f2",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "summary": "Article URL:https://www.i-kh.net/p/if-ai-coding-is-lowering-your-codeComments URL:https://news.ycombinator.com/item?id=49774795Points: 112# Comments: 158",
+      "published": "2026-09-20T11:37:10",
+      "_id": "9abe70756d1def10",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI and the Destruction of the Creative Commons",
+      "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "summary": "Article URL:https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/Comments URL:https://news.ycombinator.com/item?id=49774329Points: 233# Comments: 275",
+      "published": "2026-09-20T10:07:51",
+      "_id": "03adfb64fbd190e6",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+      "summary": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol.I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG.*To be clear, not a single one of these sandboxes was actually air-gapped.* That's a crucial computer science fact.An air gapped sandbox would require *ZERO* cables and network interfaces. It would also require absolute physical isolation. What these labs actually built were soft software barriers. And then they left the doors unlocked. With some of the smartest AI on the planet. Lol. Of COURSE it escaped.1. The OpenAI / Hugging Face \"Escape\": The sandbox was connected to OpenAI’s internal network through a package proxy. The model didn't perform magic. It found a basic flaw in the proxy and walked right through the open door.2. The Google Gemini \"Hack\": Testers left the model connected to the live internet during offensive tests. They then used a test domain name that overlapped with real companies.These were classic IT security failures. I'm talking about bad network segmentation, permissive egress rules, and relying on soft software barriers instead of true physical isolation.When you leave an active network interface open on a test bed, a model finding its way out is just sloppy cybersecurity.Your nerdy friend,Mike Dsubmitted by/u/PithyCyborg[link][comments]",
+      "published": "2026-09-21T10:55:42",
+      "_id": "d07a997428c2fe7e",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Concerns about the ICLR review policy [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
+      "summary": "The ICLR review policy says if your name appears on 3 or more papers, you will need to serve as a reviewer, and it did not say anything about qualifications. I only have 2 so this doesn't apply to me, but I am not sure if I understand it correctly and thus have some concerns. So say if Alex, a new student, was 4th author on 3 papers in their lab, does it mean he needs to review even if he is not qualified?submitted by/u/Striking-Warning9533[link][comments]",
+      "published": "2026-09-21T03:21:43",
+      "_id": "d4d5ee4044c0fe9d",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
+      "summary": "I am a graduate student looking to meet industry researchers at U.S. tech companies and labs. Does anyone if people from U.S. companies and labs will be going to Sydney or Paris mainly?submitted by/u/arc_in_tangent[link][comments]",
+      "published": "2026-09-21T14:43:57",
+      "_id": "5b504c59a76cf1e0",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "link": "https://arxiv.org/abs/2609.20971",
+      "summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base branch captures average relevance, while a rescue branch uses the maximum key-block radius and its prompt-, layer-, and head-dependent distribution to identify blocks at risk of underestimation. Independently thresholding the two branches and combining their masks controls the contribution of rescue blocks while preserving regular block-sparse FlashAttention execution. On H100 GPUs, RBS-Attention achieves 20.65$\\times$ standalone prefill-attention speedup, 11.92$\\times$ vLLM prefill-attention speedup, and 5.97$\\times$ end-to-end time-to-first-token speedup at 128K on Qwen3-30B-A3B-Instruct-2507-FP8. On the dense Qwen3-32B model, it obtains 88.65 overall RULER accuracy versus 89.52 for dense attention; LongBench-v2, InfiniteBench, and Video-MME provide additional quality evaluation. Supporting experiments measure actual retention, compare selectors at matched density, and characterize block-size, threshold, and memory behavior. Together, these results support radius-adaptive dual-branch selection as an effective approach to long-context prefill.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "7517c50358dbe9ce",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "link": "https://arxiv.org/abs/2609.20974",
+      "summary": "arXiv:2609.20974v1 Announce Type: new \nAbstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirely frozen, we train only the routing parameters, isolating routing as the sole variable. AAR improves GSM8K by +3.37 pp over a routing-only SFT baseline on OLMoE. Beyond performance, we show that routing and attention form a coupled circuit: routing changes at layer l propagate through the residual stream to amplify attention sinks at layer l+1, reshaping attention without any direct update to the attention mechanism itself. Further, AAR reduces long diverging generation, with incorrect answers getting shorter, while correct answers remain unchanged in length. Finally, AAR is strongly depth-sensitive: applying it indiscriminately across layers can degrade factual retrieval, whereas mathematical reasoning gains persist when it is introduced deeper in the network. This sensitivity exposes a retrieval--reasoning tension across depth and makes layer-selective AAR a controlled probe of the routing-relevant information carried by attention at different layers.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "a51d145ffe436938",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "link": "https://arxiv.org/abs/2609.20981",
+      "summary": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs gradient-guided ``thought revision\" to enforce logical consistency, enabling dynamic self-correction of intermediate steps during parallel generation. Empirically, CaLR achieves SOTA DLM performance on complex benchmarks, surpassing strong AR baselines and demonstrating superior robustness in constrained tasks like Sudoku.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "8514f90cdc7cb7db",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "link": "https://arxiv.org/abs/2609.21061",
+      "summary": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-image pretraining and underwater acoustic propagation. Stage 2 uses hard-negative mining to strengthen the decision boundary against acoustic mimics, including rocks and sediment formations resembling man-made targets. Stage 3 uses Supervised Contrastive Learning (SupCon) to separate target and clutter representations. We evaluate at-sea SAS data using a mission-level geographic split, compare all arms at 85 percent test recall, and repeat each comparison over three random seeds. LoRA accounts for the primary effect, increasing area under the precision-recall curve (AUPRC) from 0.300 to 0.679 +/- 0.027 using the same frozen backbone. Rank 4 achieves this result while training only 0.26 percent of weights. Neither refinement stage exceeds its matched control: hard-negative mining changes AUPRC by -0.0045 +/- 0.0119 versus an equal-size random curriculum, and SupCon changes AUPRC by +0.0002 +/- 0.0096 versus the preceding stage. These null results indicate that mining occurred on data the encoder had already fit and that supervised stages had already imposed most target-clutter geometry. One efficient adaptation stage is sufficient; stacked refinement is not.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "2ddb015e5a611170",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "link": "https://arxiv.org/abs/2609.21096",
+      "summary": "arXiv:2609.21096v1 Announce Type: new \nAbstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "636171f75a62feda",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Do small language models know what they don't know?",
+      "link": "https://arxiv.org/abs/2609.20824",
+      "summary": "arXiv:2609.20824v1 Announce Type: new \nAbstract: We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters, running entirely on consumer hardware. We evaluate seven distinct approaches, including token-level entropy early stopping, semantic entropy estimation, and uncertainty-aware routing to larger expert models, across 7 model pairs and 5 standard NLU benchmarks. Our key finding is that token-level entropy is effectively blind in SLMs: in 91% of dataset-model combinations, mean token entropy is near zero regardless of answer correctness, rendering token-based confidence signals unusable at this scale. We demonstrate that semantic entropy, computed by generating multiple samples, clustering answers by meaning, and measuring distributional uncertainty, recovers a viable confidence signal. Using semantic entropy to selectively route uncertain queries to a larger expert model yields accuracy improvements of up to +50 percentage points. Notably, cross-family routing (e.g., SmolLM 360M to Phi-3.5-mini) averages +22.0% improvement compared to +6.8% for same-family routing, revealing that expert model quality matters more than architectural compatibility. Our results suggest that the value proposition for entropy-based methods in SLMs is not computational savings but intelligent compute allocation: spending more tokens where they matter most.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "be16463205a84a3c",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction",
+      "link": "https://arxiv.org/abs/2609.20825",
+      "summary": "arXiv:2609.20825v1 Announce Type: new \nAbstract: Clinical predictive models often rely on structured Electronic Health Record data, such as time-series and procedure codes. While recent approaches have begun leveraging unstructured clinical notes, they typically encode them as flat sequences, which may lose explicit relational and temporal structure present in clinical narratives. In response, we propose HERMES, a graph-based framework that operates exclusively on clinical text while preserving clinical relationships. This approach builds on two key ideas. First, personalized Knowledge Graphs (KGs) are constructed through Large-Language-Model-guided extraction from clinical notes with Contrastive Logic Modeling that explicitly captures temporal dynamics and treatment failures and changes in outcomes. Second, a Graph Attention Network synthesizes patient representations through graph-based learning over the KGs. Experiments on MIMIC-III and MIMIC-IV for in-hospital mortality and 30-day readmission prediction show that HERMES consistently outperforms strong text-only baselines. Our findings demonstrate that explicit relational modeling with Contrastive Logic Modeling significantly advances predictive performance.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "171ccd7c3fad0b3d",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation",
+      "link": "https://arxiv.org/abs/2609.20826",
+      "summary": "arXiv:2609.20826v1 Announce Type: new \nAbstract: Current radiology report generation (RRG) models usually produce descriptive reports based on a single examination or only the most recent prior examination, limiting their ability to perform accurate and meaningful longitudinal comparisons and detect subtle interval changes. Although recent approaches have begun to incorporate multiple prior examinations, they usually aggregate a fixed-length history without explicitly modeling the role-dependent relevance of each prior examination before fusion. To address this, we propose TALON, a Temporally Aware LONgitudinal RRG framework that adaptively integrates variable-length patient histories. The underlying Dual-Channel Temporal Fusion Module (DCTFM) compares the current examination with each prior examination through complementary similarity and change channels to capture persistent findings and interval changes, respectively. The specially designed channel-specific attention estimates the relevance of each prior examination, while a learned prior-specific gate adaptively integrates informative longitudinal evidence and suppresses redundancy. Experiments on MIMIC-CXR show that TALON outperforms the current state-of-the-art method on various clinical efficacy and graph-based metrics. When more prior examinations become available, TALON's performance on these metrics improves even further, emphasizing the strength of TALON's DCTFM in modeling longitudinal RRG across longer and more complex patient histories than existing approaches.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "4bbb20557fe9d143",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simulation of LLMs as Discharge Educators",
+      "link": "https://arxiv.org/abs/2609.20827",
+      "summary": "arXiv:2609.20827v1 Announce Type: new \nAbstract: Hospital discharge education is an interactive teaching task: a clinician adapts a discharge plan to a patient's literacy, recall, and personality. Existing LLM evaluations target static or artifact-generation tasks and do not measure patient understanding under open-ended dialogue. We introduce DischargeBench, a persona-grounded simulation in which a candidate LLM educator conducts a multi-turn session with a Virtual Patient, while an Education Monitor Agent regulates patient realism without modifying the educator, protecting the evaluation signal. We curate MIMIC-IV-Ext-DischargeBench, 477 cases over 24 ICD chapters with persona axes (personality, education level, health literacy, past-medical-history recall) for stratified analysis. Each simulation is scored on four axes -- Conversation Quality, Topic Checklist, Comprehension, and Factual Consistency -- by an LLM-as-a-Judge aligned against physician annotations. Across closed- and open-source LLMs, aggregate scores conceal clinically relevant variation across ICD chapters and patient personas; difficult personas expose coverage failures, comprehension gaps, and reduced source-answer agreement. LLM evaluation for discharge education should center patient understanding, not text quality or answer accuracy alone.",
+      "published": "2026-09-21T04:00:00",
+      "_id": "062c72dee8c2e815",
+      "_scraped_at": "18:00"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR",
+      "link": "https://arxiv.org/abs/2609.20828",
+      "summary": "arXiv:2609.20828v1 Announce Type: new \nAbstract: ASR systems optimised for Word Error Rate (WER) often miss named entities and filled pauses in accented conversational English, both critical for language-learning feedback. We present a three-stage pipeline for speakers from India, Indonesia, and Latin America: (1) heuristic SQL filters curating entity-rich training data at 2.8x the entity density of random sampling, (2) regional LoRA adapters fine-tuned on Qwen2.5-Omni-3B producing both verbatim and corrected transcripts in a single forward pass, and (3) a six-category error taxonomy validated by an LLM-based judge (83.8% agreement, 210 human-labelled samples). The pipeline achieves 80-85% entity recall (up from 53-55%), 76-86% filler recall (up from <5%), and 6-10% WER across 6k test utterances, outperforming Whisper and a commercial ASR on entity recall while matching a zero-shot 30B model with 10x fewer parameters. Paired bootstrap tests confirm that curation alone accounts for 2.8-4.2 pp of entity recall gain (p<0.0001).",
+      "published": "2026-09-21T04:00:00",
+      "_id": "90db2a7f68011623",
+      "_scraped_at": "18:00"
+    }
+  ],
+  "seen_ids": [
+    "b085c7f1762bfee8",
+    "c8b7580d0a35361c",
+    "736f424f3d22ba22",
+    "10538c022345675d",
+    "6f49c5d5f15c863f",
+    "feacb1c4ff8cc40f",
+    "a51d145ffe436938",
+    "c6c980f43615d715",
+    "062c72dee8c2e815",
+    "cdae21d54eb9a6bb",
+    "eb2c237bde8f9194",
+    "ae2a66f3c360fd17",
+    "af663fb37f5db847",
+    "d4d5ee4044c0fe9d",
+    "3c53544af87c504f",
+    "bb2a4ca945b83a92",
+    "a78c507f1894ed6f",
+    "8514f90cdc7cb7db",
+    "9324cdb31b1d3f4e",
+    "a24da9b4fbe345bc",
+    "8964eed3da707780",
+    "2ddb015e5a611170",
+    "7cd5365733ad83d6",
+    "7754d0f907349b50",
+    "be16463205a84a3c",
+    "ab5bab3508a25ffb",
+    "d2871d486c61275a",
+    "2f8d9b98fc157bb3",
+    "171ccd7c3fad0b3d",
+    "402d2c3ed07a904f",
+    "5b504c59a76cf1e0",
+    "90db2a7f68011623",
+    "08ffdb24bebd9aa2",
+    "61cc2ddd884999e1",
+    "9abe70756d1def10",
+    "693b3130e25cc880",
+    "8ed1599eb95bc766",
+    "658f98e3c9afdd9e",
+    "4bbb20557fe9d143",
+    "a4ae64181a987247",
+    "f772ce1a428d0046",
+    "73b7e92d1b039b14",
+    "5ec4e61a2a5169eb",
+    "3f5d6f808ce7c8f2",
+    "8b01dd9a86759fd5",
+    "a60ae563fc52947b",
+    "693823a542ab6ff1",
+    "dbb1206fab0dec85",
+    "8314ef7303d703cf",
+    "034d418e9c5e6af5",
+    "a34d58b87503fec2",
+    "ccac89f4eb5bfe6c",
+    "d07a997428c2fe7e",
+    "745308b2b7085095",
+    "4138778ebbc75ba6",
+    "0dfad3aeacd5dd7f",
+    "636171f75a62feda",
+    "7517c50358dbe9ce",
+    "ce3bf530c35576de",
+    "46d0cb7f45a73d2c",
+    "0061eb03c7077918",
+    "a3c8e138d995ff55",
+    "1e093ca6c99ebecc",
+    "03adfb64fbd190e6",
+    "a8482f18a45413c7",
+    "4d25e9c309de29a5",
+    "38701d43e7dcee06",
+    "863001221a0509f1"
+  ],
+  "last_run": "18:00",
+  "run_count": 1
+}
