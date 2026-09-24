@@ -1,0 +1,709 @@
+{
+  "date": "2026-09-24",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "published": "2026-09-23T16:00:00",
+      "_id": "52e46e8371e1f699",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "published": "2026-09-23T13:00:00",
+      "_id": "9328fa400dd37e6b",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "published": "2026-09-23T12:00:00",
+      "_id": "347b65ce144a221e",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "published": "2026-09-23T12:00:00",
+      "_id": "52b80abd4e046c04",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "published": "2026-09-23T12:00:00",
+      "_id": "f2ff7f7605612041",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "summary": "Google Beam promotional animation",
+      "published": "2026-09-23T18:00:00",
+      "_id": "1ccf342131e2aeec",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": "",
+      "published": "2026-09-23T18:41:40",
+      "_id": "30aa7c0acfe7f380",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+      "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it […]",
+      "published": "2026-09-23T15:00:32",
+      "_id": "4ab32af44318036a",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "published": "2026-09-23T02:30:22",
+      "_id": "8adbfc6aa0bd150c",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "Science Claude discovers a novel enzyme system with CRISPR-like repeats Sep 23, 2026 We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists. Many discoveries that have revolutionized biology and medicine started with a scientist noticing something odd in the staggering diversity of molecular machines found in nature. Restriction enzymes , proteins that cut DNA at specific short sequences , were found in bacterial immune systems, where they destroy the DNA of invading viruses. Researchers realized they could use these enzymes to cut DNA at chosen places and splice genes from one organism into another, which launched the biotechnology industry. Taq polymerase, an enzyme that copies DNA at high temperatures, was identified in a bacterium in a Yellowstone hotspring. It became the basis for PCR, the DNA-copying method used in much of modern diagnostics. CRISPR was first noticed as an unusual repeat sequence in the DNA of certain bacteria, and is now the foundation of gene editing-based medicines. In the spring of 2026, we formed a research group to see whether general AI models can systematize and accelerate such discoveries . We believe that this acceleration will come from establishing a new way of doing biology research, in which agents collaborate with humans in every step of the process. Developing this new way of working required that we build our own lab and a single team working on everything from training Claude in biology to running experiments in the lab. Today, we’re sharing early results from one of our first researc",
+      "published": "",
+      "_id": "ef1b3a4772eab837",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "Announcements Partnering with Accenture on embedded evaluation Sep 18, 2026 We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO’s essay “We Must Pace the Frontier,” to embed evaluators within Anthropic. The partnership will be led by Faculty, Accenture’s specialist AI business, and will include evaluating and red-teaming models, conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments deploy AI across many industries. Their understanding of how enterprises use AI in practice informs their safety approach, and they will bring that perspective to evaluating our models. Anthropic and Accenture each expect to invest at least $1 billion in building capacity in this area over the next five years. Embedded evaluation is new, and many of the details about how it will operate are still being worked out. Unlike today’s external evaluators, embedded evaluators will work inside AI companies, with access comparable to an employee's. That access allows them to watch models take shape in training, follow the decisions that govern how those models are built and deployed, and speak directly to employees. From this vantage point, embedded evaluators can assess how a company operates, verify that it is keeping its safety commitments, and identify blind spots. They can also report incidents and give the public a more informed account of benefits and risks. To be clear, independent embedded evaluators do not reduce our accountability, but help to make it more verifiable. The safety of our models remains our responsibility. There are, as yet, no standards for what information embedded evaluators should have access to, or how they should report what they find. There is also no settled system for funding independent evaluation. Long-term, we think funding should come from pooled or government sources, as we called for in our Advanced AI Framework in June.",
+      "published": "",
+      "_id": "5ec4e61a2a5169eb",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "summary": "Announcements Introducing the Life Sciences Verification Program Sep 17, 2026 Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing. It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight. Once verified, teams may apply for two types of LSVP grants, “Standard Use” or “High-risk Use,” depending on their access needs. These grants can be used through all our product surfaces, including Claude Science , Claude.ai , Claude Code and the API. Standard Use grants are suitable for most life science work, including the majority of biology research and development workflows. These grants can be extended to entire teams for diverse, daily workloads, and are renewed once a year. They give those teams access to our Mythos, Opus, and Sonnet models, with refined classifiers that are more permissive for science tasks than our generally available models. Standard Use grants apply to Mythos 5.1, Opus 5, and Sonnet 5 today, and to future models as they launch. They’re specific",
+      "published": "",
+      "_id": "a3c8e138d995ff55",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Announcements Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing process",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "published": "2026-09-23T23:39:44",
+      "_id": "866c5688bd798c2c",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "published": "2026-09-23T22:17:39",
+      "_id": "48a9d95577c8df72",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "published": "2026-09-23T19:31:28",
+      "_id": "7863c4c666f333fd",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "published": "2026-09-23T17:00:00",
+      "_id": "abf255ad4a758cd6",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "published": "2026-09-23T16:49:58",
+      "_id": "ed4850b45c810ba6",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Verge",
+      "title": "Muse is coming to Meta smart glasses",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
+      "published": "2026-09-23T23:40:56",
+      "_id": "e68a9b7de2f889c8",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and […]",
+      "published": "2026-09-23T23:37:17",
+      "_id": "a5e35ea59f8666fd",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse […]",
+      "published": "2026-09-23T23:19:42",
+      "_id": "a7f787561644ed83",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users […]",
+      "published": "2026-09-23T22:45:00",
+      "_id": "7a402970f4ce9b22",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+      "published": "2026-09-23T22:30:00",
+      "_id": "d3441858b1eb9b41",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "published": "2026-09-22T19:45:47",
+      "_id": "5e8b60d2c8d4e6ee",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "summary": "The English hospitals recovered patient care data only.",
+      "published": "2026-09-22T16:55:40",
+      "_id": "06a24bbfdddcaa32",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place…",
+      "published": "2026-09-23T17:10:11",
+      "_id": "9f31100e2816829f",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had…",
+      "published": "2026-09-23T12:10:00",
+      "_id": "4076149ed37bb27b",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "published": "2026-09-23T09:00:00",
+      "_id": "28f1d4284b374828",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Smart glasses are already causing havoc in India",
+      "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
+      "published": "2026-09-23T09:00:00",
+      "_id": "4823db3d94022056",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…",
+      "published": "2026-09-22T13:42:05",
+      "_id": "bae54219cda11cde",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "published": "2026-09-23T23:42:44",
+      "_id": "fc402e9d4078a25d",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Wired",
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "published": "2026-09-23T21:00:00",
+      "_id": "0ba7d36ce15f86ec",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "published": "2026-09-23T18:30:00",
+      "_id": "0df77a2c7ee39dce",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Wired",
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "published": "2026-09-23T18:03:00",
+      "_id": "368c46d5118ccb8c",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "published": "2026-09-23T12:54:58",
+      "_id": "19b65fcfc7ce6bce",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Information",
+      "title": "Amazon’s New AI Offer Reflects Discounting Surge",
+      "link": "https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge",
+      "summary": "Have we gone full circle on AI pricing? A bunch of tech firms are throwing around discounts and free offers for AI products, with Amazonon Wednesday announcingthat merchants selling on its shopping site will get a year’s free use of its Quick Plus AI assistant product. Microsoft, meanwhile, is discounting Copilot AI subscriptions heavily, wereported Tuesday night. Both offers are part ofa wave of discountingby various software firms and AI labs such as OpenAI.We keep hearing from tech executives about the transformative nature of AI. And yet there’s clearly some resistance among businesses to paying full price for it, which seems a bit of an issue given how much money it is costing to build out the infrastructure for running AI on a mass scale. Something has to give. As Apollo Global Management’s chief economist, Torsten Slok, noted in his daily email on Monday, credit investors are buying bonds of the hyperscalers—a reference to cloud firms—right now on the assumption that their operating cash flow will triple between 2025 and 2030. “If this doesn’t happen, then the risk is that the AI trade weakens, with credit spreads widening, capex plans getting cut,” Slok wrote.",
+      "published": "2026-09-24T00:01:00",
+      "_id": "3af0fb3b40d30699",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Information",
+      "title": "Meta Announces New Retail Partnerships for Agent Muse",
+      "link": "https://www.theinformation.com/briefings/meta-announces-new-retail-partnerships-agent-muse",
+      "summary": "Meta Platforms announced partnerships with Walmart and other retailers for its AI agent Muse days after e-commerce giant Amazonblocked the personalized agentfrom accessing its shopping site.At Meta’s annual Connect conference on Wednesday, Chief AI officer Alexandr Wang said the company is ...",
+      "published": "2026-09-23T23:59:15",
+      "_id": "d6db02fc17ca2467",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "The Information",
+      "title": "Blackstone Exec Says Big Unknowns Remain For AI Credit Demand",
+      "link": "https://www.theinformation.com/briefings/blackstone-exec-says-big-unknowns-remain-ai-credit-demand",
+      "summary": "Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...",
+      "published": "2026-09-23T22:11:53",
+      "_id": "b9f785d99a0c6d02",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "summary": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt, same skills — you choose where it runs. Important Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — for review by a qualified professional. They do not make investment recommendations, execute transactions, bind risk, post to a ledger, or approve onboarding; every output is staged for human sign-off. You are responsible for verifying outputs and for compliance with the laws and regulations that apply to your firm. What's in the repo: Agents — named, end-to-end workflow agents (Pitch Agent, Market Researcher, GL Reconciler, …). Each ships as a Cowork plugin and as a Claude Managed Agent template you deploy via /v1/agents . Vertical plugins — the underlying skills, slash commands, and data connectors, bundled by FSI vertical. Install these on their own if you just want /comps , /dcf , /earnings and the connectors without a full agent. Agents Each agent is named for the workflow it runs. They're starting points: install the ones that match your work, then tune the prompts, skills, and connectors to how your firm does it. Each agent plugin is self-contained — it bundles the skills it uses, so installing the agent is all you need. Function Agent What it does Coverage & advisory Pitch Agent Comps, precedents, LBO → branded pitch deck, end to end Meeting Prep Agent Briefing pack before every client meeting Research & modeling Market Researcher Sector or theme → industry overview, competitive landscape, peer comps, ideas shortlist Earnings Reviewer Earnings",
+      "published": "",
+      "_id": "eb2c237bde8f9194",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "google /ax",
+      "link": "https://github.com/google/ax",
+      "summary": "AX Warning We are still actively refining our core concepts, protocols,\nand specifications. We will likely to introduce major breaking\nchanges prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale. AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. # task.yaml apiVersion : ax.io/v1alpha1 kind : Workspace metadata : name : golang spec : git :\n    - repo : https://github.com/golang/go.git branch : \" my-fix \" --- apiVersion : ax.io/v1alpha1 kind : Task metadata : name : test spec : workspaces :\n    - name : golang goal : \" Ensure that Go tool chain is available and is built from source \" debug : true # lets you `ax ssh` into the sandbox Then apply it, watch it come up, and look over the agent's shoulder: ax apply -f task.yaml\nax watch task test ax ssh test -- ls -al /workspace Why? Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They accumulate state, need strict isolation, call out to model APIs and tool servers, and can burn money in a loop if nobody is watching. AX gives you four small primitives that handle all of that declaratively: You want to... AX gives you Run untrusted agent code in an isolated sandbox with CPU/memory limits Task Pre-wire Git repos, MCP servers, and skill packages so every agent starts warm Workspace Lock outbound traffic down to an explicit host allowlist Gateway Configure which LLM the platform itself uses, with credentials from a Kubernetes secret Model Pause an idle agent and pick up exactly where it left off ax suspend / ax resume Shell into a running agent to see what it is doing ax ssh Everything is expressed as ax.io/v1alpha1 man",
+      "published": "",
+      "_id": "5e86437385f3c70e",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "davila7 /claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "summary": "Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. # Install the Bright Data Skills + MCP for Claude Code npx claude-code-templates@latest --skill web-data/search,web-data/scrape,web-data/data-feeds,web-data/bright-data-mcp,web-data/bright-data-best-practices,development/brightdata-local-search --mcp web-data/brightdata --yes Claude Code Templates ( aitmpl.com ) Ready-to-use configurations for Anthropic's Claude Code. A comprehensive collection of AI agents, custom commands, settings, hooks, external integrations (MCPs), and project templates to enhance your development workflow. Browse & Install Components and Templates Browse All Templates - Interactive web interface to explore and install 100+ agents, commands, settings, hooks, and MCPs. 🚀 Quick Installation # Install a complete development stack npx claude-code-templates@latest --agent development-team/frontend-developer --command testing/generate-tests --mcp development/github-integration --yes # Browse and install interactively npx claude-code-templates@latest # Install specific components npx claude-code-templates@latest --agent development-tools/code-reviewer --yes\nnpx claude-code-templates@latest --command performance/optimize-bundle --yes\nnpx claude-code-templates@latest --setting performance/mcp-timeouts --yes\nnpx claude-code-templates@latest --hook git/pre-commit-validation --yes\nnpx claude-code-templates@latest --mcp database/postgresql-integration --yes What You Get Component Description Examples 🤖 Agents AI specialists for specific domains Security auditor, React performance optimizer, database architect ⚡ Commands Custom slash commands /generate-tests , /optimize-bundle , /check-security 🔌 MCPs External service integrations GitHub, PostgreSQL, Stripe, AWS, OpenAI ⚙️ Settings Claude Code configurations Timeouts, memory settings, output styles 🪝 Hooks Automation trigger",
+      "published": "",
+      "_id": "25bff0b4a0ece6bc",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "BuilderIO /agent-native",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "summary": "Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start npx --yes @agent-native/core@latest create my-agent --standalone --template chat Follow the getting started guide for a full intro to the framework. Why build agents with UIs? Coding agents work with more than a text box. Their environment provides context, tools, files, tests, and previews that make their capabilities and results visible. Knowledge work needs that same kind of environment. A UI shows what an agent can do and gives people familiar ways to inspect, edit, approve, and share its work. How Agent-Native works Shared actions . The agent calls each capability as a tool, and the UI calls it from code. Both paths use the same validation, permissions, and implementation. Shared data . Work done by the agent appears in the UI, and work done in the UI is available to the agent. Shared application state . The agent receives relevant UI state, such as the current page, selected record, or active view. The agent does not click through the UI. It works through the same action layer as the UI. Example: a shared action Create actions/hello.ts : import { defineAction } from \"@agent-native/core/action\" ; import { z } from \"zod\" ; // One action powers every app surface: UI, agent, HTTP, MCP, A2A, and CLI. export default defineAction ( { description : \"Return a friendly greeting.\" , schema : z . object ( { name : z . string ( ) . default ( \"world\" ) . describe ( \"Name to greet\" ) , } ) , http : { method : \"GET\" } , run : async ( { name } ) => { return { message : `Hello, ${ name } !` } ; } , } ) ; The agent receives hello as a tool. React calls the same function with useActionQuery(\"hello\", { name: \"Alex\" }) . Agent-Native also exposes it through HTTP, MCP, A2A, and the CLI. Included Agent chat : Let people delegate work, as",
+      "published": "",
+      "_id": "745308b2b7085095",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code Hermes Agent Muse The Basic Workflow When Something Goes Wrong Community What's Inside Philosophy Contributing Updating License Visual companion telemetry How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for your agent to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Commercial Services If you're using Superpowers in enterprise and could benefit from commercial support, additional tooling, or managed spending, please don't hesitate to drop us a line at sales@primeradiant.com . Installation Installation dif",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "dream-num /univer",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering,\na formula engine, and one Facade API that works in the browser and on Node.js. English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Español 🌐 Website | 📖 Documentation | ✨ Showcase | 📘 API Reference | 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences without forcing you into a hosted app or a fixed UI. Use Univer when you need to: Embed spreadsheet or document editing into a SaaS product, internal tool, BI workflow, or AI application. Run workbook/document processing on the server with the same architecture used in the browser. Compose only the features you need through plugins or start quickly with presets. Extend behavior through custom plugins, commands, services, UI components, and Facade APIs. Univer is not a spreadsheet file viewer only. It is a framework for building your own productivity surface. Across the Univer product family , Office tools share a runtime for storage and computation. Content can be composed and embedded across tools, with linked data and references updating together. People and AI agents can work in the same files. See the capability matrix for product coverage and Open Source and Pro for this repository's scope. Built with Univer Office SDK These open-source projects are built with Univer Office SDK: Project Description Univer Workspace An Office workspace for people and AI agents, with shared editing and review of agent changes. Univer Office for DeepSeek Harness An Office plugin for DeepSeek Harness with connected content, validation, and isolated worktrees for agent collaboration. Univer CLI A local command-line workspace for agents to create, edit, ins",
+      "published": "",
+      "_id": "d148e3d2c2843c2b",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "Open-Dev-Society /OpenStock",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society. This project is licensed under AGPL-3.0; if you modify, redistribute, or deploy it (including as a web service), you must release your source code under the same license and credit the original authors. OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. Note: OpenStock is community-built and not a brokerage. Market data may be delayed based on provider rules and your configuration. Nothing here is financial advice. 📋 Table of Contents ✨ Introduction 🌍 Open Dev Society Manifesto ⚙️ Tech Stack 🔋 Features 🤸 Quick Start 🐳 Docker Setup 🔐 Environment Variables 🧱 Project Structure 📡 Data & Integrations 🌍 Market Support 🧪 Scripts & Tooling 🤝 Contributing 🛡️ Security 📜 License 🙏 Acknowledgements ✨ Introduction OpenStock is a modern stock market app powered by Next.js (App Router), shadcn/ui and Tailwind CSS, Better Auth for authentication, MongoDB for persistence, Finnhub for market data, and TradingView widgets for charts and market views. 🌍 Open Dev Society Manifesto We live in a world where knowledge is hidden behind paywalls. Where tools are locked in subscriptions. Where information is twisted by bias. Where newcomers are told they’re not “good enough” to build. We believe there’s a better way. Our Belief: Technology should belong to everyone. Knowledge should be open, free, and accessible. Communities should welcome newcomers with trust, not gatekeeping. Our Mission: Build free, open-source projects that make a real difference: Tools that professionals and students can use without barriers. Knowledge platforms where learning is free, forever. Communities where every beginner is guided, not judged. Resources that run on trust, not profit. Our Promise",
+      "published": "",
+      "_id": "dbb1206fab0dec85",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "agent-substrate /substrate",
+      "link": "https://github.com/agent-substrate/substrate",
+      "summary": "Agent Substrate NOTE: This is not an officially supported Google product. This project is not\neligible for the Google Open Source Software Vulnerability Rewards Program . What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of autonomous agents, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. It supports multiple sandbox technologies including microVMs and gVisor, enabling consistent lifecycle operations for all sandbox types. At its core, Agent Substrate maps a larger set of “actors” (applications such as agents) onto a smaller set of ready “workers”, relying on the fact that agent-like applications tend to be idle most of the time to achieve heavy multiplexing.  It provides functionality to manage an actor’s lifecycle (e.g. create/destroy, suspend/resume), to assign actors to workers in real time, and to route incoming traffic to them. Agent Substrate is intended to be a low-opinion system.  The workloads it manages don't have to be literal AI agents, but those are the best example of the kind of applications it is designed for.  It is not an SDK for building agents, but rather a system for running them at scale. Agent Substrate leverages Kubernetes for the infrastructure provisioning and worker lifecycle management (Kubernetes Pods). It builds on top of Kubernetes features like Pods and Pod autoscaling, while Agent Substrate provides agent-specific scheduling and control to achieve lower latency. Using Kubernetes as the underlying system enables consistent infrastructure management across all workloads types that are required for end to end agentic deployments and allows holistic infrastructure optimizations for RL scenarios that span agentic, inference and training cycles. Demo Watch the Agent Substrate cl",
+      "published": "",
+      "_id": "a5ffcd0a46dd44fd",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "strands-agents /harness-sdk",
+      "link": "https://github.com/strands-agents/harness-sdk",
+      "summary": "Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScript. Choose Strands when you would otherwise write your own agent loop: it runs in your process with no hosted control plane, and it covers the jobs a hand-rolled loop grows into. In one SDK you get lifecycle controls (turn limits, token budgets, cancellation, stop reasons), tools and structured output , MCP , multi-agent patterns , memory and sessions , model portability , streaming , guardrails , tracing , and evals . This monorepo contains Strands harness, the Python and TypeScript SDKs, the documentation site, and supporting packages: Directory Description harness-py/ Python Strands harness: fully assembled agent via create_harness() ( PyPI · docs ) harness-ts/ TypeScript Strands harness: fully assembled agent via createHarness() ( npm · docs ) strands-cli/ strands CLI: prototype and chat with a harness agent from the terminal ( npm ) strands-py/ Python SDK: agent loop, model providers, tools ( PyPI · releases ) strands-ts/ TypeScript SDK: agent loop, model providers, tools ( npm · releases ) site/ Source for the strandsagents.com documentation site (Astro/Starlight) team/ Governance and cross-SDK process docs (tenets, decisions, PR & compatibility guidelines, and designs/ proposals) Why Strands Build an agent harness. Control it end-to-end. Build your way. Any model, any cloud. Context management, execution limits, and observability built in before you write a line of config. Swap backends when you scale; your code stays the same. Model agnostic. First-class support for Amazon Bedrock, Anthropic, OpenAI, and Gemini, plus many more providers and custom ones. Stay in control. The agent loop traces every decision by default. Hooks let you intercept any step to log it, validate it, or redirect it. Deliver outcomes that work. Guardrails cat",
+      "published": "",
+      "_id": "aee9f0d16c69308f",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "GitHub",
+      "title": "HKUDS /CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip install cli-anything-hub then cli-hub install <name> — browse, install, and manage all community-built CLIs. Want to add your own? Open a PR — the hub updates instantly. 🎬 See Demos : Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI] : Join us ! Sign up to build a new CLI harness — once reviewed and merged, you'll gain access as one of our community contributors! Wish CLI-Anything supported a specific software or service? Submit a wishlist request ! One Command Line : Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch 📰 News Thanks to all invaluable efforts from the community! More updates continuously on the way everyday.. 2026-05-30 🧭 Hermes skill proposed (#320), adding a CLI-Anything orchestration skill with installer scripts and HARNESS fallback guidance. 🗺️ ArcGIS Pro was proposed for the public registry (#318) as a Windows/ArcPy CLI for cartography, geoprocessing, feature editing, and live-Pro MCP workflows. 2026-05-27 🔧 CLI-Hub registry date updates now handle python -m pip install commands (#312), improving package-date detection for registry automation. 2026-05-23 📝 Obsidian Agent CLI was proposed for the public registry (#307), bringing a PyPI-installed Obsidian automation CLI with persistent agent memory workflows and a pinned skill link. 2026-05-21 🔒 Sketch CLI token-file handling was hardened against path traversal and symlink escapes (#304). 2026-05-20 📓 Joplin CLI was proposed (#300) with notebooks, notes, to-dos, tags, attachments, search/sync, import/export, server/E2EE helpers, full docs, packaged skill docs, and a 134-te",
+      "published": "",
+      "_id": "5dd922e14c0ccf9b",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude's Load-Bearing Seams",
+      "link": "https://madradavid.com/claudes-load-bearing-seams/",
+      "summary": "Article URL:https://madradavid.com/claudes-load-bearing-seams/Comments URL:https://news.ycombinator.com/item?id=49822864Points: 97# Comments: 39",
+      "published": "2026-09-23T21:31:04",
+      "_id": "b8bc472e7ac16de7",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Once Claude can measure something, it can make it faster",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "summary": "Article URL:https://claude.dev/blog/how-we-made-claude-ai-faster/Comments URL:https://news.ycombinator.com/item?id=49821196Points: 137# Comments: 90",
+      "published": "2026-09-23T19:23:40",
+      "_id": "49491069707aafe8",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 text-to-speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "Article URL:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/Comments URL:https://news.ycombinator.com/item?id=49817615Points: 236# Comments: 118",
+      "published": "2026-09-23T15:29:23",
+      "_id": "b1f9c7a504c77281",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "link": "https://drivingbench.com/",
+      "summary": "Article URL:https://drivingbench.com/Comments URL:https://news.ycombinator.com/item?id=49817404Points: 267# Comments: 220",
+      "published": "2026-09-23T15:14:22",
+      "_id": "2a3e3e3335c207cb",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stripe's Knowledge AI Platform",
+      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "summary": "Article URL:https://stripe.dev/blog/meet-stripes-knowledge-ai-platformComments URL:https://news.ycombinator.com/item?id=49815982Points: 168# Comments: 105",
+      "published": "2026-09-23T13:38:00",
+      "_id": "69839069a6e7ae54",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "Article URL:https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/Comments URL:https://news.ycombinator.com/item?id=49814947Points: 437# Comments: 243",
+      "published": "2026-09-23T12:15:33",
+      "_id": "b63975ba8e12264d",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "summary": "Article URL:https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/Comments URL:https://news.ycombinator.com/item?id=49809806Points: 51# Comments: 63",
+      "published": "2026-09-22T23:46:07",
+      "_id": "e78be4774342acdb",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Ass Bench",
+      "link": "https://www.assbench.com/",
+      "summary": "Article URL:https://www.assbench.com/Comments URL:https://news.ycombinator.com/item?id=49807688Points: 164# Comments: 45",
+      "published": "2026-09-22T20:34:19",
+      "_id": "c3593d1247a7cbfc",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "https://archive.ph/0V37gComments URL:https://news.ycombinator.com/item?id=49806430Points: 886# Comments: 492",
+      "published": "2026-09-22T19:03:38",
+      "_id": "a5b36cacee49813f",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "NeurIPS Author Notifications Tomorrow [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wo3kr4/neurips_author_notifications_tomorrow_d/",
+      "summary": "With NeurIPS author notifications coming up, I’m realizing that I’m way more stressed than I expected to be.I know the usual advice: reviews are noisy, one paper doesn’t define your research, there are always other venues, I completely understand all of that. But apparently my brain has decided that none of it matters.For anyone else waiting for the author notification: how are you holding up?And for people who have been through this before, does the stress actually get better after a few conference cycles, or do you just become better at pretending you’re not stressed? 😭submitted by/u/alaskatoz[link][comments]",
+      "published": "2026-09-23T11:39:23",
+      "_id": "17e9ea15517066d1",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
+      "summary": "play herePlay games like poker, risk, diplomacy with friends or alone against AI models, guess what, you can talk to them and change strategies and outcomes. itss fun!submitted by/u/Expert_Cobbler8984[link][comments]",
+      "published": "2026-09-22T16:49:55",
+      "_id": "42c803c334c120f1",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "link": "https://arxiv.org/abs/2609.25010",
+      "summary": "arXiv:2609.25010v1 Announce Type: new \nAbstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of copy before it ships, encouraged by evidence that profile-conditioned LLMs mimic human samples. But is that prediction actually valid against real behaviour - and does the persona machinery help? We present a sim-to-real validity study using the Upworthy Research Archive - thousands of headline A/B tests on shared real traffic, with measured click-through - as held-out ground truth. We compare a ten-persona panel, grounded in the real audience's demographics, against a no-persona zero-shot baseline that simply asks the model how likely a typical reader is to click. Two findings stand out. First, ground-truth reliability is the binding constraint: most A/B tests have no statistically distinguishable winner, so validity can only be measured on the reliable subset (n = 399). Second, and counter to the persona-simulation premise, persona conditioning degrades predictive validity: the no-persona baseline ranks variants markedly better (Kendall {\\tau} = 0.361, a medium effect; top-1 accuracy 49.2%) than the persona panel ({\\tau} = 0.084; top-1 34.6%), with non-overlapping confidence intervals. Asking the model directly taps an accurate population-level prior; forcing it to role-play specific personas injects bias and noise. The result replicates across three independent Upworthy splits, holds in direction on a different-domain news dataset, and is robust to seed, prompt phrasing, and model choice - across three Gemini tiers and a different model family (OpenAI gpt-4.1, significant paired gap). The takeaway: for predicting aggregate engagement, a plain LLM ranker beats persona simulation - synthetic personas are not merely a weak predictor, they are worse than not using them. All numbers regenerate from a public, artifact-first replication package.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "cd0add822f77eee7",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "link": "https://arxiv.org/abs/2609.25013",
+      "summary": "arXiv:2609.25013v1 Announce Type: new \nAbstract: Tabular foundation models have recently shown strong potential for structured biomedical data analysis. Among them, TabPFN has emerged as an effective approach for low-data tabular classification tasks. However, the impact of optimization and preconditioning strategies on biomedical fine-tuning remains largely unexplored. In this work, we present a comprehensive empirical investigation of five AdamW-based preconditioning strategies for fine-tuning TabPFN v2.5 on 59 biomedical datasets spanning Alzheimer's disease, breast cancer, schizophrenia, significant memory concern (SMC), KEEL biomedical datasets, and UCI biomedical benchmarks. The evaluation considers predictive performance, computational efficiency, and statistical significance analysis. Experimental results demonstrate that the original AdamW optimizer consistently achieves the best overall performance and statistical ranking, while existing curvature-aware preconditioners fail to provide reliable improvements across diverse biomedical learning scenarios. The findings suggest that generic preconditioning approaches may not adequately capture the optimization characteristics of biomedical tabular learning, motivating the development of biomedical-aware preconditioners specifically tailored for healthcare-oriented tabular foundation models.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "2e239ad19f4a313d",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2609.25036",
+      "summary": "arXiv:2609.25036v1 Announce Type: new \nAbstract: Dynamic Gaussian Splatting provides an explicit representation of evolving 3D scenes, but existing approaches are primarily optimized for reconstruction, future-state generation, or rendering rather than for learning reusable predictive dynamics. We propose 4DGS-JEPA, a Gaussian-native joint-embedding predictive architecture for causal multi-horizon prediction over dynamic Gaussian scenes. The model uses a hierarchical scene-, motion-group-, and Gaussian-level representation together with a horizon-conditioned transition operator that supports both direct prediction and recursive rollout. Its central principle is temporal composition: different chronological transition paths reaching the same future endpoint should produce compatible predictive states. Endpoint and multi-horizon path supervision anchor these predictions to future target embeddings, while a selective geometry decoder and geometry-level composition ground the learned dynamics in consistent group motion and Gaussian geometry without requiring complete future appearance reconstruction. We further introduce a hybrid correspondence mechanism that combines persistent canonical identity with residual optimal-transport matching under reordering and topology change. We characterize zero-loss path agreement and finite-error rollout accumulation theoretically. Three controlled experiments provide mechanism-level evidence that temporal composition reduces latent path dependence while retaining predictive accuracy, geometry-level composition improves consistency of decoded motion, and hybrid correspondence preserves reliable identity while remaining robust when correspondence becomes ambiguous. Together, 4DGS-JEPA provides a predictive, temporally compositional formulation of dynamic Gaussian worlds.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "15b70219de3986c7",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "link": "https://arxiv.org/abs/2609.25088",
+      "summary": "arXiv:2609.25088v1 Announce Type: new \nAbstract: Survival prediction for glioblastoma multiforme (GBM) demands models that are both accurate and interpretable, yet existing approaches treat these objectives as com- peting, where performant models sacrifice transparency, while interpretable models accept degraded predictive power. We argue that this trade-off is not inherent. Graph neural net- works offer a structural foundation for extracting interpretable, explainable representations without compromising discriminative ability. Furthermore, current methods typically rely on a single imaging modality, underutilizing the complementary information available across multi-modal MRI and clinical metadata. We propose a multi-modal framework that inte- grates three components to address both objectives simultaneously: (1) a sheaf hypergraph neural network that captures higher-order relationships among tissue patches through direc- tional, asymmetric message passing; (2) a concept bottleneck layer that compresses learned representations into clinically grounded concepts, enforcing ante-hoc interpretability; and (3) an extension sufficiency test (EST) regularizer that penalizes unfaithful explanations during training, ensuring that model explanations genuinely reflect the internal decision process. Clinical and genomic features are incorporated through gated fusion, preserving the dominant prognostic signal of molecular markers while retaining concept-level traceabil- ity. Evaluated on 593 patients from the UPenn-GBM dataset under 5-fold cross-validation, our framework achieves a concordance index of 0.643 with the lowest fold-level variance among all compared models (std = 0.015). To our knowledge, this is the first work to unify sheaf hypergraph convolution, concept bottleneck supervision, and EST regularization for interpretable survival prediction from brain MRI",
+      "published": "2026-09-23T04:00:00",
+      "_id": "d7093029fa98861c",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "link": "https://arxiv.org/abs/2609.25165",
+      "summary": "arXiv:2609.25165v1 Announce Type: new \nAbstract: In this report, we introduce \\textbf{Ovis-Embedding}, a state-of-the-art omni-modal embedding family built on native integration of text, image, video, and audio. Instead of assembling separate modality towers, Ovis-Embedding uses a shared multimodal backbone to encode different modalities in a common representation space. Specifically, we make \\textbf{three key advances}: (1) \\textbf{native omni-modal initialization}: we adopt a pretrained Qwen-omni model as the embedding backbone and adapt it through contrastive training with low-rank initialization; (2) \\textbf{data-centric omni-modal training}: we construct a broad, high-quality corpus spanning text, images, video, audio, and interleaved multimodal data. To improve data efficiency, we introduce homogeneous-source sampling to form task-consistent batches with informative in-batch negatives; and (3) \\textbf{embedding-specific training and inference optimization}: we use focal loss to emphasize hard examples and similarity-based Embedding Distillation to transfer fine-grained similarity structure from complementary experts. At inference time, low-rank feature decomposition enables compact embeddings with flexible dimensionality and minimal performance loss. Empirical evaluations show that the \\textbf{Ovis-Embedding} family achieves state-of-the-art performance on \\textbf{MMEB-v3}, \\textbf{MMEB-v2}, \\textbf{MVEB}, \\textbf{MAEB}, and \\textbf{RTEB}, demonstrating its effectiveness across text, image, video, and audio modalities. These results highlight the potential of unified omni-modal training to overcome modality fragmentation and advance universal embedding models for any-to-any retrieval.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "29fb40e0a1abacf7",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus",
+      "link": "https://arxiv.org/abs/2609.25006",
+      "summary": "arXiv:2609.25006v1 Announce Type: new \nAbstract: Text classifiers trained on the ISOT/Kaggle \"Fake and Real News\" corpus routinely report accuracy and F1 above 0.98, a level of performance that sits uneasily beside the difficulty of assessing veracity. Using a transparent TF-IDF and linear-classifier pipeline as a measurement instrument, we audit the corpus along three leakage channels and two distribution-shift protocols, releasing all code and derived numbers. First, the benchmark is partly degenerate: a classifier given only the subject metadata field, with the article text discarded, attains F1 = 1.000, since the two classes have disjoint subjects. Second, removing all three leakage channels, metadata, a newswire source tag present in 99.2% of real articles, and 6,251 duplicate documents contaminating 19.4% of a naive test split, lowers F1 by only 1.21 points (0.9935 to 0.9814); the residual signal is diffuse editorial style rather than a few giveaway tokens, since deleting the 1,000 highest-weight unigrams still leaves F1 = 0.926. Third, this style signal does not transfer: under a topic-disjoint protocol, average precision falls from 0.9995 to 0.9475 and deployed F1 from 0.9905 to 0.8067, with a prior-matched analysis confirming a genuine 5.2-point loss of discrimination, while temporal transfer is nearly lossless. A fine-tuned DistilBERT is stronger in-distribution (F1 = 0.9993) but degrades far more under topic shift, losing 12.9 average-precision points against the linear model's 5.2. Transferred to the independent LIAR benchmark, all three models fall to near-chance ranking (ROC-AUC 0.54-0.57), none beating a majority-class baseline. We conclude that within-corpus scores here quantify source and topic separability rather than veracity, that added capacity exploits the shortcut rather than avoiding it, and we recommend metadata-only, small-sample, and topic-disjoint baselines as inexpensive diagnostics for future work.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "df765a9bbd015ff6",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Training a Language Model End-to-End in Rust: An Experience Report",
+      "link": "https://arxiv.org/abs/2609.25008",
+      "summary": "arXiv:2609.25008v1 Announce Type: new \nAbstract: I pretrained a language model end-to-end in Rust - alone, with no team, no PyTorch, and no Python in the training path - for $164 in rented GPU time. I report that as an achievement, not a recommendation: the more useful contribution is a measured failure taxonomy of the two leading Rust ML frameworks, Candle and Burn, as training (not inference) backends in 2026. I document five Candle defects, including fused kernels that silently produce no gradient, and three Burn defects, including a backward pass at roughly 3% of theoretical GPU throughput and a kernel-fusion path that segfaults mid-training at multi-billion-parameter scale. Every one passed ordinary loss-curve inspection; none announced itself. I describe the verification discipline that caught six such silent failures, centered on a gradient-flow arbiter: a test that runs one forward/backward pass and asserts every trainable parameter receives a finite, nonzero gradient, generalizable to any framework. The trained model (roughly 0.4B parameters, Bangla-first) shows strong Bangla language-modeling signal - a per-token negative log-likelihood of 0.93 against 12.60 for a random-initialized twin - while scoring at chance on English commonsense multiple-choice, the expected outcome of a deliberately small, Bangla-weighted budget (about 2 billion tokens, 54.6 hours, one rented H100). I also report a tokenizer-fertility trap in Bengali script: naive byte-level tokenization collapsed Bangla to roughly 1.4 characters per token against English's 3.9, silently inverting the corpus's language balance; fixing it reached roughly 4.1. To my knowledge, this is among the first documented end-to-end LM pretraining runs in pure Rust. After this run I moved training to PyTorch and kept Rust for on-device serving: in my hands, Rust is not yet a competitive place to train a language model, though it may be a good place to serve one.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "331c055c21d8f753",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Same Quantity, Different Answer: Numerical Representation Invariance in Language Models",
+      "link": "https://arxiv.org/abs/2609.25009",
+      "summary": "arXiv:2609.25009v1 Announce Type: new \nAbstract: Numerically equivalent word problems should yield the same canonical answer whether a quantity is written as a decimal, fraction, percentage, number word, scientific notation, or an exactly converted unit. We generate 3,600 exact-rational problems and 8,600 prompts spanning five identity-preserving transformation families, and evaluate five open-weight systems. After a fixed syntax audit that normalizes common answer forms without an LLM judge, canonical accuracy is 0.969-0.996, but orbit correctness falls to 0.848-0.981 and orbit invariance to 0.851-0.981; invariant-but-wrong orbits account for at most 0.003. Most of the broad strict-parser collapse arises because multiplication-form scientific notation lies outside the implemented number grammar, illustrating how evaluator interfaces can masquerade as reasoning failures. A distinct semantic pathology remains: Mistral Small 4 scores 0.699 on unit-converted inputs and produces 265 errors differing from the label by exact powers of ten. In a separate 9,000-call experiment that allocates equal calls to the compared arms, representation consensus does not outperform paraphrase consensus on a low-error subset and produces substantially more false alarms. The accompanying ancillary archive contains the frozen benchmark, evaluation and audit records, consensus raw responses, manifests, analysis code, and a one-command paper build.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "c73f10d46a94c5fc",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "A Computational Approach to Measuring Semantic Change in Sanskrit Literature",
+      "link": "https://arxiv.org/abs/2609.25012",
+      "summary": "arXiv:2609.25012v1 Announce Type: new \nAbstract: Diachronic word embeddings have become the modern standard for tracking semantic change, yet they have been largely validated on modern, high-resource, and well-segmented languages. This paper tests whether the paradigm transfers to Sanskrit, an ancient, low-resource language whose phonological fusion (sandhi), morphological inflection, compounding, and polysemy pose a unique challenge. I assemble a 2.7M-token corpus spanning four canonical periods, recover word boundaries with a neural byte-level sandhi splitter and lemmatizer, and train per-period embeddings across configurations. To evaluate the system, I curate a validation set from historical scholarship and test recovery directionally with anchor displacement. Of 21 testable shifts, 19 move in the philologically attested direction (sign test, p=0.00011). I further show which configuration the language forces and comment on opportunities for improvement.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "55c80a71f47659fa",
+      "_scraped_at": "00:03"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Retrieved-Span Training for Efficient Query-Focused Meeting Summarization on QMSum",
+      "link": "https://arxiv.org/abs/2609.25028",
+      "summary": "arXiv:2609.25028v1 Announce Type: new \nAbstract: QMSum provides no scorer, making query-focused meeting summarization results difficult to compare. We rescore or generate 15 systems under one implementation. Through a common inference port, a released 406M Fusion-in-Decoder specialist loses 6.30 ROUGE-1 when moved from capped long input to 2,000-word retrieved spans. Fine-tuning it on this span regime recovers the loss. On test it scores 36.33 ROUGE-1 versus 35.41 for our 1.2B system; the meeting-cluster 95% interval for the difference is [-0.27, +2.22], so QMSum does not statistically separate them. The smaller system uses about one-third as many total parameters and less than half the peak inference memory. Within the fixed 1.2B base, span-regime fine-tuning adds 5.29 [+4.02, +6.56], while replacing the first 4,500 transcript words with 2,000 retrieved words adds 1.55 on test and 0.29 on validation. Separately, under one concise prompt and reference-overlap scorer, a released 406M specialist exceeds five proprietary hosted models by at least 6.2 ROUGE-1, but output length and absent human or factuality evaluation limit this ordering. Conclusions are limited to QMSum and automatic metrics.",
+      "published": "2026-09-23T04:00:00",
+      "_id": "4a1e7050ecc40538",
+      "_scraped_at": "00:03"
+    }
+  ],
+  "seen_ids": [
+    "a5ffcd0a46dd44fd",
+    "15b70219de3986c7",
+    "d148e3d2c2843c2b",
+    "1ccf342131e2aeec",
+    "ed4850b45c810ba6",
+    "4a1e7050ecc40538",
+    "dbb1206fab0dec85",
+    "8adbfc6aa0bd150c",
+    "347b65ce144a221e",
+    "49491069707aafe8",
+    "f2ff7f7605612041",
+    "9328fa400dd37e6b",
+    "a5b36cacee49813f",
+    "a3c8e138d995ff55",
+    "abf255ad4a758cd6",
+    "4076149ed37bb27b",
+    "8ed1599eb95bc766",
+    "5e8b60d2c8d4e6ee",
+    "4823db3d94022056",
+    "7863c4c666f333fd",
+    "69839069a6e7ae54",
+    "0df77a2c7ee39dce",
+    "b1f9c7a504c77281",
+    "eb2c237bde8f9194",
+    "d3441858b1eb9b41",
+    "e68a9b7de2f889c8",
+    "4ab32af44318036a",
+    "5e86437385f3c70e",
+    "bae54219cda11cde",
+    "52e46e8371e1f699",
+    "b63975ba8e12264d",
+    "d7093029fa98861c",
+    "55c80a71f47659fa",
+    "25bff0b4a0ece6bc",
+    "28f1d4284b374828",
+    "19b65fcfc7ce6bce",
+    "745308b2b7085095",
+    "b8bc472e7ac16de7",
+    "a7f787561644ed83",
+    "aee9f0d16c69308f",
+    "df765a9bbd015ff6",
+    "7a402970f4ce9b22",
+    "a5e35ea59f8666fd",
+    "9f31100e2816829f",
+    "b085c7f1762bfee8",
+    "5ec4e61a2a5169eb",
+    "30aa7c0acfe7f380",
+    "17e9ea15517066d1",
+    "cd0add822f77eee7",
+    "48a9d95577c8df72",
+    "d6db02fc17ca2467",
+    "29fb40e0a1abacf7",
+    "0ba7d36ce15f86ec",
+    "e78be4774342acdb",
+    "b9f785d99a0c6d02",
+    "06a24bbfdddcaa32",
+    "c73f10d46a94c5fc",
+    "5dd922e14c0ccf9b",
+    "368c46d5118ccb8c",
+    "3af0fb3b40d30699",
+    "8c6014a36ca90e3f",
+    "c3593d1247a7cbfc",
+    "42c803c334c120f1",
+    "52b80abd4e046c04",
+    "ef1b3a4772eab837",
+    "2e239ad19f4a313d",
+    "331c055c21d8f753",
+    "866c5688bd798c2c",
+    "2a3e3e3335c207cb",
+    "fc402e9d4078a25d"
+  ],
+  "last_run": "00:03",
+  "run_count": 1
+}
