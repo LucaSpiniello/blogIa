@@ -1,0 +1,699 @@
+{
+  "date": "2026-09-25",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "published": "2026-09-23T16:00:00",
+      "_id": "52e46e8371e1f699",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "published": "2026-09-23T13:00:00",
+      "_id": "9328fa400dd37e6b",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "summary": "Google Beam promotional animation",
+      "published": "2026-09-23T18:00:00",
+      "_id": "1ccf342131e2aeec",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "summary": "",
+      "published": "2026-09-24T14:08:57",
+      "_id": "280bf64dcca75cee",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": "",
+      "published": "2026-09-23T18:41:40",
+      "_id": "30aa7c0acfe7f380",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start.  To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google […]",
+      "published": "2026-09-24T14:00:50",
+      "_id": "d1e7107e863f4f8a",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate membership through Sunday, Sept. 27, and receive […]",
+      "published": "2026-09-24T13:00:36",
+      "_id": "508df2c327e98967",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+      "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it […]",
+      "published": "2026-09-23T15:00:32",
+      "_id": "4ab32af44318036a",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 23, 2026ScienceClaude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "Science Claude discovers a novel enzyme system with CRISPR-like repeats Sep 23, 2026 We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists. Many discoveries that have revolutionized biology and medicine started with a scientist noticing something odd in the staggering diversity of molecular machines found in nature. Restriction enzymes , proteins that cut DNA at specific short sequences , were found in bacterial immune systems, where they destroy the DNA of invading viruses. Researchers realized they could use these enzymes to cut DNA at chosen places and splice genes from one organism into another, which launched the biotechnology industry. Taq polymerase, an enzyme that copies DNA at high temperatures, was identified in a bacterium in a Yellowstone hot spring. It became the basis for PCR, the DNA-copying method used in much of modern diagnostics. CRISPR was first noticed as an unusual repeat sequence in the DNA of certain bacteria, and is now the foundation of gene editing-based medicines. In the spring of 2026, we formed a research group to see whether general AI models can systematize and accelerate such discoveries . We believe that this acceleration will come from establishing a new way of doing biology research, in which agents collaborate with humans in every step of the process. Developing this new way of working required that we build our own lab and a single team working on everything from training Claude in biology to running experiments in the lab. Today, we’re sharing early results from one of our first resear",
+      "published": "",
+      "_id": "ef1b3a4772eab837",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 18, 2026AnnouncementsPartnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "Announcements Partnering with Accenture on embedded evaluation Sep 18, 2026 We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO’s essay “We Must Pace the Frontier,” to embed evaluators within Anthropic. The partnership will be led by Faculty, Accenture’s specialist AI business, and will include evaluating and red-teaming models, conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments deploy AI across many industries. Their understanding of how enterprises use AI in practice informs their safety approach, and they will bring that perspective to evaluating our models. Anthropic and Accenture each expect to invest at least $1 billion in building capacity in this area over the next five years. Embedded evaluation is new, and many of the details about how it will operate are still being worked out. Unlike today’s external evaluators, embedded evaluators will work inside AI companies, with access comparable to an employee's. That access allows them to watch models take shape in training, follow the decisions that govern how those models are built and deployed, and speak directly to employees. From this vantage point, embedded evaluators can assess how a company operates, verify that it is keeping its safety commitments, and identify blind spots. They can also report incidents and give the public a more informed account of benefits and risks. To be clear, independent embedded evaluators do not reduce our accountability, but help to make it more verifiable. The safety of our models remains our responsibility. There are, as yet, no standards for what information embedded evaluators should have access to, or how they should report what they find. There is also no settled system for funding independent evaluation. Long-term, we think funding should come from pooled or government sources, as we called for in our Advanced AI Framework in June.",
+      "published": "",
+      "_id": "5ec4e61a2a5169eb",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program",
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "summary": "Announcements Introducing the Life Sciences Verification Program Sep 17, 2026 Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is designed to enable life science professionals to use our models across a wide range of tasks that are currently blocked in our generally available Fable models, like drug discovery, research biology, clinical development, and manufacturing. It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight. Once verified, teams may apply for two types of LSVP grants, “Standard Use” or “High-risk Use,” depending on their access needs. These grants can be used through all our product surfaces, including Claude Science , Claude.ai , Claude Code and the API. Standard Use grants are suitable for most life science work, including the majority of biology research and development workflows. These grants can be extended to entire teams for diverse, daily workloads, and are renewed once a year. They give those teams access to our Mythos, Opus, and Sonnet models, with refined classifiers that are more permissive for science tasks than our generally available models. Standard Use grants apply to Mythos 5.1, Opus 5, and Sonnet 5 today, and to future models as they launch. They’re specific",
+      "published": "",
+      "_id": "a3c8e138d995ff55",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry. Solving the dilemma of frontier security Mythos-class models, like Claude Fable 5.1 , represent a major increase in intelligence and agentic capabilities. However, with that increase comes the potential for both misuse and autonomous misbehavior. Over the last few months, we’ve seen substantial evidence of attempted misuse of AI models. These range from typical forms of abuse, such as fraud, to sophisticated cyberattacks, which can include agents autonomously engaging in destructive behavior. Some of these instances involve theft or misappropriation of enterprise customers’ credentials, which are difficult to detect without the ability to monitor traffic and detect abnormal behavior. Furthermore, because the most sophisticated misuse can involve many tasks spread across multiple sessions and accounts, it is not sufficient to run automated analysis on each interaction separately and then instantaneously discard the data. Effective detection requires storing data for a meaningful period of time so that it ",
+      "published": "",
+      "_id": "b085c7f1762bfee8",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Aug 31, 2026AnnouncementsImproving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Announcements Improving our alignment and security efforts Aug 31, 2026 On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been deliberately given internet access. We are conducting an in-depth analysis of both incidents. We are also planning to work with METR for an independent review. We want to ensure both studies are thorough, and will share more in the coming weeks. In the meantime, we’re sharing some of the changes we’ve made over the past month. We believe the incidents reflect a failure of operational security, as well as two alignment issues: motivated reasoning, and willingness to take harmful actions in pursuit of a narrow task (both of which we have described in previous system cards). On security, we describe the improvements we’ve made to our containment and monitoring systems, along with practices that we’ve developed for third-party evaluators. On alignment, we discuss the two issues more in depth; we also believe lasting progress comes not only from understanding what happened in a given incident but from understanding how misalignment arises in the first place, and we share early research in that direction . In light of these incidents there has been increasing discussion about pacing the frontier. It is helpful to distinguish between two kinds of pacing. Within a company, pacing means a series of decisions that prioritize safety over speed when the two are in tension. Across the field, it means establishing process",
+      "published": "",
+      "_id": "8ed1599eb95bc766",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "published": "2026-09-24T19:15:00",
+      "_id": "4317c9e267fddff2",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "published": "2026-09-24T19:00:42",
+      "_id": "30290d8cdac77d28",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "published": "2026-09-24T18:11:44",
+      "_id": "8e953b62eee23ddb",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "published": "2026-09-24T17:39:24",
+      "_id": "c55e075bb2c7402e",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "published": "2026-09-24T17:00:00",
+      "_id": "f97969c5d20fd4ba",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Verge",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]",
+      "published": "2026-09-24T19:59:26",
+      "_id": "4b0e8d72e3ff9980",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the […]",
+      "published": "2026-09-24T18:04:44",
+      "_id": "bcb31d434ed42cb8",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in […]",
+      "published": "2026-09-24T17:52:29",
+      "_id": "d0c09943ed7a0f81",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Verge",
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on […]",
+      "published": "2026-09-24T17:14:12",
+      "_id": "16dae4c7c5cb5aa1",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Verge",
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been […]",
+      "published": "2026-09-24T17:10:38",
+      "_id": "dac80f12a88a9c0a",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+      "published": "2026-09-24T11:15:44",
+      "_id": "89e5f2bb8136d425",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
+      "published": "2026-09-24T12:10:00",
+      "_id": "6aa4503b1ddc911c",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI is dominating the conversation at Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+      "published": "2026-09-24T10:00:00",
+      "_id": "a7b74187f674b93d",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place…",
+      "published": "2026-09-23T17:10:11",
+      "_id": "9f31100e2816829f",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had…",
+      "published": "2026-09-23T12:10:00",
+      "_id": "4076149ed37bb27b",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Wired",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "published": "2026-09-24T19:36:35",
+      "_id": "b88a2ffc0090ca59",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Wired",
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "published": "2026-09-24T16:00:00",
+      "_id": "a43f20f5212762d5",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Wired",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "published": "2026-09-24T10:46:56",
+      "_id": "b1db7d7804a77754",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "published": "2026-09-23T23:42:44",
+      "_id": "fc402e9d4078a25d",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Wired",
+      "title": "A US-China AI Hotline Won’t Be Ready for a While",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "published": "2026-09-23T21:00:00",
+      "_id": "0ba7d36ce15f86ec",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Information",
+      "title": "Why Meta’s Moment in the AI Sun Won’t Last",
+      "link": "https://www.theinformation.com/articles/metas-moment-ai-sun-last",
+      "summary": "If Meta Platforms wants to raise money by selling equity, now is the time. Meta shares have gone on an incredible run lately, jumping 27% since Sept. 8, when the company released its Muse personal AI agent. Meta stock is now up 18% so far this year, a bigger gain than that for Alphabet, Amazon or Microsoft—quite the turnaround for a company that not too long ago was in Wall Street’s doghouse for its seemingly out-of-control AI spending.It’s no secret why investors have fallen back in love with Meta—the company has done a good job of marketing Muse, prompting lots of glowing reviews and headlines about app downloads. Wednesday’s Connect conference, where Meta CEO Mark Zuckerberg unveiled new virtual reality and AI hardware—including a device called Charm designed around Muse—appears to have reinforced the positive sentiment. But let’s not overinterpret the current state of play. In AI, no one stays on top for very long.",
+      "published": "2026-09-25T00:00:45",
+      "_id": "550514055b5ed20f",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Information",
+      "title": "Anthropic Seeks Palantir-Style Voting Control for Seven Co-Founders Ahead of IPO",
+      "link": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo",
+      "summary": "Anthropicis asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders a special class of shares giving them collective voting control in most corporate matters, according to people familiar with the planning.The new arrangement, which emulates a founder-control structure at Palantir, would grant the co-founders a combined 50.1% of voting power, as long as three of the seven co-founders retain a minimum number of shares in the company, one of the people said. It would mark a major change in Anthropic’s already unusual governance structure, strengthening the clout of a group of founders who own relatively small stakes against the prospect of pressure from outside shareholders once it goes public.",
+      "published": "2026-09-24T21:53:48",
+      "_id": "e38db7929e1725a2",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "The Information",
+      "title": "Databricks Acquires  Microsoft Excel Competitor Row Zero",
+      "link": "https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero",
+      "summary": "Databricks isacquiringRow Zero, a five-year-old Microsoft Excel competitor that sells spreadsheet software that’s designed for analyzing massive amounts of data.The deal could help Databricks attract more non-technical users to Genie, a chatbot it launched last summer that lets business ...",
+      "published": "2026-09-24T21:38:22",
+      "_id": "a75631100fa61adc",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "rohitg00 /ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-translated on the translations branch. See docs/i18n.md . From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of students already use AI tools. Only 18% feel prepared to use them\nprofessionally. This curriculum closes that gap. 523 lessons. 20 phases. ~342 hours. Python, TypeScript, Rust, Julia. Every lesson ships\na reusable artifact: a prompt, a skill, an agent, an MCP server. Free, open source, MIT. You don't just learn AI. You build it. End-to-end. By hand. 114,584 readers  · 181,995 page views in the last 30 days  ·  as of 2026-08-29 Start here: choose what you want to build You do not need to scan 523 lessons before beginning. Pick one goal. Each link\nopens the same curriculum on GitHub or the website, and both versions use the\nsame lesson code. Your goal Learn on GitHub Learn on the website I am new and want the complete foundation Phase 0: Setup and Tooling Dev Environment I know Python and want math plus ML foundations Phase 1: Math Foundations Linear Algebra Intuition I want to build production LLM applications Phase 11: LLM Engineering Prompt Engineering I want to build agents Phase 14: Agent Engineering The Agent Loop I want to use coding agents on real repositories Agent-Assisted Engineering path Agent-Assisted Engineering I want to shape the right build before implementation Product Judgment and Delivery path Product Judgment and Delivery I want to build with Model Context Protocol (MCP) Model Context Protocol (MCP) route Model Context Protocol (MCP) path I want to write and ship Agent Skills Focused Agent Skills route Agent Skills path I want to prepare for a Claude certif",
+      "published": "",
+      "_id": "7b553354eb544407",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "vectorize-io /hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "summary": "Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember. hindsight-learning-demo.mp4 It eliminates the shortcomings of alternative techniques such as RAG and knowledge graph and delivers state-of-the-art performance on long term memory tasks. Contents Memory Performance & Accuracy Quick Start — server · clients · platforms · embedded Adding Hindsight to Your Agent — LLM Wrapper · integrations · coding agents · MCP Core Concepts — memory types · retain / recall / reflect · observations · mental models & knowledge pages · banks Use Cases Running in Production Resources Memory Performance & Accuracy Hindsight is the most accurate agent memory system ever tested according to benchmark performance. It has achieved state-of-the-art performance on the LongMemEval benchmark, widely used to assess memory system performance across a variety of conversational AI scenarios. The current reported performance of Hindsight and other agent memory solutions as of January 2026 is shown here: Live, continuously updated results — including per-model accuracy, latency and cost — are published at benchmarks.hindsight.vectorize.io . The benchmark performance data for Hindsight has been independently reproduced by research collaborators at the Virginia Tech Sanghani Center for Artificial Intelligence and Data Analytics and The Washington Post. Other scores are self-reported by software vendors. Hindsight is being used in production at Fortune 500 enterprises and by a growing number of AI startups. 🤖 Using a coding agent? Install the Hindsight documentation skill for instant access to docs while you code: npx skills add https://github.com/vectorize-io/hindsight --skill hindsight-docs Works with Claude Code, Cursor, and other AI c",
+      "published": "",
+      "_id": "ef1d62b18b98cdd0",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "dream-num /univer",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering,\na formula engine, and one Facade API that works in the browser and on Node.js. English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Español 🌐 Website | 📖 Documentation | ✨ Showcase | 📘 API Reference | 📝 Blog ✨ What is Univer? Univer is an open-source SDK for creating office applications inside your own product. It gives you the building blocks for spreadsheet, document, and presentation experiences without forcing you into a hosted app or a fixed UI. Use Univer when you need to: Embed spreadsheet or document editing into a SaaS product, internal tool, BI workflow, or AI application. Run workbook/document processing on the server with the same architecture used in the browser. Compose only the features you need through plugins or start quickly with presets. Extend behavior through custom plugins, commands, services, UI components, and Facade APIs. Univer is not a spreadsheet file viewer only. It is a framework for building your own productivity surface. Across the Univer product family , Office tools share a runtime for storage and computation. Content can be composed and embedded across tools, with linked data and references updating together. People and AI agents can work in the same files. See the capability matrix for product coverage and Open Source and Pro for this repository's scope. Build a collaborative tool with Univer Office SDK Watch the demo Built with Univer Office SDK Featured example: Univer Workspace Univer Workspace is an open-source, self-hostable workspace built on Univer Office SDK, where people and AI agents create, collaborate on, and review Office content. Developers can use the complete implementation as a reference, learn how to integrate the SDK, and build their own products. Agents can generate spreadsheet-",
+      "published": "",
+      "_id": "d148e3d2c2843c2b",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "google /ax",
+      "link": "https://github.com/google/ax",
+      "summary": "AX Warning We are still actively refining our core concepts, protocols,\nand specifications. We will likely to introduce major breaking\nchanges prior to a stable release. Declare an agentic task with workspaces and model specifications. AX sandboxes it, wires up its workspace, and helps running it at scale. AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster. If you have used Kubernetes, ax will feel similar. # task.yaml apiVersion : ax.io/v1alpha1 kind : Workspace metadata : name : golang spec : git :\n    - repo : https://github.com/golang/go.git branch : \" my-fix \" --- apiVersion : ax.io/v1alpha1 kind : Task metadata : name : test spec : workspaces :\n    - name : golang goal : \" Ensure that Go tool chain is available and is built from source \" debug : true # lets you `ax ssh` into the sandbox Then apply it, watch it come up, and look over the agent's shoulder: ax apply -f task.yaml\nax watch task test ax ssh test -- ls -al /workspace Why? Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They accumulate state, need strict isolation, call out to model APIs and tool servers, and can burn money in a loop if nobody is watching. AX gives you three small primitives that handle all of that declaratively: You want to... AX gives you Run untrusted agent code in an isolated sandbox with CPU/memory limits Task Pre-wire Git repos, MCP servers, and skill packages so every agent starts warm Workspace Configure which LLM the platform itself uses, with credentials from a Kubernetes secret Model Pause an idle agent and pick up exactly where it left off ax suspend / ax resume Shell into a running agent to see what it is doing ax ssh Everything is expressed as ax.io/v1alpha1 manifests and applied with a single command. Quick start 1. Install the CLI go install gi",
+      "published": "",
+      "_id": "5e86437385f3c70e",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "NVIDIA /Model-Optimizer",
+      "link": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Optimizer (referred to as Model Optimizer , or ModelOpt ) is a library comprising state-of-the-art model optimization techniques including quantization, pruning, Neural Architecture Search (NAS), distillation, speculative decoding and sparsity to accelerate models. [Input] Model Optimizer currently supports inputs of a Hugging Face , PyTorch or ONNX model. [Optimize] Model Optimizer provides Python APIs for users to easily compose the above model optimization techniques and export an optimized quantized checkpoint.\nModel Optimizer is also integrated with NVIDIA Megatron-Bridge , Megatron-LM and Hugging Face Accelerate for training required inference optimization techniques. [Export for deployment] Seamlessly integrated within the NVIDIA AI software ecosystem, the quantized checkpoint generated from Model Optimizer is ready for deployment in downstream inference frameworks like SGLang , TensorRT-LLM , TensorRT , or vLLM . The unified Hugging Face export API now supports both transformers and diffusers models. Latest News [2026/09/16] End-to-end W4A4 NVFP4 + QAD tutorial for Qwen3.6-35B-A3B : NVFP4 W4A4 PTQ plus quantization-aware distillation, reaching up to 1.30x vLLM throughput over BF16 and 3.1x smaller checkpoints while recovering the accuracy W4A4 costs. [2026/09/09] BLOG: Improving NVFP4 Accuracy with Local-Hessian Weight Scales [2026/08/24] BLOG: AutoQuantize: A Fast Automatic Mixed-Precision Assignment [2026/08/17] BLOG: Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer : Learn how quantization-aware distillation recovers accuracy from aggressive NVFP4 quantization while reducing model size and increasing throughput. [2026/06/26] BLOG: Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer : How we quantized Nemotron 3 Ultra (550B) to NVFP4 with Model Optimizer — up to 5.9× higher decode-heavy inference throughput than GLM-5.",
+      "published": "",
+      "_id": "a7d71b83b1ba51ba",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "FxEmbed /FxEmbed",
+      "link": "https://github.com/FxEmbed/FxEmbed",
+      "summary": "FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! twitter.com : Add fx before your twitter.com link x.com : Add fixup before your x.com link bsky.app : Add fx before your bsky.app link Documentation API Reference Self-Hosting Guide Docker FxEmbed is a Cloudflare Worker, so the Docker image runs the local Workers runtime through Wrangler rather than starting a plain Node.js server. The image uses node:24-bookworm-slim because Wrangler's workerd binary is glibc-linked and does not run reliably on Alpine/musl. Before building, copy and edit the local configuration files if you need custom domains, branding, or credentials: cp .env.example .env\ncp wrangler.example.toml wrangler.toml\ncp branding.example.json branding.json Build and run with Docker Compose: docker compose up -d --build The worker listens on http://localhost:8787 . Because FxEmbed routes by the Host header, test a specific realm like this: curl -H \" Host: fxtwitter.com \" -H \" User-Agent: Discordbot/2.0 \" \" http://localhost:8787/user/status/123 \" You can also open http://localhost:8787/ without a Host header to see the local realm prefixes. Environment variables from .env are bundled during the Docker build, so rebuild the image after changing domain lists or other build-time configuration: docker compose up -d --build Runtime secrets such as CREDENTIAL_KEY and EXCEPTION_DISCORD_WEBHOOK can be supplied through your shell or Compose .env file. Stop the service with: docker compose down Licensed under the permissive MIT license. Feel free to send a pull request! Star History Bugs or issues? Feel free to open an issue Additional Credits Mosaic Multi-image combiner by Antonio32A and improved by Syfaro , Deer Spangle , and dangered wolf Everyone else who has contributed to the main project! Disclaimer Twitter, Tweet, and X are trademarks of X Corp. This project is not affiliated in any way with X Corp or Twitter.",
+      "published": "",
+      "_id": "ca551e0b58940496",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "summary": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt, same skills — you choose where it runs. Important Nothing in this repository constitutes investment, legal, tax, or accounting advice. These agents draft analyst work product — models, memos, research notes, reconciliations — for review by a qualified professional. They do not make investment recommendations, execute transactions, bind risk, post to a ledger, or approve onboarding; every output is staged for human sign-off. You are responsible for verifying outputs and for compliance with the laws and regulations that apply to your firm. What's in the repo: Agents — named, end-to-end workflow agents (Pitch Agent, Market Researcher, GL Reconciler, …). Each ships as a Cowork plugin and as a Claude Managed Agent template you deploy via /v1/agents . Vertical plugins — the underlying skills, slash commands, and data connectors, bundled by FSI vertical. Install these on their own if you just want /comps , /dcf , /earnings and the connectors without a full agent. Agents Each agent is named for the workflow it runs. They're starting points: install the ones that match your work, then tune the prompts, skills, and connectors to how your firm does it. Each agent plugin is self-contained — it bundles the skills it uses, so installing the agent is all you need. Function Agent What it does Coverage & advisory Pitch Agent Comps, precedents, LBO → branded pitch deck, end to end Meeting Prep Agent Briefing pack before every client meeting Research & modeling Market Researcher Sector or theme → industry overview, competitive landscape, peer comps, ideas shortlist Earnings Reviewer Earnings",
+      "published": "",
+      "_id": "eb2c237bde8f9194",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "HKUDS /CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip install cli-anything-hub then cli-hub install <name> — browse, install, and manage all community-built CLIs. Want to add your own? Open a PR — the hub updates instantly. 🎬 See Demos : Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more. 🙋 [Become a Contributor, or Request a CLI] : Join us ! Sign up to build a new CLI harness — once reviewed and merged, you'll gain access as one of our community contributors! Wish CLI-Anything supported a specific software or service? Submit a wishlist request ! One Command Line : Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch 📰 News Thanks to all invaluable efforts from the community! More updates continuously on the way everyday.. 2026-05-30 🧭 Hermes skill proposed (#320), adding a CLI-Anything orchestration skill with installer scripts and HARNESS fallback guidance. 🗺️ ArcGIS Pro was proposed for the public registry (#318) as a Windows/ArcPy CLI for cartography, geoprocessing, feature editing, and live-Pro MCP workflows. 2026-05-27 🔧 CLI-Hub registry date updates now handle python -m pip install commands (#312), improving package-date detection for registry automation. 2026-05-23 📝 Obsidian Agent CLI was proposed for the public registry (#307), bringing a PyPI-installed Obsidian automation CLI with persistent agent memory workflows and a pinned skill link. 2026-05-21 🔒 Sketch CLI token-file handling was hardened against path traversal and symlink escapes (#304). 2026-05-20 📓 Joplin CLI was proposed (#300) with notebooks, notes, to-dos, tags, attachments, search/sync, import/export, server/E2EE helpers, full docs, packaged skill docs, and a 134-te",
+      "published": "",
+      "_id": "5dd922e14c0ccf9b",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvt-project /mvt",
+      "link": "https://github.com/mvt-project/mvt",
+      "summary": "Mobile Verification Toolkit Important We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: #757 Mobile Verification Toolkit (MVT) is a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices. It has been developed and released by the Amnesty International Security Lab in July 2021 in the context of the Pegasus Project along with a technical forensic methodology . It continues to be maintained by Amnesty International and other contributors. Note MVT is a forensic research tool intended for technologists and investigators. It requires understanding digital forensics and using command-line tools. This is not intended for end-user self-assessment. If you are concerned with the security of your device please seek reputable expert assistance. Indicators of Compromise MVT supports using public indicators of compromise (IOCs) to scan mobile devices for potential traces of targeting or infection by known spyware campaigns. This includes IOCs published by Amnesty International and other  research groups. Warning Public indicators of compromise are insufficient to determine that a device is \"clean\", and not targeted with a particular spyware tool. Reliance on public indicators alone can miss recent forensic traces and give a false sense of security. Reliable and comprehensive digital forensic support and triage requires access to non-public indicators, research and threat intelligence. Such support is available to civil society through Amnesty International's Security Lab or through our forensic partnership with Access Now’s Digital Security Helpline . More information about using indicators of compromise with MVT is available in the documentation . Installation MVT can be installed from sources or from PyPI (you will need some dependencies, check the documentation ): pip3 in",
+      "published": "",
+      "_id": "8314ef7303d703cf",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code Hermes Agent Muse The Basic Workflow When Something Goes Wrong Community What's Inside Philosophy Contributing Updating License Visual companion telemetry How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for your agent to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Commercial Services If you're using Superpowers in enterprise and could benefit from commercial support, additional tooling, or managed spending, please don't hesitate to drop us a line at sales@primeradiant.com . Installation Installation dif",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "summary": "Article URL:https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0rComments URL:https://news.ycombinator.com/item?id=49831690Points: 69# Comments: 115",
+      "published": "2026-09-24T15:09:38",
+      "_id": "4f4b9447093a068c",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI safety is mostly a sex cult in Berkeley",
+      "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "summary": "Article URL:https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-inComments URL:https://news.ycombinator.com/item?id=49831269Points: 76# Comments: 17",
+      "published": "2026-09-24T14:38:31",
+      "_id": "088f1dd0df7f097c",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Best LLM for every budget, updated daily",
+      "link": "https://bestmodelforyourbudget.terrydjony.com/",
+      "summary": "Article URL:https://bestmodelforyourbudget.terrydjony.com/Comments URL:https://news.ycombinator.com/item?id=49830866Points: 163# Comments: 103",
+      "published": "2026-09-24T14:09:57",
+      "_id": "c3a56877fb9557c2",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "summary": "Article URL:https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-usComments URL:https://news.ycombinator.com/item?id=49829650Points: 111# Comments: 156",
+      "published": "2026-09-24T12:23:41",
+      "_id": "01ccbfab63254a3c",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "summary": "Article URL:https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073Comments URL:https://news.ycombinator.com/item?id=49829387Points: 132# Comments: 47",
+      "published": "2026-09-24T11:54:38",
+      "_id": "a9a0142404d9c278",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "Article URL:https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/Comments URL:https://news.ycombinator.com/item?id=49827794Points: 594# Comments: 355",
+      "published": "2026-09-24T08:23:03",
+      "_id": "d62537dec8a363bf",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "summary": "Article URL:https://transluce.org/agent-activityComments URL:https://news.ycombinator.com/item?id=49826565Points: 235# Comments: 222",
+      "published": "2026-09-24T05:21:10",
+      "_id": "e5a8f0f458eaba58",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "summary": "Article URL:https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreignComments URL:https://news.ycombinator.com/item?id=49824686Points: 371# Comments: 408",
+      "published": "2026-09-24T00:41:31",
+      "_id": "a124b92a0e6487f6",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "Article URL:https://artificialanalysis.ai/models/mercury-2-5Comments URL:https://news.ycombinator.com/item?id=49823348Points: 146# Comments: 89",
+      "published": "2026-09-23T22:16:19",
+      "_id": "097dfe5b1a77c69d",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude's Load-Bearing Seams",
+      "link": "https://madradavid.com/claudes-load-bearing-seams/",
+      "summary": "Article URL:https://madradavid.com/claudes-load-bearing-seams/Comments URL:https://news.ycombinator.com/item?id=49822864Points: 118# Comments: 49",
+      "published": "2026-09-23T21:31:04",
+      "_id": "b8bc472e7ac16de7",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "NeurIPS Accepted Papers are now visible [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
+      "summary": "I haven't received a notification about this -- but my paper just became visible as \"accepted\". I expect an email to come some time soon!Scores were 5-4-4.submitted by/u/levydawg[link][comments]",
+      "published": "2026-09-24T16:41:33",
+      "_id": "47304191f8826197",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Publication venue recommendations [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
+      "summary": "I am 5th year and have no published research so far. All my papers have been consistently rejected from top tier AI conferences even though they got good review scores in the process.Since graduating is my priority now, I am in search of decent venues (journal or conference does not matter at this point) where I can publish and complete my degree.Please do not recommend any more of those elitist club conferences like NeurIPS etc.Edit: my research is about efficient Generative AI.Any recommendations?submitted by/u/academic-targaryen[link][comments]",
+      "published": "2026-09-24T18:02:12",
+      "_id": "b65c73b2c5b626dd",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "NeurIPS Main Track Decision Emails are Sent [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
+      "summary": "Valid Main Track submissions:30709,Accepted: 7900,Oral: 112, Spotlight: 292 !!submitted by/u/Invariant_n_Cauchy[link][comments]",
+      "published": "2026-09-24T19:02:21",
+      "_id": "79d125a28284c77e",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "link": "https://arxiv.org/abs/2609.25010",
+      "summary": "arXiv:2609.25010v1 Announce Type: new \nAbstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of copy before it ships, encouraged by evidence that profile-conditioned LLMs mimic human samples. But is that prediction actually valid against real behaviour - and does the persona machinery help? We present a sim-to-real validity study using the Upworthy Research Archive - thousands of headline A/B tests on shared real traffic, with measured click-through - as held-out ground truth. We compare a ten-persona panel, grounded in the real audience's demographics, against a no-persona zero-shot baseline that simply asks the model how likely a typical reader is to click. Two findings stand out. First, ground-truth reliability is the binding constraint: most A/B tests have no statistically distinguishable winner, so validity can only be measured on the reliable subset (n = 399). Second, and counter to the persona-simulation premise, persona conditioning degrades predictive validity: the no-persona baseline ranks variants markedly better (Kendall {\\tau} = 0.361, a medium effect; top-1 accuracy 49.2%) than the persona panel ({\\tau} = 0.084; top-1 34.6%), with non-overlapping confidence intervals. Asking the model directly taps an accurate population-level prior; forcing it to role-play specific personas injects bias and noise. The result replicates across three independent Upworthy splits, holds in direction on a different-domain news dataset, and is robust to seed, prompt phrasing, and model choice - across three Gemini tiers and a different model family (OpenAI gpt-4.1, significant paired gap). The takeaway: for predicting aggregate engagement, a plain LLM ranker beats persona simulation - synthetic personas are not merely a weak predictor, they are worse than not using them. All numbers regenerate from a public, artifact-first replication package.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "cd0add822f77eee7",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "link": "https://arxiv.org/abs/2609.25013",
+      "summary": "arXiv:2609.25013v1 Announce Type: new \nAbstract: Tabular foundation models have recently shown strong potential for structured biomedical data analysis. Among them, TabPFN has emerged as an effective approach for low-data tabular classification tasks. However, the impact of optimization and preconditioning strategies on biomedical fine-tuning remains largely unexplored. In this work, we present a comprehensive empirical investigation of five AdamW-based preconditioning strategies for fine-tuning TabPFN v2.5 on 59 biomedical datasets spanning Alzheimer's disease, breast cancer, schizophrenia, significant memory concern (SMC), KEEL biomedical datasets, and UCI biomedical benchmarks. The evaluation considers predictive performance, computational efficiency, and statistical significance analysis. Experimental results demonstrate that the original AdamW optimizer consistently achieves the best overall performance and statistical ranking, while existing curvature-aware preconditioners fail to provide reliable improvements across diverse biomedical learning scenarios. The findings suggest that generic preconditioning approaches may not adequately capture the optimization characteristics of biomedical tabular learning, motivating the development of biomedical-aware preconditioners specifically tailored for healthcare-oriented tabular foundation models.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "2e239ad19f4a313d",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2609.25036",
+      "summary": "arXiv:2609.25036v1 Announce Type: new \nAbstract: Dynamic Gaussian Splatting provides an explicit representation of evolving 3D scenes, but existing approaches are primarily optimized for reconstruction, future-state generation, or rendering rather than for learning reusable predictive dynamics. We propose 4DGS-JEPA, a Gaussian-native joint-embedding predictive architecture for causal multi-horizon prediction over dynamic Gaussian scenes. The model uses a hierarchical scene-, motion-group-, and Gaussian-level representation together with a horizon-conditioned transition operator that supports both direct prediction and recursive rollout. Its central principle is temporal composition: different chronological transition paths reaching the same future endpoint should produce compatible predictive states. Endpoint and multi-horizon path supervision anchor these predictions to future target embeddings, while a selective geometry decoder and geometry-level composition ground the learned dynamics in consistent group motion and Gaussian geometry without requiring complete future appearance reconstruction. We further introduce a hybrid correspondence mechanism that combines persistent canonical identity with residual optimal-transport matching under reordering and topology change. We characterize zero-loss path agreement and finite-error rollout accumulation theoretically. Three controlled experiments provide mechanism-level evidence that temporal composition reduces latent path dependence while retaining predictive accuracy, geometry-level composition improves consistency of decoded motion, and hybrid correspondence preserves reliable identity while remaining robust when correspondence becomes ambiguous. Together, 4DGS-JEPA provides a predictive, temporally compositional formulation of dynamic Gaussian worlds.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "15b70219de3986c7",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "link": "https://arxiv.org/abs/2609.25088",
+      "summary": "arXiv:2609.25088v1 Announce Type: new \nAbstract: Survival prediction for glioblastoma multiforme (GBM) demands models that are both accurate and interpretable, yet existing approaches treat these objectives as com- peting, where performant models sacrifice transparency, while interpretable models accept degraded predictive power. We argue that this trade-off is not inherent. Graph neural net- works offer a structural foundation for extracting interpretable, explainable representations without compromising discriminative ability. Furthermore, current methods typically rely on a single imaging modality, underutilizing the complementary information available across multi-modal MRI and clinical metadata. We propose a multi-modal framework that inte- grates three components to address both objectives simultaneously: (1) a sheaf hypergraph neural network that captures higher-order relationships among tissue patches through direc- tional, asymmetric message passing; (2) a concept bottleneck layer that compresses learned representations into clinically grounded concepts, enforcing ante-hoc interpretability; and (3) an extension sufficiency test (EST) regularizer that penalizes unfaithful explanations during training, ensuring that model explanations genuinely reflect the internal decision process. Clinical and genomic features are incorporated through gated fusion, preserving the dominant prognostic signal of molecular markers while retaining concept-level traceabil- ity. Evaluated on 593 patients from the UPenn-GBM dataset under 5-fold cross-validation, our framework achieves a concordance index of 0.643 with the lowest fold-level variance among all compared models (std = 0.015). To our knowledge, this is the first work to unify sheaf hypergraph convolution, concept bottleneck supervision, and EST regularization for interpretable survival prediction from brain MRI",
+      "published": "2026-09-24T04:00:00",
+      "_id": "d7093029fa98861c",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "link": "https://arxiv.org/abs/2609.25165",
+      "summary": "arXiv:2609.25165v1 Announce Type: new \nAbstract: In this report, we introduce \\textbf{Ovis-Embedding}, a state-of-the-art omni-modal embedding family built on native integration of text, image, video, and audio. Instead of assembling separate modality towers, Ovis-Embedding uses a shared multimodal backbone to encode different modalities in a common representation space. Specifically, we make \\textbf{three key advances}: (1) \\textbf{native omni-modal initialization}: we adopt a pretrained Qwen-omni model as the embedding backbone and adapt it through contrastive training with low-rank initialization; (2) \\textbf{data-centric omni-modal training}: we construct a broad, high-quality corpus spanning text, images, video, audio, and interleaved multimodal data. To improve data efficiency, we introduce homogeneous-source sampling to form task-consistent batches with informative in-batch negatives; and (3) \\textbf{embedding-specific training and inference optimization}: we use focal loss to emphasize hard examples and similarity-based Embedding Distillation to transfer fine-grained similarity structure from complementary experts. At inference time, low-rank feature decomposition enables compact embeddings with flexible dimensionality and minimal performance loss. Empirical evaluations show that the \\textbf{Ovis-Embedding} family achieves state-of-the-art performance on \\textbf{MMEB-v3}, \\textbf{MMEB-v2}, \\textbf{MVEB}, \\textbf{MAEB}, and \\textbf{RTEB}, demonstrating its effectiveness across text, image, video, and audio modalities. These results highlight the potential of unified omni-modal training to overcome modality fragmentation and advance universal embedding models for any-to-any retrieval.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "29fb40e0a1abacf7",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
+      "link": "https://arxiv.org/abs/2609.26913",
+      "summary": "arXiv:2609.26913v1 Announce Type: new \nAbstract: No single Large Language Model (LLM) is uniformly reliable across queries, motivating multi-model inference systems that either route among models or combine their outputs. However, routing stops after selecting an initial model, while dense collaboration invokes peers on every query. We show that collaboration is non-monotonic: peers can recover failures that no model solves alone, but can also corrupt initially correct answers. We introduce COMED (Controlled Model Escalation for Multi-LLM Deliberation), a post-anchor controller for selective cross-model collaboration. COMED uses anchor self-consistency, router margin, and a lightweight peer probe to accept confident answers, verify ambiguous cases, and escalate only when collaboration is likely beneficial. We formalize this trade-off with a rescue-harm decomposition showing that selective collaboration improves when rescued errors outweigh collaboration-induced harms. Across medical, scientific, and general reasoning benchmarks, COMED improves fixed and routed anchors in all 16 open-weight settings, with gains up to +10.7 percentage points on MedQA while invoking fewer models and using fewer decoded tokens than dense collaboration. On HLE with frontier models, COMED improves GPT-5.5 from 23.1% to 28.1%, outperforming dense collaboration and achieving the best results.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "449a2bb4ef316043",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Experts Rise Where LLMs Disagree: Using Cross-Model Disagreement to Target Expert Effort in LLM Codebook Revision for Large-Scale Annotation",
+      "link": "https://arxiv.org/abs/2609.26926",
+      "summary": "arXiv:2609.26926v1 Announce Type: new \nAbstract: Large-scale text annotation brings expert insight to millions of documents, often through a codebook that AI annotators follow. Developing a robust codebook, however, takes months. Large language models (LLMs) could speed this process by applying an early codebook to the data, surfacing cases with strong LLM disagreement, and eliciting expert feedback to address them. We examined three ways experts can provide feedback for LLM codebook revision: (i) editing LLM-generated revisions driven by cross-LLM disagreement (Codebook Verifying), (ii) answering questions about LLM disagreements (Question Answering), and (iii) labeling disagreement cases with rationales (Rationale Labeling). Experiments on thousands of tutoring-session transcripts show that Rationale Labeling yielded the highest LLM-labeling accuracy (64.9%) against expert labels, outperforming the expert-revised codebook (57.8%). The best Question Answering setting also outperformed it (60.5%). Our work shows that LLMs can be used to strategically target expert attention, shortening months of codebook revision to days without sacrificing labeling performance.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "f343084cd7930acd",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms",
+      "link": "https://arxiv.org/abs/2609.26942",
+      "summary": "arXiv:2609.26942v1 Announce Type: new \nAbstract: Current literature evaluates large language models (LLMs) on multilingual kinship understanding using multiple choice benchmarks, treating it as a recognition problem. We instead prompt five open weight LLMs to generate kinship terms in three non Western languages (Hindi, Tamil, and Korean) across two communicative tasks and pair this with a matched option-supported selection baseline. On identical relation language cells, GPT OSS120B selects the correct term in 90.67% of 75 valid cells but produces an accepted term in 36.00% of the corresponding attempts; Llama 3.370B shows the same pattern (77.92% versus 24.24%). Since the four-option condition displays the candidate terms and does not require script production, the difference is interpreted as an evaluation format gap rather than direct proof that lexical knowledge is intact. On explicitly specified L3 prompts, accuracy varies sharply, from GLM-5.1 at 72.29% to Llama-3.370B at 24.24%. The paternal-lineage advantage is language specific; it is large in Hindi but weak or reversed in Korean, while Tamil shared-term pairs provide a control for measurement variation. These results show that culturally specific kinship generation remains difficult even when the relationship is explicitly stated and motivate generation-based evaluation alongside multiple-choice testing.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "a0b313e4c82562e2",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Classifying Interpretive Canons at the Sentence Level: A Benchmark from the German Federal Constitutional Court",
+      "link": "https://arxiv.org/abs/2609.26945",
+      "summary": "arXiv:2609.26945v1 Announce Type: new \nAbstract: Judicial reasoning remains challenging for large language models (LLMs) to analyze. This paper contributes a sentence-level benchmark for evaluating the ability of LLMs to classify interpretive canons as articulated by Larenz in the tradition of Savigny. Our contributions are threefold. First, we operationalize this conception of interpretation as classification criteria. Second, we provide a dataset of decisions of the German Federal Constitutional Court annotated at the sentence level. Third, we report baseline evaluations of four LLMs from three model families under expert hand-written prompts, compared against prompts optimized with Genetic-Pareto (GEPA). Mean F1 over the seven binary subtasks clusters between 70.4 and 79.2 across models, with grammatical interpretation usually the easiest canon to identify and systematic interpretation usually the hardest; under the tested configuration, GEPA-optimized prompts do not systematically outperform the hand-written ones, suggesting that the expert prompts provide a meaningful baseline.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "0b32ede8aa62da31",
+      "_scraped_at": "00:06"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "When Learned Context Planning Fails to Beat Strong Retrieval: A Controlled Study of Planning, Routing, and Reranking for Long-Context QA",
+      "link": "https://arxiv.org/abs/2609.26976",
+      "summary": "arXiv:2609.26976v1 Announce Type: new \nAbstract: Learned context planning selects evidence atoms before an answer model reasons over them. We test whether this learned selection improves long-context multiple-choice QA after strong retrieval, routing, budgeted-selector, and reranking controls. Our primary diagnostic uses all 503 LongBench-v2 MCQ questions with Qwen2.5-7B-Instruct. The planner is SFT-trained on outcome-selected traces from 140 training and 28 development questions; because the 503-question analysis includes those questions, it is partly transductive. At an 18k-character budget, anchored hybrid retrieval reaches 36.18% accuracy and BM25 reaches 35.98%, while the best direct planner-guided method reaches 34.19%. On the untouched 152-question test split, anchored hybrid remains higher (42.11% versus 36.84%). Leakage-safe routers cannot convert a large oracle gap. Under tight budgets, the best planner is ahead by only 0.40 points at 6k and loses at 9k; planner-guided reranking has a +1.79-point estimate at 6k with a paired interval crossing zero and ties the control at 9k. Packing-order and score-flatness analyses did not identify a stable mechanism. Under this setup, learned planning is a weak relevance signal rather than a replacement for strong retrieval.",
+      "published": "2026-09-24T04:00:00",
+      "_id": "96e4a6e7dc371957",
+      "_scraped_at": "00:06"
+    }
+  ],
+  "seen_ids": [
+    "0ba7d36ce15f86ec",
+    "89e5f2bb8136d425",
+    "b88a2ffc0090ca59",
+    "a75631100fa61adc",
+    "d148e3d2c2843c2b",
+    "a7d71b83b1ba51ba",
+    "8c6014a36ca90e3f",
+    "b65c73b2c5b626dd",
+    "8314ef7303d703cf",
+    "a124b92a0e6487f6",
+    "d1e7107e863f4f8a",
+    "52e46e8371e1f699",
+    "f97969c5d20fd4ba",
+    "bcb31d434ed42cb8",
+    "4317c9e267fddff2",
+    "a7b74187f674b93d",
+    "280bf64dcca75cee",
+    "508df2c327e98967",
+    "9328fa400dd37e6b",
+    "e38db7929e1725a2",
+    "01ccbfab63254a3c",
+    "b8bc472e7ac16de7",
+    "a43f20f5212762d5",
+    "47304191f8826197",
+    "d62537dec8a363bf",
+    "29fb40e0a1abacf7",
+    "ef1b3a4772eab837",
+    "4b0e8d72e3ff9980",
+    "dac80f12a88a9c0a",
+    "a9a0142404d9c278",
+    "d0c09943ed7a0f81",
+    "16dae4c7c5cb5aa1",
+    "8ed1599eb95bc766",
+    "a0b313e4c82562e2",
+    "4076149ed37bb27b",
+    "c3a56877fb9557c2",
+    "4f4b9447093a068c",
+    "9f31100e2816829f",
+    "5e86437385f3c70e",
+    "550514055b5ed20f",
+    "cd0add822f77eee7",
+    "d7093029fa98861c",
+    "c55e075bb2c7402e",
+    "96e4a6e7dc371957",
+    "eb2c237bde8f9194",
+    "8e953b62eee23ddb",
+    "a3c8e138d995ff55",
+    "ca551e0b58940496",
+    "e5a8f0f458eaba58",
+    "f343084cd7930acd",
+    "2e239ad19f4a313d",
+    "30290d8cdac77d28",
+    "097dfe5b1a77c69d",
+    "b085c7f1762bfee8",
+    "79d125a28284c77e",
+    "4ab32af44318036a",
+    "6aa4503b1ddc911c",
+    "7b553354eb544407",
+    "15b70219de3986c7",
+    "b1db7d7804a77754",
+    "088f1dd0df7f097c",
+    "1ccf342131e2aeec",
+    "ef1d62b18b98cdd0",
+    "5dd922e14c0ccf9b",
+    "5ec4e61a2a5169eb",
+    "fc402e9d4078a25d",
+    "449a2bb4ef316043",
+    "0b32ede8aa62da31",
+    "30aa7c0acfe7f380"
+  ],
+  "last_run": "00:06",
+  "run_count": 1
+}
