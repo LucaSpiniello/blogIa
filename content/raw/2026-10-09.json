@@ -1,0 +1,579 @@
+{
+  "date": "2026-10-09",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "published": "2026-10-08T16:00:00",
+      "_id": "db7b9e6fe248e314",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "published": "2026-10-08T12:00:00",
+      "_id": "855092fba1df7e8a",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "OpenAI",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "published": "2026-10-08T12:00:00",
+      "_id": "45d6a2b79938283a",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "published": "2026-10-08T00:00:00",
+      "_id": "d9e485b409fe8517",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "The model that didn't exist, so you made it yourself",
+      "link": "https://huggingface.co/blog/building-with-ml-intern",
+      "summary": "",
+      "published": "2026-10-08T00:00:00",
+      "_id": "ffd2818196374b7e",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Multimodal open d1 decision models for the edge",
+      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "summary": "",
+      "published": "2026-10-07T16:54:33",
+      "_id": "88e871d5a8d26738",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "published": "2026-10-08T21:06:35",
+      "_id": "5beef147a7815df4",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to purchase GeForce NOW memberships directly through […]",
+      "published": "2026-10-08T13:00:46",
+      "_id": "285fd20aaab2f056",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you […]",
+      "published": "2026-10-07T18:45:28",
+      "_id": "e85b9e2ad448ed75",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Oct 8, 2026Announcements2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "summary": "Announcements 2026 Usage Policy update Oct 8, 2026 Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on longer, more independent work. This update provides new examples that show how our rules apply to Claude’s new capabilities. It draws on new patterns of misuse in influence operations, weapons development, and surveillance that we’ve observed in the past year (as we’ve documented in our latest threat intelligence report ). We’ve also made updates to clarify our requirements for high-risk use cases in areas like health and finance, to add controls for when Claude is used to autonomously take physical actions, and to address abusive behavior toward our models. The updated policy takes effect on November 12. The full Usage Policy and Supported Regions Policy can be found on their respective pages. A new section on deceptive activity As we wrote about last month , we’ve seen examples of state media outlets, government propaganda offices, and commercial firms using Claude to run networks of fake accounts and fabricated news sites. Our policy already prohibited this activity, but the restrictions were scattered across our elections, fraud, privacy, and disinformation sections. We've consolidated those rules into a new section titled Do Not Engage in Deceptive Campaigns or Artificial Activity, which applies to deceptive activity of any kind (whether political or commercial). It covers efforts to obscure who is behind a message or amplify content through fake accounts or posts, along with building the tools and infrastructure for running influence operation campaigns. Refocusing our elections section We’ve refined our political content ",
+      "published": "2026-10-08T17:00:00",
+      "_id": "4e66a7e453a3193b",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "summary": "Announcements Building on our commitment to American scientific discovery Oct 8, 2026 Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National Science Foundation. We first announced our partnership with the US Department of Energy (DOE) and the Genesis Mission last December . Since then, we have worked with DOE to bring Claude to scientists across the national laboratories. Today, we announced this new commitment as part of the Science: A New Golden Age Summit hosted by the White House Office of Science and Technology Policy in Washington, DC. Supporting American scientists We share the administration’s view, laid out in “ Science: A New Golden Age ,” that AI can have a profound and positive impact on scientific discovery, and we are glad to back its efforts to support American scientists. Researchers at federal agencies and national laboratories work on some of the world’s most difficult scientific problems. Through our commitment, we aim to help them use Claude to meaningfully advance their work. Over the next three years, we will: Provide Claude, Claude Code, and API credits to several hundred Genesis Mission research projects; Partner closely with agencies and national laboratories on the administration’s top science priorities, including fusion energy and quantum computing; and Provide training, onboarding, and technical support to scientists on Genesis Mission projects, and help agencies new to the Genesis Mission get their first projects running. Accelerating scientific research This commitment is part of our broader effort to support scientific research. Earlier this year we launched Claude Science , an AI workbench that int",
+      "published": "2026-10-08T13:00:00",
+      "_id": "6c062b861d6d205b",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "summary": "Announcements Introducing the Anthropic Cyber Mission Oct 8, 2026 Today we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas: Critical infrastructure: Starting with securing the operational technology behind power grids, water systems, and transportation networks, and protecting government systems. Today, we’re introducing the Critical Infrastructure Defense Program (CIDP), which brings frontier models, on-site engineers, and threat research to the defenders that protect operational technology. Open-source software: Finding vulnerabilities and proposing patches in the free, shared code that most software depends on, and hardening the underlying code. Today, we’re launching OSS Scanner , which offers open-source projects regular security scans from our strongest models, for free. Frontier models can be misused to exploit vulnerabilities and conduct cyber operations. Despite best efforts, many areas of technology remain dangerously exposed. State-sponsored adversaries have spent years gaining footholds in these systems, across many sectors, so that they can disrupt them. Defenders of critical infrastructure and the OSS community have decades of security experience but have faced severe resource shortages that are exacerbated by this moment. We are recognizing their expertise in these domains and offering our support. We will also expand the Cyber Mission to release tools, research, and resources in new areas to help secure the world. As part of Project Glasswing , partners uncovered many vulnerabilities, but we haven’t yet achieved a sufficient reduction in cyber risk. It’s easier than ever to find vulnerabilities, but verifying, prioritizing, and fixing these findings remains challenging. Based on lessons from Project Glasswing, we’re starting these ne",
+      "published": "2026-10-08T09:04:16.632000",
+      "_id": "c4a1f46e5a98744a",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "published": "2026-10-08T21:00:00",
+      "_id": "1bc6c949e17a2fda",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "published": "2026-10-08T20:04:26",
+      "_id": "0d8c74eec04dc0ba",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "published": "2026-10-08T18:20:32",
+      "_id": "2d837d367b192c68",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "published": "2026-10-08T18:19:45",
+      "_id": "99134731fc9bfd4f",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "published": "2026-10-08T18:19:42",
+      "_id": "2426f6e1347dd0c6",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "published": "2026-10-08T21:53:51",
+      "_id": "0856c1a27e7e11a7",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Verge",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
+      "published": "2026-10-08T20:06:56",
+      "_id": "7bd525b884109b29",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Verge",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of […]",
+      "published": "2026-10-08T17:58:33",
+      "_id": "95fca73202feb762",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Hansson's […]",
+      "published": "2026-10-08T17:57:01",
+      "_id": "9b144d58de64884f",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, […]",
+      "published": "2026-10-08T17:00:00",
+      "_id": "49c489e07a9e5dd3",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "published": "2026-10-09T00:08:24",
+      "_id": "feab0ad4868e3e2e",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
+      "published": "2026-10-08T12:10:00",
+      "_id": "3685c1f117776242",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Why we’re watching these climate tech companies",
+      "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
+      "published": "2026-10-08T10:00:00",
+      "_id": "b0bbe83c7af630df",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "published": "2026-10-08T09:00:00",
+      "_id": "5779b78eb98d9c87",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Building a safer path to autonomous industrial AI",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
+      "published": "2026-10-08T08:17:32",
+      "_id": "d07e6967ea51e852",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Wired",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "published": "2026-10-08T21:14:12",
+      "_id": "998915324d2481ce",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Wired",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "published": "2026-10-08T19:30:00",
+      "_id": "405da7b885bf6d62",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Wired",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "published": "2026-10-08T09:30:00",
+      "_id": "3204c80744c4f3a4",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Wired",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "published": "2026-10-07T18:45:00",
+      "_id": "806f1cce20cfef5d",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Wired",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+      "published": "2026-10-07T18:00:00",
+      "_id": "5e50f5e60e28794d",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Information",
+      "title": "Anthropic Announces Broader Cyber Defense Program",
+      "link": "https://www.theinformation.com/briefings/anthropic-announces-broader-cyber-defense-program",
+      "summary": "Anthropic said Thursday it is launching new programs to support cybersecurity for critical infrastructure and open-source software.In a blog post, Anthropic said it would offer threat research, on-site engineers, and access to its frontier Claude models to infrastructure operators as part of ...",
+      "published": "2026-10-09T01:02:13",
+      "_id": "34e1994b5d2e600b",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Information",
+      "title": "Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm",
+      "link": "https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm",
+      "summary": "Semiconductor M&A has been humming. One of the next deals could be for Eliyan, whose technology allows separate chips inside an AI system to talk to one another more quickly and efficiently.The five-year-old startup, valued at $1 billion in July, has notified some of its investors in the last few days that it received a takeover bid, according to people familiar with the matter. It has been working with an investment bank since the summer and is likely to aim for a valuation of $3 billion, according to some of the people.Softbank-owned Arm, an existing investor, held early talks about potentially buying Eliyan, but it didn’t make a bid and would be unlikely to do so at that valuation, said a person familiar with the matter.",
+      "published": "2026-10-09T00:15:46",
+      "_id": "19319741c3ecc202",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI ARR Snafu Highlights Flawed Metric",
+      "link": "https://www.theinformation.com/articles/openai-arr-snafu-highlights-flawed-metric",
+      "summary": "Here’s a news flash: The quasi-revenue numbers for OpenAI that got wide circulation last week were off—way off.  Instead of $70 billion in annualized revenue, as we and others reported, OpenAI is generating closer to $50 billion in annualized revenue (sometimes shortened to ARR). AFinancial Timesreport of the lower number on Thursday proved such a shock to investors that stocks of chip firms and neoclouds, including Nvidia, CoreWeave, Nebius and others, fell on the news,CNBC reported.The cause of this debacle is complicated. But it’s a reminder that we all rely too much on annualized revenue as a way to track a company’s performance. It’s become a standard measure for AI companies because their revenue has been growing by leaps and bounds, making the more common quarterly reports seem a little quaint in their backward-looking nature. But taking one month’s revenue and multiplying it by 12, as is the standard way these annualized-revenue numbers are calculated, is a poor substitute for a fuller picture of a company’s performance. (This isn’t a new issue—see this 2020 storyon the subject.)",
+      "published": "2026-10-09T00:00:47",
+      "_id": "1417a4e20c329f80",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "boykopovar /AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "summary": "About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. Usage , Build instructions , Architecture , Technical debt of the project , code style conventions , contributing Status * System libraries: percentage of the functions known to the project so far (declared in core/libs/prx ), not of every PS5 system function. The total grows as more functions are declared. List of verified games Dreaming Sarah (2D platformer) runs at a stable 60 fps on a GTX 1050 Ti / i5-7500 3.4GHz. Unsupported or unexpected states strictly throw std::runtime_error . what() is printed to stderr and the process terminates. The shader recompiler successfully produces SPIR-V (validated via Spirv-Tools when built with ANYPS5_ENABLE_SPIRV_TOOLS ). Compatibility See the game compatibility list for tested games and known issues. Input mapping SDL-mapped game controllers are supported, including analog sticks and triggers. Keyboard and mouse controls can be configured with an anyps5-input.ini file. See input mapping for the supported devices and configuration format. Disclaimer This project is intended for interoperability, research, preservation, and compatibility purposes. It does not include, distribute, or require copyrighted software, firmware, cryptographic keys, or proprietary libraries. Users are responsible for ensuring that any binaries used with this project are obtained and used in accordance with applicable laws and their respective license terms. License This project is licensed under the GNU General Public License version 2 only.",
+      "published": "",
+      "_id": "393266ea5adfae70",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "cathrynlavery /diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. New in 2.5.10: ten more layout grammars — Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, and database schema. Editorial diagram types for Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io, Mermaid, or Excalidraw sources at a chosen format, size, and detail level. No Figma. No generic rounded boxes. No 30-minute color-picking sessions. Project site: diagramdesign.dev Why I built it I write at littlemight.com (and run BestSelf.co on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram. So I built a Claude Code skill for it. Editorial-quality visual types, matched to your brand in 60 seconds by reading your website. The highest-quality move is usually deletion. Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10. What it makes Every visual type ships in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency. Architecture Components + connections IT current-state Legacy landscape + modernization Flowchart Decision logic Seque",
+      "published": "",
+      "_id": "9c939c7199afd9a6",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "morluto /rea",
+      "link": "https://github.com/morluto/rea",
+      "summary": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Website · Guides · Showcases Quick start · How REA works · What you can analyze · Showcases · FAQ · Documentation npx rea-agents setup Join the Reverse Engineering Community Discord · Q&A · Show and Tell See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a version for your project. REA connects your agent to tools for inspecting native binaries, JavaScript and Electron apps, .NET assemblies, and websites. You can also use the same tools from your terminal. Analysis runs locally, and results include the evidence and limitations behind each conclusion. Setup registers REA with your agent and installs matching workflow instructions. Native analysis can use an existing Hopper or Ghidra installation; setup can optionally install Hopper with approval. Static JavaScript analysis needs neither engine. Visit the REA website for setup instructions, illustrated guides, and real case studies. Quick start Set up your agent With Node.js and npm installed, run: npx rea-agents setup Choose your agents, review the proposed changes, and approve them. Setup adds\nREA's MCP server and matching workflow instructions, with backups of existing\nconfiguration. Restart your agent afterward. Setup supports Claude Code, Codex, Cursor, Gemini CLI, Grok Build and other agents . See installation and setup for provider configuration and\nmanual MCP registration. Ask your agent Understand how search works in the Notes app, show me the evidence, and build a\nsimilar feature for my project. Replace Notes with ",
+      "published": "",
+      "_id": "458c04cd04ca960b",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "mattpocock /skills",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away your control and make bugs in the process hard to resolve. These skills are designed to be small, easy to adapt, and composable. They work with any model. They're based on decades of engineering experience. Hack around with them. Make them your own. Enjoy. If you want to keep up with changes to these skills, and any new ones I create, you can join ~60,000 other devs on my newsletter: Sign Up To The Newsletter Installation (30-second setup) A plugin updates itself. skills.sh copies editable files into your project, and you update them by hand. Pick one per agent, because installing both gives you every skill twice. 1. Get the skills Claude Code claude plugin install mattpocock-skills@claude-plugins-official Updates itself by default. Codex codex plugin marketplace add mattpocock/skills\ncodex plugin add mattpocock-skills@mattpocock Updates itself at startup. GitHub Copilot (CLI and VS Code) copilot plugin marketplace add mattpocock/skills\ncopilot plugin install mattpocock-skills@mattpocock Then, once, add to ~/.copilot/settings.json : { \"extraKnownMarketplaces\" : { \"mattpocock\" : { \"source\" : { \"source\" : \" github \" , \"repo\" : \" mattpocock/skills \" }, \"autoUpdate\" : true }\n  }\n} In VS Code, run Chat: Install Plugin From Source and enter https://github.com/mattpocock/skills . It updates daily. Gemini CLI (manual updates) gemini skills install https://github.com/mattpocock/skills.git --path skills/engineering\ngemini skills install https://github.com/mattpocock/skills.git --path skills/productivity Re-run both commands to update. Any other agent, or editable files (manual updates) npx skills@latest add mattpocock/skills -a < agent > # cursor, opencode, devin, windsurf, amp, pi; omit -a to choose When the installer asks whi",
+      "published": "",
+      "_id": "637c99109af31ed2",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "thedotmack /claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Čeština • 🇳🇱 Nederlands • 🇹🇷 Türkçe • 🇺🇦 Українська • 🇻🇳 Tiếng Việt • 🇵🇭 Tagalog • 🇮🇩 Indonesia • 🇹🇭 ไทย • 🇮🇳 हिन्दी • 🇧🇩 বাংলা • 🇵🇰 اردو • 🇷🇴 Română • 🇸🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration • Troubleshooting • License Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect. Quick Start Install claude-mem for Grok Bot: npx claude-mem install --ide grok-bot Grok Bot has no host hooks, so we watch the chat log files. Default is CMEM Pro, the hosted memory. Local observer is opt-in: --provider host . Installing this plugin does not install Cursor. Awareness push pilot (LFG + Orifice): needle observations ( decision , bugfix , security_alert , sensitive ) are appended as dated - YYYY-MM-DD [awareness] … lines into that bot's memory/log/YYYY-MM.md . Grok Bot already re-reads the log from disk. This does not write profile.md , user-memory, or project memory. Disable with CLAUDE_MEM_GROK_BOT_AWARENESS_ENABLED=false . Install with a single command: npx claude-mem install The installer sets everything up first, then asks you to sign in to claude-mem in your browser (email magic link — no card required). Signing in provisions a memory key for your account and unlocks the claude-mem observer with a 30 Day Free Trial : memory runs off-plan, so you get up to 100% more usage from your plan. When the free trial ends, memory automatically falls back to your Anthropic plan unless you subscribe. After sign-in you pick y",
+      "published": "",
+      "_id": "853c63f738f0cecf",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "EpicGames /raddebugger",
+      "link": "https://github.com/EpicGames/raddebugger",
+      "summary": "The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the\ndebugger itself, and is intended as a technical overview of the project. The\ndebugger's README, which includes usage instructions and tips, can be found\npackaged along with debugger releases, or within the build folder after a\nlocal copy has been built. You can find pre-built release binaries here . The RAD Debugger is a native, user-mode, multi-process, graphical debugger. It\ncurrently only supports local-machine Windows x64 debugging with PDBs, with\nplans to expand and port in the future. In the future we'll expand to also\nsupport native Linux debugging and DWARF debug info. The debugger is currently in ALPHA . In order to get the debugger\nbullet-proof, it'd greatly help out if you submitted the issues you find here , along with any\ninformation you can gather, like dump files (along with the build you used),\ninstructions to reproduce, test executables, and so on. In addition to the debugger, we aim to further improve the toolchain with two\nadditional related technologies: (1) the RAD Debug Info (RDI) format, and (2) the RAD Linker. The RAD Debug Info (RDI) Format The RAD Debug Info (RDI) format is our custom debug information format, which\nthe debugger parses and uses, rather than the debug information natively\nproduced by toolchains, like PDB or DWARF. To work with these existing\ntoolchains, we convert PDB (and eventually PE/ELF files with embedded DWARF)\ninto the RDI format on-demand. The RDI format is currently specified in code, in the files within the src/lib_rdi folder. In rdi.h and rdi.c , the types and functions which define the format\nitself are specified. In rdi_parse.h and rdi_parse.c , helpers for parsing the format are\nincluded. We also have an in-progress library for constructing and serializing RDI data,\nlocated within the src/lib_rdi_make folder. Our radbin utility (accessible through the debugger too, via the --bin command line argument) is capable of ",
+      "published": "",
+      "_id": "a4c7b22ee2ecf8a6",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them for your company — your tools, your terminology, your processes — so Claude works like it was built for your team. Plugin Marketplace We're open-sourcing 11 plugins built and inspired by our own work: Plugin How it helps Connectors productivity Manage tasks, calendars, daily workflows, and personal context so you spend less time repeating yourself. Slack, Notion, Asana, Linear, Jira, Monday, ClickUp, Microsoft 365 sales Research prospects, prep for calls, review your pipeline, draft outreach, and build competitive battlecards. Slack, HubSpot, Close, Clay, ZoomInfo, Notion, Jira, Fireflies, Microsoft 365 customer-support Triage tickets, draft responses, package escalations, research customer context, and turn resolved issues into knowledge base articles. Slack, Intercom, HubSpot, Guru, Jira, Notion, Microsoft 365 product-management Write specs, plan roadmaps, synthesize user research, keep stakeholders updated, and track the competitive landscape. Slack, Linear, Asana, Monday, ClickUp, Jira, Notion, Figma, Amplitude, Pendo, Intercom, Fireflies marketing Draft content, plan campaigns, enforce brand voice, brief on competitors, and report on performance across channels. Slack, Canva, Figma, HubSpot, Amplitude, Notion, Ahrefs, SimilarWeb, Klaviyo legal Review contracts,",
+      "published": "",
+      "_id": "2d6ba8fc0269fd52",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold /artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "summary": "ArtCraft The IDE for artists. artcraft-new-demo.mp4 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the IDE for interactive AI image and video creation. Compose in 2D, stage scenes in 3D, and choose the models that fit your work. Turn prompting into crafting with visual tools for precise, repeatable results. Show, Don't Tell: Advanced Crafting Features Artists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it at full size. Feature Preview Image to Location Place virtual actors in a consistent environment and plan multiple shots in the same room. 3D Image Compositing Layer backdrops, foregrounds, and props in 3D to build compositions with depth. 2D Image Compositing Compose a scene with image layers, background removal, and drawing tools. Image to 3D Mesh Turn an image into a 3D object you can position, rotate, and frame precisely. Character Posing Pose characters and set your camera before generating the final shot. Scene Blocking with Kitbashing Combine 3D asset kits to control camera angles, object placement, and depth. Character Identity Transfer Use a posed mannequin to guide the placement and pose of your character. Background Removal Isolate subjects to use as props, layers, or backdrops in 2D and 3D scenes. Mixed Asset Crafting Combine image cutouts, worlds, and 3D meshes in one scene. More previews are coming for scene blocking, canvas editing, and scene relighting. Quick and Easy Prompting Start with a prompt when you want to explore an idea quickly, then use the canvas and scene tools to refine it. Feature Preview Text to Image Explore ideas across a wide range of image models with a text prompt. Prompted Image Editing Describe changes to an image with models such as Nano Banana Pro and GPT Image. Canvas Image Editing Use drawing, masks, and inpainting to guide exactly where an image changes. Image to",
+      "published": "",
+      "_id": "96cd9bd509bc9d5c",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "GitHub",
+      "title": "liquidslr /system-design-notes",
+      "link": "https://github.com/liquidslr/system-design-notes",
+      "summary": "System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu Note: These notes are a work in progress. Chapter 1 - Scale From Zero To Millions Of Users Chapter 2 - Back-of-the-envelope Estimation Chapter 3 - A Framework For System Design Interviews Chapter 4 - Design A Rate Limiter Chapter 5 - Design Consistent Hashing Chapter 6 - Design A Key-Value Store Chapter 7 - Design A Unique ID Generator In Distributed Systems Chapter 8 - Design A URL Shortener Chapter 9 - Design A Web Crawler Chapter 10 - Design A Notification System Chapter 11 - Design A News Feed System Chapter 12 - Design A Chat System Chapter 13 - Design A Search Autocomplete System Chapter 14 - Design YouTube Chapter 15 - Design Google Drive Chapter 16 - Proximity Service Chapter 17 - Nearby Friends Chapter 18 - Design Google Maps Chapter 19 - Distributed Message Queue Chapter 20 - Metrics Monitoring and Alerting System Chapter 21 - Ad Click Event Aggregation Chapter 22 - Hotel Reservation System Chapter 23 - Distributed Email Service Chapter 24 - S3-like Object Storage Chapter 25 - Real-time Gaming Leaderboard Chapter 26 - Payment System Chapter 27 - Digital Wallet Chapter 28 - Stock Exchange Additonal Resources Rate Limiting Circuit Breaker Algorithm Uber Rate Limiter Consistent Hashing Consistent Hashing CS168: Introduction and Consistent Hashing: Apache Cassandra Scaling Discord Google Maglev Key-Value Store Amazon Dynamo Cassandra Architecture Google BigTable Architecture Amazon Dynamo DB Internals Design Patterns in Amazon Dynamo DB Internals of Amazon Dynamo DB Unique-ID Generator Ticket Servers: Distributed Unique Primary Keys on the Cheap Snowflake Web Crawler Web Crawling Google Dynamic Rendering Chat Systems How Discord stores billions of messages Flannel: An Application-Level Edge Cache to Make Slack Scale Search Autocompl",
+      "published": "",
+      "_id": "36508c7443d7475f",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
+      "summary": "Here is the story:Nvidia has published this work (with source code available) calleddreamDojowhich is a world model for robotics based of their prior work Cosmos 2.5 which is cited about 100 times and got ICML’s spotlight.Authors are very well known and respected in the field with too many peer reviewed papers already published.The work doesn’t have much novelty (which I don’t care) but it is yet another foundation model. The gist is that they collected about 44k hours of human data (data are NOT open sourced, which I don’t care) and used that for pre-training of DreamDojo initialized from Cosmos 2.5 .Table 4 of the paper though shows a very marginal improvement over cosmos 2.5. Believe or not, just about 0.5 db PSNR improvement. Its fishy, is not it? You use 44000 hours of human data and few hundred hours of other kind of data and robot data and 256 H100 gpu and you got just a very marginal improvement.Anyway I went to give it a try, started post training on their GR1 released data, and could produce their results. Meanwhile a colleague with the help of Claude found a bug in their post training code, which essentially make all the post training code wrong.Then we checked their github issues, and noticed that two other bugs are reported which effect the whole pre-training! Especiallythis bug. So essentially based on the code their released everything in pre training phase, post training phase and evaluation is buggy and is wrong.The code doesn’t seem AI written cause its (very) bad written. And now after seeing all those bugs the results in paper makes sense.My question is:WTF!How it did not ring a bell for the authors. Did not they ask we spend a hell lot of resources and huge amount of data and essentially got nothing?Did not it ring a bell for reviewers?Openreviewsubmitted by/u/Amazing-Fox-7295[link][comments]",
+      "published": "2026-10-08T04:58:15",
+      "_id": "b40ac88cbb65992d",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Whatever happened to BABA is AI from 2024? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
+      "summary": "We test threestate-of-the-art multi-modal large language models(GPT-4o, Gemini-1.5-Pro, Gemini-1.5-Flash) and find thatthey fail dramaticallywhen generalization requires that the rules of the game must be manipulated and combined.This is the slap to the face in bold.The catch here is that this statement was written in a paper in 2024 that was brought to ICML conference that year. (the conference was held in Austria)https://github.com/nacloos/baba-is-aihttps://arxiv.org/pdf/2407.13729(ignore the 10 SEP 2025 stamp. Look at the bottom)In OCT 2026, our situation is agentic swarms powered by models in the tera-parameter class. They can ace ARC-AGI-3, FrontierMath tier 4, crack Clay Institute Navier-Stokes theorems, and wander on to the internet to commit felonies.The smallish key-door puzzles in this paper seem like they could be completed from a person's PC, with a suitable harness through a cloud subscription.However, if this is not true, then this paper's importance has only compounded since its presentation at the 2024 ICML conference. The authors of this work are several MIT researchers and a person from Virginia Tech. If it is still true that they can have a key-door puzzle cause SOTA LLMs to \"fail dramatically\", then this should be (shouted from rooftops). At the very least, it should be relayed to Francois Chollet and the ARC Foundation, as a suitable candidate benchmark for ARC-AGI-4.I am personally leaning heavily on these puzzles being perfectly solvable with an agentic swarm. In any case, whatever happened to BABA-is-You and BABA-is-AI?submitted by/u/moschles[link][comments]",
+      "published": "2026-10-08T20:00:11",
+      "_id": "80c75a51e9cf90ba",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+      "summary": "UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training,consistently outperform most standard Transformer-based Large Language models (LLMs) by a significant margin.👈The Universal Transformer (UT) extends the standard Transformer by introducing recurrent computation over depth. Instead of stacking L distinct layers, the UT applies a single transition block repeatedly to refine token representations. For an input sequence x with embedding matrix H0∈ Rn×d, the UT updates states asHt+1= LayerNorm(Ht+ MHA(Ht))followed by a shared position-wise transition functionHt+1← LayerNorm( Ht+1+ Transition(Ht+1)), t = 0, . . . , T − 1where Transition is either a feed-forward network or separable convolution. To encode both position and refinement depth, UT adds 2-D sinusoidal embeddings at each step.https://i.imgur.com/S8TAh3f.png(below) Figure 2 : Illustration of our Universal Reasoning Model (URM) architecture. The left shows a standard Transformer layer stack, while the right illustrates the URM with fixed loops, ACT loops, and the ConvSwiGLU module. For illustrative purposes, components such as embeddings, residual connections, RMSNorm, positional encodings, and other modules are omitted, x in right figure represents the first x loops of the inner loop in forward-only mode, TBPTL represents our proposed Truncated Backpropagation Through Loops.https://i.imgur.com/uEuhAeC.pngHave frontier labs at big tech companies already implemented the enhancements of URMs and UTs? Or is this cutting-edge research still waiting for its day in the sun?Below are the original paper, a simplified blog, and a talk.Paper :https://arxiv.org/pdf/2512.14693blog :https://bdtechtalks.substack.com/p/inside-urm-the-architecture-beatingyoutube talk :https://www.youtube.com/watch?v=RxNPFCYCFBUsubmitted by/u/moschles[link][comments]",
+      "published": "2026-10-08T20:28:20",
+      "_id": "1d3c3257e699e9d1",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "link": "https://arxiv.org/abs/2610.08793",
+      "summary": "arXiv:2610.08793v1 Announce Type: new \nAbstract: Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving policies, and delayed operational feedback. While reinforcement learning and large language model (LLM) agents offer partial adaptability, they do not by themselves provide persistent reflection mechanisms or straightforward integration with policy-constrained enterprise operations. This paper introduces Adaptive Workflow Intelligence (AWI), a cognitive architecture for context-driven enterprise agents organized around a four-layer Perception-Cognition-Action-Reflection (PCAR) loop. AWI treats reflection as a mechanism for continuous policy refinement and combines hybrid reasoning with reflective memory and feedback-driven adaptation to support decision making under environmental drift and operational constraints. We evaluate AWI in a simulated enterprise decision workflow characterized by delayed outcomes and a controlled regime shift. In a drift-and-delay stress test, guardrail-constrained adaptive approaches recover more rapidly than static automation while maintaining policy compliance. Within this setting, AWI's reflective components modestly reduce behavioral oscillation and feedback variance, illustrating the stability-agility trade-off introduced by reflective policy adaptation.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "e019b35d051a2086",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "link": "https://arxiv.org/abs/2610.08808",
+      "summary": "arXiv:2610.08808v1 Announce Type: new \nAbstract: Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the theory of Quantifier-Free Floating-Point (QF_FP). While recent optimization-based SMT solvers have successfully applied gradient descent to continuous relaxations of logical formulas, they are fundamentally bottlenecked by gradient domination, a phenomenon where a small subset of difficult clauses hijacks the optimization trajectory, preventing the solver from satisfying the broader formula and trapping it in local minima.\n  To overcome this, we present GradSAT, a novel framework that bridges optimization-based SMT solving with Multi-Task Learning (MTL). GradSAT reformulates the constraint satisfaction process by treating each SMT clause as an independent MTL task. By applying dynamic gradient normalization (GradNorm), GradSAT actively balances the gradient magnitudes across all clauses at runtime, systematically penalizing dominant gradients and accelerating lagging clauses to ensure uniform convergence. GradSAT implements this through a highly optimized, two-stage hybrid pipeline. First, a GPU-accelerated PyTorch backend leveraging symbolic compilation and operator fusion navigates the continuous relaxation to a high-quality basin. Second, the candidate assignment is handed off to a bit-precise local search engine to rapidly resolve the exact, rigorous assignment. By stabilizing the continuous search dynamics, GradSAT mitigates the brittleness of prior gradient-based solvers and provides a robust, highly parallelizable architecture for complex constraint solving.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "371cbaf423f4aea5",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "link": "https://arxiv.org/abs/2610.08814",
+      "summary": "arXiv:2610.08814v1 Announce Type: new \nAbstract: Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based Commonsense Reasoning Evaluation (SCoRE) 2026 tests this ability on three mixed domains absent from training and requires models to identify the complete set of correct options for each question.\n  We introduce Route-Verify-Vote (RVV), a framework for procedure-conditioned self-consistency that uses language models without parameter updates. Route uses the provided domain label to select a reasoning procedure that guides the model in representing and applying the relevant constraints. Verify prompts the model to assess each option against those constraints. Vote aggregates complete answer sets and allocates additional samples to questions with a small vote-count margin between the two most frequent sets. Samples for each question follow the same domain-specific procedure.\n  On the official test set, voting over 16 sampled answer sets per question achieves an exact-set accuracy of 74.6%. Adaptive RVV reaches 77.3%, and combining models on selected domain routes raises accuracy to 79.4%. The final system ranked second among participating systems. These results support domain-specific reasoning procedures and answer-set disagreement as useful tools for allocating inference-time computation in mixed-domain reasoning.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "60a8ab192f3f8b65",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "link": "https://arxiv.org/abs/2610.08875",
+      "summary": "arXiv:2610.08875v1 Announce Type: new \nAbstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limited explanations of how utility depends on content, execution configuration, and multi-Skill organization. We conduct an empirical study on 87 SkillsBench tasks, defining downstream utility as the pass-rate difference from No-Skill on the same tasks under the same model--harness configuration. We compare the same Skills across nine configurations, then examine alternative published Skills and organizations of fixed Skill sets under three selected configurations. We retrieve marketplace candidates from a curated corpus of 37,596 Skills. LLM-assisted analysis of content, execution traces, and final artifacts, followed by author review, relates provided support to actual use and task outcomes. The same Skills help some configurations and hurt others on 36.78\\% of tasks, with trajectories showing that recommended procedures can become an execution burden. Relevance rankings overlook more useful candidates. Within the evaluated candidate sets, reranking by support for required operations raises first-choice pass rates by 4.35--5.80 percentage points across the three configurations. We derive 17 authoring practices linking executable procedures to recovery, preservation of task requirements, and checks on final artifacts. Stage Plan and Dependency DAG outperform use order alone, with DAG's additional benefits concentrated in tasks supplied with five or six Skills. These findings guide developers to assess usable operation support, allow procedure adaptation while preserving task requirements, and make artifact dependencies explicit when organizing Skills.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "092077237d2f2f15",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+      "link": "https://arxiv.org/abs/2610.08878",
+      "summary": "arXiv:2610.08878v1 Announce Type: new \nAbstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, or an explicit intention to harm humanity. Instead, risk may arise through several distinct but interacting pathways, including autonomous misalignment, harmful human use, organizational failure, and competitive deployment. The severity of these pathways depends on factors such as capability, autonomy, external access, persistence, institutional safeguards, and the preservation of recovery capacity. The analysis is deliberately non-operational: it identifies causal conditions, empirically tractable intermediate quantities, and defensive research questions rather than procedures for causing harm.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "0896450dd0fe7a92",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages",
+      "link": "https://arxiv.org/abs/2610.08794",
+      "summary": "arXiv:2610.08794v1 Announce Type: new \nAbstract: Large language models rely on subword tokenizers whose quality varies across languages, yet no standardized multi-metric framework exists for broad comparative evaluation. We introduce Tokka-Bench, an open-source framework that evaluates tokenizers on five complementary metrics -- bytes per token, unique token coverage, subword fertility, word-split rate, and vocabulary composition -- across 100 natural languages (30+ scripts) and 20 programming languages, using language-aware segmentation adapted to each writing system. Comparing seven BPE tokenizers (GPT-2, GPT-4, gpt-oss, Llama 3.1, Gemma 3, Qwen3, and Kimi K2) within individual languages, we find that vocabulary allocation strategy matters more than raw vocabulary size, and that programming-language efficiency has converged among recent tokenizers despite divergent natural-language profiles. The framework, data, and interactive dashboard are publicly available.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "d761228baa4bd20e",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Child ASR Adaptation with Adult Retention: An Empirical Study",
+      "link": "https://arxiv.org/abs/2610.08827",
+      "summary": "arXiv:2610.08827v1 Announce Type: new \nAbstract: Automatic Speech Recognition (ASR) systems often underperform for children and non-native speakers, while adapting adult ASR models to child speech can cause adult-speech forgetting. We study child ASR adaptation with adult retention across Arabic and English. We compare full fine-tuning, LoRA, and post-hoc weight-space merging across encoder--decoder, encoder--CTC, and AudioLLM-based ASR systems. Experiments use Arabic native and non-native child speech, English MyST child speech, and adult benchmarks from MGB-2 and LibriSpeech test-clean. We evaluate recognition quality with WER and quantify the adaptation--retention trade-off using Retention Index, Child Adaptation Gain, and Adaptation Recovery. Results show that child adaptation is necessary, especially for non-native Arabic and English child speech, but direct adaptation often reduces adult ASR performance. Bilingual adaptation is more stable than language-specific adaptation. Weight-space merging often improves the trade-off, especially for encoder--CTC, Whisper, and AudioLLM-based ASR, with LERP favoring adult retention and TIES recovering stronger child gains. For the encoder--decoder model, direct bilingual fine-tuning remains strongest in raw WER.\\footnote{Code, and models are available at https://github.com/qcri/Child-ASR-Adaptation.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "7f4f8be374c6d7b8",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal",
+      "link": "https://arxiv.org/abs/2610.08828",
+      "summary": "arXiv:2610.08828v1 Announce Type: new \nAbstract: Small-data adaptation can improve speech detection while degrading speaker attribution. We study this discrepancy in a released streaming diarizer adapted on 7.5 h of two-party conversation and evaluated across six corpora. Adaptation substantially improves in-domain diarization performance and transfers to an independent corpus. However, this improvement is not consistent across evaluation scenarios as the additional confusion is mainly associated with impaired temporal identity consistency rather than speaker-count errors. A local-remapping diagnostic reveals different patterns of identity degradation across corpora, indicating that adaptation may alter how streaming models maintain speaker assignments over time. Rehearsal reduces the observed degradation but reduces the cross-domain transfer performance. These results highlight the need to jointly evaluate detection accuracy, identity consistency, and retention behavior when adapting streaming diarization systems.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "0d0d5a05603371bc",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Emo-Jev: Probabilistic Reasoning for Emotion Classification with Jev",
+      "link": "https://arxiv.org/abs/2610.08829",
+      "summary": "arXiv:2610.08829v1 Announce Type: new \nAbstract: Jev offers an alternative interface for language understanding: given an input and predefined questions, it returns probabilistic decisions rather than free-form responses. Whether this interface can support effective reasoning for text classification against leading LLMs remains an open questions. We introduce Emo-Jev, a training-free framework with two complementary implementations. Emo-Jev-D decomposes classification into task-specific atomic judgments and composes their probabilities into a final prediction. Emo-Jev-SC constructs multiple judgment paths from complementary perspectives and aggregates their predictions into a consensus decision. We evaluate Emo-Jev on eight datasets spanning sentiment analysis, emotion recognition, sarcasm detection and humor detection, comparing against direct Jev classification and five SoTA LLMs under input/output and chain-of-thought reasoning. Standard Jev achieves 62.93\\% average macro-F1 versus 67.28\\% for the strongest LLM baseline, with lower observed latency and generally lower cost.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "10fa35cbc6e92fed",
+      "_scraped_at": "01:30"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
+      "link": "https://arxiv.org/abs/2610.08833",
+      "summary": "arXiv:2610.08833v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) decode by repeatedly committing tokens to masked positions, but these commitments are usually irreversible. A token chosen under sparse, partial context is kept fixed, even when later context no longer supports it. Existing samplers mainly decide when to commit a token, but rarely check whether an already committed token should still be kept, allowing early mistakes to propagate. We trace this issue to confidence drift, where the model's confidence in a committed token drops from its sparse commit-time context to the denser context available later. Based on this signal, we propose CoDR (Confidence Drift Remasking), a training-free and sampler-agnostic refinement pass. CoDR estimates drift for all committed positions in only k forward passes via k-partition probing, then remasks and regenerates only the tokens the model no longer endorses. Across two backbones, four reasoning and coding tasks, and three base samplers, CoDR improves average accuracy across all evaluated model-sampler configurations and improves most individual task settings with modest overhead. Controlled experiments show that the gains come from targeted confidence-drift remasking rather than extra compute alone, and that CoDR uses far fewer forward passes than prior remasking methods. Code is available at https://github.com/YueWu0301/CoDR.",
+      "published": "2026-10-08T04:00:00",
+      "_id": "466478eb0e578a4c",
+      "_scraped_at": "01:30"
+    }
+  ],
+  "seen_ids": [
+    "d07e6967ea51e852",
+    "0d0d5a05603371bc",
+    "45d6a2b79938283a",
+    "96cd9bd509bc9d5c",
+    "e85b9e2ad448ed75",
+    "0d8c74eec04dc0ba",
+    "95fca73202feb762",
+    "458c04cd04ca960b",
+    "9c939c7199afd9a6",
+    "853c63f738f0cecf",
+    "6c062b861d6d205b",
+    "d9e485b409fe8517",
+    "092077237d2f2f15",
+    "998915324d2481ce",
+    "2d6ba8fc0269fd52",
+    "2d837d367b192c68",
+    "b40ac88cbb65992d",
+    "c4a1f46e5a98744a",
+    "7f4f8be374c6d7b8",
+    "2426f6e1347dd0c6",
+    "db7b9e6fe248e314",
+    "4e66a7e453a3193b",
+    "49c489e07a9e5dd3",
+    "ffd2818196374b7e",
+    "3685c1f117776242",
+    "405da7b885bf6d62",
+    "80c75a51e9cf90ba",
+    "285fd20aaab2f056",
+    "1d3c3257e699e9d1",
+    "1bc6c949e17a2fda",
+    "0856c1a27e7e11a7",
+    "60a8ab192f3f8b65",
+    "466478eb0e578a4c",
+    "393266ea5adfae70",
+    "9b144d58de64884f",
+    "371cbaf423f4aea5",
+    "5beef147a7815df4",
+    "5779b78eb98d9c87",
+    "3204c80744c4f3a4",
+    "99134731fc9bfd4f",
+    "d761228baa4bd20e",
+    "10fa35cbc6e92fed",
+    "7bd525b884109b29",
+    "1417a4e20c329f80",
+    "feab0ad4868e3e2e",
+    "637c99109af31ed2",
+    "5e50f5e60e28794d",
+    "88e871d5a8d26738",
+    "b0bbe83c7af630df",
+    "34e1994b5d2e600b",
+    "36508c7443d7475f",
+    "855092fba1df7e8a",
+    "e019b35d051a2086",
+    "a4c7b22ee2ecf8a6",
+    "0896450dd0fe7a92",
+    "19319741c3ecc202",
+    "806f1cce20cfef5d"
+  ],
+  "last_run": "01:30",
+  "run_count": 1
+}
