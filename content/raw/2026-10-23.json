@@ -1,0 +1,749 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "published": "2026-10-22T19:00:00",
+      "_id": "891b7e0bbf66f86d",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "published": "2026-10-22T06:00:00",
+      "_id": "6400feb681472530",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "published": "2026-10-22T00:00:00",
+      "_id": "eda525050cea8fce",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "published": "2026-10-21T17:00:00",
+      "_id": "39cad894cdd240fb",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "published": "2026-10-21T21:00:00",
+      "_id": "3f1a11956436b167",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": "",
+      "published": "2026-10-22T22:24:34",
+      "_id": "51888f116f5b0837",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "summary": "",
+      "published": "2026-10-22T16:11:31",
+      "_id": "67297d2df9a3d7f1",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "summary": "",
+      "published": "2026-10-22T07:51:31",
+      "_id": "0e5fad3ca5f8a881",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "published": "2026-10-21T18:26:30",
+      "_id": "94a5f6526eada9bc",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "published": "2026-10-21T17:35:36",
+      "_id": "40a01666d562060b",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "published": "2026-10-22T15:00:02",
+      "_id": "af6b159eb6ea2f66",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]",
+      "published": "2026-10-22T13:00:20",
+      "_id": "c3c5d14bfc3aa83f",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+      "published": "2026-10-22T05:00:56",
+      "_id": "4ab186bcd5d93e27",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.  Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+      "published": "2026-10-22T05:00:27",
+      "_id": "f8df91dc14194fe5",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "link": "https://blogs.nvidia.com/blog/dsx-power/",
+      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
+      "published": "2026-10-22T05:00:25",
+      "_id": "6f92d29565569592",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "summary": "News Announcements 75 ARTICLES Most recent Title Description Date Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Oct 21, 2026 Oct 21, 2026 Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Oct 18, 2026 Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Anthropic opens Singapore office and signs MOU with the Government of Singapore Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption. Oct 14, 2026 Oct 14, 2026 Anthropic opens Singapore office and signs MOU with the Government of Singapore Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption. Introducing Claude Hai",
+      "published": "",
+      "_id": "5232879038119e5d",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "published": "2026-10-22T22:08:24",
+      "_id": "0e6b7b9249b2f756",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "published": "2026-10-22T19:07:09",
+      "_id": "264af0525447e45c",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "published": "2026-10-22T19:00:00",
+      "_id": "9053b1f287d8b411",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "published": "2026-10-22T19:00:00",
+      "_id": "1fd5dc2d57e90394",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "published": "2026-10-22T18:43:53",
+      "_id": "5595c812cd34051e",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+      "published": "2026-10-22T21:51:25",
+      "_id": "5eee804247a435ab",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
+      "published": "2026-10-22T20:32:05",
+      "_id": "32b3170e24109d9a",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
+      "published": "2026-10-22T20:24:04",
+      "_id": "50dd0c98f11d38b5",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+      "published": "2026-10-22T19:45:00",
+      "_id": "1c3f6e8b2704e3fb",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Discord now formats Markdown previews right",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+      "published": "2026-10-22T18:58:19",
+      "_id": "7fe7774a3ecb03f8",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "published": "2026-10-22T20:17:52",
+      "_id": "98516d3e7e04cfcd",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "published": "2026-10-22T11:30:33",
+      "_id": "cb2237817d8d4ca2",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "published": "2026-10-21T21:48:52",
+      "_id": "f07cf8fa2350865b",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "published": "2026-10-22T21:17:29",
+      "_id": "c8127c2e57511fe8",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+      "published": "2026-10-22T18:48:04",
+      "_id": "285861fa05fad723",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical…",
+      "published": "2026-10-22T12:10:00",
+      "_id": "878b0bce2190e1a3",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "published": "2026-10-22T10:00:00",
+      "_id": "fec7036c87350b49",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Three things you should know about permafrost",
+      "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+      "published": "2026-10-22T10:00:00",
+      "_id": "c86f7d14b0049226",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Wired",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "published": "2026-10-22T19:56:32",
+      "_id": "dc90f243d13eab4c",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "published": "2026-10-22T13:00:00",
+      "_id": "e28ffcdc2244f40f",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "published": "2026-10-22T10:00:00",
+      "_id": "b3332eaa7cad73ac",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "published": "2026-10-22T02:24:17",
+      "_id": "7725e6031bc0fef8",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "published": "2026-10-21T22:39:50",
+      "_id": "daa7510564afd525",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Information",
+      "title": "Why Blackstone Thinks AI Bottlenecks Could Work in its Favor",
+      "link": "https://www.theinformation.com/articles/blackstone-thinks-ai-bottlenecks-work-favor",
+      "summary": "Greetings!On their earnings calls earlier in the week, Meta Platforms and SpaceX delivered the same underlying message to investors: demand for AI is running ahead of the supply of AI compute. On Thursday, another important player in the AI ecosystem—Blackstone, the alternative asset management giant—repeated a version of that refrain.On its own earnings call, the firm, a major investor at the center of the AI data center boom, faced pointed questions from analysts about rising financing costs and mounting investor concerns over the sustainability of the buildout. Its executives argued that the very factors threatening the AI industry’s expansion could actually work in Blackstone’s favor. CEO Steve Schwarzman noted that constraints on power availability and growing public opposition to new data centers are making it harder to bring new capacity online, potentially making existing facilities more valuable. Blackstone President Jon Gray also suggested the firm could seek higher returns on projects where it hasn’t signed leases yet in order to offset rising borrowing costs.Blackstone’s third-quarter results offered some support for that argument: Its infrastructure investments were buoyed by what executives called “extraordinary” data center leasing momentum, significantly outperforming its broader private equity and real estate holdings. “Despite all the negative things you’re reading about AI today, when we look across our business, this continues to be the area where we’re driving the highest returns,” Gray said during the call.But it’s hard to ignore the fact that the financing concerns and roadblocks threatening the broader AI infrastructure buildout are also hitting closer to home for Blackstone. Fears about rising financing costs have sent CoreWeave’s stock and bond prices plunging—the neocloud’s shares closed down another 10% Thursday after sliding last week—while Australian AI cloud provider Firmus abruptly pulled its initial public offering earlier this month",
+      "published": "2026-10-23T00:01:00",
+      "_id": "feb5be92526d2653",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI Fundraising Round Set to Close Soon With UAE Investors, Coatue Leading Investment",
+      "link": "https://www.theinformation.com/briefings/openai-fundraising-round-set-close-soon-uae-investors-coatue-leading-investment",
+      "summary": "OpenAI is aiming to close a $30 billion fundraising round that will value the AI company at up to $1.25 trillion, not including the new investment, before the end of next week, according to a person familiar with the deal.New York-based investment firm Coatue Management and investors from the ...",
+      "published": "2026-10-22T22:23:38",
+      "_id": "79701ba0c13e9860",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "The Information",
+      "title": "Salesforce Customers Brace For New Fees to Use Claude in Its Apps",
+      "link": "https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps",
+      "summary": "Salesforce is leading the software industry’s attempt to collect fees from businesses that use Claude and other external AI tools to automate work in enterprise apps.As soon as next month, Salesforce plans to require companies to register outside AI agents, a step toward charging them each time those agents update or analyze data stored in Salesforce. The fees let Salesforce earn money from customers who use such AI instead of paying for Salesforce’s built-in AI products.The Salesforce tollgate has implications for the rest of the industry, which is coming to terms with the idea that so-called AI agents may be able to use software firms’ apps more efficiently than humans do, meaning their seat-based or per-user pricing model might not have staying power. The question is whether the new AI tollgates—which Atlassian, Workday, ServiceNow and Datadog are also erecting to various extents—and other pricing shifts will more than make up for an eventual decline in per-seat subscription revenues.The vast majority of workers haven’t yet outsourced such work to AI, of course, and companies like Salesforce are trying to get more revenue from them as well. They charge fees based on how much they use the apps’ built-in AI tools and are also experimenting with outcome-based pricing, meaning customers only pay when such tools actually complete a task successfully or help the customers make more money.For now, Salesforce and some other software firms developing tollgates for customers’ AI agents haven’t started charging the tolls. They’re letting customers experiment for free with the technology a little while longer. (The customers still have to pay providers such as Anthropic to use the AI agents in the first place.)Starting around November, according to thecompany’s website, Salesforce will require customers to register any externally-made AI agents if they plan to use them to take actions on their behalf in Salesforce apps. Each action an agent takes in Salesforce counts as a bi",
+      "published": "2026-10-22T18:04:17",
+      "_id": "bbfbd239659a6d0c",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "php /php-src",
+      "link": "https://github.com/php/php-src",
+      "summary": "The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to\nweb development. Fast, flexible and pragmatic, PHP powers everything from your\nblog to the most popular websites in the world. PHP is distributed under the Modified BSD License (SPDX-License-Identifier: BSD-3-Clause ). Documentation The PHP manual is available at php.net/docs . Installation Prebuilt packages and binaries Prebuilt packages and binaries can be used to get up and running fast with PHP. For Windows, the PHP binaries can be obtained from windows.php.net . After extracting the archive the *.exe files are ready to use. For other systems, see the installation chapter . Building PHP source code For Windows, see Build your own PHP on Windows . For a minimal PHP build from Git, you will need autoconf, bison, and re2c. For\na default build, you will additionally need libxml2 and libsqlite3. On Ubuntu, you can install these using: sudo apt install -y pkg-config build-essential autoconf bison re2c libxml2-dev libsqlite3-dev On Fedora, you can install these using: sudo dnf install re2c bison autoconf make ccache libxml2-devel sqlite-devel On MacOS, you can install these using brew : brew install autoconf bison re2c libiconv libxml2 sqlite or with MacPorts : sudo port install autoconf bison re2c libiconv libxml2 sqlite3 Generate configure: ./buildconf Configure your build. --enable-debug is recommended for development, see ./configure --help for a full list of options. # For development ./configure --enable-debug # For production ./configure Build PHP. To speed up the build, specify the maximum number of jobs using the -j argument: make -j4 The number of jobs should usually match the number of available cores, which\ncan be determined using nproc . Testing PHP source code PHP ships with an extensive test suite, the command make test is used after\nsuccessful compilation of the sources to run this test suite. Tests run in parallel by default, using up to 10 detected log",
+      "published": "",
+      "_id": "b629c133b14fadb9",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes. Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them for your company — your tools, your terminology, your processes — so Claude works like it was built for your team. Plugin Marketplace We're open-sourcing 11 plugins built and inspired by our own work: Plugin How it helps Connectors productivity Manage tasks, calendars, daily workflows, and personal context so you spend less time repeating yourself. Slack, Notion, Asana, Linear, Jira, Monday, ClickUp, Microsoft 365 sales Research prospects, prep for calls, review your pipeline, draft outreach, and build competitive battlecards. Slack, HubSpot, Close, Clay, ZoomInfo, Notion, Jira, Fireflies, Microsoft 365 customer-support Triage tickets, draft responses, package escalations, research customer context, and turn resolved issues into knowledge base articles. Slack, Intercom, HubSpot, Guru, Jira, Notion, Microsoft 365 product-management Write specs, plan roadmaps, synthesize user research, keep stakeholders updated, and track the competitive landscape. Slack, Linear, Asana, Monday, ClickUp, Jira, Notion, Figma, Amplitude, Pendo, Intercom, Fireflies marketing Draft content, plan campaigns, enforce brand voice, brief on competitors, and report on performance across channels. Slack, Canva, Figma, HubSpot, Amplitude, Notion, Ahrefs, SimilarWeb, Klaviyo legal Review contracts,",
+      "published": "",
+      "_id": "2d6ba8fc0269fd52",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "DietrichGebert /ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code · -41% time · -26% cost · -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail: 68%. Benchmarked in Claude Code, the same agent with and without the skill: 39 tasks including a real FastAPI + React repo, Opus 5.5, 5 runs each. Details . Español · 한국어 · 简体中文 · 日本語 Already built with Ponytail You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one. Ponytail puts him inside your AI agent. Numbers Two things the chart does not show: in a blind comparison, Ponytail 5's replies beat the previous Ponytail's 110 to 67. And on the six security tasks (SQL injection, path traversal, forged tokens, rate limiting, malformed CSV rows, caching) it passed all 30 runs: less code, no less safe. Method, per-task tables and limits: benchmarks/results/2026-10-07-agentic.md . The rule was never \"fewest tokens.\" It is: write only what the task needs, and never cut validation, error handling, security, or accessibility. The code ends up small because it is necessary, not golfed. Lower cost and latency are a side effect. Before / after You ask for a date picker. Without Ponytail, the agent installs a date picker library or builds a whole calendar by hand: 335 lines. Ponytail 5 first looks at what is already there: the repo has an Input component, and every browser has a date picker. It puts the two together. 10 lines. More survivors in examples/ . The review, rebuilt /ponytail-review used to look only for code to cut. Now it reviews like the senior dev who gets paged when it breaks: it reads the code your change touches, not just the diff, and checks bugs, security, real load, missing tests, speed, and what to cut. Each finding says what the code does, what goes wrong, how to fix it, and what happens if you don't. The audit, rebuilt /pon",
+      "published": "",
+      "_id": "38c3408d933af173",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "cloudflare /security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness . The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from. What it does The skill runs a structured audit in six phases: Reconnaissance -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in architecture.md and coverage-ledger.json . Coverage-led hunting -- assign isolated hunters from ledger units, record their checks, and use coverage critics to find gaps. Candidate validation -- give every unique candidate to a fresh verifier that tries to disprove it. Structured output -- write confirmed , needs_validation , and rejected records to findings.json and validate them against report-schema.json . Independent record verification -- fresh agents verify final source claims. Material replacements receive another independent verifier. Target-neutral reporting -- derive REPORT.md , FINDINGS-DETAIL.md , and NEEDS-VALIDATION.md from the verified records and coverage ledger. The parent runs validate-coverage-ledger.cjs after creating the ledger and after each later ledger update. It runs validate-findings.cjs in Phase 4 and again after every Phase 5 replacement. The verdicts are distinct: confirmed has a complete source trace and bounded observed result, needs_validation has an exact unresolved fact and no severity, and rejected records a disproved candidate. Multiple runs against the same repo are additive. The skill uses prior ledgers and findings to target gaps, revalidate changed source, and carry forward current-source evidence without treating stale or unresolved work as covered. F",
+      "published": "",
+      "_id": "9c15e014464735eb",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "Graphify-Labs /graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "summary": "Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی | Italiano | Polski | Nederlands | Türkçe | Українська | Tiếng Việt | Bahasa Indonesia | Svenska | Ελληνικά | Română | Čeština | Suomi | Dansk | Norsk | Magyar | ภาษาไทย | Oʻzbekcha | 繁體中文 | Filipino | עברית Cut agent token spend by 80%. Graphify Cloud is always-on memory that governs your agents, keeps code quality high, and proves correctness with formal verification. Start a free 14-day trial → Type /graphify in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) into a knowledge graph you can query instead of grepping through files. Code maps for free, fully local. Code is parsed with tree-sitter AST: deterministic, no LLM, nothing leaves your machine. (Docs, PDFs, images and video use your assistant's model, or a configured API key, for a semantic pass.) Every edge is explained. Each connection is tagged EXTRACTED (explicit in the source) or INFERRED (resolved by graphify), so you can tell what was read directly from what was inferred. Not a vector index. No embeddings, no vector store: a real graph you traverse. Ask a question, trace the path between two things, or explain one concept. Note Want this always-on? Graphify Cloud keeps the graph live across your entire SDLC: monorepo and cross-repo support, formal verification, and code review with a bird's-eye view of your SDLC, plus connectors for Sentry, Jira, and more so incidents and tickets sit in the same graph as your code. Start a free 14-day trial at app.graphify.com . The FastAPI codebase mapped by graphify. Every node is a concept, colors are detected communities, and the whole thing is clickable in graph.html. Get started (30 seconds). Needs Python 3.10+ and uv (or pipx): uv tool install graphifyy # install the CLI (or: pipx install graphifyy) graphify install # detects your assistant and registers the skill Then, in your AI ass",
+      "published": "",
+      "_id": "c290a2acf859c75b",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "supabase /supabase",
+      "link": "https://github.com/supabase/supabase",
+      "summary": "Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Docs Authentication and Authorization. Docs Auto-generated APIs. REST. Docs GraphQL. Docs Realtime subscriptions. Docs Functions. Database Functions. Docs Edge Functions Docs File Storage. Docs AI + Vector/Embeddings Toolkit. Docs Dashboard Watch \"releases\" of this repo to get notified of major updates. Documentation For full documentation, visit supabase.com/docs To see how to Contribute, visit Getting Started Community & Support Community Forum . Best for: help with building, discussion about database best practices. GitHub Issues . Best for: bugs and errors you encounter using Supabase. Email Support . Best for: problems with your database or infrastructure. Discord . Best for: sharing your applications and hanging out with the community. How it works Supabase is a combination of open source tools. We’re building the features of Firebase using enterprise-grade, open source products. If the tools and communities exist, with an MIT, Apache 2, or equivalent open license, we will use and support that tool. If the tool doesn't exist, we build and open source it ourselves. Supabase is not a 1-to-1 mapping of Firebase. Our aim is to give developers a Firebase-like developer experience using open source tools. Architecture Supabase is a hosted platform . You can sign up and start using Supabase without installing anything.\nYou can also self-host and develop locally . Postgres is an object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. Realtime is an Elixir server that allows you to listen to PostgreSQL inserts, updates, and deletes using websockets. Realtime polls Postgres' built-in replication functionality for database changes, converts changes to JSON, then broadcasts the JSON over websockets to",
+      "published": "",
+      "_id": "2b5226bf08105545",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "fastapi /fastapi",
+      "link": "https://github.com/fastapi/fastapi",
+      "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production Documentation : https://fastapi.tiangolo.com Source Code : https://github.com/fastapi/fastapi FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints. The key features are: Fast : Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available . Fast to code : Increase the speed to develop features by about 200% to 300%. * Fewer bugs : Reduce about 40% of human (developer) induced errors. * Intuitive : Great editor support. Completion everywhere. Less time debugging. Easy : Designed to be easy to use and learn. Less time reading docs. Short : Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs. Robust : Get production-ready code. With automatic interactive documentation. Standards-based : Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema . * estimation based on tests conducted by an internal development team, building production applications. Sponsors Keystone Sponsor Gold Sponsors Silver Sponsors Other sponsors Opinions \" [...] I'm using FastAPI a ton these days. [...] I'm actually planning to use it for all of my team's ML services at Microsoft . Some of them are getting integrated into the core Windows product and some Office products. \" Kabir Khan - Microsoft (ref) \" We adopted the FastAPI library to spawn a REST server that can be queried to obtain predictions . [for Ludwig] \" Piero Molino, Yaroslav Dudin, and Sai Sumanth Miryala - Uber (ref) \" Netflix is pleased to announce the open-source release of our crisis management orchestration framework: Dispatch ! [built with FastAPI ] \" Kevin Glisson, Marc Vilanova, Forest Monsen - Netflix (ref) \" If anyone is looking to build a production Python API, I would highly recommend FastAPI . It i",
+      "published": "",
+      "_id": "f9ecc9a5597baab2",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "luongnv89 /claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "summary": "🌐 Language / Ngôn ngữ / 语言 / Мова: English | Tiếng Việt | 中文 | Українська | 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a guided learning path. Get Started in 15 Minutes | Find Your Level | Browse the Feature Catalog Table of Contents The Problem How Claude How To Fixes This How It Works Not Sure Where to Start? Get Started in 15 Minutes What Can You Build With This? FAQ Contributing License The Problem You installed Claude Code. You ran a few prompts. Now what? The official docs describe features — but don't show you how to combine them. You know slash commands exist, but not how to chain them with hooks, memory, and subagents into a workflow that actually saves hours. There's no clear learning path. Should you learn MCP before hooks? Skills before subagents? You end up skimming everything and mastering nothing. Examples are too basic. A \"hello world\" slash command doesn't help you build a production code review pipeline that uses memory, delegates to specialized agents, and runs security scans automatically. You're leaving 90% of Claude Code's power on the table — and you don't know what you don't know. How Claude How To Fixes This This isn't another feature reference. It's a structured, visual, example-driven guide that teaches you to use every Claude Code feature with real-world templates you can copy into your project today. Official Docs This Guide Format Reference documentation Visual tutorials with Mermaid diagrams Depth Feature descriptions How it works under the hood Examples Basic snippets Production-ready templates you use immediately Structure Feature-organized Progressive learning path (beginner to advanced) Onboarding Self-directed Guided roadmap with time estimates Self-Assessment None Interactive quizzes to find your gaps and build a personalized path What you get: 10 tutorial modules covering every Claude Code feature — from slas",
+      "published": "",
+      "_id": "98a99d0df7599b35",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "Meloong-Git /PCL",
+      "link": "https://github.com/Meloong-Git/PCL",
+      "summary": "Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 PCL 下载 ：下载可免费使用的正式版 PCL！ PCL 功能投票 ：来参加投票吧，开发者会优先处理票数较高的项目！ 帮助文档库 ：PCL 内置帮助文档的存储库",
+      "published": "",
+      "_id": "b9db1f32781a15fa",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "link": "https://www.typeui.sh/micro-interactions",
+      "summary": "Article URL:https://www.typeui.sh/micro-interactionsComments URL:https://news.ycombinator.com/item?id=50199290Points: 68# Comments: 41",
+      "published": "2026-10-22T18:32:57",
+      "_id": "05516fa6d2dd5210",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Award-winning AI literature",
+      "link": "https://jamesyu.org/award-winning-ai-literature/",
+      "summary": "Article URL:https://jamesyu.org/award-winning-ai-literature/Comments URL:https://news.ycombinator.com/item?id=50199232Points: 56# Comments: 59",
+      "published": "2026-10-22T18:28:26",
+      "_id": "619bf4eda568afa2",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "link": "https://arxiv.org/abs/2610.27251",
+      "summary": "Article URL:https://arxiv.org/abs/2610.27251Comments URL:https://news.ycombinator.com/item?id=50199230Points: 99# Comments: 58",
+      "published": "2026-10-22T18:28:16",
+      "_id": "39f0af155c70bc46",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "summary": "Article URL:https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patientsComments URL:https://news.ycombinator.com/item?id=50198940Points: 74# Comments: 39",
+      "published": "2026-10-22T18:02:54",
+      "_id": "cb508f9355dec287",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL:https://github.com/NVIDIA/OpenShellComments URL:https://news.ycombinator.com/item?id=50198675Points: 274# Comments: 141",
+      "published": "2026-10-22T17:44:06",
+      "_id": "6eb73169f84ce43f",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "summary": "Article URL:https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humansComments URL:https://news.ycombinator.com/item?id=50197313Points: 202# Comments: 241",
+      "published": "2026-10-22T16:08:00",
+      "_id": "c4ef979d44385fe4",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "summary": "Article URL:https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slidesComments URL:https://news.ycombinator.com/item?id=50190357Points: 85# Comments: 10",
+      "published": "2026-10-22T02:17:58",
+      "_id": "c115ce57a51e58c9",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Duet",
+      "link": "https://claude.com/resources/articles/claude-duet",
+      "summary": "Article URL:https://claude.com/resources/articles/claude-duetComments URL:https://news.ycombinator.com/item?id=50186455Points: 91# Comments: 12",
+      "published": "2026-10-21T19:40:18",
+      "_id": "f5220dab8f55b741",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "summary": "Article URL:https://www.bbc.com/news/articles/cmreyvepnv0poComments URL:https://news.ycombinator.com/item?id=50186043Points: 126# Comments: 26",
+      "published": "2026-10-21T19:14:21",
+      "_id": "3f872d921e09d092",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "summary": "Article URL:https://claude.com/product/claude-duetComments URL:https://news.ycombinator.com/item?id=50186037Points: 545# Comments: 510",
+      "published": "2026-10-21T19:14:01",
+      "_id": "0336c2290ec14333",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+      "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens.Hugging Face reports a 66.7% average across five DNA benchmarks with thinking disabled, versus 67.5% for GPT-6.1 Sol. The weights fit on one 80 GB GPU in bfloat16 and are Apache 2.0. It has not been clinically validated, and the model card says exact sequence operations should still be handled by code.the useful part is making sequence analysis local enough for sensitive datasets. has anyone tested whether the benchmark gains hold on private variant datasets?source:https://huggingface.co/HuggingFaceBio/Carbon-Xsubmitted by/u/jatingargiitk[link][comments]",
+      "published": "2026-10-22T12:32:56",
+      "_id": "eb70f4536b9c4513",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
+      "summary": "TL;DR:When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc.) broke on fixed vocabularies. I builtOpen-XTTS-Trainer— an open-source, modular 3-component training suite under MPL-2.0 with verified GPU loss convergence on real human speech and a 1-click Colab demo.Why I Built ThisXTTS v2 is one of the best local zero-shot TTS models we have, but training/adapting it has been painful since Coqui closed:Missing Component Recipes:Only GPT fine-tuning was commonly available. Stage 1 (DVAE) and Stage 3 (HiFi-GAN vocoder) training pipelines were either unreleased or fragmented.The Tokenizer Wall:XTTS was hardcoded for 17 languages. Feeding text with new Unicode scripts (Hindi, Arabic, Thai, Dhivehi, etc.) caused token out-of-vocab or matrix dimension crashes.Dependency Rot:Upgrading to modern PyTorch (2.4+) broke on missingtorchcodecand licensing prompts.What’s in the SuiteStage 1 (Audio Tokenizer — DVAE):Full training & fine-tuning loop with Gumbel-Softmax codebook annealing and mel-spectrogram reconstruction loss.Stage 2 (Text & Vocab Extender — GPT):Scans a new language corpus, discovers unique Unicode glyphs, appends them to the tokenizer, and dynamically resizes the GPT embedding matrix without corrupting existing weights. Includes the autoregressive GPT training loop.Stage 3 (Neural Vocoder — Latent HiFi-GAN):Latent-conditioned vocoder training with Multi-Period (MPD) and Multi-Scale (MSD) discriminators and feature-matching loss.Dependency-Rot Free:Runs out-of-the-box on modern PyTorch (Python 3.10–3.13) withouttorchcodecblocking.Verification & GPU BenchmarksTested on an NVIDIA T4 GPU using real human speech (LJSpeech + JFK address):HiFi-GAN Mel Reconstruction Loss:Plunged67%($190.83 \\rightarrow 63.49$) over 10 epochs.Discriminator Equilibrium:MPD + MSD stabilized cleanly at3.62(no mode collapse).DVAE Mel Error:Dropped67%($8.14 \\rightarrow 2.7",
+      "published": "2026-10-22T21:03:28",
+      "_id": "e614d8d5f979cbac",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+      "summary": "A while back I posted SteerTTS v1, a small English TTS you steer with numbers (https://huggingface.co/WhissleAI/steer-tts). Today I am releasing the edge variant:https://huggingface.co/WhissleAI/steer-tts-edgeSize:everything an app has to ship (weights, voices, text front end and Python runtime) totals11.84 MB.How:Acoustic model (9.25M params, attention + bidirectional Mamba-3) is quantization-aware trained to int46.2M-param Vocos-style vocoder is distilled fromcharactr/vocos-mel-24khz, also int4 QATText front end is pure numpy, with no NLTK, g2p_en, torchaudio or num2words at runtimeQuality(Open TTS Leaderboard protocol, run locally, not an official submission):Seed-TTS WER / UTMOSCV3-Eval WER / UTMOSv1 fp32 (no refiner)0.96% / 4.20edge0.96% / 4.11Intelligibility is essentially unchanged. UTMOS drops about 0.1, almost all of it from the small int4 vocoder.Steering survives quantization.Every one of the 12 controls (rate, loudness, pitch, pitch range, final rise, pauses, tilt, breathiness, and more) keeps at least 95% of its fp32 effect. You also get 50 style tags and inline markup:Well, *that* was fast. [pause 400ms] <slow>Let me think.</slow> <whisper>Don't tell anyone.</whisper>Speed(CPU only, a 2018 Threadripper under load): RTF 0.053 with 4 threads (~19x realtime), ~120 ms to first audio, with sentence-level streaming.Limitations:English only, and 200 voices (a subset of the full model’s 2,825)No voice cloning, free-text prompts or flow refiner on device. Those stay in the full model.Weights are dequantized to fp32 at load, so the win is size, not speed. Unless we write new kernels for edge devices.Emotion tags are mostly style switches, andfast/angerare weakI need feedback, especially on the vocoder quality gap and any edge targets you’d like to see (ONNX, mobile, WASM).Some examples here:https://whissleai.github.io/steer-tts/submitted by/u/Working_Hat5120[link][comments]",
+      "published": "2026-10-22T20:57:42",
+      "_id": "3094c7cf1cb791c6",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2610.28686",
+      "summary": "arXiv:2610.28686v1 Announce Type: new \nAbstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in the context of the prior dialog or, more interestingly, it may be well-formed but when posed against retrieved documents there are multiple relevant interpretations. The task is to recognize both such cases and then generate an appropriate clarification request to the user. We present ClariEdge, a new dataset of approximately 3,900 examples that include such ambiguous queries along with negative examples that do not require clarification. We also show that a lightweight fine-tuned LoRA achieves 96.6% classification accuracy and outperforms prompted baselines of many larger models on both classification and quality of clarification generation. Our study shows that hard negatives are an essential ingredient to separate out queries that are truly ambiguous from queries that may look ambiguous but are not (i.e., can be resolved from the context). The same LoRA achieves high performance in both pre-retrieval and post-retrieval scenarios; thus, it can be used in two places in a RAG pipeline as a check before answer generation. The ClariEdge dataset is available at https://huggingface.co/datasets/ibm-research/ClariEdge.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "c35b3ef79c92279b",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "link": "https://arxiv.org/abs/2610.28698",
+      "summary": "arXiv:2610.28698v1 Announce Type: new \nAbstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only data to diverse multi-world corpora. We assess performance and generalization using three-level validation losses and gameplay benchmarks from in-corpus worlds to unseen worlds. Our results show: (1) more data improves in-corpus performance, diversity improves transfer to related worlds with limited gains in distant worlds, and model size improves data efficiency but generalizes worse to distant worlds under single-world training; (2) we observe an early interface phase with broad cross-world benefits and a later world phase with gains narrowed to in-corpus and related worlds, and fit an empirical scaling law relating validation loss to data volume, diversity and model size; and (3) our models are competitive with Minecraft specialists and frontier models in 3D worlds, and perform best in real-time settings. However, the limits of imitation and persistent gaps in distant worlds suggest that building generalist embodied agents requires richer training stages beyond continued pre-training.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "f5ebfafb83c6121b",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+      "link": "https://arxiv.org/abs/2610.28706",
+      "summary": "arXiv:2610.28706v1 Announce Type: new \nAbstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introduce Speculative Evolution (SpecEvo), a multi-LLM framework that coordinates lightweight and frontier models through continual consolidation of search evidence. Lightweight models power both parallel Speculators, which generate and refine candidate programs, and an Advisor, which distills accumulated successes, failures, and saturated directions into persistent guidance for subsequent exploration. At sparse checkpoints, a frontier-model Navigator inspects the evolving population and intervenes through synthesis, surgical refinement, or reframing according to search stagnation. This speculate-then-consolidate workflow delegates routine exploration and evidence consolidation to inexpensive models while reserving frontier reasoning for strategic interventions whose benefits extend across many subsequent low-cost evaluations. Across 176 tasks spanning four scientific and algorithmic discovery domains, SpecEvo matches or outperforms frontier-model baselines while reducing API cost by up to 80%, achieves up to 1.5x greater evaluation efficiency than cost-efficient baselines on equation discovery, and improves over the strongest CO-Bench baseline by 3.8%. These results support trajectory-conditioned model coordination as an effective approach to cost-efficient scientific discovery.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "071ab93645637197",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "link": "https://arxiv.org/abs/2610.28763",
+      "summary": "arXiv:2610.28763v1 Announce Type: new \nAbstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML benchmarks, spanning 20 benchmarks across 11 domains. Rather than ranking agents on a leaderboard, Agent4Sci asks what kinds of progress agents can make on these tasks under in-the-wild conditions, and where they fall short. Empirically, today's frontier agents advance the published best on every benchmark, with Claude Opus reaching 10.4% mean relative improvement and no run flagged for academic misconduct. These gains, however, come almost entirely from a bag of ML-engineering tricks rather than research-level insight. Trajectory analysis surfaces three recurring limitations in this setting: novelty miscalibration, resource under-utilization, and rapid collapse into local engineering sweeps. Lightweight plug-in skills for research ideation, experiment management, and scheduled checklists raise Claude Opus from 10.4% to 20.1% and Codex from 4.4% to 8.1%, while yielding more diverse, domain-relevant interventions. Agent4Sci gives the community a way to track and push frontier agents from ML engineering toward domain insight on real-world ML-for-science problems. Code and data are available on GitHub (https://github.com/maszhongming/agent4sci) and Hugging Face (https://huggingface.co/datasets/MingZhong/agent4sci).",
+      "published": "2026-10-22T04:00:00",
+      "_id": "d8639c0b4eb9ace3",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+      "link": "https://arxiv.org/abs/2610.28815",
+      "summary": "arXiv:2610.28815v1 Announce Type: new \nAbstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary study reveals a paradoxical failure mode: the performance of existing methods degrades as the task pool expands. Our further analysis demonstrates that this degradation stems from suboptimal evidence selection during optimization, as different evidence combinations lead to substantially different evolution outcomes. To address this issue, we propose Successive Scale Racing (SSR), a framework that adaptively searches for optimal evidence combinations in each evolution round. SSR constructs diverse evidence combinations based on the corresponding task quality and coverage, and efficiently races the resulting candidate harnesses under a small compute budget. Empirically, across three distinct benchmarks, SSR achieves state-of-the-art results in all six configurations. Notably, as the task pool grows from 40 to 200, SSR steadily improves the pass rate from 64.3% to 68.3%, while the baselines' performances all drop. Furthermore, its racing mechanism identifies near-optimal candidates while reducing validation executions by 60%.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "50cf62209b129a40",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
+      "link": "https://arxiv.org/abs/2610.28673",
+      "summary": "arXiv:2610.28673v1 Announce Type: new \nAbstract: We study the 305M-parameter audio encoder shared by Gemma 4 and EmbeddingGemma 2 (identical except for its final projection) for Saudi and Gulf Arabic speech recognition, without changing any of its weights. A frozen system trains only a 22.6M-parameter CTC reader over a mix of encoder layers; an adapted system adds 3.1M low-rank adapter parameters, a 41.5M-parameter hybrid CTC/attention reader and joint decoding with a sub-word language model. Against Cohere Transcribe Arabic (2.07B parameters), re-run on identical audio, the frozen system trails in word error rate (WER) but is statistically indistinguishable in character error rate (CER) on five of six human-labelled conditions, while running 3.4 times faster on CPU with greedy decoding. The adapted system is statistically indistinguishable in WER on a public Saudi customer-service call (19.20% against 19.27%) and on clean Emirati speech, is significantly better on telephone-coded Emirati speech, has a significantly lower CER on all six conditions of these sets, and beats a 0.6B recogniser fine-tuned on SADA in WER on all six; it still trails Cohere in WER on long-form Saudi speech. On a blind, human-corrected public call-centre sample it ranks 4 of 15 systems, behind three commercial APIs (significantly only one) and ahead of the other self-hostable systems by point estimate. An optimised joint decoder runs it at 139 times real time on one GPU. We also show that references made by correcting machine drafts favour the drafting system. Code and public-set results are released.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "a7a75b8f97ef7762",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Translation and data ethics",
+      "link": "https://arxiv.org/abs/2610.28710",
+      "summary": "arXiv:2610.28710v1 Announce Type: new \nAbstract: This chapter introduces data ethics for translation and discusses a number of ethical issues regarding data. These include issues of copyright, ownership and bias, which apply to all types of data, whereas there are further issues particular to minoritised language communities and those on either side of the digital divide, as data is implicated in power imbalances and dynamics. We close with a discussion of responsibility and regulation, and reflect on the growing attention on data ethics from translation studies researchers.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "4c965660e82d6b16",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+      "link": "https://arxiv.org/abs/2610.28767",
+      "summary": "arXiv:2610.28767v1 Announce Type: new \nAbstract: Current evaluation of LLMs on benchmarks typically aggregates performance over individual examples into a single scalar score. This approach is overly coarse and ignores the diverse scope of skills covered by benchmark datasets. To address this limitation and better exploit benchmark data, we propose SkillEval, a new evaluation framework that performs cross-model, skill-level analysis. The framework integrates advances from two areas: (1) it leverages the meta-cognitive capabilities of LLMs to automatically discover interpretable skills from questions, and (2) it applies cognitive diagnosis models (CDMs) from psychometrics to estimate per-skill abilities of LLMs. We conduct experiments on 3,811 LLMs evaluated on 9,523 items across five benchmarks spanning diverse domains (MATH, BBH, GPQA, MuSR, IFEval). Compared to the traditional average-based evaluation paradigm, SkillEval produces reliable, more calibrated and informative yet concise model profiles that more accurately predict model behavior on unseen items. We also demonstrate the utility of SkillEval in two downstream tasks: (1) LLM routing, which dynamically assigns each query to a capable but efficient model, reducing inference cost by over 60% while achieving improved performance, and (2) Computerized Adaptive Testing (CAT), where an unseen model can be efficiently evaluated using a trained CDM. Furthermore, we show that these skill profiles provide useful insights, for example, how benchmarks share skills and how instruction-tuned models differ from their base models.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "3ef310cbc0f6a8c1",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+      "link": "https://arxiv.org/abs/2610.28772",
+      "summary": "arXiv:2610.28772v1 Announce Type: new \nAbstract: Psychotherapy fidelity assessment measures how faithfully a therapist adheres to a treatment protocol, a critical determinant of positive patient outcomes. However, fidelity assessment is bottlenecked by manual expert review, rendering the process labor-intensive and unscalable. To scale therapy supervision and support clinician self-learning, we present an integrated application of large language models (LLMs) that automates psychotherapy fidelity workflows and generates actionable supervisory feedback from authentic, long-form clinical transcripts. We evaluate three open-weight models across multiple task decomposition configurations and reasoning strategies, demonstrating that evidence-first reasoning improves fidelity estimation. Furthermore, we establish the framework's external construct validity on an independent randomized controlled trial (RCT), where it reliably distinguishes Cognitive Behavioral Therapy (CBT) from non-CBT sessions across core therapeutic skills. Through a user study that evaluates the generated feedback, mental health experts indicate that the pipeline synthesizes actionable clinical feedback. Ultimately, our work offers a practical, scalable solution toward bridging the community mental health supervision gap.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "8dfa7ef84d604711",
+      "_scraped_at": "00:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+      "link": "https://arxiv.org/abs/2610.28787",
+      "summary": "arXiv:2610.28787v1 Announce Type: new \nAbstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading. Small LLMs trained by RL learn what their training rivals reward, but only what they readily try. In self-play, they learn fixed rules ignoring their rivals; against a punishing rival, to be deterred; against a cheating rival, to match its cuts, never the costly price war that would deter it, which they rarely try. A war forced into training is learned, but mostly only where it was forced. Against their own copies, deterred and matching agents can earn the same cartel profits, but only matching ones can enforce them, and then thinly: as a by-product and only against large cuts. Q-learners enforce collusion only in pricing. Prompted LLMs reach cartel-like outcomes mostly through rules that ignore the market. Outcome measures cannot tell these cases apart; the audit can.",
+      "published": "2026-10-22T04:00:00",
+      "_id": "440cf8eaec9bd58c",
+      "_scraped_at": "00:13"
+    }
+  ],
+  "seen_ids": [
+    "0336c2290ec14333",
+    "0e5fad3ca5f8a881",
+    "285861fa05fad723",
+    "f8df91dc14194fe5",
+    "891b7e0bbf66f86d",
+    "fec7036c87350b49",
+    "9053b1f287d8b411",
+    "619bf4eda568afa2",
+    "cb2237817d8d4ca2",
+    "50cf62209b129a40",
+    "5232879038119e5d",
+    "94a5f6526eada9bc",
+    "50dd0c98f11d38b5",
+    "daa7510564afd525",
+    "6400feb681472530",
+    "79701ba0c13e9860",
+    "c290a2acf859c75b",
+    "39cad894cdd240fb",
+    "f07cf8fa2350865b",
+    "b9db1f32781a15fa",
+    "40a01666d562060b",
+    "071ab93645637197",
+    "c35b3ef79c92279b",
+    "51888f116f5b0837",
+    "6eb73169f84ce43f",
+    "1fd5dc2d57e90394",
+    "98516d3e7e04cfcd",
+    "3ef310cbc0f6a8c1",
+    "67297d2df9a3d7f1",
+    "f5220dab8f55b741",
+    "05516fa6d2dd5210",
+    "c115ce57a51e58c9",
+    "c3c5d14bfc3aa83f",
+    "f9ecc9a5597baab2",
+    "e614d8d5f979cbac",
+    "440cf8eaec9bd58c",
+    "cb508f9355dec287",
+    "3094c7cf1cb791c6",
+    "7725e6031bc0fef8",
+    "af6b159eb6ea2f66",
+    "c86f7d14b0049226",
+    "6f92d29565569592",
+    "dc90f243d13eab4c",
+    "eb70f4536b9c4513",
+    "f5ebfafb83c6121b",
+    "38c3408d933af173",
+    "bbfbd239659a6d0c",
+    "c4ef979d44385fe4",
+    "1c3f6e8b2704e3fb",
+    "264af0525447e45c",
+    "3f872d921e09d092",
+    "d8639c0b4eb9ace3",
+    "0e6b7b9249b2f756",
+    "e28ffcdc2244f40f",
+    "b3332eaa7cad73ac",
+    "3f1a11956436b167",
+    "32b3170e24109d9a",
+    "eda525050cea8fce",
+    "9c15e014464735eb",
+    "2d6ba8fc0269fd52",
+    "8dfa7ef84d604711",
+    "a7a75b8f97ef7762",
+    "5595c812cd34051e",
+    "c8127c2e57511fe8",
+    "4ab186bcd5d93e27",
+    "b629c133b14fadb9",
+    "4c965660e82d6b16",
+    "7fe7774a3ecb03f8",
+    "878b0bce2190e1a3",
+    "2b5226bf08105545",
+    "39f0af155c70bc46",
+    "5eee804247a435ab",
+    "98a99d0df7599b35",
+    "feb5be92526d2653"
+  ],
+  "last_run": "00:13",
+  "run_count": 1
+}
