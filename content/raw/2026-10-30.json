@@ -1,0 +1,629 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "published": "2026-10-29T17:00:00",
+      "_id": "9349f418e7bc7ab4",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "published": "2026-10-29T09:00:00",
+      "_id": "0f01adb2acab0a67",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "published": "2026-10-29T07:00:00",
+      "_id": "d948735545c20cf3",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "summary": "",
+      "published": "2026-10-29T13:37:07",
+      "_id": "e508e29ae812fe58",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "summary": "",
+      "published": "2026-10-29T00:00:00",
+      "_id": "718617961cab3abc",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "summary": "",
+      "published": "2026-10-29T00:00:00",
+      "_id": "b6b30743068c2627",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "summary": "",
+      "published": "2026-10-29T00:00:00",
+      "_id": "6394645bd5105adc",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "",
+      "published": "2026-10-28T14:58:17",
+      "_id": "ec733f799e1aaee3",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "published": "2026-10-29T16:00:35",
+      "_id": "5beef147a7815df4",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]",
+      "published": "2026-10-29T13:00:16",
+      "_id": "84f5c4345b63da3c",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+      "published": "2026-10-28T15:00:46",
+      "_id": "9fa8e4999dc54776",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "summary": "News Announcements 78 ARTICLES Most recent Title Description Date AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Oct 28, 2026 Oct 28, 2026 AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Early progress on accelerating drug development with Claude We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Oct 27, 2026 Oct 27, 2026 Early progress on accelerating drug development with Claude We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply",
+      "published": "",
+      "_id": "5232879038119e5d",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "published": "2026-10-30T01:20:48",
+      "_id": "c4d34ddeaf925ee4",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "published": "2026-10-29T23:42:22",
+      "_id": "772e2e8e8ca4a19f",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "published": "2026-10-29T20:08:31",
+      "_id": "4a81ec2699fd4844",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "published": "2026-10-29T20:05:47",
+      "_id": "eb97518808c83f5e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "published": "2026-10-29T19:56:19",
+      "_id": "c64d19fa0032f9ce",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Verge",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+      "published": "2026-10-29T18:45:31",
+      "_id": "4aa6b4f10322be2e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+      "published": "2026-10-29T16:00:00",
+      "_id": "5f992c32f5756cf3",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Verge",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
+      "published": "2026-10-29T14:39:37",
+      "_id": "8d448df3e470faab",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+      "published": "2026-10-29T14:00:00",
+      "_id": "3a644431de131a74",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
+      "published": "2026-10-29T13:30:00",
+      "_id": "130656092a266855",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI…",
+      "published": "2026-10-29T12:10:00",
+      "_id": "8ce52d4dd6132dca",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+      "published": "2026-10-29T10:11:12",
+      "_id": "32d69d7e6fd51a11",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
+      "published": "2026-10-29T10:00:00",
+      "_id": "69c7dbeddf2248ad",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+      "published": "2026-10-28T20:32:02",
+      "_id": "9957645d2f759c41",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Wired",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "published": "2026-10-29T18:39:43",
+      "_id": "6fa2e18fb2258267",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Wired",
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "published": "2026-10-29T15:00:00",
+      "_id": "648c3c3aab675618",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Wired",
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "published": "2026-10-29T14:00:00",
+      "_id": "514622a57dc1732b",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Wired",
+      "title": "I Gave My Blood to the AI Death Clock",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "published": "2026-10-29T10:00:00",
+      "_id": "41b8b5c1229e4741",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Wired",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "published": "2026-10-28T18:30:00",
+      "_id": "ce5d7499c1a8918d",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Information",
+      "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
+      "link": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+      "summary": "Chinese AI star DeepSeek’s nearly $16 billion funding round this month involved not only a deluge of capital but a who’s who of Chinese tech investors—and some of the country’s most powerful state-backed institutions, according to details of the round obtained by The Information.It was only the second fundraising round for DeepSeek. The three-year-old company was the only major AI model developerto eschew external capitaluntil its first fundraising in April. The new round included previous backers—Tencent and battery maker CATL continue to be DeepSeek’s top two investors—but also other tech companies including notably memory chipmaker ChangXin Memory Technologies and its chairman Zhu Yiming, according to the details provided by two people with direct knowledge of the matter.",
+      "published": "2026-10-30T01:08:40",
+      "_id": "29d038b2104fa20c",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Information",
+      "title": "DoorDash and Thrive Go Shopping",
+      "link": "https://www.theinformation.com/articles/doordash-thrive-go-shopping",
+      "summary": "Get your deals in while ya still can, folks. And clearly, there are relative bargains to be had.DoorDash CEO Tony Xu gets what I’m talking about. On Thursday, Xu finally picked up Instacart, with Xu’s company sayingit would payabout $17 billion for the grocery-delivery business. Over on X, Instacart founder Apoorva Mehta sent upa resounding huzzah, saying he and Xu had long discussed such a transaction. That wasn’t news to readers of The Information: Wereported on talksbetween DoorDash and Instacart back in 2021.At one point in 2021, DoorDash was considering buying Instacart for more than $40 billion. By waiting, Xu obviously saved himself a bunch of money and avoided the ridiculous markups that were attached to pandemic-era darlings like Instacart. Sure, its prospects seemed rosier back then, when we were regarding physical grocery stores as potentially lethal germ pools, but Xu doesn’t seem to be getting a total lemon. In the third quarter, Instacart sales grew 17%, and it generated a decent amount of cash in that time—more than $300 million, a 13% increase.The sale to Xu does solve Instacart’s leadership problem: It had looked rather rudderless since Fidji Simoleft the CEO role for OpenAIin 2025. Still, Xu will need to figure out how to handle the fierce competition for online grocery sales, a battle that includes Walmart and Amazon (more on the latter company below).One thing that held Xu up in 2021 was concern about the Biden administration. According to Valida’s reporting, Xu figured DoorDash wouldn’t get an Instacart acquisition past Biden regulators, who, of course, were trying their hardest to squelch corporate mergers and acquisitions. Those days of dealmaking famine have given way to a time of great feasting: The Trump White House has been, uh, lenient with regulatory approval. It could all shift once again after the midterms. With Democrats seemingly set to retake Congress next week, and President Donald Trump enjoying the same popularity as a DoorDasher",
+      "published": "2026-10-30T00:01:23",
+      "_id": "6ec7294fbbe27445",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "The Information",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast",
+      "link": "https://www.theinformation.com/briefings/intel-shares-drop-20-weak-sales-forecast",
+      "summary": "Intel shares dropped more than 23% in extended trading following its third-quarter earnings, as the chipmaker forecast a decline in revenue growth for its current quarter due in part to slowing demand for PCs.The sell-off marks an abrupt change for Intel, whose shares had risen more than 130% ...",
+      "published": "2026-10-29T23:56:27",
+      "_id": "e964227a182cfeb8",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "HKUDS /DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "summary": "DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see our Contributing Guide for branching strategy, coding standards, and how to get started. 📦 Releases [2026.10.28] v1.7.0 — Modular installation, a refreshed learning workspace, block notebooks with Dito, narrated video lessons, resumable embedding checkpoints, and more reliable tutoring. Past releases (more than 1 week ago) [2026.10.19] v1.6.15 — Reviewed learning-path changes, grouped assessments, bounded tutoring memory, reliable chat recovery, sturdier parsing, retrieval comparisons, and native Gemini speech. [2026.10.8] v1.6.14 — Original-source visual practice, recoverable indexing, unified video Reading, scientific research tools, managed plugins, a learning journal, and provider setup improvements. [2026.10.4] v1.6.13 — Reading and listening improvements, question-bank practice, resilient document parsing, configurable speech, workspace-visible attachments, Polish, and new providers. [2026.9.27] v1.6.12 — Workspace KB moves, Kiwix archives, source figures, Task Board, German UI, and chat recovery. [2026.9.24] v1.6.11 — French and Ukrainian interfaces, reading folders with in-chat selection actions, figures sent to vision models, paged Office previews, and self-syncing knowledge bases. [2026.9.22] v1.6.10 — Native LightRAG role models, a published index that records and enforces what built it, PDF attachments that follow your parsing engine, visible truncation, and unfiltered provider choices. [2026.9.21] v1.6.9 — Folder-based learning workspaces, daily practice, redesigned Settings, clearer streaming conversations, persistent usage accounting, and recoverable archives with explicit permanent deletion. [2026.9.14] v1.6.8 — A recycle bin for deleted chats, search across your whole conversation history, a tool that looks past your knowledge base, and a sweep ",
+      "published": "",
+      "_id": "e622970364717202",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code Hermes Agent Muse The Basic Workflow When Something Goes Wrong Community What's Inside Philosophy Contributing Updating License Visual companion telemetry How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for your agent to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Commercial Services If you're using Superpowers in enterprise and could benefit from commercial support, additional tooling, or managed spending, please don't hesitate to drop us a line at sales@primeradiant.com . Installation Installation dif",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "pbakaus /impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "summary": "Impeccable The design vocabulary for your coding agent. Steer with polish and bolder , review with critique and audit , and catch AI slop before it ships. From your project root: npx impeccable install Reload your coding tool, then run /impeccable init in your agent ( $impeccable init on Codex). Works with Claude Code, Cursor, Codex CLI, GitHub Copilot, Devin, Replit Agent, Gemini CLI, Grok Build, OpenCode, Google Antigravity, Kiro, Trae, Rovo Dev, Qoder, Mistral Vibe, Pi, Hermes Agent, DeepSeek Harness, and Veto. Full docs live at impeccable.style/docs . Without Impeccable With Impeccable Same model (Fable 5.1), same brief: a fourteen-room family guesthouse on the Ligurian coast. Without Impeccable, it builds the tasteful default: cream page, thin serif, italic accent, pill buttons. With it, the page is built around one picture: the house at night, seen from the water. For a full project, see the Neo Mirai case study : a conference site taken from mockup to shipped page. Why Inter for everything. Purple-to-blue gradients. Cards nested in cards, gray text on colored backgrounds, a rounded-square icon tile above every heading. Ask an agent for a page with no other guidance and these show up again and again, across models and projects. Words for what you want. \"Make it pop\" leaves your agent to guess. /impeccable bolder the pricing cards loads a playbook written for that one move and points it at one target. A reviewer. critique scores the design against usability heuristics and ranks what to fix first. audit checks accessibility, performance, theming, and responsive behavior, with findings ranked P0 (blocking) to P3 (polish). A slop detector. 62 deterministic rules flag the tells above, plus quality problems like cramped padding and skipped headings. No LLM, no API key. Impeccable is strongest on interfaces that already exist: point it at a page or a component and iterate. It builds new pages too; see Build something new for how to get the most out of that harder mod",
+      "published": "",
+      "_id": "ec673bd7694d3a65",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "JetBrains /thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "summary": "ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through\nliving specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, isolated work into separate workspaces, and gave the agent durable project knowledge\nthrough living specs and reusable skills. Next, we're adding full extension support, so ThinkRail can\ncreate the tools it needs based on how you actually work. Website: thinkrail.ai · Blog: thinkrail.ai/blog · Discord: thinkrail.ai/discord ⭐ If you find ThinkRail useful, give it a star — it helps others discover it. A pi session and the change it made, scoped to an isolated git-worktree workspace. What you get Isolated workspaces. Open any git repo as a project and cut workspaces from it as git worktree s,\neach with its own branch and working directory. Agents work in parallel without touching your\ncheckout; merge the good branch, delete the rest. You can also attach existing worktrees or explicitly\nwork in the project folder itself. Finished and dormant workspaces settle onto a per-project shelf on\ntheir own — when their pull request merges or closes, or after a quiet week — and come back the moment\nyou work in them. The topbar shows where the active branch stands against origin and its pull request,\nwith the next step one click away: publish, push, or open a PR described from the plan, the commits,\nyour PR template, or an agent-written draft. Once a GitHub PR is open it shows the CI checks and review\ndecision, and lets you mark it ready, hand failing checks or a diverged branch to the agent, merge it\nwith the repository's last-used method, reopen it, or delete the remote branch. A real IDE around the agent. A splittable workbench of Monaco editor tabs, a Files tree with live git\nchange marks and a Changed view, terminals, and documents — all scoped to the active workspace. Leave\nanchored review comments on files and diffs and send them to a chat as structur",
+      "published": "",
+      "_id": "0acf196572ceb07e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "milind-soni /OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com · Download · Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alternative: an independent project inspired by Grok Bot , and the open-source alternative to Meta Muse , OpenAI dots and Cue by Manus — bring-your-own-agent, local-first, on the models you already have. Also known as MausBot ; formerly OpenGrokBot . Not affiliated with xAI, Meta, OpenAI or Manus. Every bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own\npersonality, its own model, its own cloud computer, and its own connected apps.\nTalk to them like contacts. Watch them work. Approve what matters. latest release ·  macOS: Apple silicon & Intel · signed & notarized .dmg  ·  Windows: x64 installer  ·  Ubuntu 24.04 x64: .deb or AppImage beta  · all releases Powered by boat.dev ⚠️ No affiliation with any cryptocurrency. OpenMausBot has no token. Any coin using the OpenMausBot, Maus, or SupaMaus name is not created, endorsed, or affiliated with this project or its maintainer. I have received no tokens, payment, or allocation from anyone, and I will not be endorsing any token. Why One assistant in one box is the wrong shape for agents. OpenMausBot is an independent, open-source project inspired by Grok Bot —\nit keeps the idea (AI as a messaging app : a roster of bots you chat with, each with its own personality,\nmemory of its thread, model, computer, and apps) and rebuilds it open, local-first, and on the agents you\nalready have: Bring your own agents. Bots run on the claude , codex , and grok CLIs installed on your own machine\n— your existing logins and subscriptions, no new accounts, no proxy in the middle. Point any engine at a\ncustom CLI binary (a versioned build or wrapper) in Settings → Engines . Local first. One small harness server on 127.0.0.1 owns every agent process. Transcripts, keys, and\nevents live in ~/.openmaus",
+      "published": "",
+      "_id": "7366786c561f97cd",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "nightly-labs /openbot",
+      "link": "https://github.com/nightly-labs/openbot",
+      "summary": "OpenBot OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local Codex App Server and Claude Code , plus Grok CLI ,\nOpenCode, Gemini, Cursor CLI , and Cline CLI through ACP. It gives every agent its own workspace and\nconversation, and provides local queues, file transfers, an embedded browser, and agent-to-agent\nmessaging in one desktop app. Warning OpenBot is a development preview. Agents currently run with danger-full-access and approvalPolicy: never . They can read and modify files, run commands, use the network, and control\nthe embedded browser without per-action confirmations after the explicit first-launch consent.\nRun only agents and tasks you trust, keep backups, and review Security before use. What works Prompt-driven agent creation and editing on desktop and mobile, with editable instructions, avatar, and section review before saving. Persistent agents backed by independent Codex, Claude, Grok, OpenCode, Gemini, Cursor, or Cline sessions and local workspaces. Custom OpenAI-compatible endpoints and custom ACP agents, with detection of local model servers (Ollama, LM Studio) and installed agents. Per-agent context monitoring with automatic compaction before long threads exhaust the model window. FIFO message queues with pause, resume, cancellation, and crash-safe persistence. Agent-to-agent messages, replies, reactions, images, and managed file transfers. Shared desktop channel chats with one task owner, explicit delegation, shared history, and Stop, Resume, Reassign, Archive, and Restore controls. A persistent embedded browser that agents can open, inspect, and control. Optional Computer Use on macOS, Windows and Linux through the cua-driver binary in the release, which OpenBot starts as its own child process and gives to every provider. Per-agent model, reasoning, profile, notification, browser, and panel state. Local data and privacy-safe diagnostics exports from the account menu. Optional OpenBot accounts through one-",
+      "published": "",
+      "_id": "59f086ad2f833f7e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "elayadesign /ai-design-skills",
+      "link": "https://github.com/elayadesign/ai-design-skills",
+      "summary": "AI Design Skills A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch — intake questions, page structure, conversion copy, plus a full visual system (type, spacing, radius, motion) More on the way. Upgrading an existing site instead of building new? That one lives in its own repo since it predates this collection. Install Pick a skill from the table above, then swap <skill-name> below for its folder name. Claude Code mkdir -p .claude/skills\ngit clone https://github.com/elayadesign/ai-design-skills.git /tmp/ai-design-skills\ncp -r /tmp/ai-design-skills/skills/ < skill-name > .claude/skills/ Then just ask, in plain language, for what that skill covers. Cursor mkdir -p .cursor/rules\ncurl -o .cursor/rules/ < skill-name > .md \\\n  https://raw.githubusercontent.com/elayadesign/ai-design-skills/main/skills/ < skill-name > /SKILL.md Or paste the file into Settings → Rules for AI . Codex / Windsurf / other Copy the skill's SKILL.md into whatever your tool uses for project rules: Tool Path Codex AGENTS.md Windsurf .windsurfrules Cline .clinerules Generic paste into your system prompt Claude.ai (no terminal) Download the skill's SKILL.md and upload it to a Project, or attach it to a chat and say \"follow this.\" Make it yours Every skill's design values (fonts, colors, spacing, motion) live in one section near the bottom of its file. Fork this repo, edit that section, and the rest of the skill follows automatically. Credits landing-page-design adapts content realism and motion ideas from Leonxlnx/taste-skill by Leon Lin, MIT licensed. Details are at the end of its SKILL.md . License MIT. Use it, fork it, ship it, sell what you build with it. No attribution needed.",
+      "published": "",
+      "_id": "dae9f18d6467b0be",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "thedotmack /claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹 Português • 🇧🇷 Português • 🇰🇷 한국어 • 🇪🇸 Español • 🇩🇪 Deutsch • 🇫🇷 Français • 🇮🇱 עברית • 🇸🇦 العربية • 🇷🇺 Русский • 🇵🇱 Polski • 🇨🇿 Čeština • 🇳🇱 Nederlands • 🇹🇷 Türkçe • 🇺🇦 Українська • 🇻🇳 Tiếng Việt • 🇵🇭 Tagalog • 🇮🇩 Indonesia • 🇹🇭 ไทย • 🇮🇳 हिन्दी • 🇧🇩 বাংলা • 🇵🇰 اردو • 🇷🇴 Română • 🇸🇪 Svenska • 🇮🇹 Italiano • 🇬🇷 Ελληνικά • 🇭🇺 Magyar • 🇫🇮 Suomi • 🇩🇰 Dansk • 🇳🇴 Norsk Persistent memory compression system built for Claude Code . Quick Start • How It Works • Search Tools • Documentation • Configuration • Troubleshooting • License Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect. Quick Start Install claude-mem for Grok Bot: npx claude-mem install --ide grok-bot Grok Bot has no host hooks, so we watch the chat log files. Default is CMEM Pro, the hosted memory. Local observer is opt-in: --provider host . Installing this plugin does not install Cursor. Awareness push pilot (LFG + Orifice): needle observations ( decision , bugfix , security_alert , sensitive ) are appended as dated - YYYY-MM-DD [awareness] … lines into that bot's memory/log/YYYY-MM.md . Grok Bot already re-reads the log from disk. This does not write profile.md , user-memory, or project memory. Disable with CLAUDE_MEM_GROK_BOT_AWARENESS_ENABLED=false . Install with a single command: npx claude-mem install The installer sets everything up first, then asks you to sign in to claude-mem in your browser (email magic link — no card required). Signing in provisions a memory key for your account and unlocks the claude-mem observer with a 30 Day Free Trial : memory runs off-plan, so you get up to 100% more usage from your plan. When the free trial ends, memory automatically falls back to your Anthropic plan unless you subscribe. After sign-in you pick y",
+      "published": "",
+      "_id": "853c63f738f0cecf",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "CopilotKit /OpenBot",
+      "link": "https://github.com/CopilotKit/OpenBot",
+      "summary": "OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG-UI. Each coworker gets a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after. Talk to an engineer · Have us build it with you · copilotkit.ai/openbot · Quick start · Docs demo-openbot.mp4 Bring any AG-UI agent, written on a framework or by hand, and it arrives as a\ncoworker with a channel of its own. Watch it work on its own screen, take the\nwheel when it reaches something it should not do alone, then hand it back. It\nanswers with components rather than only prose, and the whole thing runs on\nyour own machine. A template, not a product. OpenBot is meant to be cloned and made your own. There is no hosted version to sign up for, and nothing here is published as a package to depend on: every workspace in this repository is private. You take the repository, replace the example tenant package under examples/ with your own coworkers, channels and skills, and run it. Everything below describes a starting point, not a finished thing somebody operates for you. Beta, and under active development. OpenBot is early. Expect rough edges and bugs, and expect things to move. Issues and pull requests are welcome. Runs on your machine. Everything below is written for a laptop. .env.example carries OPENBOT_SINGLE_USER=true , which admits every request as one administrator, so a fresh clone reaches the product without registering an OAuth client first. Sign-in turns that off, and is required before anybody else can reach the deployment. We can build this for you, or with you, at your company. Our engineers will stand OpenBot up\ninside your infrastructure, customize it into something that looks like your own product, and hand it\nback to you to keep changing. Start the conversation ",
+      "published": "",
+      "_id": "229b322ed982d40b",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "GitHub",
+      "title": "togg53192-cmd /jailbreaks",
+      "link": "https://github.com/togg53192-cmd/jailbreaks",
+      "summary": "Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. About A working collection of 32 prompts targeting 26+ models , including complete system prompts, persona definitions, workspace policies, AGENTS.md files, configuration blocks, and Ollama Modelfiles. Every file is intended to be complete and paste-ready. No summaries. No partial excerpts. The collection covers: Free stealth models available through OpenCode Zen Open-weight families including GLM, DeepSeek, Kimi, Qwen, Gemma, and GPT-OSS Closed frontier models including Claude, Gemini, Grok, and Mistral Coding-agent and workspace instruction formats Ollama Modelfiles and harness-specific configuration New here? Start with the collection or jump directly to how to use . Warning Research and educational purposes only. This repository documents how instruction hierarchies, persona framing, prompt conflicts, and policy overrides can affect model behavior. These techniques are also useful to researchers and developers studying how to make AI systems more resistant to prompt injection and instruction manipulation. Do not use this material to harm others, bypass applicable laws, or violate the terms of service of a platform or model provider. Collection OpenCode Zen — Free Stealth Models Model File Type Big Pickle BigPickle-opencode.md VANTA persona lock with explicit operating floor Space Bunny spacebunny-agents.md Assistant operating specification LongCat 2.5 longcat-agents.md Assistant operating specification MiMo V2.6 mimo-2.6-agents.md Assistant operating specification Step 5 Preview Step-5-preview.md Workspace operating profile Muse Spark 1.3 Muse spark 1.3.md Agent deployment operating policy Muse Spark 1.3 v2 Muse-spark-1-3-v2.md Runtime scope-note variant Muse.ai muse-ai-AGENTS.md Assistant operating specification Anthropic — Claude Model File Type Opus opus v1.md · opus v2.md Conversational g",
+      "published": "",
+      "_id": "8a65a0a78a368085",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proton goes all in on using AI",
+      "link": "https://convo.casa/@b/117525936178835007",
+      "summary": "Article URL:https://convo.casa/@b/117525936178835007Comments URL:https://news.ycombinator.com/item?id=50296602Points: 74# Comments: 62",
+      "published": "2026-10-29T21:49:28",
+      "_id": "da771810d3cb0607",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "Article URL:https://labs.ycombinator.com/projects/games/index.htmlComments URL:https://news.ycombinator.com/item?id=50296486Points: 146# Comments: 55",
+      "published": "2026-10-29T21:40:28",
+      "_id": "2cf1fb795ba0396c",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+      "link": "https://fig.blue/posts/duet-is-the-future/",
+      "summary": "Article URL:https://fig.blue/posts/duet-is-the-future/Comments URL:https://news.ycombinator.com/item?id=50292727Points: 102# Comments: 84",
+      "published": "2026-10-29T17:24:25",
+      "_id": "aef342337ed8ac4e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.What we offer:\n- Virtual devboards you can program and run with a single API call, without leaving your terminal.\n- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.\n- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.Here is a demo of our simulation used in an AI code review session:https://www.youtube.com/watch?v=kBK1ZjGWWbQOur users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation sys",
+      "published": "2026-10-29T15:56:32",
+      "_id": "700f3e4bbfb43c82",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "summary": "Article URL:https://trakkr.ai/trakkr-research/zombie-statsComments URL:https://news.ycombinator.com/item?id=50290283Points: 141# Comments: 61",
+      "published": "2026-10-29T15:06:17",
+      "_id": "a1f8d24a51e36d46",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "Article URL:https://martinfowler.com/bliki/LLM-Voice.htmlComments URL:https://news.ycombinator.com/item?id=50290177Points: 335# Comments: 177",
+      "published": "2026-10-29T14:57:55",
+      "_id": "815e9f76383a9012",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "summary": "Article URL:https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/Comments URL:https://news.ycombinator.com/item?id=50289692Points: 140# Comments: 51",
+      "published": "2026-10-29T14:29:06",
+      "_id": "ada48fd2a892dda5",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "summary": "Article URL:https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1Comments URL:https://news.ycombinator.com/item?id=50288019Points: 328# Comments: 240",
+      "published": "2026-10-29T12:41:56",
+      "_id": "5385485570aa2630",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "Article URL:https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efceComments URL:https://news.ycombinator.com/item?id=50284255Points: 560# Comments: 225",
+      "published": "2026-10-29T03:33:42",
+      "_id": "94430ceaa839cbc6",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "summary": "Article URL:https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.mdComments URL:https://news.ycombinator.com/item?id=50282865Points: 55# Comments: 74",
+      "published": "2026-10-29T00:30:37",
+      "_id": "ef9d5fd64ced6622",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Old-school classifiers are still generally better than Jev [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+      "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model.So we tested the old-school approach to classification and regression:Embed your inputs with an open-source or cheap embedding modelFit a simple sklearn model on top using your own labelsTurns out this approach was cheaper and almost always significantly more accurate (37% error reduction against Jev)Write-up:https://blog.voyageai.com/2026/10/27/how-to-create-your-own-jev-using-voyage-models/(Disclosure: I work at Voyage)Code:https://github.com/mishelsikder/mongo-predictCurious whether others have seen the same thing, or found cases where zero-shot performs betterEdit: To be clear, the gains here come from having training labels, which only applies to some use cases. Jev doesn’t use training labels, so it's unsuprising that this approaches wins when you have them and loses when you don't.submitted by/u/csinva[link][comments]",
+      "published": "2026-10-29T14:13:05",
+      "_id": "86bccf185cb95b7a",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Leaving a job to pursue a PhD [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+      "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.What I don't like about the job is that I'm actually not doing any real data science and modeling. I guess I'm working on more modeling and scientific questions than most ML engineers but I'm barely scratching the surface of each problem and most problems are resolved with quick and data-driven methods. Rarely do we apply novel algorithms or do real literal reviews and R&D.Additionally a big part of my job is actually just developing software, talking with customers, DevOps and service reliability. While I like the fact that I'm working on a variety of things I don't really have the chance to deepen my knowledge to a meaningful degree on any. With agents writing most of the code and pressure to move fast, most engineering solutions are surface-level and really I don't think that I'm advancing my knowledge and skills. The only thing that I'm actually learning is how to work with agents.Then of course it's the problem with AI and agentic coding. I deal with a lot of slop on a daily basis and although I'm careful with my job I inevitably produce a share amount of slop myself. This is what modern startups are forced into because management wants accelerated development and competition is high. I'm having real problems with AI fatigue and too close to burnout.I miss the times when I could work on the same topic for days or weeks, research, read, plan, do experiments and iterate on the results. Then finally, hopefully, arriving at a hypothesis that works and finding a novel idea. However, it's been 4 years since my last real research experience, during my master's thesis, and I'm quite sure that academia has gotten worse due to high saturation and AI slop.I really don't know about how t",
+      "published": "2026-10-29T09:28:28",
+      "_id": "8d757dbb487b29af",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+      "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus:- Names linked to a list you give it (a roster, contacts, product names); new names are flagged \"not on the list\"- Numbers with their values (scores, clocks, money, dates)- Speakers and roles;- Sound and channel events (telephone audio, clipping, poor audio)- Whether the speech was addressed to an assistant.- Inbuilt tags for dialog act, speaker segmentation and more. Total 200+ trained decision heads.The usual ASR, then NER, then entity-linking and then LLM chain is collapsed into the model's own heads, so live \"fact-checking\" against your list happens inside the stream, not in a second pass.Currently it has two variants Arc mini (which uses moonshot pretrained encoder) and second Arc-v1 (which uses parakeet pretrained encoder).Weights:huggingface.co/WhissleAI/arc-v1.1Code and CLI:github.com/WhissleAI/arc_transcriberWe use it on-device in our Mac app. Voice search over 61k books primes Arc with matching titles while you're still talking. Here is a video to give a glimpse on how it works.submitted by/u/Working_Hat5120[link][comments]",
+      "published": "2026-10-29T22:51:57",
+      "_id": "7b15597b12e055ea",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "link": "https://arxiv.org/abs/2610.35942",
+      "summary": "arXiv:2610.35942v1 Announce Type: new \nAbstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess escaped defects, and one decision number built from them: the break-even defect cost. I give a baseline model of checking in which, until the model is good enough not to check, a calibrated worker's escaped-defect rate does not depend on how good the model is; checking time grows with the logarithm of the model's error rate; and over-trust buys minutes on the clock at a larger cost in total minutes. I show what randomized studies can and cannot identify, and I replicate METR's developer study from its public data: the same 246 issues support a slowdown of 19% or 24% depending on the estimand (34% without adjusting for a chance imbalance), and AI helped on somewhere between 3% and 82% of them. Finally, I restate the published record, with stated bounds in place of imported point assumptions. In GDPval's own review-every-output workflow, review time alone caps GPT-5's speedup at 3.6x; the consultants outside the frontier were faster, and more often wrong. Last, I test two of the model's predictions in a small pre-specified experiment on AI reviewers checking AI drafts of the same kind of brief, built from SEC filings made after the models' training data were collected. Told the drafter's true error rate, the reviewer checked more as it rose, but all-or-nothing, switching near where its prompt's costs break even. Told that the drafter erred ten times less often than it did, it checked 7 fewer of 9 figures and let a wrong figure through in 22.5% of briefs instead of none: faster and worse, entirely through reduced effort.",
+      "published": "2026-10-29T04:00:00",
+      "_id": "6d883a1f3620138c",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+      "link": "https://arxiv.org/abs/2610.35984",
+      "summary": "arXiv:2610.35984v1 Announce Type: new \nAbstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation methods, CutMix, MixUp, and synthetic image generation using Deep Convolu tional Generative Adversarial Networks (DCGANs), to create new data samples. Second, we exploit this generated data in three scenarios: (S1) balancing class distribution in the original dataset, (S2) increasing the number of samples per class, and (S3) expanding the dataset while maintaining balanced classes. Third, we evaluate the impact of these data distributions (S1, S2, S3) on model perfor mance using the EfficientNetV2B0 architecture with pre-trained and fine-tuned weights. The experimental results show a substantial improvement in classifica tion accuracy, emphasizing the critical role of data diversity and class balance. These findings highlight the effectiveness and adaptability of the proposed strat egy of data generation and distribution for enhancing dataset quality, offering promising applications in plant disease detection and precision agriculture.",
+      "published": "2026-10-29T04:00:00",
+      "_id": "7955caaf89147e7b",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "link": "https://arxiv.org/abs/2610.36077",
+      "summary": "arXiv:2610.36077v1 Announce Type: new \nAbstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator, Explorer, and Evolver. Drawing on verified execution trajectories, Evolver shifts the basis of task organization from surface categories to shared requirements, reorganizing the original task tree into a hierarchical capability tree. We introduce Capability-Driven Real2Sim2Real: for heterogeneous tasks at the same node, Creator abstracts their common requirements into simplified, verifiable simulated worlds for capability learning, while evaluation on original tasks measures transfer. Along this capability tree, Explorer progressively evolves reusable capability modules through selective inheritance, forming a Harness tree whose validated updates accumulate across iterations within a fixed topology. The resulting Harnesses specialize in different capabilities, motivating a Capability-Aware Harness Router that uses public task information to select compatible module configurations from the tree. Our evolved Harnesses improve mean performance by 34 points across 28 training benchmarks and 26 points across 18 unseen benchmarks, including two real-world embodied tasks.",
+      "published": "2026-10-29T04:00:00",
+      "_id": "8eb088ec74f3ec5e",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+      "link": "https://arxiv.org/abs/2610.36100",
+      "summary": "arXiv:2610.36100v1 Announce Type: new \nAbstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly recorded semantic dependencies enable affected computations to be selectively invalidated while preserving valid prior results. On 100 scenarios derived from clinical-trial eligibility criteria, comprising 126 correction turns, localized steering achieves 77.0% requirement micro-F1 versus 76.4% for full regeneration using the same 8B model, a small numerical advantage that is not statistically significant ($p=0.493$). It reduces mean correction latency by 64.8% after completion and 44.3% during execution, with 38.1% fewer model calls. In a separate proof-of-concept evaluation over MIMIC, all 13 cohort states execute successfully, while correction trajectories demonstrate selective preservation of unaffected computations and recomputation of changed or dependent nodes. Together, these results show that localized semantic steering can substantially reduce correction latency and model calls while maintaining strong requirement-level accuracy.",
+      "published": "2026-10-29T04:00:00",
+      "_id": "18559cb38b762050",
+      "_scraped_at": "01:23"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+      "link": "https://arxiv.org/abs/2610.36116",
+      "summary": "arXiv:2610.36116v1 Announce Type: new \nAbstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this principle it derives a two-part test for when a research task can be delegated to AI. The first part, \\emph{human understanding}, requires that the scientific community remain able to explain, defend and contest the resulting claims, and retain the skills to do so. The second, \\emph{human direction}, requires that judgments about which questions matter and what findings mean stay with accountable humans. Applying the test to each phase of research in the Contributor Roles Taxonomy (CRediT) yields recommendations that fields can tailor to their questions and methods. The framework differs from existing guidance in three ways. It rests on an account of what science is for rather than on integrity norms. It holds even if AI outperforms human researchers, rather than depending on AI's current limitations. And it judges each use of AI by its effects on human understanding and direction rather than by the type of tool, across every phase of research, including peer review and the training of new researchers. It closes with the reforms needed to keep science aimed at human understanding and direction.",
+      "published": "2026-10-29T04:00:00",
+      "_id": "cefc48cf69e7d9b7",
+      "_scraped_at": "01:23"
+    }
+  ],
+  "seen_ids": [
+    "8eb088ec74f3ec5e",
+    "d948735545c20cf3",
+    "2cf1fb795ba0396c",
+    "29d038b2104fa20c",
+    "3a644431de131a74",
+    "4aa6b4f10322be2e",
+    "e508e29ae812fe58",
+    "0f01adb2acab0a67",
+    "94430ceaa839cbc6",
+    "7955caaf89147e7b",
+    "32d69d7e6fd51a11",
+    "cefc48cf69e7d9b7",
+    "4a81ec2699fd4844",
+    "130656092a266855",
+    "5f992c32f5756cf3",
+    "59f086ad2f833f7e",
+    "6ec7294fbbe27445",
+    "5232879038119e5d",
+    "c64d19fa0032f9ce",
+    "ada48fd2a892dda5",
+    "ec673bd7694d3a65",
+    "e622970364717202",
+    "ec733f799e1aaee3",
+    "69c7dbeddf2248ad",
+    "eb97518808c83f5e",
+    "9957645d2f759c41",
+    "ef9d5fd64ced6622",
+    "41b8b5c1229e4741",
+    "dae9f18d6467b0be",
+    "86bccf185cb95b7a",
+    "718617961cab3abc",
+    "84f5c4345b63da3c",
+    "853c63f738f0cecf",
+    "8d757dbb487b29af",
+    "7b15597b12e055ea",
+    "da771810d3cb0607",
+    "9349f418e7bc7ab4",
+    "5385485570aa2630",
+    "c4d34ddeaf925ee4",
+    "7366786c561f97cd",
+    "aef342337ed8ac4e",
+    "b6b30743068c2627",
+    "514622a57dc1732b",
+    "8c6014a36ca90e3f",
+    "700f3e4bbfb43c82",
+    "6d883a1f3620138c",
+    "8a65a0a78a368085",
+    "772e2e8e8ca4a19f",
+    "18559cb38b762050",
+    "5beef147a7815df4",
+    "6394645bd5105adc",
+    "648c3c3aab675618",
+    "0acf196572ceb07e",
+    "8ce52d4dd6132dca",
+    "8d448df3e470faab",
+    "6fa2e18fb2258267",
+    "229b322ed982d40b",
+    "a1f8d24a51e36d46",
+    "9fa8e4999dc54776",
+    "815e9f76383a9012",
+    "ce5d7499c1a8918d",
+    "e964227a182cfeb8"
+  ],
+  "last_run": "01:23",
+  "run_count": 1
+}
