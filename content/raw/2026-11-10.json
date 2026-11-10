@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "published": "2026-11-09T19:00:00",
+      "_id": "caa9073cefb43725",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published": "2026-11-09T13:00:00",
+      "_id": "952d2516af2e9054",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "published": "2026-11-09T08:00:00",
+      "_id": "02e9abf47eaf3fa0",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "link": "https://openai.com/index/kuken",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "published": "2026-11-09T08:00:00",
+      "_id": "2e34e84f0999c607",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "summary": "",
+      "published": "2026-11-09T15:05:57",
+      "_id": "ac8f18750241a65f",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "published": "2026-11-09T12:34:29",
+      "_id": "55d059b88c6c576a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+      "published": "2026-11-09T14:00:01",
+      "_id": "61e7ac7c7e624eb3",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
+      "published": "2026-11-09T08:00:53",
+      "_id": "78a38ab1bb2e5e3a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "published": "2026-11-09T05:00:40",
+      "_id": "59b779471e81fefe",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+      "published": "2026-11-09T05:00:39",
+      "_id": "d7c73c4b9a79782f",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "published": "2026-11-09T05:00:04",
+      "_id": "51e504680490a66d",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "summary": "News Announcements 78 ARTICLES Most recent Title Description Date Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Nov 9, 2026 Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Oct 28, 2026 Oct 28, 2026 AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and f",
+      "published": "",
+      "_id": "5232879038119e5d",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "published": "2026-11-10T01:27:12",
+      "_id": "8a35af252b32001f",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "published": "2026-11-09T23:28:37",
+      "_id": "cbe54f11b05c0e59",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "published": "2026-11-09T22:46:09",
+      "_id": "ee9aab4d1d8b4a89",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "published": "2026-11-09T22:23:42",
+      "_id": "38b3fce4c5431b80",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "published": "2026-11-09T20:09:06",
+      "_id": "fc6d536179e6162c",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+      "published": "2026-11-10T00:28:49",
+      "_id": "05e31abb81030e94",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+      "published": "2026-11-09T23:51:58",
+      "_id": "44bb6093a440b817",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+      "published": "2026-11-09T23:47:46",
+      "_id": "cd027b24b17aebaf",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+      "published": "2026-11-09T23:07:59",
+      "_id": "38ea5b66d2595223",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+      "published": "2026-11-09T19:09:58",
+      "_id": "5ef93d9981a0db1c",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "published": "2026-11-09T19:41:34",
+      "_id": "97eedb91375d7417",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "published": "2026-11-09T19:35:33",
+      "_id": "a0dbf5e971943802",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
+      "published": "2026-11-09T17:05:43",
+      "_id": "847f70281bec59e8",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…",
+      "published": "2026-11-09T13:15:00",
+      "_id": "e181d023f6ee7abf",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "published": "2026-11-09T13:00:00",
+      "_id": "f2fd344bf7be2cb6",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The climate case for AI has not been made",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…",
+      "published": "2026-11-09T10:00:00",
+      "_id": "161c4966bba84f86",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "published": "2026-11-10T00:18:19",
+      "_id": "6013a414af2b159e",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+      "published": "2026-11-09T14:30:56",
+      "_id": "ad4cdb1f0fc03a0a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Wired",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "published": "2026-11-09T11:00:00",
+      "_id": "8874dd7b5668dbac",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Wired",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "published": "2026-11-09T08:00:00",
+      "_id": "88c8ad35cbbf4c7a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Information",
+      "title": "There Are Likely More Spies at AI Companies, Says Security Executive Lisa Thiergart",
+      "link": "https://www.theinformation.com/articles/likely-spies-ai-companies-says-security-executive-lisa-thiergart",
+      "summary": "Other countries likely haven’t yet stolen AI models from leading U.S. companies—but only for a lack of trying, said Lisa Thiergart, co-founder and CEO of Security Level 5, a startup that works with AI companies and the intelligence community to secure AI data centers. “If a nation state really wanted to steal the weights right now, they could. However, I think that they have cheaper ways to get what they need,” she said on the latest episode of AI Deep Dive. (The full episodeis available here.)The episode was recorded shortly after OpenAI accused one of its employees, a Saudi national, of hiding a recording device in an office conference room. In the interview, Thiergart said it is “pretty likely” that there are other spies in U.S. AI companies—a suspicion buttressed by recent reports from the New York Times and the Financial Times that some U.S. officials believed Nvidia CEO Jensen Huanghad a romantic relationshipwith a Chinese businesswoman recruited as a spy by China’s top intelligence agency.",
+      "published": "2026-11-10T03:20:10",
+      "_id": "7d57542bcf20057a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Information",
+      "title": "Meet the Nvidia Board Members Who Will Decide Jensen Huang’s Fate",
+      "link": "https://www.theinformation.com/articles/meet-nvidia-board-members-will-decide-jensen-huangs-fate",
+      "summary": "The intertwined fates of the world’s most valuable company, Nvidia, and its embattled CEO and co-founder, Jensen Huang, now lie in the hands of a group of Nvidia directors that includes early investors in the company, a one-time Goldman Sachs executive and a professor who’s an expert on how sea creatures swim.There may be no more consequential voice in the decision about Huang’s fate than that of Stephen Neal, a storied attorney who joined the board in 2019 and serves as its lead independent director. As chair of the Nvidia board’s corporate governance committee, he’s likely to take a leading role in the investigation. Neal is a longtime fixture at Cooley LLP, one of the nation’s most prominent corporate law firms. Among his prior clients is Elizabeth Holmes, the former Theranos founder and CEO, who is now in prison.",
+      "published": "2026-11-10T03:17:46",
+      "_id": "72295f04ba3c9cd9",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "The Information",
+      "title": "Anthropic’s Outside Counsel Sent Banks Wrong Documents Before Launching IPO",
+      "link": "https://www.theinformation.com/briefings/anthropic-sent-banks-wrong-documents-launching-ipo",
+      "summary": "Anthropic’s outside counsel in Canada late Monday sent banks an updated prospectus for its initial public offering and then retracted it, saying some of the details are incorrect, according to people familiar with the matter.The counsel in Canada first sent a copy of a filing, earlier reported ...",
+      "published": "2026-11-10T02:29:42",
+      "_id": "42e68865648bc4ee",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /skills",
+      "link": "https://github.com/anthropics/skills",
+      "summary": "Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks. For more information, check out: What are skills? Using skills in Claude How to create custom skills Equipping agents for the real world with Agent Skills About This Repository This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.). Each skill is self-contained in its own folder with a SKILL.md file containing the instructions and metadata that Claude uses. Browse through these skills to get inspiration for your own skills or to understand different patterns and approaches. Many skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power Claude's document capabilities under the hood in the skills/docx , skills/pdf , skills/pptx , and skills/xlsx subfolders. These are also open source (Apache 2.0), and we wanted to share them with developers as a reference for more complex skills that are actively used in a production AI application. Disclaimer These skills are provided for demonstration and educational purposes only. While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these skills. These skills are meant to illustrate patterns and possibilities. Always test skills thoroughl",
+      "published": "",
+      "_id": "82a901da1b9bedec",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "meta /astryx",
+      "link": "https://github.com/meta/astryx",
+      "summary": "Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contributing · Discord Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product teams who depend on it every day. It ships 150+ accessible components, brand-level theming, dark mode, ready-to-ship templates, and a CLI as one cohesive system. You import pre-built CSS and use typed React components — no build plugin, no styling library to adopt — and both people and AI assistants build with the same tooling. What makes Astryx different: Open internals. Components are built to be composed at any level, not locked behind a closed top-level API. The building blocks you'd reach for are exported directly, and when you need to go deeper, swizzle ejects a component's full source into your project to own. No styling lock-in. Astryx authors its styles with StyleX, but that's invisible to consumers. Override with className using Tailwind, CSS modules, or plain CSS — whatever your project already uses. Customize without wrapping. A theme is a set of CSS custom property overrides, so a designer can make Astryx unmistakably theirs without forking or wrapping component source. Built for people and agents. The API, docs, and CLI are designed together so a person and an AI assistant build the same way, from the same reference. Getting Started Astryx requires React 19 or later ( react and react-dom are peer dependencies of @astryxdesign/core ). Install Astryx, a theme, and its peer dependencies: # npm npm install @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex\nnpm install -D @astryxdesign/cli # pnpm pnpm add @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/sty",
+      "published": "",
+      "_id": "5e8027802f61d7f2",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "sherlock-project /sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "summary": "Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-project pip or uv may be used in place of pipx docker run -it --rm sherlock/sherlock dnf install sherlock-project Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project. See all alternative installation methods here . General usage To search for only one user: sherlock user123 To search for more than one user: sherlock user1 user2 user3 Accounts found will be stored in an individual text file with the corresponding username (e.g user123.txt ). $ sherlock --help usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--output OUTPUT] [--csv] [--xlsx] [--site SITE_NAME] [--proxy PROXY_URL] [--dump-response] [--json JSON_FILE] [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color] [--browse] [--local] [--nsfw] [--txt] [--ignore-exclusions] USERNAMES [USERNAMES ...] Sherlock: Find Usernames Across Social Networks (Version 0.16.0) positional arguments: USERNAMES             One or more usernames to check with social networks. Check similar usernames using {?} (replace to '_', '-', '.'). options: -h, --help            show this help message and exit --version             Display version information and dependencies. --verbose, -v, -d, --debug Display extra debugging information and metrics. --folderoutput FOLDEROUTPUT, -fo FOLDEROUTPUT If using multiple usernames, the output of the results will be saved to this folder. --output OUTPUT, -o OUTPUT If using single username, the output of the result will be saved to this file. --csv                 Create Comma-Separated Values (CSV) File. --xlsx ",
+      "published": "",
+      "_id": "3619c42254a93704",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-deepmind /mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "summary": "MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a\ngeneral purpose physics engine that aims to facilitate research and development\nin robotics, biomechanics, graphics and animation, machine learning, and other\nareas which demand fast and accurate simulation of articulated structures\ninteracting with their environment. This repository is maintained by Google DeepMind . MuJoCo has a C API and is intended for researchers and developers. The runtime\nsimulation module is tuned to maximize performance and operates on low-level\ndata structures that are preallocated by the built-in XML compiler. The library\nincludes interactive visualization in native desktop windows and web browsers.\nMuJoCo further exposes a large number of utility functions for computing\nphysics-related quantities. We also provide Python bindings and a plug-in for the Unity game engine. Documentation MuJoCo's documentation can be found at mujoco.readthedocs.io . Upcoming\nfeatures due for the next release can be found in the changelog in the\n\"latest\" branch. Getting Started Try MuJoCo in your browser. Visit mujoco.org to explore MuJoCo on desktop or mobile\nwith nothing to install, or open live.mujoco.org to\ninspect and drag and drop your own models in the WebAssembly version of the MuJoCo Studio app (slower than native C, since it runs in WebAssembly). Run a viewer on your machine. Follow the Getting Started guide in the documentation to download a prebuilt\nrelease and run the MuJoCo Studio app or the classic simulate viewer (shown\nin this video ) on your machine. Explore our online IPython notebooks. If you are a Python user, you might want to start with our tutorial notebooks\nrunning on Google Colab: The introductory tutorial teaches MuJoCo basics: The Model Editing tutorial shows how to create and edit models procedurally: The rollout tutorial shows how to use the multithreaded rollout module: The LQR tutorial synthesizes a linear-quadratic controller, balancing a\nhumanoid on one leg: The ",
+      "published": "",
+      "_id": "447a55563fd3408d",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "anthropics /claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building  applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at console.anthropic.com . Available Quickstarts Customer Support Agent A customer support agent powered by Claude. This project demonstrates how to leverage Claude's natural language understanding and generation capabilities to create an AI-assisted customer support system with access to a knowledge base. Go to Customer Support Agent Quickstart Financial Data Analyst A financial data analyst powered by Claude. This project demonstrates how to leverage Claude's capabilities with interactive data visualization to analyze financial data via chat. Go to Financial Data Analyst Quickstart Computer Use Demo An environment and tools that Claude can use to control a desktop computer. This project demonstrates how to leverage the computer use capabilities of Claude, including support for the latest computer_toolset_20260801 toolset shape, where each computer action is a member tool the model calls by name. Go to Computer Use Demo Quickstart Computer Use Best Practices A pedagogical, native-macOS reference implementation of a computer-use agent. Unlike the containerized Computer Use Demo, this project runs directly against the macOS desktop (run it in a VM!) and demonstrates common patterns for building more reliable and cost-effective computer-use agents: explicit tool definitions, correct image sizing and pruning, prompt caching, server-side compaction, batched tool calls, a sandboxed shell, and trajectory recording. It pairs with Anthropic's computer-use best-practices guide . Go to Computer Use Best Practices Quickstart Browser Use Demo A complete reference implementation for browse",
+      "published": "",
+      "_id": "b3731f96b1a0159d",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "garrytan /gbrain",
+      "link": "https://github.com/garrytan/gbrain",
+      "summary": "Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbrain.io is optional paid hosting. Tip Need hosted? First time running an agent? Try gbrain.io , hosted GBrain, for the easiest experience: one brain for you and your team, connected to ChatGPT, Claude and Cursor, with nothing to install or keep online. Stuck? Email support@gbrain.io and a person will set it up with you, free. Keep skills beside knowledge. New local brains include memory skills in their\ncontent root. Agents can join an authorized catalog; only approved editors can\npublish. Managed coding-agent installs add an owned native router; restart and\nreal-use verification are separate steps. Staged migration preserves sharing\nchoices and personal edits. See shared brain skills . Choose your setup Add GBrain to my existing agent — recommended. Keep your agent's identity and save memory inside its environment. No new personal-agent identity or private repository is required. Start with the guide for Grok Bot , Muse , or Codex / Claude Code . Other harnesses . Use the brain on my own computer from everywhere. One command publishes it over MCP on your Tailscale tailnet and keeps it running: gbrain mcp expose (add --funnel for cloud agents such as Grok Bot, Muse and ChatGPT). Follow use your brain from anywhere over MCP . Say to your agent: \"use my brain over mcp\" — \"put my brain on tailscale\" . Connect my existing hosted brain. Follow hosted harness access to choose native OAuth or a private machine connection. For dashboard login, clients, and permissions, use MCP administration with the server's separate owner credential. Delegation is an explicit choice. Grok Bot and Grok Build are different produ",
+      "published": "",
+      "_id": "31b3468471cae2ac",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "vercel-labs /agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "summary": "agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between commands, so each step is one short shell call. Install npm install -g agent-browser\nagent-browser install # download Chrome for Testing (first time only) Homebrew: brew install agent-browser , then agent-browser install . Linux: agent-browser install --with-deps also installs the browser's system libraries. No install: npx agent-browser open example.com . Project installs, building from source, upgrade , and doctor are covered in Installation . Quick start agent-browser open example.com\nagent-browser snapshot -i # interactive elements, each with a ref agent-browser click @e1 # act on a ref from that snapshot agent-browser get url # check the result agent-browser close The snapshot for example.com : - link \"Learn more\" [ref=e1] Refs describe the page at the time of the snapshot. After navigation or a DOM change, take a new snapshot before using refs again. CSS selectors, text, XPath, and semantic locators also work, for example agent-browser find role button click --name \"Submit\" . See Selectors . A click fails, instead of reporting success, when the target is hidden, disabled, outside the viewport, or covered by another element such as a consent banner. Dismiss the covering element, take a new snapshot, and retry. The full walkthrough is in the quick start . How it works The CLI sends each command to a background daemon that starts on the first command and controls the browser over the Chrome DevTools Protocol. Each --session gets its own daemon and browser. By default, the daemon closes a headless browser and exits after one hour without comm",
+      "published": "",
+      "_id": "401c6af5b51d16a5",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "ruvnet /RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "summary": "π RuView Start here Hardware Models AI toolkit Smart home Cognitum Seed See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics. Works natively with the four major smart-home ecosystems: Home Assistant via the HA-DISCO MQTT publisher, Apple Home & HomePod as a discoverable HAP-1.1 bridge, Google Home + Amazon Alexa via the same HA bridge or a Matter endpoint. Siri, Google Assistant, and Alexa can voice presence and vitals by room with zero custom skills. Drop into any Home Assistant install with one --mqtt flag. Or pair into Apple Home / Google Home / Alexa / SmartThings as a Matter Bridge. Ships 21 entities per node (11 raw signals + 10 inferred semantic states: someone-sleeping, possible-distress, room-active, elderly-inactivity-anomaly, meeting-in-progress, bathroom-occupied, fall-risk-elevated, bed-exit, no-movement, multi-room-transition) plus 3 starter HA Blueprints. See docs/integrations/home-assistant.md · ADR-115 . π RuView is a WiFi sensing platform that turns radio signals into spatial intelligence. Every WiFi router already fills your space with radio waves. When people move, breathe, or even sit still, they disturb those waves in measurable ways. RuView captures these disturbances using Channel State Information (CSI) from low-cost ESP32 sensors and turns them into actionable data: who's there, what they're doing, and whether they're okay. What it senses: Presence and occupancy — detect people through walls, count them, track entries and exits Vital signs — breathing rate and heart rate, contactless, while sleeping or sitting Activity recognition — walking, sitting, gestures, falls — from temporal CSI patterns Environment mapping — RF fingerprinting identifies rooms, detects moved furniture, spots new objects Sleep quality — overnight monitoring with sleep stage c",
+      "published": "",
+      "_id": "b303b1e4141446e6",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "ZhuLinsen /daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 | English | 繁體中文 💖 赞助商 (Sponsors) 感谢 Modelflare 赞助本项目！由美国 Havenbyte LLC 运营，满血稳定不掺水，低成本接入 GPT、Claude、Gemini、Grok 及 40+ 图片/视频模型。指定 OpenAI 分组提供 65% / 75% / 85% 每日缓存命中率保障 ；单笔充值 US$20 解锁 GPT 0.015x ， US$50 解锁 Claude 0.03x 。 专属链接注册 🖥️ 产品预览 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和 ETF，支持行情、K 线、技术指标、新闻、公告、基本面与报告辅助数据；不同市场的数据源和能力边界见 市场支持边界 Web / 桌面工作台 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 Agent 策略问股 多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API 智能导入与补全 图片、CSV/Excel、剪贴板导入；股票代码/名称/拼音/别名补全 自动化与推送 GitHub Actions、Docker、本地定时任务、FastAPI 服务和企业微信/飞书/Telegram/Discord/Slack/邮件推送 功能细节、字段契约、基本面 P0 超时语义、交易纪律、数据源优先级、Web/API 行为请看 完整配置与部署指南 。 技术栈与数据来源 类型 支持 AI 模型 Modelflare 、 AIHubMix 、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等 行情数据 AkShare、Tushare、Pytdx、Baostock、YFinance、Longbridge 新闻搜索 Anspire 、 SerpAPI 、 Tavily 、 Bocha 、 Brave 、 MiniMax 、SearXNG 社交舆情 Stock Sentiment API （Reddit / X / Polymarket，仅美股，可选） 项目默认内置 AkShare、Baostock、YFinance 等免费行情源，可零配置运行；免费源受上游限流、接口变动和网络波动影响，稳定性不保证。长期定时、批量分析或更稳定行情建议配置 Tushare、Longbridge 等 token 型数据源，适用市场、Actions 映射和 fallback 规则见 数据源配置 。 🚀 快速开始 方式一： GitHub Actions（推荐） 5 分钟完成部署，零成本，无需服务器。 1. Fork 本仓库 点击右上角 Fork 按钮（顺便点个 Star⭐ 支持一下） 2. 配置 Secrets Settings → Secrets and variables → Actions → New repository secret AI 模型配置（至少配置一个） 默认先选一个模型服务商并填写 API Key；需要多模型、图片识别、本地模型或高级路由时，再参考 LLM 配置指南 。 Secret 名称 说明 必填 MODELFLARE_KEY Modelflare API Key，低成本接入全球热门大模型 推荐 AIHUBMIX_KEY AIHubMix API Key，一Key切换使用全系模型，无需科学上网，本项目可享 10% 优惠 推荐 GEMINI_API_KEY Google Gemini API Key 可选 ANTHROPIC_API_KEY Anthropic Claude API Key 可选 OPENAI_API_KEY OpenAI 兼容 API Key（支持 DeepSeek、通义千问等） 可选 OPENAI_BASE_URL / OPENAI_MODEL 使用 OpenAI 兼容服务时填写 可选 Ollama 更适合本地 / Docker 部署，GitHub Actions 推荐使用云端 API。 通知渠道配置（至少配置一个） Secret 名称 说明 WECHAT_WEBHOOK_URL 企业微信机器人 FEISHU_WEBHOOK_URL 飞书机器人 TELEGRAM_BOT_TO",
+      "published": "",
+      "_id": "8703b76429c37137",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "GitHub",
+      "title": "homeassistant-ai /ha-mcp",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "summary": "Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. 🚀 Get Started The recommended way to run ha-mcp is the HA-MCP integration . It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process , and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity. It is the easiest setup in every case: setup asks for an administrator access token and how clients may connect. Add it to Home Assistant via HACS or, on Home Assistant 2026.11+, the Marketplace (the preferred install): Quick start: The setup below is for version 9.0.0 (October 28, 2026) and later; earlier versions show a shorter setup form without the administrator account step. Install the HA-MCP integration (requires Home Assistant 2026.8.0 or newer ; see compatibility details ). On Home Assistant 2026.8–2026.10 , open HACS, search for HA-MCP , then Download .\nOn Home Assistant 2026.11 or newer , open Settings → Marketplace , accept its first-run warning, and search for HA-MCP , then Install . HA-MCP is in the default catalog, so installing it and receiving its updates do not require connecting GitHub or adding a custom repository. The badge above also opens its catalog page.\nAlready installed from the earlier homeassistant-ai/ha-mcp-integration repository? It keeps receiving the same releases. On the Marketplace, keep GitHub connected for its background checks on that custom repository.\nOlder installed releases may still appear as HA-MCP Custom Component ; searching for HA-MCP matches both names. Restart Home Assistant. Decide which administrator account the server acts as. Either create a long-lived access token on your own account (your profile → Security → Long-lived access tokens → Create token ; it works from anywhere if it leaks,",
+      "published": "",
+      "_id": "d4296af1a97fe98c",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
+      "summary": "It's been a long time since I studied this. Just checking in on an old friend.I also realize it's fallen out of favor for being extremelyinconvenient, but why did it ever work?submitted by/u/XTXinverseXTY[link][comments]",
+      "published": "2026-11-10T02:07:04",
+      "_id": "f6ce36c015ac40ba",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 \"newspapers\"[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/",
+      "summary": "A few weeks ago I posted the topic pages we built from 10 years of ICML/NeurIPS/ICLR/CVPR/AAAI papers. A bunch of you pointed out the obvious gap: the benchmark records and ablations stopped at 2025. That's fixed now.We've pulled results out of about 101k full texts (it was 79k when I posted), roughly a million \"tried X, got Y\" findings. 2026 is mostly covered: almost all of ICML, CVPR and AAAI, and about 4.1k of 5.4k ICLR papers. NeurIPS 2026 is only a bit over half done, mostly because a lot of the PDFs aren't public yet.Same example as last time, compact/efficient Gaussian splatting:https://atlas.scime.ai/research/3d-vision/gaussian-splatting/compact-and-efficient-gaussian-splattingMip-NeRF 360 PSNR keeps creeping up (28.01 → 29.5 in 2025 → 30.1 this year), but Deep Blending is still stuck at ~30.4 and Tanks&Temples hasn't moved either. My favorite bit is still the baseline table: papers report plain 3DGS on Mip-NeRF 360 anywhere from 16 to 27.7 PSNR, so \"we beat 3DGS by 2 dB\" can mean very different things.All topics, no signup:https://atlas.scime.ai/researchWhile we had the 2026 data out, we also wrote up one \"newspaper\" each for ICML, CVPR and ICLR 2026, comparing this year with last. Some things that surprised me:[1] LLM agents went from 1.2% to 4.4% of ICML[2] multimodal LLMs doubled at CVPR (5.4% → 10.8%)[3] at ICLR, RL with verifiable rewards went from basically zero papers to 110[4]Qwen is the most-used base model in results tables at all three, by a lot[5] around a quarter of the changes papers tested didn't help or made things worse, by their own numbersThose are here:https://atlas.scime.ai/newspaper(front pages are open, the full editions need a free account)Note: the numbers are extracted by AI, nobody checked them by hand, and papers over-report what worked. Use it as a starting point, not a leaderboard. If you know a topic well and something looks wrong, I'd really like to hear it.submitted by/u/latenticlabs[link][comments]",
+      "published": "2026-11-09T22:39:13",
+      "_id": "712ba541c27f93fb",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
+      "summary": "New paper from Robbyant, with inference code and checkpoints already public.LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact instead of reconstructing raw sensor signals. The paper tests it against same-size MAE and VAE reconstruction models on the same data. Tactile-to-video top-5 recall at 1K hours: 32.1% (JEPA) vs 5.6% (MAE) vs 4.4% (VAE). At 4K hours JEPA reaches 49.3% and MAE stays under 9%, while the VAE actually gets worse, down to 3.1%. Their explanation: most of a tactile clip is near-zero background, so reconstruction loss can shrink without learning anything about actual contact.Two design choices stood out. The masking ratio warms up from 40% to 80% over 300 steps, because starting at high masking hid every contacting taxel in sparse signals and caused gradient explosions. Three sensor types (magnetic, piezoresistive, visuotactile) feed one shared Transformer through canonical fingertip coordinates with 5D RoPE (time, finger, 3D position).On 26 real robot tasks with 4 policies, frozen encoder features scored highest in 89 of the 104 policy and task combinations. On a magnetic hand never seen in pretraining, LingBot-VLA went from 57.21 to 75.04.The Tiny model levels off around 4K hours while Small keeps improving, so a bigger version trained on more data looks like the natural next step.submitted by/u/Zealousideal-War7154[link][comments]",
+      "published": "2026-11-09T18:52:05",
+      "_id": "580e683d4048102e",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "link": "https://arxiv.org/abs/2611.08572",
+      "summary": "arXiv:2611.08572v1 Announce Type: new \nAbstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important function of higher education. However, there is a widespread desire to improve the advisement services provided by many educational institutions (e.g., colleges and universities) around the world. In the last ten years, CBR expert systems have made important contributions in many domains by applying CBR methodology to a variety of areas of human problem solving. However, to date, expert advisement systems have not been successfully applied to academic advisement, which seems to be a very appropriate domain for this technology.\n  Academic advising is an important and time consuming task, and different tools and techniques must be used to make it an effective and efficient process. This thesis describes the design, development, and validation of a prototype case-based academic advisement recommender system that supplements the conventional advising process, and could eventually evolve to replace human academic advisors when its full potential is realised.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "b0afcada4af198fc",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "link": "https://arxiv.org/abs/2611.08613",
+      "summary": "arXiv:2611.08613v1 Announce Type: new \nAbstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms they may already know, rather than whether they can acquire previously unknown norms from social interaction. We introduce NormGym, an interactive benchmark for normative competence in which a newcomer must infer a hidden, arbitrary norm while pursuing its own task in a multi-agent community. Success requires distinguishing what is possible from what is permitted, inferring the norm from observed behavior and sanctions, and applying it in new situations. NormGym contains diverse norms and distinct environments, allowing systematic evaluation of current agents, including large language model (LLM) agents. We find that normative competence remains challenging: the strongest evaluated LLM achieves a joint task-and-compliance success rate of 55.3%. Our analysis reveals that models can sometimes revise their behavior following sanctions for their own actions, but struggle to use other agents' behavior and the sanctions they receive to infer the underlying norm. We further find that fine-tuning models may be insufficient to improve normative competence. These results suggest that current models lack a robust, transferable capability for acquiring normative knowledge through social interaction.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "69ce3e7f06d8c845",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+      "link": "https://arxiv.org/abs/2611.08626",
+      "summary": "arXiv:2611.08626v1 Announce Type: new \nAbstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional inventory classification techniques such as ABC analysis rely primarily on annual dollar usage, while multi-criteria inventory classification (MCIC) methods extend this but still depend on structured quantitative data and do not utilize unstructured information available in modern supply chains. This paper proposes an LLM-based feature extraction approach that transforms unstructured sources such as customer reviews into quantitative features using vector embeddings and LLM-generated evaluation criteria. The enriched feature set is incorporated into an MCIC framework based on the Hadi-Vencheh model. Experimental results show measurable reclassification effects when customer sentiment signals are included, demonstrating that integrating unstructured data into MCIC can enhance inventory prioritization.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "1db27377e823919a",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "link": "https://arxiv.org/abs/2611.08640",
+      "summary": "arXiv:2611.08640v1 Announce Type: new \nAbstract: Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many candidate solutions and one is selected. This motivates the question: how can we select the best candidate? When humans make choices, we find it more natural to compare two options than judge each in isolation. Additionally, when the options become complex, we like to judge the options one aspect at a time, such as comparing two job candidates on experience, communication, etc. In the test-time setting, candidate solutions should be judged in the same way. Here we introduce Aspect-wise Pairwise Tournaments (APT), which verifies by comparison and compares by aspect. Each matchup of a single elimination tournament is decided by a vote over multiple off-the-shelf aspect verifiers, each expressing a pairwise preference along its own aspect. Across five domains and three generator LLMs, APT improves over binary multi-aspect approval, self-consistency and reward model verification, with the largest gains on open-ended tasks. We find that both components matter; neither binary approval over the same aspects nor a generic pairwise judge at a matched budget matches APT. Because aspects are specified in natural language, APT also lets users steer selection toward properties they care about, better aligning with user preferences without needing to regenerate solutions. No component is trained, so APT transfers to new domains by simply rewriting prompts.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "d6c421cd589c192b",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "link": "https://arxiv.org/abs/2611.08644",
+      "summary": "arXiv:2611.08644v1 Announce Type: new \nAbstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory systems primarily handle facts, such as preferences, entities, and conversational history, rather than procedural knowledge.\n  We present Forge Decision Context (forge_dc), a system that captures behavioral signals from human corrections and self-assessed tool-call failures, compiles them into imperative RULE directives, and injects them at the decision points where they apply. We evaluate forge_dc alongside four predecessor approaches on DC-Bench, a new benchmark of 71 scenarios across nine behavioral dimensions, built from real executed agent traces in a deterministic mocked-tool environment. forge_dc reaches 95% compliance, up from 55% with naive retrieval, while injecting approximately 10 times fewer tokens per query.\n  Across the five-stage progression, the strongest systems represent behavioral memory as explicit directives and deliver it at the decision points where it applies. The results identify representation, activation, and placement as central design choices for persistent behavioral learning.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "9428592458d5ca5d",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+      "link": "https://arxiv.org/abs/2611.08639",
+      "summary": "arXiv:2611.08639v1 Announce Type: new \nAbstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide a first mechanistic explanation of this effect on the Weapons of Mass Destruction Proxy (WMDP) dataset across two models - Llama-3.1-8B and Qwen3-8B. First, we use the tuned lens technique to show that when processing MCQ the model commits to an answer-letter token very quickly, which is in contrast to the gradual refusal build-up in open-ended formats. Additionally, we observe that activations on the MCQ format lie roughly 3x further from the refusal direction, compared with their open-ended counterparts. Moreover, ablating the attention heads that carry the MCQ format answer increases the refusal, which is a direct evidence that the MCQ answer-selection competes with refusal. These findings indicate that MCQ safety scores primarily measure knowledge capabilities and do not assess the safety-mechanisms.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "56afa021fe40ac6b",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+      "link": "https://arxiv.org/abs/2611.08643",
+      "summary": "arXiv:2611.08643v1 Announce Type: new \nAbstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and temporal rules. Hand-authored persona prompts and fine-tuning add cost. Weight-free prompt optimization offers an alternative, but unconstrained evolution of a monolithic prompt can rewrite shared rules alongside persona guidance, obscuring changes and complicating review. We introduce FinEvolveKG, a KG-construction harness separating reusable general and persona-policy blocks and mechanically confining GEPA, a reflective prompt optimizer, to the designated block. During persona adaptation, the approved general block remains byte-stable and every optimizer edit is localized to a separately versioned persona policy. A dual objective balances generic temporal-KG quality with persona-relevant facts, motifs, and multi-hop connectivity. We evaluate five mutation scopes on ticker-disjoint 10-K splits, with three seeds for the persona-conditioned arms (v3-v5) across three personas. On the three-seed mean, the complete two-stage block-constrained workflow (v4) improves over the frozen prompt baseline (v1) by 19.4-30.9% and over the tested unconstrained full-prompt workflow (v5) by 2.2-6.4%, leading v5 on both objective components and winning all nine paired-seed comparisons with the lowest seed variance in every persona. Without further optimization, v4 also exceeds v5 across all evaluated out-of-distribution (OOD) shifts. An SME audit supports using the generated triplets as ground truth; a blinded two-SME audit favors v4 over v5 in 70.1% of contrast-enriched judgments. These results show that mechanically attributable evolution can coexist with strong empirical performance, without attributing the gains causally to the boundary.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "b5395ffbf42558a3",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Compression of Emotion in Language Model Representations",
+      "link": "https://arxiv.org/abs/2611.08683",
+      "summary": "arXiv:2611.08683v1 Announce Type: new \nAbstract: Large language models (LLMs) have been evaluated on their ability to identify emotions expressed in text and produce fluent emotional language. However, output predictions alone do not reveal how fine-grained emotion distinctions are organized internally. We study seven LLMs on GoEmotions, an English Reddit dataset annotated with 27 fine-grained emotion categories plus neutral. We compare model predictions and emotion-prompted final-token representations with the 28 GoEmotions categories and with coarser emotion-family and sentiment groupings.\n  We find a consistent pattern of $\\textit{overcompression}$ relative to the fine-grained GoEmotions taxonomy. Under the tested KMeans protocol, when we cluster their hidden representations without using emotion labels, the clearest split is into two groups that largely separate positive from negative emotion. Coarser emotion groupings are also recovered with fewer clusters than the full 28-category taxonomy. Yet linear probes retain substantial fine-grained predictive information. These results suggest that fine-grained emotion information remains accessible even though broader affective structure more strongly organizes the unsupervised geometry.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "d8cab921c6e1cd15",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
+      "link": "https://arxiv.org/abs/2611.08704",
+      "summary": "arXiv:2611.08704v1 Announce Type: new \nAbstract: As AI-generated content spreads into nearly every domain of human interaction, practices and discourses of AI detection, both formal and informal, have become an everyday part of how people interact with text and with each other. In this paper, we explore the real-world practices and discourses of AI identification that have emerged in response to a shifting discursive landscape where the human provenance of a text can no longer be taken for granted. We pair qualitative coding with computational analysis of lexical change, grounded in linguistic anthropological perspectives on language and communication, to investigate AI identifications among English Wikipedia editors and students. We find that these identifications draw on a diversity of evidentiary types, from discrete textual features and judgments about content to circular sense-making claims and presumptions about the author's moral character, and that they are contradictory, dynamic, and contextually dependent. In practice, what often motivates an AI identification is not the presence of any specific textual element, but pragmatic infelicity: a perceived mismatch between the elements present and those deemed appropriate within the text's particular context. Consequently, real-world identifications of AI-generated writing do not merely neutrally point out the perceived presence of \"AI-like\" features, but can be leveraged as a discursive resource to maintain and define sociolinguistic norms: what can be said in a given context, what is appropriate, and, ultimately, what is human. Further, the design and implementation of systems and tools that treat AI-likeness as a context-free property of text may therefore inherit, and enforce at scale, the norms of whichever contexts they were trained on.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "fb7bea545f01a491",
+      "_scraped_at": "03:51"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2611.08711",
+      "summary": "arXiv:2611.08711v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit vulnerabilities to adversarial perturbations that can induce unintended responses. These vulnerabilities can be identified via intentional attacks and subsequently used to improve model safety. In black-box settings where gradients are inaccessible, existing methods tend to guess adversarial transformations using external knowledge, ignoring the information provided by the target model. To mitigate this, we propose a trainable black-box framework based on reinforcement learning, which learns from the target model to generate tailored adversarial transformations. We demonstrate that our approach achieves lower post-attack accuracy, greater query efficiency and better semantic preservation on both natural language inference and generative Q&A tasks. On natural language inference, it drives post-attack accuracy to 2% within 20 queries. Against generative language models, our trained attacker consistently achieves lower post-attack accuracy than the untrained attacker and wins in 4 out of 6 settings when compared to a strong optimization-based baseline. We further experiment with multiple reward designs and training settings, and we find that no design or setting is consistently dominant. Our code is available at https://github.com/taikunudel/RL-ATTACK.",
+      "published": "2026-11-09T05:00:00",
+      "_id": "d128f984dce6db55",
+      "_scraped_at": "03:51"
+    }
+  ],
+  "seen_ids": [
+    "847f70281bec59e8",
+    "78a38ab1bb2e5e3a",
+    "72295f04ba3c9cd9",
+    "b0afcada4af198fc",
+    "e181d023f6ee7abf",
+    "d128f984dce6db55",
+    "44bb6093a440b817",
+    "8a35af252b32001f",
+    "f2fd344bf7be2cb6",
+    "69ce3e7f06d8c845",
+    "42e68865648bc4ee",
+    "cbe54f11b05c0e59",
+    "56afa021fe40ac6b",
+    "b5395ffbf42558a3",
+    "5232879038119e5d",
+    "38b3fce4c5431b80",
+    "8874dd7b5668dbac",
+    "580e683d4048102e",
+    "8703b76429c37137",
+    "d8cab921c6e1cd15",
+    "02e9abf47eaf3fa0",
+    "a0dbf5e971943802",
+    "ac8f18750241a65f",
+    "38ea5b66d2595223",
+    "fc6d536179e6162c",
+    "5e8027802f61d7f2",
+    "05e31abb81030e94",
+    "952d2516af2e9054",
+    "f6ce36c015ac40ba",
+    "d4296af1a97fe98c",
+    "61e7ac7c7e624eb3",
+    "d6c421cd589c192b",
+    "3619c42254a93704",
+    "caa9073cefb43725",
+    "51e504680490a66d",
+    "cd027b24b17aebaf",
+    "31b3468471cae2ac",
+    "1db27377e823919a",
+    "ad4cdb1f0fc03a0a",
+    "7d57542bcf20057a",
+    "712ba541c27f93fb",
+    "55d059b88c6c576a",
+    "5ef93d9981a0db1c",
+    "d7c73c4b9a79782f",
+    "97eedb91375d7417",
+    "447a55563fd3408d",
+    "2e34e84f0999c607",
+    "b303b1e4141446e6",
+    "ee9aab4d1d8b4a89",
+    "88c8ad35cbbf4c7a",
+    "82a901da1b9bedec",
+    "b3731f96b1a0159d",
+    "59b779471e81fefe",
+    "6013a414af2b159e",
+    "401c6af5b51d16a5",
+    "161c4966bba84f86",
+    "9428592458d5ca5d",
+    "fb7bea545f01a491"
+  ],
+  "last_run": "03:51",
+  "run_count": 1
+}
