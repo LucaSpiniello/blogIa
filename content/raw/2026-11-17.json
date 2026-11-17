@@ -1,0 +1,599 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "published": "2026-11-16T17:00:00",
+      "_id": "2d7a5d6b20fff3cd",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "published": "2026-11-16T17:00:00",
+      "_id": "dd659f011024f04f",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "published": "2026-11-16T12:00:00",
+      "_id": "d91fd06de7b8771e",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "published": "2026-11-16T09:00:00",
+      "_id": "ff7833693fa2a067",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "published": "2026-11-16T08:00:00",
+      "_id": "9fe6d2ae73e55f52",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Google AI",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "summary": "tbd",
+      "published": "2026-11-16T14:00:00",
+      "_id": "dfc32ad6652396f0",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "link": "https://huggingface.co/blog/openrouter",
+      "summary": "",
+      "published": "2026-11-16T00:00:00",
+      "_id": "8ec21efa2c622734",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+      "published": "2026-11-16T23:00:05",
+      "_id": "0f13e34240505e90",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "published": "2026-11-16T20:00:37",
+      "_id": "4c9c656647cd3a23",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "published": "2026-11-16T16:00:51",
+      "_id": "fc3a56c14a550ef5",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.  Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows […]",
+      "published": "2026-11-16T16:00:47",
+      "_id": "c046784cf46697f9",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.  NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "published": "2026-11-16T16:00:25",
+      "_id": "b696bf684c37a1c0",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "summary": "News Announcements 79 ARTICLES Most recent Title Description Date Anthropic launches roadshow for proposed initial public offering Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock. Nov 10, 2026 Nov 10, 2026 Anthropic launches roadshow for proposed initial public offering Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock. Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Nov 9, 2026 Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Oct 28, 2026 Oct 28, 2026 AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Open call for guest investigators in the life sciences Today, we’re inviting members of the li",
+      "published": "",
+      "_id": "5232879038119e5d",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "published": "2026-11-16T23:32:32",
+      "_id": "24baf68da2c147d6",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "published": "2026-11-16T22:03:02",
+      "_id": "4f20b6480ffff64b",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "published": "2026-11-16T20:07:13",
+      "_id": "57cc1ea3d3bbd2bf",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "published": "2026-11-16T19:12:02",
+      "_id": "bc7ebba22aa2697e",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "published": "2026-11-16T18:11:10",
+      "_id": "5a338c56f325da9c",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+      "published": "2026-11-16T23:17:34",
+      "_id": "ae3d9685f670ac12",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+      "published": "2026-11-16T20:46:01",
+      "_id": "5eb97c34dc0bb017",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "published": "2026-11-16T20:41:28",
+      "_id": "0f46466adfdb934e",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've […]",
+      "published": "2026-11-16T20:29:37",
+      "_id": "ea2b45bbfe30aab1",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Verge",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
+      "published": "2026-11-16T20:27:58",
+      "_id": "616d362bf0f56a20",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "published": "2026-11-16T20:37:47",
+      "_id": "04167c90a9937daf",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+      "published": "2026-11-16T18:38:47",
+      "_id": "4b894a843f326fda",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "published": "2026-11-16T16:04:28",
+      "_id": "7f5c627298368a7e",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…",
+      "published": "2026-11-16T13:10:00",
+      "_id": "3bba039add8ac1ba",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "published": "2026-11-16T13:00:00",
+      "_id": "3f40ae984dddf975",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "published": "2026-11-16T16:12:51",
+      "_id": "e59f883e66735049",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "published": "2026-11-16T11:00:00",
+      "_id": "1cdc428c2a200690",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Information",
+      "title": "Nvidia’s Board Should Come Clean on Huang’s Resignation",
+      "link": "https://www.theinformation.com/articles/nvidias-board-come-clean-huangs-resignation",
+      "summary": "Memo to the board of Nvidia: Folks, you need to explain why you pressured Jensen Huang to resign. Otherwise,a bring-back-Jensen movementwill only grow and could theoretically escalate to the point where it threatens your roles on Nvidia’s board. EvenPresident Donald Trumphas weighed in, supporting Huang. The board could use Nvidia’s earnings update on Tuesday to provide everyone with some answers.As quixotic as the Jensen loyalists’ effort may seem right now, some of their complaints are on the money. A letter from investors Brad Gerstner and Gavin Bakerposted on Xon Friday, for instance, made the point that there was “massive uncertainty associated with recent events surrounding” Huang’s departure. The pair were correct to say that a “slow, measured and deliberate process regarding the future leadership of Nvidia” was in everyone’s best interests.",
+      "published": "2026-11-17T01:01:20",
+      "_id": "c824be72108daca3",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Information",
+      "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "link": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
+      "summary": "Google DeepMind’s chief strategy officer Jasjeet Sekhon has left for a role at Anthropic, he said Monday.“I am working to ensure that Claude practices and values epistemic rigor,” he posted on X. An Anthropic spokesperson confirmed the hire.Before joining Google, Sekhon worked as chief ...",
+      "published": "2026-11-16T23:34:04",
+      "_id": "f3cbc38c02d95271",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "link": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
+      "summary": "OpenAI said Monday it had signed agreements with Apollo Research, METR, Transluce and Goodfire to give the organizations access to some of OpenAI’s internal information to assess risks in its technology and practices.The announcement follows OpenAI’scommitmentto embed evaluators within ...",
+      "published": "2026-11-16T22:13:24",
+      "_id": "f0f4868537c7964e",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "ag-ui-protocol /ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "The open protocol that connects any agent to any app. Docs · Examples · Spec · Discord AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Agents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed events, and any client can render them, no matter which framework built the agent. The same agent can power a web app, a mobile app, a terminal, or Slack. Important AG-UI 1.0 is here. The protocol now has a stable, frozen specification backed by a JSON Schema, and the TypeScript, Python, and .NET SDKs are generated from it. 1.0 is backwards compatible in both directions: 0.x agents work with 1.0 clients and vice versa. What changed → · Migration guide → Quick start Start a new app. The CLI scaffolds a frontend ( CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick: npx create-ag-ui-app@latest Then follow the printed next steps. The generated templates call OpenAI, so set your key before npm run dev : export OPENAI_API_KEY= \" sk-... \" Or speak the protocol directly: a 30-line agent server and client An AG-UI agent is any HTTP endpoint that accepts a RunAgentInput and streams events back. No API keys needed for this one. 1. The agent (Python). Requires Python 3.9+. pip install ag-ui-protocol fastapi uvicorn # server.py import uuid from fastapi import FastAPI , Request from fastapi . responses import StreamingResponse from ag_ui . core import ( PROTOCOL_VERSION , RunAgentInput , RunStartedEvent , RunFinishedEvent , TextMessageStartEvent , TextMessageContentEvent , TextMessageEndEvent ,\n) from ag_ui . encoder import EventEncoder app = FastAPI () @ app . post ( \"/\" ) async def run_agent ( input_data : RunAgentInput , request : Request ): encoder = EventEnco",
+      "published": "",
+      "_id": "10a12acb9645adcc",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "backnotprop /plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "summary": "Everything you need to annotate and stay in the loop with your agents Inbox Surface • Artifacts • Code Review Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent. Plannotator Inbox · Official site · Code Review · Visual HTML Skills · Herdr Annotate · (Legacy) Plan Mode Plannotator ⭐️ NEW: Plannotator Inbox is the missing review layer between you and multi-agent work. It surfaces decisions, prototypes, variations, plans, and everything you need to stay in the loop. Works with all coding agents and personal assistants. Plannotator is a local, browser-based review surface for AI coding agents: Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. Plannotator Inbox also works with personal assistants (Grok Bot, Muse, Hermes, OpenClaw). It plugs directly into your agent through plugins, hooks and commands. When the agent proposes a decision, plan, html, or finishes working, the app opens in your browser and you mark it up, comment, and send feedback directly to the agent for it to act on it. Review documents, plans, and agent messages Annotate plans, specs, messages, html, then send the feedback to your agent. Code Review Review local changes or remote PRs. Comment on diffs, suggest code. Your comments go back to the agent. Works with Git, GitButler, Jujutsu ( jj ), Perforce ( p4 ), GitHub, and GitLab. For a big change, start a guided review : an agent sorts the diff into chapters, the most important first. Plannotator Inbox Watch the demo · More on the Inbox · Docs The Plannotator Inbox is one local window where your agents leave you messages, questions, files, and guided reviews while they keep working. Answer a question with a click, annotate a file, and press Send when you can. Nothing holds an agent session open while you do, and your reply goes back to the session that asked. plannotator inbox Claude Code, Pi, and OpenCode connect through Plannotator's",
+      "published": "",
+      "_id": "e6357f1e7e944cc8",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "dream-num /univer",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "Build your own AI office with Univer Office SDK. Start with open-source Sheets and Docs, then connect your own application or agent. 🚀 Quick start · 💼 Workspace · 📚 Documentation · ⚖️ Feature comparison · 🌐 Website · 🎮 Showcase · 🔧 API Reference · 📝 Blog English · Français · Deutsch · Español · 简体中文 · 繁體中文 · 日本語 · 한국어 Table of contents 💡 What is Univer? Open-source capabilities 🚀 Build on the open-source foundation Quick start: an open-source spreadsheet editor Connect your application to editable content 🏗️ Explore the open-source architecture Give custom features clear boundaries Compose cross-feature edits and undo/redo Connect applications and agents through Facade APIs and events 🧩 Extend your application with Univer Office SDK Scope and licensing 🌐 Application patterns and ecosystem Univer Workspace: an Office SDK reference application CLI, agent integrations, and developer skills 📚 Documentation and contributing Runtime compatibility 💬 Community 🔒 Security ❤️ Sponsors 📄 License 💡 What is Univer? Univer is an Office SDK for building Office applications inside your own product. It provides Office editing, calculation, collaboration, and file processing for people and existing agents, using your data and permissions. The product family covers spreadsheets, documents, presentations, relational tables, canvases, and PDFs. Univer Office SDK has three parts: Web SDK is the foundation: content models, editing, rendering, formula calculation, and Facade APIs (application-facing APIs). Compose its plugins into an embedded editor or your own Office application, and reuse the content models, commands, and calculation for Headless processing without an interactive editor. Server SDK adds backend services for real-time collaboration, edit history, and Office file import and export. AI SDK connects Office capabilities to existing agents and workflows, with content tools, execution, and review integrations. This repository provides the Web SDK's core architecture and engine ",
+      "published": "",
+      "_id": "d148e3d2c2843c2b",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "tradermonty /claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "Claude Trading Skills Data handling: Privacy policy · Security policy Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investors. It is designed for investors who use long-term investing, ETFs, and dividend stocks as their core, while using disciplined swing trading as a satellite strategy when market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. It is open source because the workflows, checklists, and review habits behind better trading decisions can improve through shared practice. This is not a signal service or a promise of profitability. It is a toolkit for traders who want to build a better decision process. The project follows a first for self, open for others stance: it is built first as a practical workflow the author uses, then shared openly for others who face similar constraints. 📖 Documentation site: https://tradermonty.github.io/claude-trading-skills/ Project vision: PROJECT_VISION.md 日本語版READMEは README.ja.md をご覧ください。 Disclaimer This repository is for educational, research, and process-improvement purposes only. It is not financial advice, investment advisory service, tax advice, legal advice, a signal service, or a broker execution platform. Trading and investing involve risk, including loss of principal. Past performance, backtests, screens, reports, and AI-generated analysis do not guarantee future results. All trading decisions, position sizing, tax/regulatory compliance, and broker usage are the user's responsibility. The project is provided under the MIT License, AS IS, WITHOUT WARRANTY . Who This Is For This repository is designed for: Time-constrained individual investors Long-term investors who also want disciplined swing-trading upside Dividend and",
+      "published": "",
+      "_id": "f9da1acd54ca3864",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "elementalsouls /Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices · engagement-folder scaffolding · Burp MCP integration · battle-tested across authorized red-team and bug-hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY What is this? claude-bughunter is a drop-in skill bundle for the Claude Code skills system . Install once and Claude Code stops being a chatbot and starts behaving like a senior bug-hunting researcher or red-team operator: it knows the techniques, the chain templates, the VRT mappings, the platform CVE chains, and the hygiene — and it stays in scope. Four layers stack: Think — bb-methodology + redteam-mindset : the 5-phase non-linear workflow, critical-thinking framework, and red-team operator discipline. Hunt webapps — 58 hunt-* skills curated from 681 disclosed HackerOne reports: per-class detection patterns, payloads, bypass tables, and chain templates. Hit the perimeter — enterprise platform chains (M365/Entra, Okta, vCenter, SSL-VPN appliances, SharePoint, cloud IAM): current 2024–2026 CVE chains + post-credential escalation. Ship it — triage-validation + reporting + evidence-hygiene : the 7-Question Gate, VRT-aware severity, OOS rebuttals, PII redaction, and red-team deliverables. All triggered automatically by topic — describe what you're testing in plain English and the relevant skill loads. No invocation by name. Quickstart Option A — install as a Claude Code plugin (recommended). From inside Claude Code: /plugin marketplace add elementalsouls/Claude-BugHunter\n/plugin install claude-bughunter@elementalsouls All 83 skills + 15 commands load namespaced under claude-bughunter: and upd",
+      "published": "",
+      "_id": "f6c3adbf52c79b31",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "getarcaneapp /arcane",
+      "link": "https://github.com/getarcaneapp/arcane",
+      "summary": "Note The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. Important Feature requests have moved to Discussions . Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. Modern Docker Management, Designed for Everyone. Documentation For setup instructions, configuration details, and development guides, visit the official documentation site . Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.app/sbom . Translating Help translate Arcane on Crowdin: https://crowdin.com/project/arcane-docker-management Thank you for checking out Arcane! Your feedback and contributions are always welcome.",
+      "published": "",
+      "_id": "7703dc0ff82d0295",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "DeanChensj /jiangshan-map",
+      "link": "https://github.com/DeanChensj/jiangshan-map",
+      "summary": "Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present — Scrub Through Time, Trace Ancient Cities, and Walk in the Footsteps of History Play Live Demo (English UI) → https://deanchen.me/jiangshan-map/?lang=en The story behind it (in Chinese): From textbook maps to 1k GitHub stars Why It's Fun to Explore Have you ever wondered while reading Chinese history or classical poetry: \"Where exactly on today's map are Jiankang (the Six Dynasties capital), Huangzhou (where Su Dongpo composed the Red Cliffs Rhapsody in exile), Languan Pass in the Qinling Mountains (where Han Yu halted his horse in the snow), or Zhuxianzhen (Yue Fei's northern campaign frontier)?\" \"How many names did Chang'an hold across two millennia, and what pivotal events unfolded on that soil?\" \"How did the realm evolve step by step—from the Partition of Jin and the Seven Warring States at the opening of Sima Guang's Zizhi Tongjian (403 BCE), Qin's unification campaigns, Emperor Wu of Han opening the Hexi Corridor, High Tang's Four Garrisons of Anxi, and Yuan's Xuanzhengyuan jurisdiction over Tibet, to Zeng Jize's recovery of Ili (1881 CE) and the 20th-century shift from the 'Begonia Leaf' (秋海棠) map to the 'Rooster' (雄鸡) map?\" Chronicles of the Realm ( jiangshan-map ) brings together 2,400+ years of Chinese history across 18 historical periods into a single interactive parchment atlas—featuring multi-stage territorial and prefecture snapshots , ancient cities , strategic mountain passes , poetic and battlefield landmarks , chronological milestones , and reigning monarchs & imperial eras . No heavy print atlases required—just drag the timeline and click any city to travel through space and time. Feature 1: Scrub the Timeline to Watch Realms Rise & Fall, Track Monarchs, and Compare Ancient & Modern Borders Multi-Polity Confrontations on a Single Canvas : From the Seven Warr",
+      "published": "",
+      "_id": "f213677bccaa4f8f",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-labs-code /stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. Codex Add the Stitch Skills marketplace, then install the plugins you need. Via CLI (recommended) codex plugin marketplace add google-labs-code/stitch-skills --ref main \\\n  --sparse .agents/plugins \\\n  --sparse plugins/stitch-design \\\n  --sparse plugins/stitch-build \\\n  --sparse plugins/stitch-utilities [!TIP]\nThe --sparse flags are optional — they limit the checkout to only the\nlisted paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate to Settings → Plugin Marketplaces → Add and fill in: Field Value Source https://github.com/google-labs-code/stitch-skills Git ref main Sparse paths (optional) .agents/plugins , plugins/stitch-design , plugins/stitch-build , plugins/stitch-utilities Once the marketplace is registered, install any combination of: stitch-design — design-focused skills stitch-build — build and component skills stitch-utilities — utility and helper skills Claude Code & Cursor # Claude Code — installs into the current project npx plugins add google-labs-code/stitch-skills --scope project --target claude-code # Cursor — installs into the current workspace npx plugins add google-labs-code/stitch-skills --scope workspace --target cursor OpenCode OpenCode does not use npx plugins / npx skills or the Codex/Claude marketplace layout.\nInstall skills and the Stitch MCP server manually: 1. Skills — copy the skill folders you need into a discoverable path: # Project-local (recommended) mkdir -p .opencode/skills\ncp -R plugins/stitch-design/skills/generate-design .opencode/skills/generate-design # repeat for other skills under plugins/*/skills/ OpenCode also discovers .claude/sk",
+      "published": "",
+      "_id": "c87cd13d69aef691",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvanhorn /last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "/last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 | العربية An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v4 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add mvanhorn/last30days-skill\n/plugin install last30days Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add mvanhorn/last30days-skill -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately, and so do patent filings and careers pages when your topic is a company. Run it once and the setup wizard unlocks X, YouTube, TikTok, arXiv, Techmeme, and more in 30 seconds. Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider information. That's millions of people voting with their attention and their wallets every day. /last30days searches all of it in parallel, scores it by what real people actually engage with, and an AI agent judge synthesizes it into one brief. Google aggregates editors. /last30days searches people. You can't get this search anywhere else because no single AI has access to all of it. Google search doesn't touch Reddit comments or X posts. ChatGPT has a deal with Reddit but can't search X or TikTok. Gemini has YouTube but not Reddit. Claude has none of them natively. Each platform is a walled garden with its own API, its own tokens, its own auth. But you can bring your own keys and browser sessions, and suddenly an AI agent can search all of them at once, score them against each other, and tell you what actually matters. That's the unlock. No",
+      "published": "",
+      "_id": "b88590c43555a909",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "GitHub",
+      "title": "NVIDIA /SkillEvaluator",
+      "link": "https://github.com/NVIDIA/SkillEvaluator",
+      "summary": "Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and plugins, and measures a skill's effect\non task results: start with quality checks, then compare runs with and without a skill. Agent skills are folders of instructions and supporting files defined by the Agent Skills specification . SkillEvaluator is part of\nthe NVIDIA Verified Skills pipeline . Get started Check skills from your terminal, CI, or agent. 1. Run the CLI directly 2. Add it to your repo via CI 3. Wire it to your agent Install with pip: pip install skillevaluator Or install with uv uv tool install \\\n  skillevaluator Then check your skill, no key: skillevaluator validate \\\n  ./my-skill --tiers 1 Other tiers: installation guide . Our CI template checks every skill change. No evaluation code to maintain. Run this in your GitHub repository. It opens a setup PR: skillevaluator ci init GitLab details: repository guide . Add the skill to Claude Code, Codex or another agent: npx skills add \\\n  NVIDIA/SkillEvaluator Then ask: \"Is my skill any good?\" See the agent guide . ⚡ Harness check : will your agent load your skill? Know in seconds. No LLM inference · No model key · No agent run skillevaluator harness-check ./my-skill ╭─ Harness compatibility · my-skill ──────────────────────────────────────────────────────╮\n│  ⚠️ codex        degraded    Description cut to 1,021 chars + '...' in the skill list   │\n│  ❌ claude-code  not loaded  .agents/skills is not scanned                              │\n│  ✅ opencode     loads                                                                  │\n│  ✅ hermes       loads                                                                  │\n│  ✅ openclaw     loads                                                                  │\n│  ❌ copilot-cli  not loaded  description is 1,028 UTF-16 units, 4 over the 1,024 limit ",
+      "published": "",
+      "_id": "d17b0500bab017de",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "link": "https://www.hntrends.com/2026/november.html",
+      "summary": "Article URL:https://www.hntrends.com/2026/november.htmlComments URL:https://news.ycombinator.com/item?id=50512950Points: 94# Comments: 86",
+      "published": "2026-11-16T01:31:30",
+      "_id": "ab4fc5bd1909d3d7",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "summary": "Article URL:https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/Comments URL:https://news.ycombinator.com/item?id=50509953Points: 69# Comments: 67",
+      "published": "2026-11-15T19:39:46",
+      "_id": "9a643798fdd36d09",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "AISTATS 2027 paper discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+      "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think?submitted by/u/LongjumpingAd4741[link][comments]",
+      "published": "2026-11-16T14:09:31",
+      "_id": "512fdc0601f5fae6",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Serious spaces? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+      "summary": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share research and projects or learn more etc?I’ve tried discord but I’ve not found any promising servers yet apart from the frontier labs or hugging face etc and I find those too stuck on their own narrative.Any suggestions?Edit: seems a lot of us in the same boat. So I made one lol. Happy for anyone to message me.submitted by/u/Substantial-Buyer365[link][comments]",
+      "published": "2026-11-16T17:23:56",
+      "_id": "3209bb0120496c95",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+      "summary": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly.The interview covered a mix of basic programming fundamentals, Python concepts, JavaScript fundamentals, OOP concepts, backend development with FastAPI, Generative AI vs Agentic AI, RAG architecture, vector databases, and AI/ML evaluation metrics such as precision, recall and model evaluation.I realised that although I have worked on projects involving Python, machine learning, RAG, Agentic AI and FastAPI, my understanding of the underlying fundamentals isn't strong enough. Sometimes I know what a concept means, but struggle to explain it clearly or answer follow-up questions.For some background, I have already received aTCS Digital offer, but it has been almost seven months since I received the offer letter, and I still haven't received my joining letter. That's why I decided to attend the Infosys interview as well.My long-term goal is to become anAI/ML Engineer. This interview made me realise that I need to go back and strengthen my fundamentals instead of just learning advanced technologies and building projects.I'd really appreciate advice from people working in software development or AI/ML:How should I systematically learn and strengthen my programming and technical fundamentals?Which topics should I prioritise in Python, DSA, SQL/DBMS, mathematics, statistics, machine learning, deep learning and Generative AI?Are there any good courses, resources or roadmaps that cover these topics in a structured way?How can I improve my ability to explain concepts clearly and handle technical follow-up questions?What learning path would you recommend for someone who wants to become an AI/ML Engineer?I'm not looking for shortcuts or just interview questions to memorise. I genuinely want to build a strong technical foundation and understand what I'm working with.Any suggestions, resources or personal experiences would be reall",
+      "published": "2026-11-17T02:48:06",
+      "_id": "27ad77a48aa82bf7",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "Reddit r/MachineLearning",
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "summary": "X threads (with videos!):https://x.com/choang333/status/2121335484236386574https://x.com/_ellisbrown/status/2121335477244428419Paper:https://www.alphaxiv.org/abs/2611.17334Blog and FAQ:https://unbundling.github.ioLabs disagree on vision encoders right now.Gemma 4 12B dropped the encoder, Kimi K3 trains its encoder from scratch, and Inkling 2 Small brought an encoder back. Published models can't settle this, because they differ in data and compute and rarely account for encoder pretraining. A standard encoder also bundles three choices: separate pretraining, parameters that only vision tokens use, and placement before the LLM. We tested each choice separately.Setup:200+ models, all trained from scratch (LLM included) on the same data.Lifetime compute: encoder pretraining counts against the same budget as multimodal training.Main comparisons use Qwen3-1.7B and 4B configurations with 0.4B parameters of vision capacity. A scaling ladder covers 0.6B to 6.4B backbone sizes.Evaluations are on 16 VQA benchmarks from Cambrian at 448 px. and 12 language benchmarks testing commonsense, QA, and broad knowledge.Findings:Separate pretraining is optional.Encoders pretrained with four objectives (contrastive, self-supervised, two captioning) at best tie an encoder trained from scratch with the LLM at matched compute. Even free pretraining doesn't help. Pretraining MetaCLIP 6.5x longer raised ImageNet linear-probe accuracy (80.4% → 84.4%) but not VQA.Vision-only parameters are required.Encoder-free models trail at every size from 0.6B to 6.4B and need about 3x the compute to catch up. Giving the LLM the encoder's parameters instead improves text, not VQA.Placement before the LLM is optional.\"In-fusion\" adds zero-initialized vision-only weights (attention projections and FFNs) to the LLM's first 8 layers, and text tokens never use them. It's on par with the encoder from 1.7B to 6.4B, with about 13% lower time to first token. At 1.7B, vision-only branches in layers 1–8 reach 45.0 VQA ",
+      "published": "2026-11-15T17:38:16",
+      "_id": "7554b9155ccf1b24",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "link": "https://arxiv.org/abs/2611.17338",
+      "summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater degradation than false-keep, while a non-deleting baseline can still fail when incorrect labels steer generation. On a frozen 102/102 calibration/test split, a simple deployment-matched gate reaches 0.655 accuracy versus 0.641 for always hard-drop and 0.662 for test-informed oracle selection. Global-accuracy crossovers require gold labels and are model- and task-specific diagnostics, not deployment thresholds. Deletion should instead be treated as cost-sensitive: validate query-critical false-drop risk on matched data, or default to label-free retention when such validation is unavailable.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "f5dc4cd120b45659",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "link": "https://arxiv.org/abs/2611.17339",
+      "summary": "arXiv:2611.17339v1 Announce Type: new \nAbstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision, sit outside this evidence base. We present a reproducible one-GPU audit of four detectors spanning three paradigms: length-normalized token-margin calibration, a lexical n-gram baseline, and two sampling-based consistency methods (semantic entropy and SelfCheckGPT-NLI) on two small open instruction-tuned models (Llama-3.2-3B-Instruct and Qwen2.5-3B-Instruct) loaded at 4-bit NF4 quantization on a single Colab T4 GPU, evaluated on closed-book TriviaQA. Cross-model ranking transfer is poor: Spearman rho is -0.80 and Kendall tau-b is -0.667, meaning the detector ranking actively inverts between the two models, and the cheap lexical baseline is statistically indistinguishable from the sampling-based consistency detectors on both models under bootstrap 95 percent confidence intervals. As a second, methodological contribution, we show that the standard token-overlap-to-multiple-choice correctness labeler for TruthfulQA-Generation produces near-chance AUROC (0.46-0.59) for all four detectors on both models, a labeler failure, not a detector failure, since the same detectors reach 0.69-0.89 AUROC on TriviaQA under the identical pipeline. We release the harness, prompts, and per-item scores and frame the detector choice explicitly as a fairness-of-error-rates allocation problem for practitioners deploying on resource-constrained, on-device hardware.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "5b66b471dda6a306",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "link": "https://arxiv.org/abs/2611.17340",
+      "summary": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a representation alignment problem in the adapter-output space. The proposed training-free method selects adapters by matching adapter-conditioned query representations against task prototypes using cosine similarity. Experiments with LLaMA-2-7B and LLaMA-2-13B on a 48-task FLAN-v2 benchmark and on out-of-distribution tasks show that the method outperforms training-free baselines in the cross-task setting and approaches a trained retrieval encoder without learning a router. An ablation confirms the benefit of directional alignment in the adapter-output space.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "e6b637328ef2109d",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "link": "https://arxiv.org/abs/2611.17341",
+      "summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval object: a tabular population prior ranked medication class candidates from a sparse condition medication co occurrence table estimated from training admissions. Using PACERAG as a fixed downstream pipeline and replacing only its patient retriever, this drop in swap improves F1 from 0.303 to 0.338 (+11.5% relative) and Jaccard from 0.218 to 0.237 on 1,004 heldout MIMIC IV admissions, with no additional LLM calls and no inference time patient index. A non LLM top k baseline reaches F1=0.248, confirming the prior is predictive before LLM integration. Aggregate population statistics can provide a more task aligned, efficient, and auditable retrieval source than patient level nearest neighbors for fixed vocabulary EHR set prediction.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "5cc536aed4b9c933",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "An Operationalization of Opaque Serial Depth",
+      "link": "https://arxiv.org/abs/2611.17495",
+      "summary": "arXiv:2611.17495v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific instantiation of the notion of opaque serial depth: roughly, the length of the longest path through a model's computation that does not pass through an interpretable bottleneck. Our main contribution is a particular standard for what counts as such a bottleneck. We define natural-language-rooted (NL-rooted) nodes as nodes that were initialized from a pre-training prior to produce human-understandable outputs, whose output space has not been expanded beyond that prior, and whose outputs the model has not been modified to interpret as a different type of data. By construction, the resulting measure, NLS depth, can be adjudicated before training from an architecture, training recipe, and deployment configuration alone, and is insensitive to ordinary post-training such as prompting, distillation, and RL. We find that, across open-weight models, NLS depth correlates strongly with layer count, with some exceptions, and has grown slowly over recent years. It would likely grow slowly under continued scaling of standard transformers, while latent-reasoning architectures such as full-bandwidth transformers could increase it by a large amount. We work through how NLS depth applies to a range of existing and proposed architectures, discuss alternative operationalizations, and give a worked example bounding the depth of Gemma3-1B. We argue that AI developers should track and report the NLS depth of their models as a complement to direct measurements of CoT monitorability.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "5da9a95de14e592d",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Tracing Knowledge and Reasoning in LLM",
+      "link": "https://arxiv.org/abs/2611.17461",
+      "summary": "arXiv:2611.17461v1 Announce Type: new \nAbstract: Current evaluations of Large Language Models (LLMs) report performance at the dataset or task level, revealing what a model achieves but offering little insight into the internal processing associated with its performance. We propose a task-centric framework for characterising the model-internal processing elicited by a benchmark. It combines attention- and activation-based signals with representation-based measures to characterise benchmarks spanning a continuum from retrieval-dominant to reasoning-dominant and to surface failure modes that task-level scores conceal. We evaluate 16 LLMs across 24 diverse benchmarks and conduct targeted internal-state analyses on representative models and tasks, observing systematic differences in processing between knowledge-centric and reasoning-centric tasks. We shift evaluation from asking what score a model achieves toward characterising the processing patterns associated with that score, potentially supporting more targeted benchmark selection and more informed model choice. We open source our code at https://github.com/extraordinarylab/trace-kr.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "389827c6d3becbb6",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Poetry 'resurrection' from LLMs",
+      "link": "https://arxiv.org/abs/2611.17464",
+      "summary": "arXiv:2611.17464v1 Announce Type: new \nAbstract: In an era where linguistic creativity is challenged by algorithmic authorship, we pose a provocative question: can artificial intelligence (AI) write an infinite poem? We set up two experiments to investigate the quantitative and qualitative output produced by AI utilizing couplets that evidence a poetic relationship between end words, the only variation in a strict anaphoric, litany structure. Our results show that while AI can generate interesting pairings, it still falls short of human-level creativity and understanding of poetic relationships. We offer commentary and a brief survey of the field of computational poetry experiments, tracing back authorial intention and distinctions of 'natural' and 'artificial' poetry, as well as justifying why couplet form is suited to testing AI's poetic output. Experiment 1 relies on manual prompting and co-creation to extend the original poem, which is developed into an animated webpage installation and interactive artwork. Experiment 2 reliably achieves automated output reaching the 1000 benchmark via an alternative method of using an LLM in combination with semantic similarity, of which Method 2 demonstrates a higher capacity for semantic and quantitative poetic output. These experiments highlight the limitations of current LLMs' generation capacity at the word level but also suggest that poetry will also respond and revive by incorporating AI workflows.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "3b1e79756c2af517",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Creating Steering Vectors via Input Optimisation",
+      "link": "https://arxiv.org/abs/2611.17481",
+      "summary": "arXiv:2611.17481v1 Announce Type: new \nAbstract: Activation steering influences a language model's behaviour by adding a steering vector to its residual stream during generation, but it requires white-box access to modify the hidden states at every generation step. We introduce ActGCG, a modification of Greedy Coordinate Gradient which optimises a suffix to match the target activations obtained by adding a steering vector to the residual stream. We further introduce universal suffixes trained across many prompts at once, a model-translation step that rewrites the suffix into human-readable text midway through optimisation, and a soft-suffix variant to remove the discrete token space constraint. We study two behaviours: steering a model to answer in German, and anti-refusal steering for jailbreaking. For German, a discrete suffix reproduces the steering vector's behaviour almost perfectly and transfers well across prompts and models. For anti-refusal, the equivalence is weaker, succeeding under a phrase-avoidance metric but only partially under the stricter HarmBench classifier. Our results show that a steering vector's behaviour is reachable from the input, with no access to model internals at generation time, up to a loss that depends on the concept being steered.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "2c28b61551a2855a",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+      "link": "https://arxiv.org/abs/2611.17563",
+      "summary": "arXiv:2611.17563v1 Announce Type: new \nAbstract: A benchmark usually measures a language model alone with a question, and deployment rarely looks like that: answers get contested, and models give up correct ones under counter-reasoning that is itself wrong. We show that what fails there is not a shortfall of accuracy but a capability in its own right -- knowing when to hold a position and when to yield to a better one -- which we call dialectical competence. It stands on first-answer accuracy without following from it: a model can be made materially better at answering and no better at this, and training for accuracy alone can drift against it. Nor can it be bought at inference, by self-reflection or by sampling more. Taking a cue from the dialectical tradition in philosophy, in which productive opposition arises within a position rather than being imposed on it from outside, we hypothesize that this capability can be trained from opposition the model supplies itself. It states a position, generates the strongest case against that position -- its antithesis -- rules on whether the case stands, and is trained on that ruling, with no second model at training or at deployment. We call this learning through Self-Disagreement: reinforcement learning from verifiable rewards throughout, where the same check that scores an answer against its reference scores the ruling too, so no reward model, no preference data and no human annotation enter anywhere. The capability is trained rather than elicited: weak in the base model, it arrives with the reward, is not paid for out of first-answer accuracy, and holds against challengers the model never trained against, including ones stronger than itself. The opposition a model needs in order to improve, it turns out, need not come from outside it.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "bf6ba6cbf1979bff",
+      "_scraped_at": "04:13"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais",
+      "link": "https://arxiv.org/abs/2611.17573",
+      "summary": "arXiv:2611.17573v1 Announce Type: new \nAbstract: Cameroon Pidgin English (a West African Pidgin English variety) and Camfranglais are widely used in Cameroon, yet to our knowledge, neither has a dedicated spoken Natural Language Inference (NLI) resource. We introduce CamSpokenNLI, a pilot dataset of 114 scenario-matched spoken NLI items in each variety (228 in total), recorded by one native speaker from Buea. Each item pairs premise audio and text with a hypothesis, an NLI label, and English glosses. The author assigned labels, so the dataset is an exploratory resource rather than a mature benchmark. The NLI experiments use the reference text; the audio is evaluated separately. XLM-RoBERTa baselines with five-fold item-level cross-validation reach 44.7% on Pidgin and 46.2% on Camfranglais (chance 33.3%). Still, neither is statistically distinguishable from hypothesis-only input, so hypothesis wording may account for much of the accuracy. Under disjoint-item cross-variety transfer, where a test item's counterpart is never seen in training, accuracy is 40.1% (Pidgin to Camfranglais) and 45.6% (Camfranglais to Pidgin). A counterpart-leak audit raises this to 60-64%, illustrating how counterpart leakage can overstate transfer. Zero-shot Whisper transcription of the recordings performs poorly: the best word error rates are 66.6% for Pidgin and 45.5% for Camfranglais, and with automatic language identification, Whisper Large-v3 labels 93 of 114 Pidgin recordings as Yoruba or Swahili. Together, the results suggest that such resources need disjoint-item evaluation and hypothesis-only controls, and that speech recognition must be adapted to these varieties before spoken NLI can be tested end to end.",
+      "published": "2026-11-16T05:00:00",
+      "_id": "1a95542d46c479e4",
+      "_scraped_at": "04:13"
+    }
+  ],
+  "seen_ids": [
+    "2c28b61551a2855a",
+    "5eb97c34dc0bb017",
+    "389827c6d3becbb6",
+    "f9da1acd54ca3864",
+    "f3cbc38c02d95271",
+    "9fe6d2ae73e55f52",
+    "d17b0500bab017de",
+    "3bba039add8ac1ba",
+    "e6b637328ef2109d",
+    "5cc536aed4b9c933",
+    "ab4fc5bd1909d3d7",
+    "3209bb0120496c95",
+    "24baf68da2c147d6",
+    "4f20b6480ffff64b",
+    "fc3a56c14a550ef5",
+    "1cdc428c2a200690",
+    "5b66b471dda6a306",
+    "7f5c627298368a7e",
+    "1a95542d46c479e4",
+    "b88590c43555a909",
+    "c87cd13d69aef691",
+    "27ad77a48aa82bf7",
+    "c046784cf46697f9",
+    "bc7ebba22aa2697e",
+    "8ec21efa2c622734",
+    "f6c3adbf52c79b31",
+    "dfc32ad6652396f0",
+    "c824be72108daca3",
+    "7554b9155ccf1b24",
+    "b696bf684c37a1c0",
+    "4b894a843f326fda",
+    "4c9c656647cd3a23",
+    "bf6ba6cbf1979bff",
+    "5a338c56f325da9c",
+    "5da9a95de14e592d",
+    "0f13e34240505e90",
+    "ea2b45bbfe30aab1",
+    "616d362bf0f56a20",
+    "7703dc0ff82d0295",
+    "d148e3d2c2843c2b",
+    "ae3d9685f670ac12",
+    "0f46466adfdb934e",
+    "9a643798fdd36d09",
+    "512fdc0601f5fae6",
+    "f0f4868537c7964e",
+    "ff7833693fa2a067",
+    "2d7a5d6b20fff3cd",
+    "d91fd06de7b8771e",
+    "10a12acb9645adcc",
+    "3f40ae984dddf975",
+    "e59f883e66735049",
+    "57cc1ea3d3bbd2bf",
+    "f5dc4cd120b45659",
+    "dd659f011024f04f",
+    "f213677bccaa4f8f",
+    "3b1e79756c2af517",
+    "04167c90a9937daf",
+    "e6357f1e7e944cc8",
+    "5232879038119e5d"
+  ],
+  "last_run": "04:13",
+  "run_count": 1
+}
