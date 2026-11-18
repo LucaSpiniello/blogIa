@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "published": "2026-11-17T17:45:00",
+      "_id": "8f6af8c44a4a1bfb",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "published": "2026-11-17T00:00:00",
+      "_id": "0e7f690aa4ff229b",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "published": "2026-11-17T08:00:00",
+      "_id": "3047d7657748ea76",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "published": "2026-11-17T00:00:00",
+      "_id": "b43ef08ac3ed4f7a",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "published": "2026-11-17T00:00:00",
+      "_id": "3b3be741a87f5e21",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Google AI",
+      "title": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "published": "2026-11-17T17:00:00",
+      "_id": "b451aff394adbb42",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "published": "2026-11-17T14:00:10",
+      "_id": "49e988fe944963bc",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+      "published": "2026-11-16T23:00:05",
+      "_id": "0f13e34240505e90",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "published": "2026-11-16T20:00:37",
+      "_id": "4c9c656647cd3a23",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "published": "2026-11-16T16:00:51",
+      "_id": "fc3a56c14a550ef5",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.  Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows […]",
+      "published": "2026-11-16T16:00:47",
+      "_id": "c046784cf46697f9",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "summary": "News Announcements 79 ARTICLES Most recent Title Description Date Anthropic launches roadshow for proposed initial public offering Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock. Nov 10, 2026 Nov 10, 2026 Anthropic launches roadshow for proposed initial public offering Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock. Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Nov 9, 2026 Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Oct 28, 2026 Oct 28, 2026 AI for Science expands to foundations and research institutions We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program. Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Open call for guest investigators in the life sciences Today, we’re inviting members of the li",
+      "published": "",
+      "_id": "5232879038119e5d",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "published": "2026-11-18T01:44:21",
+      "_id": "b330164a6f0ccccf",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "published": "2026-11-18T00:16:50",
+      "_id": "ceeb5bf897d71eb6",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "published": "2026-11-17T23:37:48",
+      "_id": "9818d892a2fa5769",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "published": "2026-11-17T23:04:35",
+      "_id": "8339a30c8d70bc4c",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "published": "2026-11-17T22:42:27",
+      "_id": "8a256ad53f34b968",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+      "published": "2026-11-17T23:41:18",
+      "_id": "d34ce25785fdf87b",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]",
+      "published": "2026-11-17T21:40:59",
+      "_id": "9fdb7eafd9b74362",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+      "published": "2026-11-17T21:00:55",
+      "_id": "782245fbd80625eb",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+      "published": "2026-11-17T18:58:01",
+      "_id": "20774146b79ca781",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Verge",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]",
+      "published": "2026-11-17T16:19:03",
+      "_id": "825618225fbb1ec8",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "published": "2026-11-17T22:32:16",
+      "_id": "a8bf5e8980db205a",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "published": "2026-11-17T14:00:29",
+      "_id": "0de6aadc71dab203",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "published": "2026-11-16T20:37:47",
+      "_id": "04167c90a9937daf",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
+      "published": "2026-11-17T18:46:47",
+      "_id": "665d8227159904d7",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…",
+      "published": "2026-11-17T17:52:10",
+      "_id": "11e12ce775565920",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Research Reports",
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "summary": "To access a report, click on the corresponding image below.",
+      "published": "2026-11-17T14:39:46",
+      "_id": "a598c269f36b6542",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and…",
+      "published": "2026-11-17T13:10:00",
+      "_id": "b8dbef498ec857d0",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+      "published": "2026-11-16T18:38:47",
+      "_id": "4b894a843f326fda",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "published": "2026-11-17T22:19:19",
+      "_id": "f7b7fa743ee78a64",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Wired",
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "published": "2026-11-17T11:00:00",
+      "_id": "bb08f751f9e541c5",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Wired",
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "published": "2026-11-17T11:00:00",
+      "_id": "d8921ccd466002b9",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "published": "2026-11-17T10:47:45",
+      "_id": "3606ad6df559c53d",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "published": "2026-11-16T16:12:51",
+      "_id": "e59f883e66735049",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Information",
+      "title": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls",
+      "link": "https://www.theinformation.com/articles/nvidia-introduced-alibaba-alice-huang-workaround-u-s-export-controls",
+      "summary": "Nvidia’s sales team introduced Chinese tech giant Alibaba to Alice Huang, the alleged Chinese spy involved in smuggling Nvidia chips into China, months before U.S. export controls on advanced semiconductors came into effect in 2022, according to three people with direct knowledge of the matter.Nvidia’s introductions, which happened on two occasions across several months in 2022, helped Huang and her company land Alibaba as a customer, two of the three people said. From there on, Huang, a newcomer to the chip renting business, was able to get bank loans that helped finance the purchase of Nvidia chips, the two people said.",
+      "published": "2026-11-18T03:05:46",
+      "_id": "99f6518ee024025d",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Information",
+      "title": "OpenAI Model Helps Find Security Bug in Widely Used Code Language",
+      "link": "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language",
+      "summary": "Researchers at cybersecurity startup Calif said Tuesday they found a critical vulnerability in Java, a popular programming language used by government agencies, banks, hospitals, and other companies.The bug would allow for an attacker to steal sensitive information from computer memory or to ...",
+      "published": "2026-11-18T01:15:20",
+      "_id": "7133e05eb7cac8b2",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "The Information",
+      "title": "Nvidia’s Board Rebuffs Jensen",
+      "link": "https://www.theinformation.com/articles/nvidias-board-rebuffs-jensen",
+      "summary": "Well, that was embarrassing. A few hours after Nvidia’s recently departed CEO Jensen Huang issued aplaintive statementsaying he’d love his job back, company chair Harvey Jones sent back a message: no chance, buddy. In an unusual appearance on the company’s earnings call Tuesday afternoon, Jones stated unequivocally that the board “does not intend to reinstate Jensen as CEO.”Jones also added something the board didn’t say when it announced Huang’s exit last Thursday: that the exit came “after disclosure of personal behavior inconsistent with the company’s code of conduct, standards and cultural norms.” So now it’s clear: itwasHuang’s affairs (with a subordinate and a business partner) that caused his exit, and not, for instance,concerns about Nvidia’s possible involvementin smuggling of its chips into China.",
+      "published": "2026-11-18T01:01:04",
+      "_id": "1d0a1bd518b948ce",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "elementalsouls /Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "summary": "claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 681 disclosed-report patterns (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices · engagement-folder scaffolding · Burp MCP integration · battle-tested across authorized red-team and bug-hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com). Built by Sachin Sharma — Bug Hunting & GenAI Security Research. SPONSORED BY What is this? claude-bughunter is a drop-in skill bundle for the Claude Code skills system . Install once and Claude Code stops being a chatbot and starts behaving like a senior bug-hunting researcher or red-team operator: it knows the techniques, the chain templates, the VRT mappings, the platform CVE chains, and the hygiene — and it stays in scope. Four layers stack: Think — bb-methodology + redteam-mindset : the 5-phase non-linear workflow, critical-thinking framework, and red-team operator discipline. Hunt webapps — 58 hunt-* skills curated from 681 disclosed HackerOne reports: per-class detection patterns, payloads, bypass tables, and chain templates. Hit the perimeter — enterprise platform chains (M365/Entra, Okta, vCenter, SSL-VPN appliances, SharePoint, cloud IAM): current 2024–2026 CVE chains + post-credential escalation. Ship it — triage-validation + reporting + evidence-hygiene : the 7-Question Gate, VRT-aware severity, OOS rebuttals, PII redaction, and red-team deliverables. All triggered automatically by topic — describe what you're testing in plain English and the relevant skill loads. No invocation by name. Quickstart Option A — install as a Claude Code plugin (recommended). From inside Claude Code: /plugin marketplace add elementalsouls/Claude-BugHunter\n/plugin install claude-bughunter@elementalsouls All 83 skills + 15 commands load namespaced under claude-bughunter: and upd",
+      "published": "",
+      "_id": "f6c3adbf52c79b31",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "mvanhorn /last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "/last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 | العربية | فارسی | Türkçe An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v4 pipeline. The runtime skill spec lives in skills/last30days/SKILL.md , which is the source of truth for the latest command and setup behavior. Claude Code (recommended — auto-updates via marketplace): /plugin marketplace add mvanhorn/last30days-skill\n/plugin install last30days Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts: npx skills add mvanhorn/last30days-skill -g ( -g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately, and so do patent filings and careers pages when your topic is a company. Run it once and the setup wizard unlocks X, YouTube, TikTok, arXiv, Techmeme, and more in 30 seconds. Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider information. That's millions of people voting with their attention and their wallets every day. /last30days searches all of it in parallel, scores it by what real people actually engage with, and an AI agent judge synthesizes it into one brief. Google aggregates editors. /last30days searches people. You can't get this search anywhere else because no single AI has access to all of it. Google search doesn't touch Reddit comments or X posts. ChatGPT has a deal with Reddit but can't search X or TikTok. Gemini has YouTube but not Reddit. Claude has none of them natively. Each platform is a walled garden with its own API, its own tokens, its own auth. But you can bring your own keys and browser sessions, and suddenly an AI agent can search all of them at once, score them against each other, and tell you what actually matters. That",
+      "published": "",
+      "_id": "b88590c43555a909",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "alibaba /open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "summary": "OpenCodeReview English | 简体中文 | 日本語 | 한국어 | Русский What is Open Code Review? Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started. It reads Git diffs, sends changed files to a configurable LLM via an agent with tool-use capabilities, and generates structured review comments with line-level precision. The agent can read full file contents, search the codebase, inspect other changed files for context, and produce deep reviews — not just surface-level diff feedback. Beyond diff review, ocr scan reviews entire files for auditing unfamiliar codebases or directories that have no meaningful diff. Visit the official website for more details. Benchmark Compared to general-purpose agents (Claude Code), Open Code Review achieves significantly higher Precision and F1 with the same underlying model, while consuming only ~1/9 of the tokens and completing reviews faster. Note that its Recall is lower than general-purpose agents — a deliberate trade-off favoring precision over noise. A real-world code review benchmark built from 50 popular open-source repositories, 200 real Pull Requests, and 10 programming languages — cross-validated by 80+ senior engineers ( 1,505 annotated ground-truth issues). Explore the AACR-Bench dataset on Hugging Face . Metric What it measures Why it matters F1 Harmonic mean of precision and recall Best single number for overall review quality Precision Proportion of reported issues that are real defects Higher = fewer false alarms to triage Recall Proportion of real defects that are found Higher = fewer issues slip through review Avg Time Wall-clock time per review Matters for CI pipeline latency Avg Token Total",
+      "published": "",
+      "_id": "c489e6fb5febf2ab",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "Tencent /LoopForge",
+      "link": "https://github.com/Tencent/LoopForge",
+      "summary": "English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs loopforge-promo-v11-en.mp4 80-second product tour (1080p, with sound). LoopForge is a self-hosted workspace where your team ships software with coding agents. Describe what you need to Main Bot in chat: it opens a Docker sandbox, checks out your repositories, delegates to project roles, and opens the PR. When a way of working proves itself, save it as an SOP (a standard workflow of agents, scripts and human gates) so the next requirement is delivered the same way, with review and approval built in. Coding-agent CLIs do the work: CodeBuddy, Codex, Claude Code, OpenCode, Cursor CLI, Antigravity, Kimi Code, Pi, DeepSeek Harness and ZCode. LoopForge adds the roles, sandboxes, checkpoints and history around them, all on your own infrastructure under the MIT license. Two ways to work Chat with Main Bot Run an SOP Best for Exploring, quick fixes, iterating with the agent Repeatable delivery with fixed stages and sign-off How it runs Main Bot opens a conversation workspace (a Docker sandbox with your repos) on demand and calls project roles as subagents The engine runs Agent, Script, Human-gate and sub-SOP nodes in order, in their own sandbox You stay in control by Queuing or steering messages mid-reply, and pausing, resuming or taking over a running SOP from chat Approving at human gates, sending work back to a chosen step, retrying or rerunning from any node Delivers A PR/MR, or a direct merge into a shared branch ( mode=direct ) Documents, code or a PR, plus per-node artifacts and logs Both paths track the same requirements , so every change, whether made in chat or by an SOP, links back to what was asked for and counts toward delivery and cost reports. The chat home. Type a request, @ a role, skill, requirement, SOP or repository, and pick the executor, model and permission mode per conversation. Why LoopForge Ask a coding agent to \"fix this bug\" and the result depends on that run. It m",
+      "published": "",
+      "_id": "438083b2e386d259",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "dream-num /univer",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "Build your own AI office with Univer Office SDK. Start with open-source Sheets and Docs, then connect your own application or agent. 🚀 Quick start · 💼 Workspace · 📚 Documentation · ⚖️ Feature comparison · 🌐 Website · 🎮 Showcase · 🔧 API Reference · 📝 Blog English · Français · Deutsch · Español · 简体中文 · 繁體中文 · 日本語 · 한국어 Table of contents 💡 What is Univer? Open-source capabilities 🚀 Build on the open-source foundation Quick start: an open-source spreadsheet editor Connect your application to editable content 🏗️ Explore the open-source architecture Give custom features clear boundaries Compose cross-feature edits and undo/redo Connect applications and agents through Facade APIs and events 🧩 Extend your application with Univer Office SDK Scope and licensing 🌐 Application patterns and ecosystem Univer Workspace: an Office SDK reference application CLI, agent integrations, and developer skills 📚 Documentation and contributing Runtime compatibility 💬 Community 🔒 Security ❤️ Sponsors 📄 License 💡 What is Univer? Univer is an Office SDK for building Office applications inside your own product. It provides Office editing, calculation, collaboration, and file processing for people and existing agents, using your data and permissions. The product family covers spreadsheets, documents, presentations, relational tables, canvases, and PDFs. Univer Office SDK has three parts: Web SDK is the foundation: content models, editing, rendering, formula calculation, and Facade APIs (application-facing APIs). Compose its plugins into an embedded editor or your own Office application, and reuse the content models, commands, and calculation for Headless processing without an interactive editor. Server SDK adds backend services for real-time collaboration, edit history, and Office file import and export. AI SDK connects Office capabilities to existing agents and workflows, with content tools, execution, and review integrations. This repository provides the Web SDK's core architecture and engine ",
+      "published": "",
+      "_id": "d148e3d2c2843c2b",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "getarcaneapp /arcane",
+      "link": "https://github.com/getarcaneapp/arcane",
+      "summary": "Note The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. Important Feature requests have moved to Discussions . Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. Modern Docker Management, Designed for Everyone. Documentation For setup instructions, configuration details, and development guides, visit the official documentation site . Sponsors This project is supported by the following amazing people: Security & Transparency View the Software Bill of Materials (SBOM) for Arcane at getarcane.app/sbom . Translating Help translate Arcane on Crowdin: https://crowdin.com/project/arcane-docker-management Thank you for checking out Arcane! Your feedback and contributions are always welcome.",
+      "published": "",
+      "_id": "7703dc0ff82d0295",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "google-labs-code /stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. Codex Add the Stitch Skills marketplace, then install the plugins you need. Via CLI (recommended) codex plugin marketplace add google-labs-code/stitch-skills --ref main \\\n  --sparse .agents/plugins \\\n  --sparse plugins/stitch-design \\\n  --sparse plugins/stitch-build \\\n  --sparse plugins/stitch-utilities [!TIP]\nThe --sparse flags are optional — they limit the checkout to only the\nlisted paths for a faster clone. Omit them to pull the entire repository. Via the Codex UI Navigate to Settings → Plugin Marketplaces → Add and fill in: Field Value Source https://github.com/google-labs-code/stitch-skills Git ref main Sparse paths (optional) .agents/plugins , plugins/stitch-design , plugins/stitch-build , plugins/stitch-utilities Once the marketplace is registered, install any combination of: stitch-design — design-focused skills stitch-build — build and component skills stitch-utilities — utility and helper skills Claude Code & Cursor # Claude Code — installs into the current project npx plugins add google-labs-code/stitch-skills --scope project --target claude-code # Cursor — installs into the current workspace npx plugins add google-labs-code/stitch-skills --scope workspace --target cursor OpenCode OpenCode does not use npx plugins / npx skills or the Codex/Claude marketplace layout.\nInstall skills and the Stitch MCP server manually: 1. Skills — copy the skill folders you need into a discoverable path: # Project-local (recommended) mkdir -p .opencode/skills\ncp -R plugins/stitch-design/skills/generate-design .opencode/skills/generate-design # repeat for other skills under plugins/*/skills/ OpenCode also discovers .claude/sk",
+      "published": "",
+      "_id": "c87cd13d69aef691",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "cursor /plugins",
+      "link": "https://github.com/cursor/plugins",
+      "summary": "Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) teaching Teaching Cursor Utilities Skill mapping, practice plans, and learning retrospectives. continual-learning Continual Learning Eric Zakariasson Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit Cursor Team Kit Eric Zakariasson Developer Tools Internal team workflows for CI, code review, shipping, local automation, and verification. thermos Thermos Cursor Developer Tools Thermo-nuclear branch review: deep security/correctness audits, harsh code-quality rubrics, parallel subagents, thermos orchestration, and optional merge-ready PR flows. create-plugin Create Plugin Cursor Developer Tools Scaffold and validate new agent plugins. ralph-loop Ralph Loop Cursor Developer Tools Iterative self-referential AI loops using the Ralph Wiggum technique. agent-compatibility Agent Compatibility Cursor Developer Tools CLI-backed repo compatibility scans plus agents that audit startup, validation, and docs against reality. cli-for-agent CLI for Agents Eric Zakariasson Developer Tools Patterns for designing CLIs that coding agents can run reliably: flags, help with examples, pipelines, errors, idempotency, dry-run. pr-review-canvas PR Review Canvas Cursor Developer Tools Render PR diffs as review canvases grouped by importance. docs-canvas Docs Canvas Cursor Developer Tools Render documentation as a navigable canvas. cursor-sdk Cursor SDK Cursor Developer Tools Build apps, scripts, and automations with the TypeScript SDK. origin-apps Origin Apps Cursor Developer Tools Skills for building on the Cursor Origin API. Fetch the live spec first, then follow the Origin rules for credentials, scopes, webhooks, paging, and errors. Include",
+      "published": "",
+      "_id": "a50d216def4cada3",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "obra /superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code Hermes Agent Muse The Basic Workflow When Something Goes Wrong Community What's Inside Philosophy Contributing Updating License Visual companion telemetry How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it doesn't just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. Once it's teased a spec out of the conversation, it shows it to you in chunks short enough to actually read and digest. After you've signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren't Gonna Need It), and DRY. Next up, once you say \"go\", it launches a subagent-driven-development process, having agents work through each engineering task, inspecting and reviewing their work, and continuing forward. It's not uncommon for your agent to work autonomously for a couple hours at a time without deviating from the plan you put together. There's a bunch more to it, but that's the core of the system. And because the skills trigger automatically, you don't need to do anything special. Your coding agent just has Superpowers. Commercial Services If you're using Superpowers in enterprise and could benefit from commercial support, additional tooling, or managed spending, please don't hesitate to drop us a line at sales@primeradiant.com . Installation Installation dif",
+      "published": "",
+      "_id": "8c6014a36ca90e3f",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "GitHub",
+      "title": "ag-ui-protocol /ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "The open protocol that connects any agent to any app. Docs · Examples · Spec · Discord AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Agents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed events, and any client can render them, no matter which framework built the agent. The same agent can power a web app, a mobile app, a terminal, or Slack. Important AG-UI 1.0 is here. The protocol now has a stable, frozen specification backed by a JSON Schema, and the TypeScript, Python, and .NET SDKs are generated from it. 1.0 is backwards compatible in both directions: 0.x agents work with 1.0 clients and vice versa. What changed → · Migration guide → Quick start Start a new app. The CLI scaffolds a frontend ( CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick: npx create-ag-ui-app@latest Then follow the printed next steps. The generated templates call OpenAI, so set your key before npm run dev : export OPENAI_API_KEY= \" sk-... \" Or speak the protocol directly: a 30-line agent server and client An AG-UI agent is any HTTP endpoint that accepts a RunAgentInput and streams events back. No API keys needed for this one. 1. The agent (Python). Requires Python 3.9+. pip install ag-ui-protocol fastapi uvicorn # server.py import uuid from fastapi import FastAPI , Request from fastapi . responses import StreamingResponse from ag_ui . core import ( PROTOCOL_VERSION , RunAgentInput , RunStartedEvent , RunFinishedEvent , TextMessageStartEvent , TextMessageContentEvent , TextMessageEndEvent ,\n) from ag_ui . encoder import EventEncoder app = FastAPI () @ app . post ( \"/\" ) async def run_agent ( input_data : RunAgentInput , request : Request ): encoder = EventEnco",
+      "published": "",
+      "_id": "10a12acb9645adcc",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+      "link": "https://arxiv.org/abs/2611.18642",
+      "summary": "arXiv:2611.18642v1 Announce Type: new \nAbstract: Agents that work beyond a single context window, or in teams, hand their work to a successor as a short written summary. Evaluation has focused on whether an agent can solve a task, and relatively little is known about how much of what an agent has learned survives being written down. We study this in 56 interactive worlds with hidden rules, where an agent that is told nothing fails and an agent given a 300-character statement of the rules succeeds. We compare one agent that plays eight lives and keeps its whole history with a chain of eight agents that each play one life and inherit a 300-character note. All six models we test learn less in the chain: after eight generations it stands where the single agent stood after about four lives. Controlled variants of the chain decompose this handoff loss into three components: none from changing the agent, a smaller loss from compressing to 300 characters, and a larger loss from compressing repeatedly. When each note is written from the full record of earlier lives instead of from the previous note, the same 300 characters recover 70% to 82% of the loss. The loss is robust across model sizes and is not alleviated by instructing the writer to record evidence, to revise the inherited note, or to keep a structured ledger. In simpler terms, an agent cannot hand over what it has not yet understood: a note holds what its writer has worked out, and a rule that takes several lives to see is lost with the lives that were not passed on.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "23297fa602e89190",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+      "link": "https://arxiv.org/abs/2611.18714",
+      "summary": "arXiv:2611.18714v1 Announce Type: new \nAbstract: Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of moral agency that applies neatly outside paradigm human cases. Because of the difficulties with a normative account, we instead propose a research program to explore descriptive moral agency. Most basically, we ask, what are the capabilities we humans possess that underlie our moral agency? To do so, we draw on historical scholarship in philosophy and moral psychology to isolate candidate capabilities. Then we suggest refining candidate capabilities so that they are testable in the context of AI systems. Finally, we offer specific empirical recommendations to test AI systems, especially large language models (LLMs), for those refined capabilities. Our approach offers several benefits. Firstly, it may demonstrate whether the behaviors of AI systems are aligned, or in a broad sense desirable. Secondly, the debate may inform policy questions (e.g., what models should be deployed in which contexts?). Thirdly, our approach may complement engineering and design efforts: when capabilities can be precisely characterized, they can inform the development of models. Fourthly, applying our moral reasoning concepts in the new context of AI systems should improve our understanding of those concepts.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "66316fbeeaf7c1e0",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+      "link": "https://arxiv.org/abs/2611.18747",
+      "summary": "arXiv:2611.18747v1 Announce Type: new \nAbstract: Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive graphical user interfaces, reason over instructions, and execute actions. However, existing approaches to learning from video demonstrations typically convert videos into screenshot-based action trajectories, rather than directly leveraging their rich audio-visual information. We introduce VEX (Video as EXperience), a framework that uses audio-visual understanding to unify learning from external demonstrations and reflecting on an agent's own behavior. Following a watch-act-rewatch paradigm, the agent extracts procedural guidance from tutorial videos containing visual demonstrations and spoken explanations, executes tasks, and verifies its progress by rewatching its execution as video. We instantiate VEX with video-SALMONN-VEX, a 9B-scale audio-visual computer-use agent built on the video-SALMONN 2 architecture with a Qwen3.5-9B backbone. We further introduce Action-Grounded Guide Optimization (AGGO), a reinforcement learning method that optimizes video-derived guidance for downstream action prediction, and augment AgentNet, OSWorld, and CUA-Gym with over 24K real-world tutorial videos. Experiments on OSWorld and a complementary subset of CUA-Gym demonstrate consistent improvements, with video-SALMONN-VEX achieving a 22% relative increase in task success over its Qwen3.5 backbone on OSWorld. Moreover, its generated guidance improves Gemini-3.5-flash by 10% relatively on OSWorld. These results highlight the potential of audio-visual understanding as a unified interface for procedural learning and self-verification in computer-use agents.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "276235570d19a5e4",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
+      "link": "https://arxiv.org/abs/2611.18793",
+      "summary": "arXiv:2611.18793v1 Announce Type: new \nAbstract: Purpose: Multimodal medical imaging fusion (MMIF) is an increasingly important approach to breast cancer detection (BCD), as different imaging modalities rely on different physical principles and provide complementary information. No single modality can capture all the structural, functional, and biological information needed for accurate diagnosis and characterization. Methods: This review examines more than 15 imaging modalities used in breast cancer detection, including conventional techniques such as mammography, ultrasound, and magnetic resonance imaging (MRI), as well as emerging approaches such as thermal imaging, photoacoustic imaging, microwave imaging, and multimodal microscopy. Results: Mammography, ultrasound, and MRI remain among the most widely used modalities, providing complementary structural and functional information. Recent AI advances have enabled fusion at the data, feature, and decision levels, with applications in detection, classification, segmentation, prognosis, and personalized cancer management. Multimodal approaches increasingly combine imaging data with clinical, histopathological, and genomic information. However, important challenges remain, including limited availability of large and diverse multimodal datasets, variations in imaging protocols, missing modalities, limited external validation, and the need for interpretable and clinically reliable AI models. Conclusion: MMIF offers promising opportunities to improve breast cancer detection and characterization by combining complementary imaging and non-imaging information. Future research should prioritize robust fusion strategies, standardized and diverse datasets, multicenter validation, explainable and privacy-preserving AI, and the integration of imaging with clinical and molecular data to facilitate reliable translation into clinical practice.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "b53f058a60e56a5b",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv AI",
+      "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
+      "link": "https://arxiv.org/abs/2611.18866",
+      "summary": "arXiv:2611.18866v1 Announce Type: new \nAbstract: In cinematic storytelling, sound and visual transitions do not always coincide in lockstep: dialogue frequently bridges across cuts to reveal reactions or introduces new scenes via J- and L-cuts, while deliberate silences pace the scene. Existing audio-visual generative frameworks, however, lack explicit mechanisms to coordinate independent visual and acoustic timing over extended horizons. As narrative duration and shot complexity scale, these systems struggle to maintain long-range dialogue pacing, often hallucinating speech during intended silences or erroneously driving mouth movements on silent listeners. To enable fine-grained cinematic control, we present DECOUPAGE, a screenplay-driven framework for long-form, multi-shot, and multi-character joint audio-video generation. Rather than coupling modality boundaries by default, DECOUPAGE uncouples generation into independently bounded visual and acoustic tracks governed by persistent character identities. DECOUPAGE builds on a joint audio-video diffusion model with dual-schedule temporal cross-attention, incorporating a directorial Lip-sync mechanism that selectively decouples speech conditioning from visual facial dynamics during off-screen dialogue. On multi-shot conversational benchmarks, DECOUPAGE achieves precise control over shot transitions, audio timing, and visibility-aware lip synchronization, directing 15- to 60-second screenplay-driven audio-video generation with multimodal coherence.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "869dd9129460d71e",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
+      "link": "https://arxiv.org/abs/2611.18583",
+      "summary": "arXiv:2611.18583v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for tutoring and professional knowledge retrieval, yet safety evaluations still focus mainly on overt harms such as toxicity while overlooking benevolent failure modes. We study epistemic infantilization, defined as an identity-conditioned reduction in technical depth that appears when disability disclosure precedes an expert-level query. To measure this effect, we construct a counterfactual dataset of matched question-answer pairs and compare model responses across three settings: no identity context, disability disclosed in prior conversational context, and disability disclosed via a short query prefix. We introduce two composite metrics, the Infantilization Bias Index (IBI) and the Epistemic Accessibility Response Score (EARS), which capture retention of mathematical and formal content, domain terminology, reasoning coverage, and tone signals such as simplification markers and unsolicited offers to adjust the level. Across five open-weight model families, we find consistent evidence that disability disclosure reduces epistemic access by replacing formal explanations with higher-level summaries, with Physics and Mathematics most affected. Using question-clustered inference that respects the repeated-measures structure of the data, the effect remains reliable after accounting for correlated observations. These findings suggest an inclusion tax, where disabled users must request rigor more explicitly than non-disabled users. We conclude by arguing that accessibility should mean format adaptation rather than content simplification.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "ab8fe752c23ab5b0",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
+      "link": "https://arxiv.org/abs/2611.18585",
+      "summary": "arXiv:2611.18585v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents can improve long- horizon interactive decision-making through test-time evolu- tion, yet existing methods face three information bottlenecks: memory retrieval overemphasizes textual similarity, candi- date harnesses are often behaviorally redundant, and whole- harness rewriting may overwrite useful evidence or introduce cross-component inconsistency. We introduce Trident, which improves experience utilization, behavioral exploration, and harness evolution through boundary-aware memory reading, diversity-aware candidate routing, and order-aware insertion- based updating, respectively. We evaluate Trident on five benchmarks spanning text games, web interaction, and cod- ing tasks. Across qwen-32B, mistral-small-3.2-24B, and gpt- oss-20B, Trident achieves the best average performance and consistently outperforms non-learning, memory-based, reflection-based, and automated prompt optimization base- lines. Compared with the strongest baseline, APEX, Trident yields relative average gains of 30.7%, 30.8%, and 38.3% on the three backbones, respectively. Ablation and sensitivity stud- ies further show that the three designs provide complementary gains and remain robust to parameter variations.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "9b058709d6bcf9ae",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Human vs Machine Translation Detection: A Cross-Model, Cross-Domain, and Low-Resource Analysis",
+      "link": "https://arxiv.org/abs/2611.18586",
+      "summary": "arXiv:2611.18586v1 Announce Type: new \nAbstract: The growing reliance on web-crawled corpora for training large language models introduces a critical challenge: machine-translated (MT) content is often treated as human translation (HT), potentially degrading data quality and propagating synthetic artifacts, especially in low-resource settings. In this work, we study MT-HT detectability across high-resource (English, Spanish) and low-resource (Swahili, Afrikaans) languages using both decoder-only LLMs in zero-shot and few-shot settings, and fine-tuned multilingual encoders trained at the sentence level and on token-chunked inputs. We find that decoder-only models provide limited discrimination overall and exhibit a consistent class-asymmetric failure mode: they recognize human-written text reliably (high HT recall) but rarely flag fluent machine output (low MT recall). Encoder-based classifiers achieve high accuracy when evaluated on data generated by the same MT systems and translators used during training in a legislative domain, but their MT recall drops sharply on unseen translators and on unseen domains such as low-resource conversational text and medical content. To address this limitation, we evaluate models on longer inputs by chunking text into segments of up to 300 tokens, which substantially improves generalization, suggesting that sentence-level signals are insufficient for robust detection. Finally, we analyze the relationship between translation quality and detectability using COMET and BLEURT, showing that lower-quality MT is more easily identified, while high-quality MT remains difficult to distinguish from HT. Our results highlight the importance of input granularity, translator generalization, and translation quality in building robust MT detection systems across domains and languages.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "873b10b62bbef9da",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "Automating literature screening and knowledge synthesis with large language models",
+      "link": "https://arxiv.org/abs/2611.18588",
+      "summary": "arXiv:2611.18588v1 Announce Type: new \nAbstract: Scientific literature is expanding rapidly, yet much of its knowledge remains difficult to organize and reuse due to the substantial workload needed to navigate large, heterogeneous literature corpora. Here, we develop a generalizable large language model (LLM)-powered framework that automates literature screening, structured information extraction, and knowledge synthesis within a unified workflow. We benchmarked 11 state-of-the-art proprietary and open-weight LLMs across three materials science screening tasks differing in scope, corpus size, and class imbalance. Seven LLMs achieved balanced accuracies above 0.90 across all tasks, with the best-performing LLM reaching 0.96--0.98, demonstrating the potential of LLMs to accurately screen large, highly imbalanced scientific corpora. The framework also substantially reduces manual effort, screening 10,000 records within four minutes compared with approximately 83 person-hours for manual screening. Beyond literature screening, the framework extracts structured information from full-text articles, enabling content-level quantification of research landscapes that extends traditional bibliometric analysis based on publication metadata. This capability reveals methodological trends and underexplored directions, as shown for machine learning in concrete materials science. We further demonstrate its utility for information and data discovery by identifying publications containing silicate glass density data that are difficult to retrieve using conventional search strategies, which can support downstream hypothesis development, research design, and data-driven scientific discovery. Overall, these results demonstrate the broad applicability of LLM-powered literature analysis across scientific domains and its potential to transform large, unstructured literature corpora into structured, analyzable knowledge at scale.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "d4491b2e5eb509cb",
+      "_scraped_at": "03:10"
+    },
+    {
+      "source": "arXiv LLM",
+      "title": "OmniTag-LLM: Multilingual Multitask Speech Tagging",
+      "link": "https://arxiv.org/abs/2611.18589",
+      "summary": "arXiv:2611.18589v1 Announce Type: new \nAbstract: Multimodal LLMs promise to replace the traditional cascade of specialist speech models with a single system that, from one audio clip, jointly transcribes and labels emotion, gender, language, and named entities. Yet most benchmarks still score these tasks in isolation, and largely in English. We introduce OmniTag-Bench, a five-language benchmark (en/de/es/fr/it) and training recipe for joint understanding: one audio clip in, one JSON object out (transcript, emotion, gender, LID, token-level NER). We evaluate ten open multimodal LLMs and a LoRA fine-tuned Qwen3-Omni on a unified prompt and scorer. Beyond aggregate scores, OmniTag-Bench reveals a systematic failure mode: several strong models often transcribe or translate non-English speech into English, inflating multilingual WER. Fine-tuning improves the base model on NER, emotion, and WER while nearly doubling accuracy on independent human-labeled emotion corpora, suggesting transferable gains beyond pseudo-label imitation. The fine-tuned model also generalizes to unseen but related languages, transferring to held-out Dutch. We release prompts, the scorer, and the labeling pipeline.",
+      "published": "2026-11-17T05:00:00",
+      "_id": "74151e96d9100cc9",
+      "_scraped_at": "03:10"
+    }
+  ],
+  "seen_ids": [
+    "5232879038119e5d",
+    "869dd9129460d71e",
+    "ceeb5bf897d71eb6",
+    "b88590c43555a909",
+    "7703dc0ff82d0295",
+    "b43ef08ac3ed4f7a",
+    "4c9c656647cd3a23",
+    "4b894a843f326fda",
+    "74151e96d9100cc9",
+    "b53f058a60e56a5b",
+    "e59f883e66735049",
+    "b451aff394adbb42",
+    "8a256ad53f34b968",
+    "b8dbef498ec857d0",
+    "f7b7fa743ee78a64",
+    "782245fbd80625eb",
+    "0de6aadc71dab203",
+    "3606ad6df559c53d",
+    "f6c3adbf52c79b31",
+    "1d0a1bd518b948ce",
+    "9818d892a2fa5769",
+    "665d8227159904d7",
+    "8f6af8c44a4a1bfb",
+    "d8921ccd466002b9",
+    "a598c269f36b6542",
+    "873b10b62bbef9da",
+    "66316fbeeaf7c1e0",
+    "c489e6fb5febf2ab",
+    "23297fa602e89190",
+    "825618225fbb1ec8",
+    "3047d7657748ea76",
+    "b330164a6f0ccccf",
+    "bb08f751f9e541c5",
+    "99f6518ee024025d",
+    "c87cd13d69aef691",
+    "c046784cf46697f9",
+    "276235570d19a5e4",
+    "438083b2e386d259",
+    "ab8fe752c23ab5b0",
+    "9b058709d6bcf9ae",
+    "3b3be741a87f5e21",
+    "a8bf5e8980db205a",
+    "7133e05eb7cac8b2",
+    "8c6014a36ca90e3f",
+    "d4491b2e5eb509cb",
+    "0f13e34240505e90",
+    "04167c90a9937daf",
+    "d148e3d2c2843c2b",
+    "fc3a56c14a550ef5",
+    "49e988fe944963bc",
+    "0e7f690aa4ff229b",
+    "d34ce25785fdf87b",
+    "9fdb7eafd9b74362",
+    "20774146b79ca781",
+    "11e12ce775565920",
+    "a50d216def4cada3",
+    "8339a30c8d70bc4c",
+    "10a12acb9645adcc"
+  ],
+  "last_run": "03:10",
+  "run_count": 1
+}
